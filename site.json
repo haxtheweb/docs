@@ -1353,7 +1353,7 @@
         },
         {
             "id": "item-adb4f6d7-5f7a-4620-ad3a-b0ff14343e60",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-adb4f6d7-5f7a-4620-ad3a-b0ff14343e60\/index.html",
             "slug": "recording-the-video",
             "order": 2,
@@ -1362,14 +1362,14 @@
             "description": "Sit quia incidunt et unde nostrum qui corrupti facilis qui accusantium blanditiis. Et autem eveniet sit sint ullam in dolorem quasi aut quidem facilis ad quaerat veniam?Sit quia incidunt et unde nos",
             "metadata": {
                 "created": "1702924883",
-                "updated": 1713540714,
+                "updated": 1720551291,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "locked": false,
+                "readtime": 3,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
