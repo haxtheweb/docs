@@ -1332,7 +1332,7 @@
         },
         {
             "id": "item-d0e6ac0b-fc44-4be3-8e32-3647ddaeddd7",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-d0e6ac0b-fc44-4be3-8e32-3647ddaeddd7\/index.html",
             "slug": "creating-content-and-slides",
             "order": 1,
@@ -1341,14 +1341,14 @@
             "description": "Sit quia incidunt et unde nostrum qui corrupti facilis qui accusantium blanditiis. Et autem eveniet sit sint ullam in dolorem quasi aut quidem facilis ad quaerat veniam?Sit quia incidunt et unde nos",
             "metadata": {
                 "created": "1702924814",
-                "updated": 1713540714,
+                "updated": 1720550840,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "5",
+                "published": true,
+                "locked": false,
+                "readtime": 5,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
