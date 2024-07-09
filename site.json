@@ -187,21 +187,23 @@
         },
         {
             "id": "item-d673110e-8d91-4294-b80f-74a38cf51533",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-d673110e-8d91-4294-b80f-74a38cf51533\/index.html",
             "slug": "welcome\/terminology",
-            "order": 2,
+            "order": 3,
             "parent": "item-8a5bf844-d498-4f75-bf96-110eaedb42d9",
             "title": "Terminology",
-            "description": "",
+            "description": "HAX - headless authoring experience. Headless is a common technical term to mean the \"front end\" of an application (part you see now) is not dedicated or dictated to based on the server backend (the ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1707142964",
                 "images": [],
                 "videos": [],
-                "updated": 1713540712,
-                "published": "1",
-                "status": ""
+                "updated": 1720550543,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 2
             }
         },
         {
