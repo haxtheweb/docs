@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-07-09T10:18:42-04:00</updated>
+    <updated>2024-07-09T10:18:47-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -26,7 +26,7 @@
   
   without, 
   
-  needing, to understand web code..</p>
+  needing, to understand web code.</p>
 <h3 data-original-level="H3" id="header-67aa8ff6-6108-99a1-aef3-344c953b2753">Get involved!</h3>
 <ul><li data-hax-layout="true" ="true"=""="true"><a href="https://bit.ly/hax-discord" target="_blank" data-hax-layout="true">Join HAX community on Discord</a>
 </li><li data-hax-layout="true" ="true"=""="true">Install HAXcms (<b>nodejs</b>) -- <b><code data-hax-layout="true" ="true"=""="true">npx @haxtheweb/haxcms-nodejs</code></b></li><li data-hax-layout="true" ="true"=""="true">Run the HAX CLI (<b>nodejs</b>) -- <code data-hax-layout="true" ="true"=""="true"><b>npm</b> <b>init</b> <b>@haxtheweb</b></code></li>
@@ -40,7 +40,8 @@
 <p slot="col-1" data-hax-layout="true" ="true"=""="true">In the 90's, when the web really caught on, it was difficult to design and develop web content, but it was easy to maintain and anyone could participate with minor technical ability. As tools have evolved, the web became a feature rich, design centric place that we know and use today but the complexity curve went way up to achieve that.</p>
 <h3 slot="col-2" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" data-hax-layout="true" ="true"=""="true">we had simple fun</h3>
 
-<rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="R" seed="cool1" speed="500" slot="col-2"></rpg-character>
+<rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="L" seed="cool1" speed="500" slot="col-2"></rpg-character>
+
 
 
 
@@ -50,7 +51,9 @@
 
 
 
+
 <rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="L" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
 
 
 
