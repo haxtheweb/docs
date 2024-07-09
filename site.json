@@ -1374,7 +1374,7 @@
         },
         {
             "id": "item-e115dd47-3a78-4e40-963e-46466a268290",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-e115dd47-3a78-4e40-963e-46466a268290\/index.html",
             "slug": "design-guidelines-and-principles",
             "order": 2,
@@ -1383,14 +1383,14 @@
             "description": "      Featured Research Article    ",
             "metadata": {
                 "created": "1701971619",
-                "updated": 1713540714,
+                "updated": 1720553986,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "4",
+                "published": true,
+                "locked": false,
+                "readtime": 4,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
