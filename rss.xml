@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>haxcellence</title>
+    <link></link>
+    <description>Create Your Own course</description>
+    <copyright>Copyright (C) 2024 </copyright>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 Apr 2024 11:31:55 -0400</lastBuildDate>
+    <atom:link href="" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Welcome</title>
+      <link>welcome</link>
+      <description>
+          <![CDATA[ 
+<p><b>HAX</b>
+ is a radically simple way to <i>create</i>
+, <i>share</i>
+, and <i>remix</i>
+ web content. The goal of HAX is simple: to help people create rich and engaging web content 
+  
+  without, 
+  
+  needing, to understand web code.
+</p>
+<h3 data-original-level="H3" id="header-67aa8ff6-6108-99a1-aef3-344c953b2753">Get involved!</h3>
+<ul><li data-hax-layout="true" ="true"=""="true"><a href="https://bit.ly/hax-discord" target="_blank" data-hax-layout="true">Join HAX community on Discord</a>
+</li><li data-hax-layout="true" ="true"=""="true">Install HAXcms (<b>nodejs</b>) -- <b><code data-hax-layout="true" ="true"=""="true">npx @haxtheweb/haxcms-nodejs</code></b></li><li data-hax-layout="true" ="true"=""="true">Run the HAX CLI (<b>nodejs</b>) -- <code data-hax-layout="true" ="true"=""="true"><b>npm</b> <b>init</b> <b>@haxtheweb</b></code></li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://github.com/haxtheweb/haxcms-php" target="_blank" data-hax-layout="true">Install HAXcms</a> (<b>PHP</b>)</li><li data-hax-layout="true" ="true"=""="true">Participate in <a href="https://github.com/elmsln/issues/issues" target="_blank" data-hax-layout="true">our issue queue</a>
+</li>
+<li data-hax-layout="true" ="true"=""="true">Connect with <a href="https://x.com/HAXTheWeb" target="_blank" data-hax-layout="true">us on X</a>
+ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true" target="_blank">LinkedIn</a>
+</li>
+</ul>
+<grid-plate layout="1-1" responsive-size="md" disable-responsive breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" item-padding="16" style=""><h3 slot="col-1" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" data-hax-layout="true" ="true"=""="true">In the 90's</h3>
+<p slot="col-1" data-hax-layout="true" ="true"=""="true">In the 90's, when the web really caught on, it was difficult to design and develop web content, but it was easy to maintain and anyone could participate with minor technical ability. As tools have evolved, the web became a feature rich, design centric place that we know and use today but the complexity curve went way up to achieve that.</p>
+<h3 slot="col-2" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" data-hax-layout="true" ="true"=""="true">we had simple fun</h3>
+
+<rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="R" seed="cool1" speed="500" slot="col-2"></rpg-character>
+
+
+
+<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
+
+
+
+<rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="R" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
+
+
+</grid-plate>
+<p>HAX seeks to bring the web to the level of sustainability of the 90's web but without technical barriers to participate. It does this by encapsulating complexity using modern tools, yet saving everything in a portable, human readable format. As evidence, this website is built using HAX and is entirely static content that could be downloaded as a single zip file and moved easily.</p>
+<h2 data-original-level="H2" id="header-3cd03667-ed9b-7bc0-c588-eecc4283945e">Pillars of our community</h2>
+<p></p>
+<site-collection-list responsive-width="913" responsive-size="sm" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-a13f6fde-9c55-4a1c-bd64-cf8498be649d" items-per-row="7" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode accent-color="grey"></site-collection-list>
+<p>You can read more about our <a href="pledges" data-hax-layout="true">community Pledges</a>
+ as well as the <a href="documentation" data-hax-layout="true">technical details of how HAX</a>
+&#160;reduces barriers to creative expression online, while doing so in an ecosystem that is easy for developers to maintain, extend and grow.</p>
+<p>We hope you enjoy creating with HAX as much as we've enjoyed building it.</p>
+<p>Sincerely,</p>
+<p></p>
+<ul><li data-hax-layout="true" ="true"=""="true">Penn State Office of Digital Learning, Arts &amp; Architecture</li>
+<li data-hax-layout="true" ="true"=""="true">Penn State Office of Digital Leaerning, Eberly College of Science</li>
+</ul>
+<p></p>
+<p></p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</guid>
+      <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>documentation</link>
+      <description>
+          <![CDATA[ 
+<p>🤫</p>
+<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" data-hax-layout="true"="true"><strong>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.</strong>
+</p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li data-hax-layout="true"="true"><a href="https://haxtheweb.org/" target="_blank" data-hax-layout="true">Developing for HAX</a>
+</li>
+<li data-hax-layout="true"="true"><a href="https://elmsln.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">HAX11ty</a>
+</li>
+<li data-hax-layout="true"="true"><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">WCFactory</a>
+</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>HAX Ontology</title>
+      <link>ontology</link>
+      <description>
+          <![CDATA[ 
+<simple-tags tags="HAX,course,ontology, pedagogy" auto-accent-color></simple-tags>
+<p><b>What is an ontology?</b>
+ For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. </p>
+<media-image source="files/HAX Course Ontology Draft Version.png" size="wide" offset="none" alt="HAX course ontology model" card box background-color="light-blue" style="background-color: var(--simple-colors-default-theme-light-blue-1); color: var(--simple-colors-default-theme-light-blue-12);" citation="HAX Course Ontology" caption="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." modal-title="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." _has-caption></media-image>
+<p>
+</p>
+<p>Watch the video tour below (11 minutes), or use the sub-page navigation to jump to a shorter ontology branch video. You can also <a href="https://app.mural.co/t/haxontologybrainstorming9982/m/haxontologybrainstorming9982/1684334263810/10186fdd1de1d49a815bb0d9b2ab038c8b1f0452?sender=u10618842d88862cf78977038" target="_blank">tour around the draft ontology in Mural</a>
+. Be sure to read the "business case" below the video, the rationale behind the need for an ontology and the key aspects that it should possess.</p>
+<video-player source="https://www.youtube.com/watch?v=iF4UZKcAWmw" caption="files/HAX_Ontology.mp4" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#4f992efe-73fb-9a76-eeb9-22e3463e5024" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" tracks="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/iF4UZKcAWmw&quot;,&quot;type&quot;:&quot;&quot;}]" element-visible media-title="HAX Ontology - V1 2023 edition" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" dark></video-player>
+<h2 data-original-level="H2" id="header-e1fc873f-5f94-8d6b-560f-b542e50244f3"><span>Why define an ontology for HAX?</span></h2>
+<ul><li><b>End user support.</b>
+ In order for HAX to provide course authoring assistance at the point of need, an underlying ontology must be operative for tagging and pulling in associated guidance and examples.<b></b>
+</li>
+<li><b>Enabling dialog and progress.</b>
+ For HAX to continuously improve, course authors, instructional designers, and developers need to speak a common vocabulary and would benefit from a shared mental model of a course.&#8203;</li>
+<li><b>Gap analysis.</b>
+ Once we can specify the instructional tool set already provided in HAX, we can more easily determine instructional capabilities we are missing.</li>
+</ul>
+<h2 data-original-level="H2" id="header-9f645a2d-ab8c-8afd-8f53-43d3de1fd263"><span>What should characterize the ontology?</span></h2>
+<ul><li><strong>Research-informed best practice.</strong>
+ The ontology should be driven by evidence-based teaching and learning strategies and illustrated by annotated examples taken from actual ODL courses.</li>
+<li><strong>Stability supporting growth.</strong>
+ The ontology should be robust, yet capable of organic growth over time; that is, logical enough to serve as a stable foundation, while able to adapt, broaden, and deepen.</li>
+<li><strong>Empowering.</strong>
+ The ontology should permit complete flexibility in the instructional approach used, while also serving to showcase the application of recognized approaches such as Backward Design.</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pedagogy</title>
+      <link>ontology/new-item</link>
+      <description>
+          <![CDATA[ 
+<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
+<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-40583b55-32bf-40c7-8e81-99c054b9a764</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>tutorials</link>
+      <description>
+          <![CDATA[ 
+<p>If there are tutorials you are looking for that the community has not covered, let us know in our <a href="https://github.com/elmsln/issues/issues" target="_blank">issue queue</a>
+ or on <a href="https://bit.ly/hax-discord">discord</a>
+ and we'll prioritize it's creation.</p>
+ ]]>
+      </description>
+      <category>tutorials</category>
+      <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Outcomes</title>
+      <link>ontology/page</link>
+      <description>
+          <![CDATA[ 
+<p>Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the "first and foremost" of all course aspects. Specifically, what skills, knowledge, and abilities do we want students to acquire by the end of the course? And how will be know they have attained them?</p>
+<p></p>
+<video-player accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#b99b7dac-c3f0-a9cf-2bc2-8701a06d5141" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/msETqDgyFzI&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Outcomes" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=msETqDgyFzI" element-visible dark></video-player>
+ ]]>
+      </description>
+      <category>ontology, outcomes</category>
+      <guid>item-ac8baab4-f493-4fd9-9826-5f79e2e44c03</guid>
+      <pubDate>Wed, 03 May 2023 14:15:02 -0400</pubDate>
+    </item>
+    <item>
+      <title>Structure</title>
+      <link>ontology/page-1</link>
+      <description>
+          <![CDATA[ 
+<p>Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and below the lesson level (sub-lessons), as well as different naming/numbering conventions.</p>
+<simple-tags tags="ontology,structure" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" source="https://www.youtube.com/watch?v=XIZelr4Lg98" sticky-corner="none" resource="#bbdf7553-0b9f-2f2b-bb2d-449c7377b15d" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/XIZelr4Lg98&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Structure" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-42b47c5a-8ad2-4507-bef1-0488c65cc54a</guid>
+      <pubDate>Wed, 03 May 2023 14:15:03 -0400</pubDate>
+    </item>
+    <item>
+      <title>Content</title>
+      <link>ontology/page-2</link>
+      <description>
+          <![CDATA[ 
+<p>Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination is to classify content by instructional purpose, like a lecture or demonstration page, an image gallery to see a range of examples, or a lesson overview and objectives page.</p>
+<simple-tags tags="ontology,content" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#5152ddf5-c31b-c356-7e64-e53515c62cbb" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/NBsjGPIf1tQ&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Content" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=NBsjGPIf1tQ" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-d57321c6-4106-45ec-89a4-8ebdf0af67f2</guid>
+      <pubDate>Wed, 03 May 2023 14:15:04 -0400</pubDate>
+    </item>
+    <item>
+      <title>Instruction</title>
+      <link>ontology/page-3</link>
+      <description>
+          <![CDATA[ 
+<p><span>Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hierarchical progression from acquiring fundamental skill and knowledge, to working to understand better and more deeply, and finally to perform fluidly, demonstrating attainment of goals.</span></p>
+<simple-tags tags="ontology,instruction" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" lang="en" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/G5dYdOHLajY&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" source-type="youtube" media-title="Instruction" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=G5dYdOHLajY" element-visible><a11y-media-player preload="metadata" accent-color="orange" dark="" lang="en" media-title="" sticky-corner="none" youtube-id="" fullscreen-enabled responsive-size="xs" responsive-width="0" playbackrate="1" hide-transcript current-time="0" localization="{}" media-lang="en" playback-rate="1" sources="[]" tracks="[]" volume="70" style="--a11y-media-transcript-max-height: unset;" audio-only id="a11y-media-player1688051977720"><p></p><p></p><p><a11y-media-play-button action="play" label="Play" youtube-id="" controls="video" accent-color="red" tooltip-position="bottom"><button controls="video" aria-hidden="false" aria-label="Play"><svg aria-hidden="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="30%" height="30%" opacity="0.5"><g><polygon points="30,20 30,180 170,100" fill="#000000" stroke="#ffffff" stroke-width="15px"></polygon>
+</g>
+</svg>
+</button>
+</a11y-media-play-button>
+</p>
+<audio crossorigin="undefined" preload="metadata" style="width: 100%; max-width: 100%;"></audio>
+</a11y-media-player>
+</video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-23eb212e-a523-4d7b-862a-0a00cb786321</guid>
+      <pubDate>Wed, 03 May 2023 14:15:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Assessment</title>
+      <link>ontology/page-4</link>
+      <description>
+          <![CDATA[ 
+<simple-tags tags="ontology,assessment" auto-accent-color></simple-tags>
+<p>Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stakes.</p>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#1138048b-7469-5de7-5c05-2affdd011cfd" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/i9paCj1Kya4&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Assessment" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=i9paCj1Kya4" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5</guid>
+      <pubDate>Wed, 03 May 2023 14:15:09 -0400</pubDate>
+    </item>
+    <item>
+      <title>First-time HAX User</title>
+      <link>tutorials/brand-new-user</link>
+      <description>
+          <![CDATA[ 
+<ul><li>Before you get started, make sure you <a href="files/First-Time HAX User Tutorial Content.docx" target="_blank" background-color="cyan" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">download this HAX working document</a>
+ in order to perform the tutorial shown</li>
+<li>If you prefer to read about the things in the video below, <a href="files/New User Script.docx" target="_blank" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">here is a tutorial in written form</a>
+.</li>
+</ul>
+<video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q" caption="https://www.youtube.com/watch?v=bmsHBhGC8_Q" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#6674464f-15c3-6586-bceb-1797f34d8caf" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/bmsHBhGC8_Q&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]"></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-22596832-8320-4c7f-b7ae-f403d1d9ca31</guid>
+      <pubDate>Wed, 03 May 2023 14:20:32 -0400</pubDate>
+    </item>
+    <item>
+      <title>Managing Course Structure</title>
+      <link>tutorials/page-1</link>
+      <description>
+          <![CDATA[ 
+<p>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-3e882dd4-4f71-4035-9ea0-26d840853c29</guid>
+      <pubDate>Wed, 03 May 2023 14:37:24 -0400</pubDate>
+    </item>
+    <item>
+      <title>Insights dashboard</title>
+      <link>tutorials/insights-dashboard</link>
+      <description>
+          <![CDATA[ 
+<p>Insights provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.</p>
+<h2 id="header-2dd31a20-493d-a7b8-3790-318ff4e6eb01">Automated Link Checking</h2>
+<video-player source="https://www.youtube.com/watch?v=I6cDZLutvhU" caption="https://www.youtube.com/watch?v=I6cDZLutvhU" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#15c935a1-edd2-1b92-1814-c3f43d4a1d17" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/I6cDZLutvhU&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]"></video-player>
+ ]]>
+      </description>
+      <category>insights,tutorial</category>
+      <guid>item-ca6807b1-e87c-4cb5-989c-cb4331b5d031</guid>
+      <pubDate>Wed, 03 May 2023 14:37:42 -0400</pubDate>
+    </item>
+    <item>
+      <title>Block usage</title>
+      <link>tutorials/block-usage</link>
+      <description>
+          <![CDATA[ 
+<p>HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.</p>
+<p>See that we're missing a block tutorial you think we should add? <a href="https://github.com/elmsln/issues/issues/new/choose" target="_blank">Let us know in the issue queue</a>
+ and we'll prioritize it!</p>
+ ]]>
+      </description>
+      <category>blocks,usage,tutorial,example</category>
+      <guid>item-50802aa4-f49e-4207-98d2-7ef3745568fc</guid>
+      <pubDate>Wed, 03 May 2023 14:38:06 -0400</pubDate>
+    </item>
+    <item>
+      <title>What is HAX?</title>
+      <link>what-is-hax</link>
+      <description>
+          <![CDATA[ 
+<p>In a word. <b>Ubiquity</b>. The ability to be creative on the web with native tools and not think of how to get information from point A to point B.</p>
+<p>The web needs a file format like jpg, gif, png, html, xml, and the rest. I should be able to give you a website as a single directory and it <i>Just Works</i>&#8482;. I shouldn't need to know how it was built to edit it. The editor need just appear, be pervasive and embedded in the things we wish to be creative with on the web. HAX is more than just an authoring experience; it's a way to simplify the broadcast of creativity on the web.</p>
+<h2 data-original-level="H2" id="header-0a340992-6bd7-019e-ef43-be87ac585a5a">A new way of authoring</h2>
+<p>Write HTML without knowing it, HAX is here to transform web publishing. Watch why HAX is different than past CMS solutions as well as pillars of development and where the platform is now.</p>
+<video-player source="https://www.youtube.com/watch?v=iPGgdRGyUtM" caption="https://www.youtube.com/watch?v=iPGgdRGyUtM" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#d6da1a3f-ba84-e7ab-49cd-fab6568c6dda" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/iPGgdRGyUtM&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="This, is HAX The Web (2023)"></video-player>
+<h3 data-original-level="H3" id="header-ae62ae4b-4310-fab5-3a81-a39617392c03">Image referenced in the video</h3>
+<media-image source="files/HAX-The-Web.jpg" alt="files/HAX-The-Web.jpg" size="wide" offset="none" card citation="'This, is HAX the web' diagram shown in video" accent-color="grey" cardcolor="var(--ddd-theme-default-white)" style="--card-background-color: var(--ddd-theme-default-white);" card-color="var(--ddd-theme-default-white)"></media-image>
+<p>HAX stands for "<b>H</b>
+eadless <b>A</b>
+uthoring e<b>X</b>
+perience" which is a development philosophy focused on each word and it's impact for the solution we build</p>
+<h3 data-original-level="H3" id="header-fbade326-3686-48de-78e8-f26a751497b5">Headless</h3>
+<p>Headless is a common phrase in modern front-end web development. Without getting too technical up front, imagine that traditional web solutions are built as a single location solution. They require things you see on your screen right now but also are highly tied to "back-end" software that makes the experience work for you.</p>
+<p>Headless means that the focus of HAX is on the front-end web user experience only. It has very little if any tie to a "back-end".&#160;<span>This design constraint forces the development community to build the tool in such a way that it's highly portable to any environment, fast, small, and easy to maintain.</span></p>
+<h3 data-original-level="H3" id="header-21ba0126-6371-baef-b617-3602691a7241">Authoring</h3>
+<p>The focus of HAX is on the author, specifically, content authors. Traditional Content management system (CMS) environments focus on management of content. The organization, storage, retrieval, and presentation of material are paramount to the way in which authors actually work with the solution.</p>
+<p>By focusing on authors directly we are able to craft solutions that better meet the needs of users that know how to open up a text editor and start writing. HAX blocks and editing tools are engineered to empower authors because the management and storage of material are semantic, simple, and portable.</p>
+<h3 data-original-level="H3" id="header-6170e9da-75d6-83ec-27e6-7166fecad6b5">eXperience</h3>
+<p>The experience you have while using any system makes or breaks what you will create with the tool. By focusing on user experience, especially authoring experience as to how content creators implement and present content, we're able to provide the highest quality experience possible.</p>
+<p>HAX core audience is focused on people that know the internet exists but not how it works. As a result HTML, CSS, and JavaScript are pushed to the background. While everything you write in HAX is made of these technologies you shouldn't have to know anything about them in order to be creative on the web.</p>
+<h3 data-original-level="H3" id="header-5aa7998b-4267-361a-b1cf-6c702ed3efb6">Go forth and web</h3>
+<p>From here, it's up to you to build the best web you can. We hope you enjoy <b>HAX</b>
+ and consider joining our user community by&#160;<a href="https://bit.ly/hax-discord" target="_blank" style="font-family: var(--haxcms-base-styles-body-font-family); font-size: 22.4px; letter-spacing: var(--haxcms-base-styles-body-letter-spacing);" data-hax-layout="true">joining our Discord</a>
+, ask questions and help us empower the next billion content creators!&#160;🤓</p>
+<p></p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-06108b56-48b5-4c50-b262-81659edc750e</guid>
+      <pubDate>Wed, 28 Jun 2023 08:51:22 -0400</pubDate>
+    </item>
+    <item>
+      <title>Marketing</title>
+      <link>marketing</link>
+      <description>
+          <![CDATA[ 
+<p role="textbox">Trying to talk to a friend or convince a decision maker to check out HAX? Here's some materials to help.</p>
+<p><a href="files/HAXTheWeb.pdf" target="_blank">HAX one page</a>
+ (embedded below)</p>
+<iframe-loader source="files/HAXTheWeb.pdf" height="500" width="100%"><iframe width="100%" height="500" src="files/HAXTheWeb.pdf"></iframe>
+</iframe-loader>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-8991f223-d78f-42c3-a5f4-da79658ad80e</guid>
+      <pubDate>Wed, 28 Jun 2023 08:57:35 -0400</pubDate>
+    </item>
+    <item>
+      <title>White papers</title>
+      <link>documentation/white-papers</link>
+      <description>
+          <![CDATA[ 
+<p role="textbox">HAX is built on thought work spanning 2008 to present. Occasionally we will release white papers associated with the project but typically these are produced for specific events or conferenence submissions.</p>
+<h3 data-original-level="H3" id="header-ae26250e-f120-0ce2-58fe-94b8b7a31e22">HAX</h3>
+<ul><li><a target="_blank" href="files/hax-white-paper-02-27-2018.pdf">HAX, Web components and the distributed NGDLE future</a>
+&#160;(02-27-2018)</li>
+</ul>
+<h3 data-original-level="H3" id="header-a0d9d75f-87be-c0ac-7b21-223c5fa7bd2b">NGDLE / ELMS:LN</h3>
+<ul><li><a target="_blank" href="files/ELMSLN-whitepaper-08-28-2014.pdf">ELMSLN: A Disruptive Learning Technology</a>
+ (08-24-2014)</li>
+<li><span><a target="_blank" href="files/ELMSLN-sustaining-innovation-05-08-2015.pdf">ELMS Learning Network: An EdTech Platform for Sustaining Innovation</a>
+ (05-08-2015)</span></li>
+</ul>
+<p></p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0842ac8e-9e65-4715-be25-e3ef4c0baf8b</guid>
+      <pubDate>Wed, 28 Jun 2023 09:03:55 -0400</pubDate>
+    </item>
+    <item>
+      <title>Stand alone tools</title>
+      <link>stand-alone-tools</link>
+      <description>
+          <![CDATA[ 
+<p>Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't really have a home in the traditional HAX platform.</p>
+<p role="textbox"></p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0d30bca9-c852-4b30-ae4e-abc519262d31</guid>
+      <pubDate>Wed, 28 Jun 2023 10:00:11 -0400</pubDate>
+    </item>
+    <item>
+      <title>Qualitative Rubric Prototype</title>
+      <link>stand-alone-tools/rubrics</link>
+      <description>
+          <![CDATA[ 
+<p>We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with LMSs like Canvas to generate qualitative feedback more rapidly.</p>
+<p>Access the <a href="https://cdn.hax.cloud/storybook/?path=/story/education-tag-grader--grade-book-lite-story" target="_blank" data-hax-layout="true" role="textbox">Qualitative Rubric Tool</a>
+</p>
+ ]]>
+      </description>
+      <category>experiment, gradebook, lab, rubric</category>
+      <guid>item-635fe9b5-9bda-4658-a1af-3a366d123657</guid>
+      <pubDate>Wed, 28 Jun 2023 10:02:05 -0400</pubDate>
+    </item>
+    <item>
+      <title>Conversion tools</title>
+      <link>stand-alone-tools/conversion-tools</link>
+      <description>
+          <![CDATA[ 
+<p>These tools can be used to convert documents between different formats</p>
+<ul><li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-core-services--docx-to-html" target="_blank" data-hax-layout="true">DocX to HTML</a>
+</li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-core-services--docx-to-pdf" target="_blank" data-hax-layout="true">DocX to PDF</a>
+</li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-core-services--md-to-html" target="_blank" data-hax-layout="true" role="textbox">Markdown to HTML</a>
+ (and HTML to Markdown)</li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-images--basic-example" target="_blank" data-hax-layout="true">Compression / image resizer</a>
+ (tweak settings then right click to download)</li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-core-services--screenshot-url" target="_blank" data-hax-layout="true">Screenshot any URL</a>
+</li>
+<li data-hax-layout="true" ="true"=""="true"><a href="https://cdn.hax.cloud/storybook/?path=/story/microservices-core-services--secure-feedback" target="_blank" data-hax-layout="true" role="textbox">Secure feedback</a>
+</li>
+</ul>
+<p>These tools are provided as part of our microservice infrastructure. Have ideas / needs for other types of simple converters? Join our Discord and ask!</p>
+ ]]>
+      </description>
+      <category>tool, convert, labs</category>
+      <guid>item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9</guid>
+      <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
+    </item>
+    <item>
+      <title>Environmental impact</title>
+      <link>pledges/environmental-impact</link>
+      <description>
+          <![CDATA[ 
+<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
+<ul><li>Turning to web standards over large libraries to use less resources</li>
+<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
+<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
+<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
+<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
+</ul>
+<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" style="background-color: var(--simple-colors-default-theme-grey-1); color: var(--simple-colors-default-theme-grey-12); padding: 8px; margin-top: 0px;" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" role="textbox">please submit an issue request to our queue</a>
+ detailing how we can achieve a greener platform.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Accessibility & Empowerment</title>
+      <link>pledges/accessibility-empowerment</link>
+      <description>
+          <![CDATA[ 
+<p>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y<span>, we mean access to everyone, everywhere, regardless of ability either physical ability, technical ability, or device capability.</span></p>
+<p>HAX a11y principles:</p>
+<ul><li>Use the minimal amount of resources (see <a href="pledges/environmental-impact" data-uuid="item-edcd6f86-05b5-43a9-8766-8a56709451c8" role="textbox" style="background-color: var(--simple-colors-default-theme-light-green-1); color: var(--simple-colors-default-theme-light-green-12);" background-color="light-green">Environmental impact</a>
+) required to deliver experiences in order to use less resources at a distance</li>
+<li>ensure that HAX itself meets WCAG 2.0 AA compliance standards</li>
+<li>Ensure that, within reason, HAX enforces and automatically eliminates considerations of writing web code that could lead to web accessibility errors</li>
+<li>Leverage accessible, audited base classes to ensure uniformity visually and non-visually to all blocks created <i><b>with or for</b>
+</i>
+ HAX</li>
+</ul>
+<p>If you notice an accessibility error or issue with any aspect of the HAX platform, please <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=a11y&amp;title=%5Baccessibility+request%5D" target="_blank" role="textbox" data-style-decoration="mark-yellow">file an issue in our issue queue</a>
+ so we can correct it in a timely manner.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pledges</title>
+      <link>pledges</link>
+      <description>
+          <![CDATA[ 
+<p font-size="xx-large" style="background-color: var(--simple-colors-default-theme-light-blue-1); color: var(--simple-colors-default-theme-light-blue-12); font-size: 2em; text-align: center; padding: 64px; margin: 8px;" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8">These are <i>pledges</i>
+ we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
+, but <b>we try our best</b>
+ to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
+<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
+<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}"></site-collection-list>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>The Core</title>
+      <link>ontology/page-5</link>
+      <description>
+          <![CDATA[ 
+<simple-tags tags="ontology,core" auto-accent-color></simple-tags>
+<p>The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a <b>main</b>
+ branch, significant in its own right and often supporting smaller branches; and the interrelationships between branches should be noted.</p>
+<p>We define the core of the ontology as consisting of Outcomes, Pedagogy, Structure, Instruction, Content, and Assessment.</p>
+<video-player accent-color="grey" dark crossorigin="anonymous" source="https://www.youtube.com/watch?v=dF4eRZFBCs0" sticky-corner="none" resource="#70566d82-a93f-bdc9-69a3-571a1cbf429f" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/dF4eRZFBCs0&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="The Core of the HAX Ontology" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca</guid>
+      <pubDate>Thu, 29 Jun 2023 13:04:13 -0400</pubDate>
+    </item>
+    <item>
+      <title>Course Model Player</title>
+      <link>page</link>
+      <description>
+          <![CDATA[ 
+<course-model title="Colt 1911 Default" src="https://raw.githubusercontent.com/elmsln/lrnwebcomponents/master/elements/course-model/demo/models/guns/colt-1911/colt_1911_full.gltf" alt="A 3D model of a Colt 1911 handgun." visible="model">
+            
+            
+            
+            
+            
+            
+            
+            
+          
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+<span>
+    
+    <span>
+                Cross section view of the Colt 1911 (.45 Caliber) clip /
+                ammunition.
+              </span>
+  
+  </span><span slot="detail">
+    
+    <model-info title="Colt 1911 Handgun (.45 Caliber)">
+                
+  
+      
+      <p>This is a 3D representation of the M1911, also known as the
+                  Colt 1911, or the Colt
+                  Government, is a single-action, semi-automatic, magazine-fed,
+                  recoil-operated pistol chambered for the .45 ACP cartridge.
+                  It served as the standard-issue sidearm for the United States
+                  Armed Forces from 1911 to 1985. It was widely used in World
+                  War I, World War II, the Korean War, and the Vietnam War.</p><p>Designed by John Browning, the M1911 is the best-known of
+                  his designs to use the short recoil principle in its basic
+                  design. The pistol was widely copied, and this operating
+                  system rose to become the preeminent type of the 20th century
+                  and of nearly all modern centerfire pistols.</p><p>Following its success in trials, the Colt pistol was formally
+                  adopted by the Army on March 29, 1911, when it was designated
+                  Model of 1911, later changed to Model 1911, in 1917, and then
+                  M1911, in the mid-1920s. The Director of Civilian Marksmanship
+                  began manufacture of M1911 pistols for members of the National
+                  Rifle Association in August 1912. Approximately 100 pistols
+                  stamped "N.R.A." below the serial number were manufactured at
+                  Springfield Armory and by Colt. The M1911 was formally
+                  adopted by the U.S. Navy and Marine Corps in 1913. The .45 ACP
+                  "Model of 1911 U.S. Army" was used by both US Army Cavalry
+                  Troops and Infantry Soldiers during the United States'
+                  Punitive Expedition into Mexico against Pancho Villa in
+                  1916.
+                </p><p>By the beginning of 1917, a total of 68,533 M1911 pistols had
+                  been delivered to U.S. armed forces by Colt's Patent Firearms
+                  Manufacturing Company and the U.S. government's Springfield
+                  Armory.
+                </p>
+                
+  
+      
+      <div id="images" slot="images">
+                  
+    
+        
+        <media-image source="https://raw.githubusercontent.com/elmsln/lrnwebcomponents/master/elements/course-model/demo/models/guns/img/colt1911-1.jpeg" figure-label-title="1.1" figure-label-description="This is
+                    the description of the figure." alt="Descriptive image text
+                    here." size="wide" offset="none" modal-title="1.1 - This is
+                    the description of the figure.">
+                  </media-image>
+                  
+    
+        
+        <media-image source="https://raw.githubusercontent.com/elmsln/lrnwebcomponents/master/elements/course-model/demo/models/guns/img/colt1911-2.png" figure-label-title="2.1" figure-label-description="This is
+                    the description of the figure." alt="Descriptive image text
+                    here." size="wide" offset="none" modal-title="2.1 - This is
+                    the description of the figure.">
+                  </media-image>
+                  
+    
+        
+        <media-image source="https://raw.githubusercontent.com/elmsln/lrnwebcomponents/master/elements/course-model/demo/models/guns/img/colt1911-3.jpeg" figure-label-title="2.2" figure-label-description="This is
+                    the description of the figure." alt="Descriptive image text
+                    here." size="wide" offset="none" modal-title="2.2 - This is
+                    the description of the figure.">
+                  </media-image>
+                
+  
+      
+      </div>
+              
+    
+    </model-info>
+  
+  </span><span slot="animation">
+    
+    <video-player source="https://youtu.be/JzXMrzvh1UM" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#50ccf545-b30a-ac20-76a3-cdd164f66569" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" lang="en" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JzXMrzvh1UM&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]">
+              </video-player>
+  
+  </span><span slot="check">
+    
+    <iframe src="https://media.ed.science.psu.edu/h5p/embed/5783?entity_iframe=1" width="950" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+&#60;script&#62;&#60;/script&#62;
+  
+  </span><span slot="logo">
+    
+    <img title="ECOS Office of Digital Learning" id="brand" src="img/ecosodl.png" alt="The Office of Digital Learning"/>
+  
+  </span></course-model>
+<p></p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-14ee9de9-51d1-4a0d-9944-3ba6856ac053</guid>
+      <pubDate>Fri, 14 Jul 2023 16:16:39 -0400</pubDate>
+    </item>
+  </channel>
+</rss>
