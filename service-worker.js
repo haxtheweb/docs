@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/item-8a5bf844-d498-4f75-bf96-110eaedb42d9\/index.html",
-        "nQ0IsErlhEUuwy433oFXw"
+        "7CMqrOUibTMjcgKITeSryQ"
     ],
     [
         "pages\/item-06108b56-48b5-4c50-b262-81659edc750e\/index.html",
@@ -671,10 +671,6 @@ var precacheConfig = [
         "8grYFl6Mnzb3UAcz25ojA"
     ],
     [
-        "files\/New User Tutorial.mp4",
-        "rNSfDy36qUq0I8wc34gbw"
-    ],
-    [
         "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
         "Rze6f0lBoCNr5GNuMxru8Q"
     ],
@@ -795,10 +791,6 @@ var precacheConfig = [
         "u26ja8KmfD5SXi8OkNoVw"
     ],
     [
-        "files\/New User Tutorial_1.mp4",
-        "SRM1bdjEBN36jrQao24Iw"
-    ],
-    [
         "files\/Scorecard for Versailles1.png",
         "jjuF7jEkwINdrnyP3QXDRA"
     ],
@@ -853,10 +845,6 @@ var precacheConfig = [
     [
         "files\/image32.png",
         "xVIaBT87onFdiGX4n99w"
-    ],
-    [
-        "files\/New User Tutorial_11.mp4",
-        "rjuTtXbU2UYh9FX8TfbS1g"
     ],
     [
         "files\/4_Pedagogy2.png",
@@ -915,24 +903,12 @@ var precacheConfig = [
         "rx9FDne8pstKJxsCR34ghQ"
     ],
     [
-        "files\/HAX_Ontology.mp4",
-        "4ikpf9Gr0z522sCTvrQdJQ"
-    ],
-    [
         "files\/1_The Core.png",
         "PNE4MR0zGUZ3e5TZ42cb5g"
     ],
     [
         "files\/Memory Duration by Type1.png",
         "bJr0vR3E22me3SeIctiw"
-    ],
-    [
-        "files\/New User Tutorial Part 11.mp4",
-        "AJaiOPNl04BBfyt6Hy1Tw"
-    ],
-    [
-        "files\/New User Tutorial Part 1.mp4",
-        "t36SQFwTitJviZMdjYoKHg"
     ],
     [
         "files\/PSU_ARC_RGB_REV_2C.svg",
@@ -1093,10 +1069,6 @@ var precacheConfig = [
     [
         "files\/Peter 2.jpg",
         "C3uo0K9a4ZC7MJuU5bQ"
-    ],
-    [
-        "files\/New User Tutorial1.mp4",
-        "ZGNitKiVgynmZJV0b8fhNg"
     ]
 ];
 var cacheName = 'sw-precache-v3--' + (self.registration ? self.registration.scope : '');
