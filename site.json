@@ -1002,7 +1002,16 @@
                 "locked": false,
                 "status": "",
                 "hideInMenu": false,
-                "readtime": 8
+                "readtime": 8,
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image73.png",
+                        "url": "files\/image73.png",
+                        "type": "image\/png",
+                        "name": "image73.png",
+                        "size": 6642
+                    }
+                ]
             }
         },
         {

@@ -484,7 +484,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "0a2tF2TnRJh1KGBsdn9w"
+        "G9URgEgKSDNpMQvqnOPHPw"
     ],
     [
         "404.html",
@@ -765,6 +765,10 @@ var precacheConfig = [
     [
         "files\/td-human-memory-3-types.webp",
         "HfXUZWl7ivo6hYk4hoDw"
+    ],
+    [
+        "files\/image73.png",
+        "B3PsRqae5uUlX5K1Xmg"
     ],
     [
         "files\/ELMSLN-whitepaper-08-28-2014.pdf",
