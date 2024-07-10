@@ -554,128 +554,23 @@
             }
         },
         {
-            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
-            "indent": "3",
-            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
-            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
+            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "indent": "2",
+            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
+            "slug": "tutorials\/block-usage\/instructional",
             "order": 0,
-            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
-            "title": "3D Model",
-            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
+            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
+            "title": "Instructional",
+            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
             "metadata": {
                 "locked": "",
                 "created": "1697042706",
                 "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
-                ],
+                "videos": [],
                 "updated": 1713540713,
                 "published": "1",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c",
-            "indent": 0,
-            "location": "pages\/item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c\/index.html",
-            "slug": "follow-cognitive-load-theory",
-            "order": 0,
-            "parent": "item-e115dd47-3a78-4e40-963e-46466a268290",
-            "title": "ORIGINAL Follow Cognitive Load Theory",
-            "description": "Maximizing Student Learning from VideoTwelve Principles of Multimedia Learning",
-            "metadata": {
-                "created": "1701277160",
-                "updated": 1720633260,
-                "images": [
-                    "files\/CognativeTheoryMML.jpeg"
-                ],
-                "videos": [],
-                "published": true,
-                "locked": false,
-                "readtime": 9,
-                "status": "",
-                "hideInMenu": false,
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/td-human-memory-3-types.webp",
-                        "url": "files\/td-human-memory-3-types.webp",
-                        "type": "image\/webp",
-                        "name": "td-human-memory-3-types.webp",
-                        "size": "26272"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/migration-CognitiveLoadTheoryIMGB2.webp",
-                        "url": "files\/migration-CognitiveLoadTheoryIMGB2.webp",
-                        "type": "image\/webp",
-                        "name": "migration-CognitiveLoadTheoryIMGB2.webp",
-                        "size": "11706"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/cognitive load diagram.jpeg",
-                        "url": "files\/cognitive load diagram.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "cognitive load diagram.jpeg",
-                        "size": "52192"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/CognativeTheoryMML.jpeg",
-                        "url": "files\/CognativeTheoryMML.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "CognativeTheoryMML.jpeg",
-                        "size": "88750"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Lorem ipsum text.png",
-                        "url": "files\/Lorem ipsum text.png",
-                        "type": "image\/png",
-                        "name": "Lorem ipsum text.png",
-                        "size": "16610"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type.png",
-                        "url": "files\/Memory Duration by Type.png",
-                        "type": "image\/png",
-                        "name": "Memory Duration by Type.png",
-                        "size": "11168"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type1.png",
-                        "url": "files\/Memory Duration by Type1.png",
-                        "type": "image\/png",
-                        "name": "Memory Duration by Type1.png",
-                        "size": "15099"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type2.png",
-                        "url": "files\/Memory Duration by Type2.png",
-                        "type": "image\/png",
-                        "name": "Memory Duration by Type2.png",
-                        "size": "15886"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
-            "indent": 0,
-            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
-            "slug": "stand-alone-tools\/conversion-tools",
-            "order": 0,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Conversion tools",
-            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
-            "metadata": {
-                "created": "1687961729",
-                "updated": 1719511670,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "tags": "tool, convert, labs",
-                "locked": false,
-                "readtime": 1,
-                "status": "",
-                "hideInMenu": false
             }
         },
         {
@@ -711,99 +606,224 @@
             }
         },
         {
-            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
-            "indent": 0,
-            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-            "slug": "page-1",
-            "order": 0,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Installing HAXcms",
-            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
+            "indent": "3",
+            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/multiple-choice",
+            "order": 1,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Multiple choice",
+            "description": "When reading content or processing a lecture, it's a good idea to stop and ask the user questions about what they experienced. Multiple choice questions are a simple comprehension check. Note that da",
             "metadata": {
-                "created": "1695414320",
-                "updated": 1719511891,
+                "locked": "",
+                "created": "1697042706",
                 "images": [],
                 "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                    "https:\/\/youtu.be\/VRvzbfdOOz0"
                 ],
-                "published": true,
-                "locked": false,
-                "readtime": 1,
-                "status": "",
-                "hideInMenu": false
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
             }
         },
         {
-            "id": "item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c",
-            "indent": 0,
-            "location": "pages\/item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c\/index.html",
-            "slug": "planning-the-lecture",
-            "order": 0,
-            "parent": "item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105",
-            "title": "Planning the Lecture",
-            "description": "Featured Research ArticleEvidence-Based Guidelines for Recording Slide-Based LecturesMedical Science Educator (2020) 30:1611\u20131616 https:\/\/doi.org\/10.1007\/s40670-020-01032-wSit quia incidunt ",
+            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
+            "indent": "3",
+            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/self-check",
+            "order": 2,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Self check",
+            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
             "metadata": {
-                "created": "1702671663",
-                "updated": 1720550493,
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/k8PfCA86Ago"
+                ],
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
+            "indent": "3",
+            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/stop-note",
+            "order": 3,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Stop note",
+            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/TccvXxfF8jc"
+                ],
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
+            "indent": "3",
+            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/table",
+            "order": 4,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Table",
+            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/JxyZBF1j0to"
+                ],
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
+            "indent": "3",
+            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/timeline",
+            "order": 5,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Timeline",
+            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/Jv634X-e6Fs"
+                ],
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "indent": 0,
+            "location": "pages\/item-51b1acee-9e5c-4756-998e-d6f3ba97882c\/index.html",
+            "slug": "effective-educational-video",
+            "order": 0,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Effective Educational Video",
+            "description": "      \u00a0Rationale for Getting It Right  Multiple studies have shown that video can be a highly effec\u00adtive educational tool. But if videos are not well designed or developed, students won",
+            "metadata": {
+                "created": "1704305842",
+                "updated": 1720627326,
                 "images": [],
                 "videos": [],
                 "published": true,
-                "locked": false,
-                "readtime": 8,
-                "status": "",
                 "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
+                "status": "",
+                "relatedItems": "item-b1cf2586-d6a6-44b7-ba16-82fdfee99f01",
+                "tags": "pedagogy,video",
                 "files": [
                     {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/book-7647732_640.png",
-                        "url": "files\/book-7647732_640.png",
-                        "type": "image\/png",
-                        "name": "book-7647732_640.png",
-                        "size": "115874"
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter_Aeschbacher.jpeg",
+                        "url": "files\/Peter_Aeschbacher.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "Peter_Aeschbacher.jpeg",
+                        "size": 4156
                     },
                     {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book at 50.png",
-                        "url": "files\/Book at 50.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj_Szczygiel.png",
+                        "url": "files\/Bonj_Szczygiel.png",
                         "type": "image\/png",
-                        "name": "Book at 50.png",
-                        "size": "73360"
+                        "name": "Bonj_Szczygiel.png",
+                        "size": 22510
                     },
                     {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book_at_50_percent.png",
-                        "url": "files\/Book_at_50_percent.png",
-                        "type": "image\/png",
-                        "name": "Book_at_50_percent.png",
-                        "size": "73360"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book_at_15_percent.png",
-                        "url": "files\/Book_at_15_percent.png",
-                        "type": "image\/png",
-                        "name": "Book_at_15_percent.png",
-                        "size": "11282"
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben_Andrew.jpeg",
+                        "url": "files\/Ben_Andrew.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "Ben_Andrew.jpeg",
+                        "size": 6528
                     }
                 ]
             }
         },
         {
-            "id": "item-778bd19b-566a-422b-99d1-20f564f12489",
-            "indent": "3",
-            "location": "pages\/item-778bd19b-566a-422b-99d1-20f564f12489\/index.html",
-            "slug": "tutorials\/block-usage\/layout\/collection-list",
+            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "indent": 0,
+            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
+            "slug": "gallery-exhibits",
             "order": 0,
-            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
-            "title": "Collection List",
-            "description": "A collection list is for organizing and automatically presenting ",
+            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "title": "Gallery Exhibits",
+            "description": "Column two",
             "metadata": {
-                "created": "1706294553",
-                "updated": 1713540713,
+                "created": "1701371579",
+                "updated": 1720537982,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "collection",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
+                "published": true,
+                "locked": false,
+                "status": "",
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
+                        "url": "files\/Peter Montage.png",
+                        "type": "image\/png",
+                        "name": "Peter Montage.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
+                        "url": "files\/Peter Aeschbacher.png",
+                        "type": "image\/png",
+                        "name": "Peter Aeschbacher.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
+                        "url": "files\/Bonj Szczygiel.png",
+                        "type": "image\/png",
+                        "name": "Bonj Szczygiel.png",
+                        "size": "2614095"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
+                        "url": "files\/Ben Andrew 1.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 1.png",
+                        "size": "2190204"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
+                        "url": "files\/Ben Andrew 2.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 2.png",
+                        "size": "1552766"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
+                        "url": "files\/Peter 11.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 11.jpg",
+                        "size": 285922
+                    }
+                ],
+                "hideInMenu": false
             }
         },
         {
@@ -940,102 +960,6 @@
                         "size": 109538
                     }
                 ]
-            }
-        },
-        {
-            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
-            "indent": "2",
-            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
-            "slug": "ontology\/page-5",
-            "order": 0,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "The Core",
-            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
-            "metadata": {
-                "created": "1688058253",
-                "updated": 1713540713,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
-                        "url": "files\/1_The Core.png",
-                        "type": "image\/png",
-                        "name": "1_The Core.png",
-                        "size": "346696"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "indent": 0,
-            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
-            "slug": "gallery-exhibits",
-            "order": 0,
-            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "title": "Gallery Exhibits",
-            "description": "Column two",
-            "metadata": {
-                "created": "1701371579",
-                "updated": 1720537982,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "locked": false,
-                "status": "",
-                "readtime": 1,
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
-                        "url": "files\/Peter Montage.png",
-                        "type": "image\/png",
-                        "name": "Peter Montage.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
-                        "url": "files\/Peter Aeschbacher.png",
-                        "type": "image\/png",
-                        "name": "Peter Aeschbacher.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
-                        "url": "files\/Bonj Szczygiel.png",
-                        "type": "image\/png",
-                        "name": "Bonj Szczygiel.png",
-                        "size": "2614095"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
-                        "url": "files\/Ben Andrew 1.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 1.png",
-                        "size": "2190204"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
-                        "url": "files\/Ben Andrew 2.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 2.png",
-                        "size": "1552766"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
-                        "url": "files\/Peter 11.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 11.jpg",
-                        "size": 285922
-                    }
-                ],
-                "hideInMenu": false
             }
         },
         {
@@ -1185,52 +1109,6 @@
             }
         },
         {
-            "id": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "indent": 0,
-            "location": "pages\/item-51b1acee-9e5c-4756-998e-d6f3ba97882c\/index.html",
-            "slug": "effective-educational-video",
-            "order": 0,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Effective Educational Video",
-            "description": "      \u00a0Rationale for Getting It Right  Multiple studies have shown that video can be a highly effec\u00adtive educational tool. But if videos are not well designed or developed, students won",
-            "metadata": {
-                "created": "1704305842",
-                "updated": 1720627326,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1,
-                "status": "",
-                "relatedItems": "item-b1cf2586-d6a6-44b7-ba16-82fdfee99f01",
-                "tags": "pedagogy,video",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter_Aeschbacher.jpeg",
-                        "url": "files\/Peter_Aeschbacher.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "Peter_Aeschbacher.jpeg",
-                        "size": 4156
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj_Szczygiel.png",
-                        "url": "files\/Bonj_Szczygiel.png",
-                        "type": "image\/png",
-                        "name": "Bonj_Szczygiel.png",
-                        "size": 22510
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben_Andrew.jpeg",
-                        "url": "files\/Ben_Andrew.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "Ben_Andrew.jpeg",
-                        "size": 6528
-                    }
-                ]
-            }
-        },
-        {
             "id": "item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105",
             "indent": 0,
             "location": "pages\/item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105\/index.html",
@@ -1331,6 +1209,57 @@
             }
         },
         {
+            "id": "item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c",
+            "indent": 0,
+            "location": "pages\/item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c\/index.html",
+            "slug": "planning-the-lecture",
+            "order": 0,
+            "parent": "item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105",
+            "title": "Planning the Lecture",
+            "description": "Featured Research ArticleEvidence-Based Guidelines for Recording Slide-Based LecturesMedical Science Educator (2020) 30:1611\u20131616 https:\/\/doi.org\/10.1007\/s40670-020-01032-wSit quia incidunt ",
+            "metadata": {
+                "created": "1702671663",
+                "updated": 1720550493,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "locked": false,
+                "readtime": 8,
+                "status": "",
+                "hideInMenu": false,
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/book-7647732_640.png",
+                        "url": "files\/book-7647732_640.png",
+                        "type": "image\/png",
+                        "name": "book-7647732_640.png",
+                        "size": "115874"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book at 50.png",
+                        "url": "files\/Book at 50.png",
+                        "type": "image\/png",
+                        "name": "Book at 50.png",
+                        "size": "73360"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book_at_50_percent.png",
+                        "url": "files\/Book_at_50_percent.png",
+                        "type": "image\/png",
+                        "name": "Book_at_50_percent.png",
+                        "size": "73360"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Book_at_15_percent.png",
+                        "url": "files\/Book_at_15_percent.png",
+                        "type": "image\/png",
+                        "name": "Book_at_15_percent.png",
+                        "size": "11282"
+                    }
+                ]
+            }
+        },
+        {
             "id": "item-d0e6ac0b-fc44-4be3-8e32-3647ddaeddd7",
             "indent": 0,
             "location": "pages\/item-d0e6ac0b-fc44-4be3-8e32-3647ddaeddd7\/index.html",
@@ -1349,6 +1278,22 @@
                 "readtime": 5,
                 "status": "",
                 "hideInMenu": false
+            }
+        },
+        {
+            "id": "item-de9dbbb5-949b-49c0-95ad-dbbc84835db0",
+            "indent": 0,
+            "location": "pages\/item-de9dbbb5-949b-49c0-95ad-dbbc84835db0\/index.html",
+            "slug": "the-gallery-of-online-excellence\/effective-educational-video\/in-short-a-sound-process\/planning-the-lecture-copy",
+            "order": "1",
+            "parent": "item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105",
+            "title": "Planning the Lecture Copy",
+            "description": "",
+            "metadata": {
+                "created": 1720633436,
+                "updated": 1720633436,
+                "images": [],
+                "videos": []
             }
         },
         {
@@ -1391,6 +1336,87 @@
                 "readtime": 4,
                 "status": "",
                 "hideInMenu": false
+            }
+        },
+        {
+            "id": "item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c",
+            "indent": 0,
+            "location": "pages\/item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c\/index.html",
+            "slug": "follow-cognitive-load-theory",
+            "order": 0,
+            "parent": "item-e115dd47-3a78-4e40-963e-46466a268290",
+            "title": "ORIGINAL Follow Cognitive Load Theory",
+            "description": "Maximizing Student Learning from VideoTwelve Principles of Multimedia Learning",
+            "metadata": {
+                "created": "1701277160",
+                "updated": 1720633260,
+                "images": [
+                    "files\/CognativeTheoryMML.jpeg"
+                ],
+                "videos": [],
+                "published": true,
+                "locked": false,
+                "readtime": 9,
+                "status": "",
+                "hideInMenu": false,
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/td-human-memory-3-types.webp",
+                        "url": "files\/td-human-memory-3-types.webp",
+                        "type": "image\/webp",
+                        "name": "td-human-memory-3-types.webp",
+                        "size": "26272"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/migration-CognitiveLoadTheoryIMGB2.webp",
+                        "url": "files\/migration-CognitiveLoadTheoryIMGB2.webp",
+                        "type": "image\/webp",
+                        "name": "migration-CognitiveLoadTheoryIMGB2.webp",
+                        "size": "11706"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/cognitive load diagram.jpeg",
+                        "url": "files\/cognitive load diagram.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "cognitive load diagram.jpeg",
+                        "size": "52192"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/CognativeTheoryMML.jpeg",
+                        "url": "files\/CognativeTheoryMML.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "CognativeTheoryMML.jpeg",
+                        "size": "88750"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Lorem ipsum text.png",
+                        "url": "files\/Lorem ipsum text.png",
+                        "type": "image\/png",
+                        "name": "Lorem ipsum text.png",
+                        "size": "16610"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type.png",
+                        "url": "files\/Memory Duration by Type.png",
+                        "type": "image\/png",
+                        "name": "Memory Duration by Type.png",
+                        "size": "11168"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type1.png",
+                        "url": "files\/Memory Duration by Type1.png",
+                        "type": "image\/png",
+                        "name": "Memory Duration by Type1.png",
+                        "size": "15099"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Memory Duration by Type2.png",
+                        "url": "files\/Memory Duration by Type2.png",
+                        "type": "image\/png",
+                        "name": "Memory Duration by Type2.png",
+                        "size": "15886"
+                    }
+                ]
             }
         },
         {
@@ -1594,156 +1620,6 @@
             }
         },
         {
-            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
-            "indent": 0,
-            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
-            "slug": "documentation\/integrations\/backdropcms",
-            "order": 0,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "BackdropCMS",
-            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
-            "metadata": {
-                "locked": false,
-                "created": 1713540714,
-                "images": [],
-                "videos": [],
-                "updated": 1713540746,
-                "published": true,
-                "hideInMenu": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "indent": "2",
-            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
-            "slug": "tutorials\/block-usage\/instructional",
-            "order": 0,
-            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "title": "Instructional",
-            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
-            "indent": "3",
-            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/multiple-choice",
-            "order": 1,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Multiple choice",
-            "description": "When reading content or processing a lecture, it's a good idea to stop and ask the user questions about what they experienced. Multiple choice questions are a simple comprehension check. Note that da",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/VRvzbfdOOz0"
-                ],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
-            "indent": "3",
-            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/self-check",
-            "order": 2,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Self check",
-            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/k8PfCA86Ago"
-                ],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
-            "indent": "3",
-            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/stop-note",
-            "order": 3,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Stop note",
-            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/TccvXxfF8jc"
-                ],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
-            "indent": "3",
-            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/table",
-            "order": 4,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Table",
-            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/JxyZBF1j0to"
-                ],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
-            "indent": "3",
-            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/timeline",
-            "order": 5,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Timeline",
-            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/Jv634X-e6Fs"
-                ],
-                "updated": 1713540713,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-15525242-f6e9-4201-bbb1-cdd8f29176f6",
             "indent": "1",
             "location": "pages\/item-15525242-f6e9-4201-bbb1-cdd8f29176f6\/index.html",
@@ -1807,6 +1683,28 @@
                 "locked": "",
                 "status": "",
                 "readtime": "1"
+            }
+        },
+        {
+            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
+            "indent": 0,
+            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
+            "slug": "stand-alone-tools\/conversion-tools",
+            "order": 0,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Conversion tools",
+            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "metadata": {
+                "created": "1687961729",
+                "updated": 1719511670,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "tags": "tool, convert, labs",
+                "locked": false,
+                "readtime": 1,
+                "status": "",
+                "hideInMenu": false
             }
         },
         {
@@ -1909,6 +1807,104 @@
             }
         },
         {
+            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
+            "indent": "2",
+            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
+            "slug": "ontology\/page-5",
+            "order": 0,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "The Core",
+            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
+            "metadata": {
+                "created": "1688058253",
+                "updated": 1713540713,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
+                        "url": "files\/1_The Core.png",
+                        "type": "image\/png",
+                        "name": "1_The Core.png",
+                        "size": "346696"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-778bd19b-566a-422b-99d1-20f564f12489",
+            "indent": "3",
+            "location": "pages\/item-778bd19b-566a-422b-99d1-20f564f12489\/index.html",
+            "slug": "tutorials\/block-usage\/layout\/collection-list",
+            "order": 0,
+            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
+            "title": "Collection List",
+            "description": "A collection list is for organizing and automatically presenting ",
+            "metadata": {
+                "created": "1706294553",
+                "updated": 1713540713,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "collection",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
+            "indent": 0,
+            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
+            "slug": "page-1",
+            "order": 0,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Installing HAXcms",
+            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "metadata": {
+                "created": "1695414320",
+                "updated": 1719511891,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                ],
+                "published": true,
+                "locked": false,
+                "readtime": 1,
+                "status": "",
+                "hideInMenu": false
+            }
+        },
+        {
+            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
+            "indent": "3",
+            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
+            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
+            "order": 0,
+            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
+            "title": "3D Model",
+            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
+                ],
+                "updated": 1713540713,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-22596832-8320-4c7f-b7ae-f403d1d9ca31",
             "indent": "1",
             "location": "pages\/item-22596832-8320-4c7f-b7ae-f403d1d9ca31\/index.html",
@@ -2001,6 +1997,26 @@
                 "locked": "",
                 "readtime": "2",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
+            "indent": 0,
+            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
+            "slug": "documentation\/integrations\/backdropcms",
+            "order": 0,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "BackdropCMS",
+            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
+            "metadata": {
+                "locked": false,
+                "created": 1713540714,
+                "images": [],
+                "videos": [],
+                "updated": 1713540746,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
@@ -2700,28 +2716,6 @@
             }
         },
         {
-            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
-            "indent": "2",
-            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
-            "slug": "documentation\/deploying-haxcms",
-            "order": 1,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Deploying HAXcms",
-            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
-            "metadata": {
-                "created": "1705611933",
-                "updated": 1713540714,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "haxcms,deployment,documentation",
-                "locked": "",
-                "readtime": "3",
-                "status": ""
-            }
-        },
-        {
             "id": "item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b",
             "indent": "1",
             "location": "pages\/item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b\/index.html",
@@ -3003,6 +2997,28 @@
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1
+            }
+        },
+        {
+            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
+            "indent": "2",
+            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
+            "slug": "documentation\/deploying-haxcms",
+            "order": 1,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Deploying HAXcms",
+            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
+            "metadata": {
+                "created": "1705611933",
+                "updated": 1713540714,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "haxcms,deployment,documentation",
+                "locked": "",
+                "readtime": "3",
+                "status": ""
             }
         },
         {
@@ -3290,27 +3306,6 @@
             }
         },
         {
-            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
-            "indent": "1",
-            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
-            "slug": "guided-practice",
-            "order": 3,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Guided Practice",
-            "description": "",
-            "metadata": {
-                "created": "1701276237",
-                "updated": 1713540714,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
             "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
             "indent": 0,
             "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
@@ -3328,6 +3323,27 @@
                 ],
                 "updated": 1713540714,
                 "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
+            "indent": "1",
+            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
+            "slug": "guided-practice",
+            "order": 3,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Guided Practice",
+            "description": "",
+            "metadata": {
+                "created": "1701276237",
+                "updated": 1713540714,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
                 "status": "",
                 "hideInMenu": "",
                 "readtime": "1"
