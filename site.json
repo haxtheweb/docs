@@ -577,25 +577,25 @@
         },
         {
             "id": "item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-b2b17986-f13e-4d6e-93a6-6bd21c930c3c\/index.html",
             "slug": "follow-cognitive-load-theory",
             "order": 0,
             "parent": "item-e115dd47-3a78-4e40-963e-46466a268290",
-            "title": "Follow Cognitive Load Theory",
+            "title": "ORIGINAL Follow Cognitive Load Theory",
             "description": "Maximizing Student Learning from VideoTwelve Principles of Multimedia Learning",
             "metadata": {
                 "created": "1701277160",
-                "updated": 1713540714,
+                "updated": 1720633260,
                 "images": [
                     "files\/CognativeTheoryMML.jpeg"
                 ],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "8",
+                "published": true,
+                "locked": false,
+                "readtime": 9,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/td-human-memory-3-types.webp",
