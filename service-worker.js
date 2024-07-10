@@ -484,7 +484,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "NSWJQbHzoggXKVLtfHFuw"
+        "vXoMa7fOKGZhLuNs2ZNg"
     ],
     [
         "404.html",
@@ -929,6 +929,10 @@ var precacheConfig = [
     [
         "files\/Memory Duration by Type1.png",
         "bJr0vR3E22me3SeIctiw"
+    ],
+    [
+        "files\/image77.png",
+        "9uvELaFVnLgGsLsWEA2bQ"
     ],
     [
         "files\/PSU_ARC_RGB_REV_2C.svg",
