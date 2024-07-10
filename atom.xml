@@ -3,7 +3,7 @@
   <title>haxcellence</title>
   <link href="" rel="self" />
   <subtitle>Create Your Own course</subtitle>
-  <updated>2024-04-19T11:31:55-04:00</updated>
+  <updated>2024-07-10T13:45:08-04:00</updated>
   <author>
       <name></name>
   </author>
@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-07-09T14:45:55-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -96,34 +96,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
     </content>
   </entry>
   <entry>
-    <title>Documentation</title>
-    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
-    <published>2023-05-03T14:14:50-04:00</published>
-    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
-    <link href="documentation"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<p>🤫</p>
-<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" data-hax-layout="true"="true"><strong>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.</strong>
-</p>
-</stop-note>
-<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
-<ul><li data-hax-layout="true"="true"><a href="https://haxtheweb.org/" target="_blank" data-hax-layout="true">Developing for HAX</a>
-</li>
-<li data-hax-layout="true"="true"><a href="https://elmsln.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">HAX11ty</a>
-</li>
-<li data-hax-layout="true"="true"><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">WCFactory</a>
-</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>HAX Ontology</title>
     <id>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
     <summary>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 </summary>
     <link href="ontology"/>
@@ -160,25 +135,34 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
     </content>
   </entry>
   <entry>
-    <title>Pedagogy</title>
-    <id>item-40583b55-32bf-40c7-8e81-99c054b9a764</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <title>Documentation</title>
+    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
-    <summary>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe</summary>
-    <link href="ontology/new-item"/>
+    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
+    <link href="documentation"/>
     
     <content type="html">
       <![CDATA[ 
-<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
-<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
-<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
+<p>🤫</p>
+<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" data-hax-layout="true"="true"><strong>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.</strong>
+</p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li data-hax-layout="true"="true"><a href="https://haxtheweb.org/" target="_blank" data-hax-layout="true">Developing for HAX</a>
+</li>
+<li data-hax-layout="true"="true"><a href="https://elmsln.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">HAX11ty</a>
+</li>
+<li data-hax-layout="true"="true"><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank" data-hax-layout="true">WCFactory</a>
+</li>
+</ul>
  ]]>
     </content>
   </entry>
   <entry>
     <title>Tutorials</title>
     <id>item-903151c6-bd94-4bbb-9335-4649de2f9445</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
     <summary>If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation.</summary>
     <link href="tutorials"/>
@@ -192,9 +176,25 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
     </content>
   </entry>
   <entry>
+    <title>Pedagogy</title>
+    <id>item-40583b55-32bf-40c7-8e81-99c054b9a764</id>
+    <updated>2024-07-10T13:45:07-04:00</updated>
+    <published>2023-05-03T14:14:50-04:00</published>
+    <summary>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe</summary>
+    <link href="ontology/new-item"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
+<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Outcomes</title>
     <id>item-ac8baab4-f493-4fd9-9826-5f79e2e44c03</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:15:02-04:00</published>
     <summary>Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the "first and foremost" of all course aspects. Specifically, what s</summary>
     <link href="ontology/page"/>
@@ -210,7 +210,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Structure</title>
     <id>item-42b47c5a-8ad2-4507-bef1-0488c65cc54a</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:15:03-04:00</published>
     <summary>Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo</summary>
     <link href="ontology/page-1"/>
@@ -226,7 +226,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Content</title>
     <id>item-d57321c6-4106-45ec-89a4-8ebdf0af67f2</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:15:04-04:00</published>
     <summary>Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination </summary>
     <link href="ontology/page-2"/>
@@ -242,7 +242,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Instruction</title>
     <id>item-23eb212e-a523-4d7b-862a-0a00cb786321</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:15:05-04:00</published>
     <summary>Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie</summary>
     <link href="ontology/page-3"/>
@@ -266,7 +266,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Assessment</title>
     <id>item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5</id>
-    <updated>2024-04-19T11:31:54-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:15:09-04:00</published>
     <summary>Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake</summary>
     <link href="ontology/page-4"/>
@@ -282,7 +282,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>First-time HAX User</title>
     <id>item-22596832-8320-4c7f-b7ae-f403d1d9ca31</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-05-03T14:20:32-04:00</published>
     <summary>Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt</summary>
     <link href="tutorials/brand-new-user"/>
@@ -301,7 +301,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Managing Course Structure</title>
     <id>item-3e882dd4-4f71-4035-9ea0-26d840853c29</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:37:24-04:00</published>
     <summary>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</summary>
     <link href="tutorials/page-1"/>
@@ -315,7 +315,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Insights dashboard</title>
     <id>item-ca6807b1-e87c-4cb5-989c-cb4331b5d031</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-05-03T14:37:42-04:00</published>
     <summary>Insights provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.Automated Link Checking</summary>
     <link href="tutorials/insights-dashboard"/>
@@ -331,7 +331,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>Block usage</title>
     <id>item-50802aa4-f49e-4207-98d2-7ef3745568fc</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-05-03T14:38:06-04:00</published>
     <summary>HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you</summary>
     <link href="tutorials/block-usage"/>
@@ -347,7 +347,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" data-hax-layout="true"
   <entry>
     <title>What is HAX?</title>
     <id>item-06108b56-48b5-4c50-b262-81659edc750e</id>
-    <updated>2024-06-27T13:49:55-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-06-28T08:51:22-04:00</published>
     <summary>A new way of authoringWrite HTML without knowing it, HAX is here to transform web publishing. Watch why HAX is different than past CMS solutions as well as pillars of development and where the platf</summary>
     <link href="what-is-hax"/>
@@ -385,7 +385,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>Marketing</title>
     <id>item-8991f223-d78f-42c3-a5f4-da79658ad80e</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-06-28T08:57:35-04:00</published>
     <summary>Trying to talk to a friend or convince a decision maker to check out HAX? Here's some materials to help.HAX one page (embedded below)</summary>
     <link href="marketing"/>
@@ -403,7 +403,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>White papers</title>
     <id>item-0842ac8e-9e65-4715-be25-e3ef4c0baf8b</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-06-28T09:03:55-04:00</published>
     <summary>HAX is built on thought work spanning 2008 to present. Occasionally we will release white papers associated with the project but typically these are produced for specific events or conferenence submi</summary>
     <link href="documentation/white-papers"/>
@@ -428,7 +428,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>Stand alone tools</title>
     <id>item-0d30bca9-c852-4b30-ae4e-abc519262d31</id>
-    <updated>2024-04-19T11:31:54-04:00</updated>
+    <updated>2024-07-10T13:45:08-04:00</updated>
     <published>2023-06-28T10:00:11-04:00</published>
     <summary>Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea</summary>
     <link href="stand-alone-tools"/>
@@ -443,7 +443,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>Qualitative Rubric Prototype</title>
     <id>item-635fe9b5-9bda-4658-a1af-3a366d123657</id>
-    <updated>2024-06-27T14:08:14-04:00</updated>
+    <updated>2024-07-10T13:45:08-04:00</updated>
     <published>2023-06-28T10:02:05-04:00</published>
     <summary>We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with </summary>
     <link href="stand-alone-tools/rubrics"/>
@@ -459,7 +459,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>Conversion tools</title>
     <id>item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9</id>
-    <updated>2024-06-27T14:07:50-04:00</updated>
+    <updated>2024-07-10T13:45:08-04:00</updated>
     <published>2023-06-28T10:15:29-04:00</published>
     <summary>These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression / image resizer (tweak settings then right</summary>
     <link href="stand-alone-tools/conversion-tools"/>
@@ -485,31 +485,9 @@ perience" which is a development philosophy focused on each word and it's impact
     </content>
   </entry>
   <entry>
-    <title>Environmental impact</title>
-    <id>item-edcd6f86-05b5-43a9-8766-8a56709451c8</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
-    <published>2023-06-29T11:01:12-04:00</published>
-    <summary>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr</summary>
-    <link href="pledges/environmental-impact"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
-<ul><li>Turning to web standards over large libraries to use less resources</li>
-<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
-<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
-<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
-<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
-</ul>
-<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" style="background-color: var(--simple-colors-default-theme-grey-1); color: var(--simple-colors-default-theme-grey-12); padding: 8px; margin-top: 0px;" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" role="textbox">please submit an issue request to our queue</a>
- detailing how we can achieve a greener platform.</p>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Accessibility & Empowerment</title>
     <id>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-06-29T11:01:12-04:00</published>
     <summary>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y, we mean access to everyone, everywhere, regardless of abilit</summary>
     <link href="pledges/accessibility-empowerment"/>
@@ -532,9 +510,31 @@ perience" which is a development philosophy focused on each word and it's impact
     </content>
   </entry>
   <entry>
+    <title>Environmental impact</title>
+    <id>item-edcd6f86-05b5-43a9-8766-8a56709451c8</id>
+    <updated>2024-07-10T13:45:06-04:00</updated>
+    <published>2023-06-29T11:01:12-04:00</published>
+    <summary>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr</summary>
+    <link href="pledges/environmental-impact"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
+<ul><li>Turning to web standards over large libraries to use less resources</li>
+<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
+<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
+<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
+<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
+</ul>
+<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" style="background-color: var(--simple-colors-default-theme-grey-1); color: var(--simple-colors-default-theme-grey-12); padding: 8px; margin-top: 0px;" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" role="textbox">please submit an issue request to our queue</a>
+ detailing how we can achieve a greener platform.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Pledges</title>
     <id>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:06-04:00</updated>
     <published>2023-06-29T11:01:12-04:00</published>
     <summary>These are pledges we make to our community and attempt to strive towards. We won't always hit the mark, but we try our best to do so. These aspirations push us closer to who we want to be as a com</summary>
     <link href="pledges"/>
@@ -553,7 +553,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>The Core</title>
     <id>item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca</id>
-    <updated>2024-04-19T11:31:53-04:00</updated>
+    <updated>2024-07-10T13:45:07-04:00</updated>
     <published>2023-06-29T13:04:13-04:00</published>
     <summary>The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si</summary>
     <link href="ontology/page-5"/>
@@ -571,7 +571,7 @@ perience" which is a development philosophy focused on each word and it's impact
   <entry>
     <title>Course Model Player</title>
     <id>item-14ee9de9-51d1-4a0d-9944-3ba6856ac053</id>
-    <updated>2024-04-19T11:31:54-04:00</updated>
+    <updated>2024-07-10T13:45:08-04:00</updated>
     <published>2023-07-14T16:16:39-04:00</published>
     <summary>                                                                                                                                                      Cross section view of the </summary>
     <link href="page"/>
