@@ -986,21 +986,23 @@
         },
         {
             "id": "item-de9dbbb5-949b-49c0-95ad-dbbc84835db0",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-de9dbbb5-949b-49c0-95ad-dbbc84835db0\/index.html",
             "slug": "the-gallery-of-online-excellence\/effective-educational-video\/in-short-a-sound-process\/planning-the-lecture-copy",
             "order": 0,
             "parent": "item-e115dd47-3a78-4e40-963e-46466a268290",
-            "title": "Planning the Lecture Copy",
-            "description": "",
+            "title": "Follow Cognitive Load Theory",
+            "description": "Guideline 1: Will video achieve your instructional goals?Student-Centered Learning ObjectivesBefore we can think about your video's suitability to your instructional goals for  students, we must h",
             "metadata": {
                 "created": "1720633436",
-                "updated": 1720633508,
+                "updated": 1720633547,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": ""
+                "published": true,
+                "locked": false,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 8
             }
         },
         {
