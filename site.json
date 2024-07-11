@@ -935,7 +935,7 @@
         },
         {
             "id": "item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c\/index.html",
             "slug": "planning-the-lecture",
             "order": 0,
@@ -944,14 +944,14 @@
             "description": "Featured Research ArticleEvidence-Based Guidelines for Recording Slide-Based LecturesMedical Science Educator (2020) 30:1611\u20131616 https:\/\/doi.org\/10.1007\/s40670-020-01032-wSit quia incidunt ",
             "metadata": {
                 "created": "1702671663",
-                "updated": 1720633508,
+                "updated": 1720727748,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "8",
+                "published": true,
+                "locked": false,
+                "readtime": 8,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/book-7647732_640.png",
