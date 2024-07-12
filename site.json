@@ -2497,7 +2497,7 @@
         },
         {
             "id": "item-d597021d-28f9-402d-9d2c-8edff8c96e59",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-d597021d-28f9-402d-9d2c-8edff8c96e59\/index.html",
             "slug": "page-2-page-3",
             "order": 5,
@@ -2506,12 +2506,12 @@
             "description": "Column one content to replaceColumn two content to replace",
             "metadata": {
                 "created": "1701455613",
-                "updated": 1720797150,
+                "updated": 1720809671,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "locked": false,
+                "readtime": 2,
                 "status": "",
                 "files": [
                     {
@@ -2592,7 +2592,7 @@
                         "size": "109538"
                     }
                 ],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
