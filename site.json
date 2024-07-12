@@ -3448,14 +3448,14 @@
             "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
             "metadata": {
                 "created": "1701201443",
-                "updated": 1720797150,
+                "updated": 1720815355,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
