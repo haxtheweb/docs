@@ -1098,24 +1098,25 @@
         },
         {
             "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
-            "indent": "4",
+            "indent": 0,
             "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/multiple-choice",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/multiple-choice",
             "order": 0,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Multiple choice",
             "description": "When reading content or processing a lecture, it's a good idea to stop and ask the user questions about what they experienced. Multiple choice questions are a simple comprehension check. Note that da",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1697042706",
                 "images": [],
                 "videos": [
                     "https:\/\/youtu.be\/VRvzbfdOOz0"
                 ],
-                "updated": 1721076144,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
+                "updated": 1721076315,
+                "published": true,
+                "readtime": 1,
+                "status": "",
+                "hideInMenu": false
             }
         },
         {
