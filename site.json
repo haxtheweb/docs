@@ -1588,19 +1588,22 @@
         },
         {
             "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
-            "indent": "4",
+            "indent": 0,
             "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
             "slug": "tutorials\/block-usage\/instructional\/page\/fill-in-the-blanks",
             "order": 1,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Fill in the blanks",
-            "description": "",
+            "description": "This question type allows the user to complete a sentance by answering in context of other written material. Input fields are visualized directly in the paragraph and they are be modified easily via ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721076144
+                "updated": 1721076272,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
