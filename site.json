@@ -2696,15 +2696,20 @@
             "indent": 0,
             "location": "pages\/item-5931cf01-9b8d-4bdd-990b-6f4465174dcf\/index.html",
             "slug": "tutorials\/block-usage\/page",
-            "order": "1",
+            "order": 1,
             "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "title": "Page",
+            "title": "Question types",
             "description": "",
             "metadata": {
                 "created": 1721075977,
-                "updated": 1721075977,
+                "updated": 1721076008,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "tags": "question",
+                "locked": false,
+                "readtime": 1
             }
         },
         {
