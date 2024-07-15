@@ -1649,19 +1649,22 @@
         },
         {
             "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
-            "indent": "4",
+            "indent": 0,
             "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/page\/short-answer",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer",
             "order": 4,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Short Answer",
             "description": "",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721076144
+                "updated": 1721076364,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
