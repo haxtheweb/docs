@@ -264,7 +264,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-a1b1587a-b40a-463f-ad4a-e5a05a98fd8c\/index.html",
-        "8ty9nlFfHQqmsIe9F7fbg"
+        "Ypc2RP47bHI6dIGAaOppRA"
     ],
     [
         "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
