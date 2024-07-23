@@ -395,7 +395,7 @@
         },
         {
             "id": "item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8\/index.html",
             "slug": "pledges",
             "order": 1,
@@ -403,15 +403,15 @@
             "title": "Pledges",
             "description": "These are pledges we make to our community and attempt to strive towards. We won't always hit the mark, but we try our best to do so. These aspirations push us closer to who we want to be as a com",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1688050872",
                 "images": [],
                 "videos": [],
-                "updated": 1721076144,
-                "published": "1",
+                "updated": 1721766529,
+                "published": true,
                 "status": "",
-                "readtime": "1",
-                "hideInMenu": ""
+                "readtime": 1,
+                "hideInMenu": false
             }
         },
         {
