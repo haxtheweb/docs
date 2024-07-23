@@ -376,7 +376,16 @@
                 "published": true,
                 "status": "",
                 "hideInMenu": false,
-                "readtime": 2
+                "readtime": 2,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/woods.png",
+                        "url": "files\/woods.png",
+                        "type": "image\/png",
+                        "name": "woods.png",
+                        "size": 481769
+                    }
+                ]
             }
         },
         {
