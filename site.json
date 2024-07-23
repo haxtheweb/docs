@@ -456,7 +456,7 @@
         },
         {
             "id": "item-ed0d786a-105e-46ac-b848-49073917809b",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-ed0d786a-105e-46ac-b848-49073917809b\/index.html",
             "slug": "welcome\/community\/history",
             "order": 2,
@@ -465,13 +465,13 @@
             "description": "To know who you are, you have to know where you've been. HAX is born out of a decade of work around making it easier for faculty, students and staff to be creative with online materials and more easi",
             "metadata": {
                 "created": "1707159947",
-                "updated": 1721076144,
+                "updated": 1721766441,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
