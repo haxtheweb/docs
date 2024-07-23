@@ -358,21 +358,23 @@
         },
         {
             "id": "item-873f7ad0-8fdd-4c51-81e0-e8f55ea612a5",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-873f7ad0-8fdd-4c51-81e0-e8f55ea612a5\/index.html",
             "slug": "welcome\/community\/pillars\/sustainability",
             "order": 5,
             "parent": "item-a13f6fde-9c55-4a1c-bd64-cf8498be649d",
             "title": "Sustainability",
-            "description": "",
+            "description": "When we say Sustainability in HAX we mean a few different forms:Environmentalsend less data, use less batterythink of offline, high cache time, and repurposed solutionsTechnologicalCode should wo",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1721076144,
-                "published": "1",
-                "status": ""
+                "updated": 1721768380,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
