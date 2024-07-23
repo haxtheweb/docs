@@ -364,7 +364,7 @@
             "order": 5,
             "parent": "item-a13f6fde-9c55-4a1c-bd64-cf8498be649d",
             "title": "Sustainability",
-            "description": "When we say Sustainability in HAX we mean a few different forms for sustinability. There's environmental, technological, and project sustainability.Environmentalsend less data, use less batterythin",
+            "description": "When we say Sustainability in HAX we mean a few different forms:Environmentalsend less data, use less batterythink of offline, high cache time, and repurposed solutionsTechnologicalCode should wo",
             "metadata": {
                 "locked": false,
                 "created": "1706289893",
@@ -372,7 +372,7 @@
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=fZ0Xk2j24L0"
                 ],
-                "updated": 1721769022,
+                "updated": 1721769097,
                 "published": true,
                 "status": "",
                 "hideInMenu": false,
@@ -385,7 +385,9 @@
                         "name": "woods.png",
                         "size": 481769
                     }
-                ]
+                ],
+                "image": "files\/woods.png",
+                "tags": "pillar, environment"
             }
         },
         {
