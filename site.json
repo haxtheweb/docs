@@ -209,7 +209,7 @@
         },
         {
             "id": "item-68ecb822-ae89-466a-bce2-20b33332451a",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-68ecb822-ae89-466a-bce2-20b33332451a\/index.html",
             "slug": "community",
             "order": 4,
@@ -217,14 +217,15 @@
             "title": "Community",
             "description": "Ways to get more involved with our community:Join us on discord to chatFollow on XFollow on LinkedInParticipate in issue queues by offering ideas or areas for improvementMeet upsWe have a ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1698236840",
                 "images": [],
                 "videos": [],
-                "updated": 1721076144,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
+                "updated": 1721766606,
+                "published": true,
+                "readtime": 1,
+                "status": "",
+                "hideInMenu": false
             }
         },
         {
