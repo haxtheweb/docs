@@ -2249,16 +2249,21 @@
             "id": "item-178875ba-a955-48b5-855a-9e1435d5d840",
             "indent": 0,
             "location": "pages\/item-178875ba-a955-48b5-855a-9e1435d5d840\/index.html",
-            "slug": "documentation\/integrations\/page",
-            "order": "0",
+            "slug": "documentation\/integrations\/data-formats",
+            "order": 1,
             "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Page",
-            "description": "",
+            "title": "Data formats",
+            "description": "This is a list of the data formats that HAX supports for entry and multi-media presentationMathJAXLatexMarkdown \/ md (convert to HTML or embed source as HTML)DocX (convert to HTML)Web Components \/ H",
             "metadata": {
                 "created": 1721847613,
-                "updated": 1721847613,
+                "updated": 1721847751,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "tags": "data",
+                "locked": false,
+                "readtime": 1
             }
         },
         {
