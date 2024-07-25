@@ -516,7 +516,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "AdkcOKWMW4boZvEcjwnHhg"
+        "2BXV7kQMtykOjw9JtX8uCQ"
     ],
     [
         "404.html",
@@ -1081,6 +1081,10 @@ var precacheConfig = [
     [
         "files\/image47.png",
         "w0Asx7b95mTt9Gy9H4w"
+    ],
+    [
+        "files\/Screenshot from 2024-07-25 10-22-59.png",
+        "b5GP8tiCI2QWS66tF9vlA"
     ],
     [
         "files\/HAX.psu World changer-circle1.png",
