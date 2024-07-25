@@ -1159,7 +1159,16 @@
                 "updated": 1721143794,
                 "published": true,
                 "hideInMenu": false,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "url": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 11-09-09.png",
+                        "size": 54826
+                    }
+                ]
             }
         },
         {
