@@ -1177,17 +1177,17 @@
             "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
             "indent": 0,
             "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer-question",
             "order": 4,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Short Answer",
-            "description": "",
+            "title": "Short Answer Question",
+            "description": "Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.ExampleDevelopernpm install @haxtheweb\/multiple-choice --save (short-answer-quest",
             "metadata": {
                 "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721076364,
+                "updated": 1721920592,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1199,7 +1199,9 @@
                         "name": "Screenshot from 2024-07-25 11-13-35.png",
                         "size": 28400
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-13-35.png",
+                "tags": "instructional, question"
             }
         },
         {
