@@ -1195,7 +1195,7 @@
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721917958,
+                "updated": 1721917976,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1215,7 +1215,8 @@
                         "size": 26579
                     }
                 ],
-                "image": "files\/Screenshot from 2024-07-25 10-22-591.png"
+                "image": "files\/Screenshot from 2024-07-25 10-22-591.png",
+                "tags": "instructional, question, tagging"
             }
         },
         {
