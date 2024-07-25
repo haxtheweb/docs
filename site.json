@@ -1054,10 +1054,8 @@
                 "locked": false,
                 "created": "1697042706",
                 "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/VRvzbfdOOz0"
-                ],
-                "updated": 1721918320,
+                "videos": [],
+                "updated": 1721919746,
                 "published": true,
                 "readtime": 1,
                 "status": "",
@@ -1078,7 +1076,8 @@
                         "size": 40949
                     }
                 ],
-                "image": "files\/Screenshot from 2024-07-25 10-36-031.png"
+                "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
+                "tags": "instructional, question"
             }
         },
         {
