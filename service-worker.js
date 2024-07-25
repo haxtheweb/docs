@@ -516,7 +516,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "JmBZc9il5iJHvm7x5Lw7Pg"
+        "LZUiy1S0NxKqwWCkKOcbig"
     ],
     [
         "404.html",
@@ -669,6 +669,10 @@ var precacheConfig = [
     [
         "files\/Book_at_50_percent.png",
         "dnsTYUQ4XtBoZ2AexpuHQ"
+    ],
+    [
+        "files\/Screenshot from 2024-07-25 10-36-03.png",
+        "7EnPOFJWCa3qzLxVOn8bg"
     ],
     [
         "files\/image74.png",
