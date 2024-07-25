@@ -1146,17 +1146,17 @@
             "id": "item-7c4e5edc-892b-4272-8513-248dd4d4efe5",
             "indent": 0,
             "location": "pages\/item-7c4e5edc-892b-4272-8513-248dd4d4efe5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-\/-drag-and-drop",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-drag-and-drop",
             "order": 3,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Matching \/ Drag and drop",
-            "description": "",
+            "description": "Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers. Targets can have multiple answers associated with them and there can also be options tha",
             "metadata": {
                 "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721143794,
+                "updated": 1721920267,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1168,7 +1168,9 @@
                         "name": "Screenshot from 2024-07-25 11-09-09.png",
                         "size": 54826
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                "tags": "instructional, question, matching"
             }
         },
         {
