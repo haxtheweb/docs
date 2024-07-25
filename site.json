@@ -1048,7 +1048,7 @@
             "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
             "metadata": {
                 "created": 1721924056,
-                "updated": 1721924273,
+                "updated": 1721924317,
                 "images": [],
                 "videos": [],
                 "published": true,
@@ -1064,7 +1064,8 @@
                         "name": "Screenshot from 2024-07-25 12-18-15.png",
                         "size": 25561
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 12-18-15.png"
             }
         },
         {
