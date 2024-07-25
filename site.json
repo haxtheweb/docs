@@ -1055,7 +1055,16 @@
                 "hideInMenu": false,
                 "tags": "question, true false",
                 "locked": false,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "url": "files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 12-18-15.png",
+                        "size": 25561
+                    }
+                ]
             }
         },
         {
