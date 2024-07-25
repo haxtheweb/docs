@@ -1041,16 +1041,21 @@
             "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
             "indent": 0,
             "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/page",
-            "order": "0",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/true-false-question",
+            "order": 1,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Page",
-            "description": "",
+            "title": "True false question",
+            "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
             "metadata": {
                 "created": 1721924056,
-                "updated": 1721924056,
+                "updated": 1721924273,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "tags": "question, true false",
+                "locked": false,
+                "readtime": 1
             }
         },
         {
