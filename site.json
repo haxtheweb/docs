@@ -1120,13 +1120,13 @@
             "order": 2,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Mark the Words",
-            "description": "",
+            "description": "Feedback in context of sentences",
             "metadata": {
                 "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721143540,
+                "updated": 1721919444,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1138,7 +1138,9 @@
                         "name": "Screenshot from 2024-07-25 10-56-44.png",
                         "size": 33515
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-56-44.png",
+                "tags": "instructional, question, mark"
             }
         },
         {
