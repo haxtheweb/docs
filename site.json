@@ -1189,13 +1189,13 @@
             "order": 6,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Tagging question",
-            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only&#160;select  the correct answers without",
+            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only\u00a0select  the correct answers without",
             "metadata": {
                 "locked": false,
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721917945,
+                "updated": 1721917958,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1214,7 +1214,8 @@
                         "name": "Screenshot from 2024-07-25 10-22-591.png",
                         "size": 26579
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-22-591.png"
             }
         },
         {
