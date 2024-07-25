@@ -1157,7 +1157,7 @@
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721076425,
+                "updated": 1721917105,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1176,7 +1176,9 @@
                         "name": "image81.png",
                         "size": 29333
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-13-13.png",
+                "tags": "question, instructional, sorting"
             }
         },
         {
