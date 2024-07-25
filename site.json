@@ -1057,7 +1057,7 @@
                 "videos": [
                     "https:\/\/youtu.be\/VRvzbfdOOz0"
                 ],
-                "updated": 1721076908,
+                "updated": 1721918170,
                 "published": true,
                 "readtime": 1,
                 "status": "",
@@ -1070,7 +1070,9 @@
                         "name": "Screenshot from 2024-07-25 10-36-03.png",
                         "size": 40949
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-36-03.png",
+                "tags": "instructional, question"
             }
         },
         {
