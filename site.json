@@ -573,77 +573,144 @@
             }
         },
         {
-            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
-            "indent": "2",
-            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
-            "slug": "ontology\/page-5",
+            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "indent": "1",
+            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
+            "slug": "stand-alone-tools",
             "order": 0,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "The Core",
-            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
+            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "title": "Stand alone tools",
+            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
             "metadata": {
-                "created": "1688058253",
-                "updated": 1721076144,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
-                        "url": "files\/1_The Core.png",
-                        "type": "image\/png",
-                        "name": "1_The Core.png",
-                        "size": "346696"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-778bd19b-566a-422b-99d1-20f564f12489",
-            "indent": "3",
-            "location": "pages\/item-778bd19b-566a-422b-99d1-20f564f12489\/index.html",
-            "slug": "tutorials\/block-usage\/layout\/collection-list",
-            "order": 0,
-            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
-            "title": "Collection List",
-            "description": "A collection list is for organizing and automatically presenting ",
-            "metadata": {
-                "created": "1706294553",
-                "updated": 1721076144,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "collection",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
-            "indent": "2",
-            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
-            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
-            "order": 0,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Implementing DDD",
-            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
-            "metadata": {
-                "created": "1710530361",
+                "created": "1687960811",
                 "updated": 1721076145,
                 "images": [],
                 "videos": [],
                 "published": "1",
-                "hideInMenu": "",
                 "locked": "",
-                "readtime": "2",
-                "status": ""
+                "status": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
+            "indent": "2",
+            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
+            "slug": "stand-alone-tools\/conversion-tools",
+            "order": 0,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Conversion tools",
+            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "metadata": {
+                "created": "1687961729",
+                "updated": 1721076146,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "tags": "tool, convert, labs",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
+            "indent": "2",
+            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
+            "slug": "the-future\/stand-alone-tools\/local-save",
+            "order": 1,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Local Save",
+            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
+            "metadata": {
+                "created": "1698434154",
+                "updated": 1721076146,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment,local",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
+            "indent": "2",
+            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
+            "slug": "stand-alone-tools\/rubrics",
+            "order": 2,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Qualitative Rubric Prototype",
+            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
+            "metadata": {
+                "created": "1687960925",
+                "updated": 1721076146,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "pageType": "connection",
+                "tags": "experiment, gradebook, lab, rubric",
+                "status": "",
+                "icon": "courseicons:chem-connection",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
+            "indent": "2",
+            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
+            "slug": "page",
+            "order": 3,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Course Model Player",
+            "description": "                                                                                                                                                      Cross section view of the ",
+            "metadata": {
+                "created": "1689365799",
+                "updated": 1721076146,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "theme": {
+                    "element": "haxcms-blank-theme",
+                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
+                    "name": "Blank theme",
+                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
+                    "key": "haxcms-blank-theme"
+                },
+                "pageType": "connection",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
+            "indent": "2",
+            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
+            "slug": "stand-alone-tools\/page",
+            "order": 4,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Keycloak authentication",
+            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
+            "metadata": {
+                "created": "1695304652",
+                "updated": 1721076146,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
             }
         },
         {
@@ -968,6 +1035,22 @@
                 ],
                 "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
                 "tags": "instructional, question"
+            }
+        },
+        {
+            "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
+            "indent": 0,
+            "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/page",
+            "order": "0",
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1721924056,
+                "updated": 1721924056,
+                "images": [],
+                "videos": []
             }
         },
         {
@@ -1516,144 +1599,25 @@
             }
         },
         {
-            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "indent": "1",
-            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
-            "slug": "stand-alone-tools",
+            "id": "item-778bd19b-566a-422b-99d1-20f564f12489",
+            "indent": "3",
+            "location": "pages\/item-778bd19b-566a-422b-99d1-20f564f12489\/index.html",
+            "slug": "tutorials\/block-usage\/layout\/collection-list",
             "order": 0,
-            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "title": "Stand alone tools",
-            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
+            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
+            "title": "Collection List",
+            "description": "A collection list is for organizing and automatically presenting ",
             "metadata": {
-                "created": "1687960811",
-                "updated": 1721076145,
+                "created": "1706294553",
+                "updated": 1721076144,
                 "images": [],
                 "videos": [],
                 "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
-            "indent": "2",
-            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
-            "slug": "stand-alone-tools\/conversion-tools",
-            "order": 0,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Conversion tools",
-            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
-            "metadata": {
-                "created": "1687961729",
-                "updated": 1721076146,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "tags": "tool, convert, labs",
+                "hideInMenu": "",
+                "tags": "collection",
                 "locked": "",
                 "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
-            "indent": "2",
-            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
-            "slug": "the-future\/stand-alone-tools\/local-save",
-            "order": 1,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Local Save",
-            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
-            "metadata": {
-                "created": "1698434154",
-                "updated": 1721076146,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment,local",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
-            "indent": "2",
-            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
-            "slug": "stand-alone-tools\/rubrics",
-            "order": 2,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Qualitative Rubric Prototype",
-            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
-            "metadata": {
-                "created": "1687960925",
-                "updated": 1721076146,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "pageType": "connection",
-                "tags": "experiment, gradebook, lab, rubric",
-                "status": "",
-                "icon": "courseicons:chem-connection",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
-            "indent": "2",
-            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
-            "slug": "page",
-            "order": 3,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Course Model Player",
-            "description": "                                                                                                                                                      Cross section view of the ",
-            "metadata": {
-                "created": "1689365799",
-                "updated": 1721076146,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "theme": {
-                    "element": "haxcms-blank-theme",
-                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
-                    "name": "Blank theme",
-                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
-                    "key": "haxcms-blank-theme"
-                },
-                "pageType": "connection",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
-            "indent": "2",
-            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
-            "slug": "stand-alone-tools\/page",
-            "order": 4,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Keycloak authentication",
-            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
-            "metadata": {
-                "created": "1695304652",
-                "updated": 1721076146,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
+                "status": ""
             }
         },
         {
@@ -2472,6 +2436,37 @@
             }
         },
         {
+            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
+            "indent": "2",
+            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
+            "slug": "ontology\/page-5",
+            "order": 0,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "The Core",
+            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
+            "metadata": {
+                "created": "1688058253",
+                "updated": 1721076144,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
+                        "url": "files\/1_The Core.png",
+                        "type": "image\/png",
+                        "name": "1_The Core.png",
+                        "size": "346696"
+                    }
+                ]
+            }
+        },
+        {
             "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
             "indent": "2",
             "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
@@ -2854,24 +2849,23 @@
             }
         },
         {
-            "id": "item-225b6f65-9b18-4960-9ae8-7dd9face20a7",
-            "indent": "3",
-            "location": "pages\/item-225b6f65-9b18-4960-9ae8-7dd9face20a7\/index.html",
-            "slug": "tutorials\/block-usage\/multimedia\/gif-player",
-            "order": 1,
-            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
-            "title": "GIF player",
-            "description": "Did you know that the default behavior of the web is to play .gif files automatically if they are added to websites? Did you also know that this is an accessibility issue and disruptive to those pron",
+            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
+            "indent": "2",
+            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
+            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
+            "order": 0,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Implementing DDD",
+            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
             "metadata": {
-                "created": "1706295234",
-                "updated": 1721076144,
+                "created": "1710530361",
+                "updated": 1721076145,
                 "images": [],
                 "videos": [],
                 "published": "1",
                 "hideInMenu": "",
-                "tags": "a11y",
                 "locked": "",
-                "readtime": "1",
+                "readtime": "2",
                 "status": ""
             }
         },
@@ -2897,24 +2891,24 @@
             }
         },
         {
-            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
-            "indent": "2",
-            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
-            "slug": "documentation\/deploying-haxcms",
+            "id": "item-225b6f65-9b18-4960-9ae8-7dd9face20a7",
+            "indent": "3",
+            "location": "pages\/item-225b6f65-9b18-4960-9ae8-7dd9face20a7\/index.html",
+            "slug": "tutorials\/block-usage\/multimedia\/gif-player",
             "order": 1,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Deploying HAXcms",
-            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
+            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
+            "title": "GIF player",
+            "description": "Did you know that the default behavior of the web is to play .gif files automatically if they are added to websites? Did you also know that this is an accessibility issue and disruptive to those pron",
             "metadata": {
-                "created": "1705611933",
-                "updated": 1721076145,
+                "created": "1706295234",
+                "updated": 1721076144,
                 "images": [],
                 "videos": [],
                 "published": "1",
                 "hideInMenu": "",
-                "tags": "haxcms,deployment,documentation",
+                "tags": "a11y",
                 "locked": "",
-                "readtime": "3",
+                "readtime": "1",
                 "status": ""
             }
         },
@@ -2937,6 +2931,28 @@
                 "updated": 1721076144,
                 "published": "1",
                 "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
+            "indent": "2",
+            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
+            "slug": "documentation\/deploying-haxcms",
+            "order": 1,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Deploying HAXcms",
+            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
+            "metadata": {
+                "created": "1705611933",
+                "updated": 1721076145,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "haxcms,deployment,documentation",
+                "locked": "",
+                "readtime": "3",
                 "status": ""
             }
         },
