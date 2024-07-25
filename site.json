@@ -1095,7 +1095,7 @@
                 "created": 1721076144,
                 "images": [],
                 "videos": [],
-                "updated": 1721919066,
+                "updated": 1721919133,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
@@ -1107,7 +1107,9 @@
                         "name": "Screenshot from 2024-07-25 10-51-51.png",
                         "size": 24119
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
+                "tags": "instructional, question, fill"
             }
         },
         {
