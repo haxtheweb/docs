@@ -1049,7 +1049,7 @@
             "order": 0,
             "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
             "title": "Multiple choice",
-            "description": "Ask users a question",
+            "description": "Ask users a question with multiple possible answers",
             "metadata": {
                 "locked": false,
                 "created": "1697042706",
@@ -1057,7 +1057,7 @@
                 "videos": [
                     "https:\/\/youtu.be\/VRvzbfdOOz0"
                 ],
-                "updated": 1721918194,
+                "updated": 1721918217,
                 "published": true,
                 "readtime": 1,
                 "status": "",
