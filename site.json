@@ -574,7 +574,7 @@
         },
         {
             "id": "item-7d7e9a33-1d6a-4b29-a442-35cef09ee666",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-7d7e9a33-1d6a-4b29-a442-35cef09ee666\/index.html",
             "slug": "tutorials\/block-usage\/instructional\/math",
             "order": 0,
@@ -582,13 +582,13 @@
             "title": "Math",
             "description": "To communicate about concepts in Mathematics a new form of expression language was required to translate chalkboard notation to the web. That syntax is known as MathML or LaTeXML. HAX supports this t",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1697042706",
                 "images": [],
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=PBnd7A0OmhU"
                 ],
-                "updated": 1721076144,
+                "updated": 1721918022,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image31.png",
@@ -598,10 +598,11 @@
                         "size": "30911"
                     }
                 ],
-                "published": "1",
-                "readtime": "1",
+                "published": true,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false,
+                "tags": "instructional, math"
             }
         },
         {
