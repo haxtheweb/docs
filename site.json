@@ -453,23 +453,23 @@
         },
         {
             "id": "item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb\/index.html",
             "slug": "pledges\/accessibility-empowerment",
             "order": 1,
             "parent": "item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8",
-            "title": "Accessibility &amp; Empowerment",
+            "title": "Accessibility and Empowerment",
             "description": "HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y, we mean access to everyone, everywhere, regardless of abilit",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1688050872",
                 "images": [],
                 "videos": [],
-                "updated": 1722017906,
-                "published": "1",
-                "readtime": "1",
+                "updated": 1722017925,
+                "published": true,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
