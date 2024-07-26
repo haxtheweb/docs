@@ -146,7 +146,7 @@
         },
         {
             "id": "item-4550bc1f-bef7-4891-85f0-58647624a26b",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-4550bc1f-bef7-4891-85f0-58647624a26b\/index.html",
             "slug": "welcome\/why-hax",
             "order": 1,
@@ -155,13 +155,13 @@
             "description": "Web content authoring solutions are a mix of trade offs, training and fragmented experiences for people putting their voice on the web. HAX changes the game, by fully integrating design capabilities ",
             "metadata": {
                 "created": "1713538146",
-                "updated": 1721924751,
+                "updated": 1722017864,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
