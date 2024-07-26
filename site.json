@@ -3650,7 +3650,7 @@
         },
         {
             "id": "item-b29033b8-b3a4-4025-8f6a-f869e044a1be",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-b29033b8-b3a4-4025-8f6a-f869e044a1be\/index.html",
             "slug": "documentation\/hax11ty",
             "order": 7,
@@ -3658,14 +3658,14 @@
             "title": "HAX11ty",
             "description": "HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:User edits via HAX (future) or modifies files locallyhax11ty script watches for changes and rebuilds files ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1707142965",
                 "images": [],
                 "videos": [],
-                "updated": 1721924752,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1722012114,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         },
