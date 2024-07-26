@@ -1,671 +1,671 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- generator-class="Icamys\SitemapGenerator\SitemapGenerator" -->
 <!-- generator-version="1.1.0" -->
-<!-- generated-on="2024-07-26T14:18:03-04:00" -->
+<!-- generated-on="2024-07-26T14:18:28-04:00" -->
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/what-is-hax</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/why-hax</loc>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/why-hax</loc>
-    <lastmod>2024-07-26T14:18:03-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/what-is-hax</loc>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/hax-cloud</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/terminology</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/community</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/community/pillars/accessibility</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/platform-agnostic</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/free-and-open</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/remixability</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/extensibility</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/sustainability</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/pillars/performant</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/pledges</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/pledges/environmental-impact</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:25-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/pledges/accessibility-empowerment</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/welcome/community/history</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/marketing</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/white-papers</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/collection-list</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/the-gallery-of-online-excellence/effective-educational-video/in-short-a-sound-process/planning-the-lecture-copy</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/math</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/fill-in-the-blanks</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/backdropcms</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/stand-alone-tools</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/stand-alone-tools/conversion-tools</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/the-future/stand-alone-tools/local-save</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/stand-alone-tools/rubrics</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/page</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/stand-alone-tools/page</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/site-things/header</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/gallery-exhibits</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/peter-aeschbacher-exhibit</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/bonj-szczygiel-exhibit</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ben-andrew-exhibit</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/brand-new-user</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia/3d-model</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/effective-educational-video</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/in-short-a-sound-process</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/planning-the-lecture</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/creating-content-and-slides</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/recording-the-video</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/design-guidelines-and-principles</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/the-gallery-of-online-excellence/effective-educational-video/in-short-a-sound-process/planning-the-lecture-copy</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/foster-student-engagement</loc>
-    <lastmod>2024-07-25T16:40:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/the-gallery-of-online-excellence/effective-educational-video/design-guidelines-and-principles/foster-student-engagement-copy</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/follow-cognitive-load-theory</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/page-2/research-evidence-base</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/node/243</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/page-2-page-3</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/hax-frontend-devs/implementing-ddd</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/collection-list</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>0.7</priority>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/fill-in-the-blanks</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page-5</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/new-item</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page-1</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page-3</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page-2</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/ontology/page-4</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/page-1</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/math</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/question-types</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/mark-the-words</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/matching-drag-and-drop</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/multiple-choice</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/short-answer-question</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/sorting-question</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/tagging-question</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/question-types/true-false-question</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/self-check</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/stop-note</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/table</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/instructional/timeline</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia/3d-model</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/backdropcms</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/hax-frontend-devs/implementing-ddd</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/brand-new-user</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia/gif-player</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/column-layout</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia/gif-player</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/multimedia/inline-audio</loc>
-    <lastmod>2024-07-25T12:25:51-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/video-player</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/column-layout</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/page</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/block-usage/layout/play-list</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/migrate-data-to-hax</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/page-1</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/insights-dashboard</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/site-things/footer</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/ddd</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/providing-quality-feedback</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/ddd</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/data-formats</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/migrate-data-to-hax</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/page-1</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/tutorials/insights-dashboard</loc>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/site-things/footer</loc>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/deploying-haxcms</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/classicpress</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/hax-frontend-devs</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/study-guide-approaches</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/site-things/footer-bottom</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:26-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/hax-frontend-devs</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/haxcms</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/haxcms/integrations</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/classicpress</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/haxcms/integrations/drupal</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/gravcms</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/integrations/wordpress</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/oer-schema</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/wcfactory</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/hax11ty</loc>
-    <lastmod>2024-07-26T12:41:54-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/documentation/elmsln</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://oer.hax.psu.edu/sites/haxcellence/guided-practice</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/study-guide-approaches</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/odl-course-showcase</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://oer.hax.psu.edu/sites/haxcellence/guided-practice</loc>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/the-gallery-of-online-excellence</loc>
-    <lastmod>2024-07-25T12:25:52-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/page-3</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/the-future</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:27-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://oer.hax.psu.edu/sites/haxcellence/site-things</loc>
-    <lastmod>2024-07-25T12:25:53-04:00</lastmod>
+    <lastmod>2024-07-26T14:18:28-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
