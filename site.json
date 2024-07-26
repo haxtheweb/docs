@@ -301,7 +301,16 @@
                 "published": "1",
                 "status": "",
                 "hideInMenu": "",
-                "readtime": "1"
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.TbvtjA.png",
+                        "url": "files\/CopyQ.TbvtjA.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.TbvtjA.png",
+                        "size": 432418
+                    }
+                ]
             }
         },
         {
