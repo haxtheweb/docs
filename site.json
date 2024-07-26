@@ -361,7 +361,16 @@
                 "videos": [],
                 "updated": 1722017905,
                 "published": "1",
-                "status": ""
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.pRVKqr.png",
+                        "url": "files\/CopyQ.pRVKqr.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.pRVKqr.png",
+                        "size": 427319
+                    }
+                ]
             }
         },
         {
