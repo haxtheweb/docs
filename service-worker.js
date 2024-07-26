@@ -520,7 +520,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "nYvpc56z3rWBhgKSdm2lQ"
+        "qMSbw4jVKGdt1WVIET5ZA"
     ],
     [
         "404.html",
@@ -853,6 +853,10 @@ var precacheConfig = [
     [
         "files\/image73.png",
         "B3PsRqae5uUlX5K1Xmg"
+    ],
+    [
+        "files\/CopyQ.nGnEzH.png",
+        "ZjOnlV8o0F6GcoyGu4yCCw"
     ],
     [
         "files\/ELMSLN-whitepaper-08-28-2014.pdf",

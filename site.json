@@ -478,7 +478,16 @@
                 "published": true,
                 "readtime": 1,
                 "status": "",
-                "hideInMenu": false
+                "hideInMenu": false,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.nGnEzH.png",
+                        "url": "files\/CopyQ.nGnEzH.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.nGnEzH.png",
+                        "size": 412156
+                    }
+                ]
             }
         },
         {
