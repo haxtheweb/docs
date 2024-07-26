@@ -271,7 +271,16 @@
                 "readtime": "1",
                 "tags": "a11y,accessibility,pillar",
                 "image": "https:\/\/images-assets.nasa.gov\/image\/KSC-20180802-PH_KLS01_0059\/KSC-20180802-PH_KLS01_0059~thumb.jpg",
-                "icon": "icons:accessibility"
+                "icon": "icons:accessibility",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.vWFmgL.png",
+                        "url": "files\/CopyQ.vWFmgL.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.vWFmgL.png",
+                        "size": 359159
+                    }
+                ]
             }
         },
         {

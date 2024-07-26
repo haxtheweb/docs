@@ -520,7 +520,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "vySTymEQl0S6hJI4zqakbA"
+        "vqMbyhIu6QlsfLPUDBxIsg"
     ],
     [
         "404.html",
@@ -565,6 +565,10 @@ var precacheConfig = [
     [
         "files\/Bonj Szczygiel.png",
         "s6ZJWThGzBMzcvXBEz2jVQ"
+    ],
+    [
+        "files\/CopyQ.vWFmgL.png",
+        "UJzuGTznAQVHLgffkpDbpw"
     ],
     [
         "files\/image81.png",
