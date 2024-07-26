@@ -457,7 +457,16 @@
                 "published": "1",
                 "readtime": "1",
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.sztLns.png",
+                        "url": "files\/CopyQ.sztLns.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.sztLns.png",
+                        "size": 508780
+                    }
+                ]
             }
         },
         {
