@@ -285,7 +285,7 @@
         },
         {
             "id": "item-52613cf2-1d34-47ed-9a53-dcc1d84dd5f4",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-52613cf2-1d34-47ed-9a53-dcc1d84dd5f4\/index.html",
             "slug": "welcome\/community\/pillars\/platform-agnostic",
             "order": 1,
@@ -293,15 +293,15 @@
             "title": "Platform Agnostic",
             "description": "Platform Agnostic means that HAX technologies will work anywhere. They can work stand alone in the case of HAXsites like this one, as part of a larger solution like HAXcms or HAXiam, on static web pa",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1722017905,
-                "published": "1",
+                "updated": 1722018466,
+                "published": true,
                 "status": "",
-                "hideInMenu": "",
-                "readtime": "1",
+                "hideInMenu": false,
+                "readtime": 1,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.TbvtjA.png",
@@ -310,7 +310,8 @@
                         "name": "CopyQ.TbvtjA.png",
                         "size": 432418
                     }
-                ]
+                ],
+                "image": "files\/CopyQ.TbvtjA.png"
             }
         },
         {
