@@ -401,20 +401,20 @@
         },
         {
             "id": "item-ce9cfcf5-e94f-4fc7-bdce-bda88e477a7f",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-ce9cfcf5-e94f-4fc7-bdce-bda88e477a7f\/index.html",
             "slug": "welcome\/community\/pillars\/remixability",
             "order": 5,
             "parent": "item-a13f6fde-9c55-4a1c-bd64-cf8498be649d",
             "title": "Remixability",
-            "description": "",
+            "description": "Much in the same vein as Free and Open, HAX will seek to maximize remix-ability of the platform and anything released in pursuit of the Ubiquitous Web. Users of HAX tools whether it be outline design",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1722023231,
-                "published": "1",
+                "updated": 1722026059,
+                "published": true,
                 "status": "",
                 "files": [
                     {
@@ -425,9 +425,9 @@
                         "size": "427319"
                     }
                 ],
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "image": "files\/CopyQ.pRVKqr.png",
-                "readtime": "1"
+                "readtime": 1
             }
         },
         {
