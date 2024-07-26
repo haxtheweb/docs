@@ -347,7 +347,7 @@
         },
         {
             "id": "item-ce9cfcf5-e94f-4fc7-bdce-bda88e477a7f",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-ce9cfcf5-e94f-4fc7-bdce-bda88e477a7f\/index.html",
             "slug": "welcome\/community\/pillars\/remixability",
             "order": 3,
@@ -355,12 +355,12 @@
             "title": "Remixability",
             "description": "",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1722017905,
-                "published": "1",
+                "updated": 1722018550,
+                "published": true,
                 "status": "",
                 "files": [
                     {
@@ -370,7 +370,10 @@
                         "name": "CopyQ.pRVKqr.png",
                         "size": 427319
                     }
-                ]
+                ],
+                "hideInMenu": false,
+                "image": "files\/CopyQ.pRVKqr.png",
+                "readtime": 1
             }
         },
         {
