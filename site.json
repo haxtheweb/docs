@@ -441,7 +441,7 @@
         },
         {
             "id": "item-edcd6f86-05b5-43a9-8766-8a56709451c8",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-edcd6f86-05b5-43a9-8766-8a56709451c8\/index.html",
             "slug": "pledges\/environmental-impact",
             "order": 0,
@@ -449,15 +449,15 @@
             "title": "Environmental impact",
             "description": "HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1688050872",
                 "images": [],
                 "videos": [],
-                "updated": 1722017905,
-                "published": "1",
-                "readtime": "1",
+                "updated": 1722018200,
+                "published": true,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.sztLns.png",
@@ -466,7 +466,8 @@
                         "name": "CopyQ.sztLns.png",
                         "size": 508780
                     }
-                ]
+                ],
+                "image": "files\/CopyQ.sztLns.png"
             }
         },
         {
