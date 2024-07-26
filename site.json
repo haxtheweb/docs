@@ -320,7 +320,16 @@
                 "videos": [],
                 "updated": 1722017905,
                 "published": "1",
-                "status": ""
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.YGHozZ.png",
+                        "url": "files\/CopyQ.YGHozZ.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.YGHozZ.png",
+                        "size": 480582
+                    }
+                ]
             }
         },
         {
