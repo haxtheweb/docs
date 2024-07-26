@@ -434,7 +434,16 @@
                 "videos": [],
                 "updated": 1722017905,
                 "published": "1",
-                "status": ""
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.LchTVs.png",
+                        "url": "files\/CopyQ.LchTVs.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.LchTVs.png",
+                        "size": 516783
+                    }
+                ]
             }
         },
         {
