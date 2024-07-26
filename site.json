@@ -230,7 +230,7 @@
         },
         {
             "id": "item-a13f6fde-9c55-4a1c-bd64-cf8498be649d",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-a13f6fde-9c55-4a1c-bd64-cf8498be649d\/index.html",
             "slug": "welcome\/community\/pillars",
             "order": 0,
@@ -238,15 +238,15 @@
             "title": "Pillars",
             "description": "Community pillars are not just what we focus on but who we are, what we build and what it does for others. They are our compass in hopes that we continue to point toward true north in all that we do.",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289617",
                 "images": [],
                 "videos": [],
-                "updated": 1722017905,
-                "published": "1",
-                "hideInMenu": "",
+                "updated": 1722018633,
+                "published": true,
+                "hideInMenu": false,
                 "tags": "community,pillars,ethics",
-                "readtime": "1",
+                "readtime": 1,
                 "status": ""
             }
         },
