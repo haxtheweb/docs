@@ -352,7 +352,7 @@
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1722025087,
+                "updated": 1722026283,
                 "published": true,
                 "status": "",
                 "files": [
@@ -366,7 +366,8 @@
                 ],
                 "hideInMenu": false,
                 "image": "files\/CopyQ.LchTVs.png",
-                "readtime": 1
+                "readtime": 1,
+                "tags": "performance"
             }
         },
         {
