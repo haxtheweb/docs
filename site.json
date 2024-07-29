@@ -486,7 +486,16 @@
                 "created": 1722260021,
                 "updated": 1722260021,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/CopyQ.ZcOCVW.png",
+                        "url": "files\/CopyQ.ZcOCVW.png",
+                        "type": "image\/png",
+                        "name": "CopyQ.ZcOCVW.png",
+                        "size": 463392
+                    }
+                ]
             }
         },
         {
