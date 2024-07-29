@@ -1434,7 +1434,7 @@
         },
         {
             "id": "item-3c1bf773-d9e2-4658-84f8-6ab5e3f42ab2",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-3c1bf773-d9e2-4658-84f8-6ab5e3f42ab2\/index.html",
             "slug": "foster-student-engagement",
             "order": 1,
@@ -1443,13 +1443,13 @@
             "description": "1. Determine whether video will achieve your instructional goals  Student-Centered Learning Objectives  Before we can think about your video's suitability to your instructional goals for student",
             "metadata": {
                 "created": "1705093109",
-                "updated": 1722023232,
+                "updated": 1722275446,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
