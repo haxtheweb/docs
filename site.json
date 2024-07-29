@@ -477,14 +477,14 @@
             "id": "item-bfe943ba-4746-494a-b184-932c63b60909",
             "indent": 0,
             "location": "pages\/item-bfe943ba-4746-494a-b184-932c63b60909\/index.html",
-            "slug": "welcome\/community\/page",
-            "order": "0",
+            "slug": "welcome\/community\/user-personas",
+            "order": 1,
             "parent": "item-68ecb822-ae89-466a-bce2-20b33332451a",
-            "title": "Page",
-            "description": "",
+            "title": "User Personas",
+            "description": "Here are some user personas that use, develop, contribute to, and love HAX. We're always looking to refine and expand upon these, but these are some of the roles that find HAX magical.Meet CatWeb co",
             "metadata": {
                 "created": 1722260021,
-                "updated": 1722260021,
+                "updated": 1722261351,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -523,7 +523,13 @@
                         "name": "CopyQ.AApGdq.png",
                         "size": 411968
                     }
-                ]
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "image": "files\/CopyQ.ZcOCVW.png",
+                "tags": "persona",
+                "locked": false,
+                "readtime": 2
             }
         },
         {
