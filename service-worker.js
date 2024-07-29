@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "0ymWBRmWH0VjwuXGPfBg"
+        "mTipoMzgBGO4mvUDPL4VQ"
     ],
     [
         "404.html",
@@ -1181,6 +1181,10 @@ var precacheConfig = [
     [
         "files\/CopyQ.pRVKqr.png",
         "Uj5mia1O2bhQxV2V7hnPUw"
+    ],
+    [
+        "files\/CopyQ.allSms.png",
+        "QN2FjrJwLvNun9GG5mvPQ"
     ],
     [
         "files\/hax.png",
