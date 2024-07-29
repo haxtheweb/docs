@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "EkswCfwCIAm9MaQOtWA"
+        "0ymWBRmWH0VjwuXGPfBg"
     ],
     [
         "404.html",
@@ -1229,6 +1229,10 @@ var precacheConfig = [
     [
         "files\/image67.png",
         "5VuZXs25iJprfcIQ9XoqtQ"
+    ],
+    [
+        "files\/CopyQ.wKAPJI.png",
+        "qWOzKnUY7I7TOsfLx4XkUA"
     ],
     [
         "files\/Peter 2.jpg",
