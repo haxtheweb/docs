@@ -3599,7 +3599,7 @@
         },
         {
             "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
             "slug": "documentation\/haxcms\/integrations",
             "order": 4,
@@ -3608,13 +3608,13 @@
             "description": "See all the ways HAXcms is integrated into other ecosystems!",
             "metadata": {
                 "created": "1713540464",
-                "updated": 1722023232,
+                "updated": 1722367920,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2,
                 "status": ""
             }
         },
