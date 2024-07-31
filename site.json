@@ -3962,14 +3962,14 @@
             "title": "Site things",
             "description": "no one has access to these things",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706291665",
                 "images": [],
                 "videos": [],
-                "updated": 1722023233,
-                "published": "",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1722391168,
+                "published": false,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         }
