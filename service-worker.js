@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "BKpZA5HsXyMYiRdM9vAHg"
+        "5GvYXoYfMYbUJEAC5qgxsQ"
     ],
     [
         "404.html",
@@ -657,6 +657,10 @@ var precacheConfig = [
     [
         "files\/Peter 11.jpg",
         "BdsVi3u84qSK0uvt6T5bZA"
+    ],
+    [
+        "files\/Scorecard for Super Metroid.png",
+        "RSIxwm8x7AAdAhoZDWaw"
     ],
     [
         "files\/Evidence-Based Guidelines for Recording Slide-Based Lectures.pdf",
