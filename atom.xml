@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-07-30T12:57:10-04:00</updated>
+    <updated>2024-08-02T17:32:49-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -27,7 +27,7 @@
   without, 
   
   needing, to understand web code.</p>
-<h3 data-original-level="H3" id="header-67aa8ff6-6108-99a1-aef3-344c953b2753" data-design-treatment="horz-25p" data-primary="18">Get involved!</h3>
+<h2 id="header-42c94050-07ee-367a-11ad-945263ad0672" data-original-level="H3" data-design-treatment="horz-25p" data-primary="18">Get involved!</h2>
 <ul>
   <li ="true"=""><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
 
@@ -42,7 +42,7 @@
   <li ="true"="">Install HAXcms (<b>nodejs</b>) -- <b><code ="true"="">npx @haxtheweb/haxcms-nodejs</code></b>
 
   </li>
-  <li ="true"=""><a href="https://github.com/haxtheweb/haxcms-php" target="_blank">Install HAXcms</a> (<b>PHP</b>)</li>
+  <li ="true"=""><a href="https://github.com/haxtheweb/haxcms-php" target="_blank">Install HAXcms</a> (<b>PHP</b>)</li><li ="true"="">Check out <a href="https://cdn.hax.cloud/" target="_blank">"The Magic Script"</a> and leverage assets on our CDN</li>
   <li ="true"="">Participate in <a href="https://github.com/elmsln/issues/issues" target="_blank">our issue queue</a>
 
     </li>
@@ -63,6 +63,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
+
 <rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
 
 
@@ -71,7 +72,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
+
 <rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="L" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
 
 
 
