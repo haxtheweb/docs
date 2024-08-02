@@ -136,7 +136,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
   <entry>
     <title>Documentation</title>
     <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
-    <updated>2024-08-02T17:34:53-04:00</updated>
+    <updated>2024-08-02T17:35:22-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
     <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
     <link href="documentation"/>
@@ -144,7 +144,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     <content type="html">
       <![CDATA[ 
 <p>🤫</p>
-<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"=""><strong>While we are centralizing our community documentation, please note that at times you will want to go to <a href="https://haxtheweb.org/" target="_blank">haxtheweb.org</a> which this site will eventually merge with or be broken off from.</strong></p>
+<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
 </stop-note>
 <p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
 <ul><li ="true"=""><a href="https://haxtheweb.org/" target="_blank">Developing for HAX</a>
