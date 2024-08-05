@@ -1471,7 +1471,7 @@
         },
         {
             "id": "item-a54cdc47-2f1c-4d82-8baf-fce180194a81",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-a54cdc47-2f1c-4d82-8baf-fce180194a81\/index.html",
             "slug": "the-gallery-of-online-excellence\/effective-educational-video\/design-guidelines-and-principles\/foster-student-engagement-copy",
             "order": 2,
@@ -1480,13 +1480,13 @@
             "description": "Method 1: Package the Video with Interactive QuestionsGuideline 6: Use a conversational style (Mayer's personalization principle).Guideline 7: Speak relatively quickly and with enthusiasm.Guidelin",
             "metadata": {
                 "created": "1720796064",
-                "updated": 1722023233,
+                "updated": 1722887110,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
