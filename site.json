@@ -1474,6 +1474,13 @@
                         "type": "image\/png",
                         "name": "Median Engagement by Duration.png",
                         "size": 299792
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Median Engagement by Duration.jpg",
+                        "url": "files\/Median Engagement by Duration.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Median Engagement by Duration.jpg",
+                        "size": 90040
                     }
                 ]
             }

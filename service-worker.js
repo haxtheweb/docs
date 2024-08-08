@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "Jb7CVSOpvJZRUJxFLU0WUA"
+        "kr7eTIM72cg8mait9wdDA"
     ],
     [
         "404.html",
@@ -801,6 +801,10 @@ var precacheConfig = [
     [
         "files\/Peter Aeschbacher.png",
         "ErrOGoaq2qlB2WLSLxFmw"
+    ],
+    [
+        "files\/Median Engagement by Duration.jpg",
+        "KdGD449gAmxEvSwQ1kczA"
     ],
     [
         "files\/migration-CognitiveLoadTheoryIMGB2.webp",
