@@ -1466,7 +1466,16 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 3,
-                "status": ""
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Median Engagement by Duration.png",
+                        "url": "files\/Median Engagement by Duration.png",
+                        "type": "image\/png",
+                        "name": "Median Engagement by Duration.png",
+                        "size": 299792
+                    }
+                ]
             }
         },
         {

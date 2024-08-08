@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "3AwBXnw8slMs5vZo72iA"
+        "Jb7CVSOpvJZRUJxFLU0WUA"
     ],
     [
         "404.html",
@@ -545,6 +545,10 @@ var precacheConfig = [
     [
         "files\/New User Script.docx",
         "mO6hZwdcYPjoKygh53ew"
+    ],
+    [
+        "files\/Median Engagement by Duration.png",
+        "lOhMlTpP3LFWRTelhudmw"
     ],
     [
         "files\/Screenshot from 2024-07-25 11-09-09.png",
