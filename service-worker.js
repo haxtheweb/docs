@@ -524,7 +524,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "IIPxOudkoDnLwsJVUdkJg"
+        "6UaTW1QELnqKqmo83zZUsg"
     ],
     [
         "404.html",
@@ -1229,6 +1229,10 @@ var precacheConfig = [
     [
         "files\/hax-white-paper-02-27-2018.pdf",
         "KFwhUZArPEkXwU6I7Qkg"
+    ],
+    [
+        "files\/Featured_Article_Alert_Immediate.png",
+        "POl8Xx0lN3INGeyKprrqcw"
     ],
     [
         "files\/Memory Duration by Type2.png",
