@@ -1250,6 +1250,13 @@
                         "type": "image\/png",
                         "name": "image62.png",
                         "size": "23428"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Featured_Article.png",
+                        "url": "files\/Featured_Article.png",
+                        "type": "image\/png",
+                        "name": "Featured_Article.png",
+                        "size": 2203
                     }
                 ],
                 "hideInMenu": false
