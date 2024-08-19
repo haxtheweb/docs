@@ -676,16 +676,20 @@
             "id": "item-4b62f800-7fb9-4a42-b28a-eacefa7bb53c",
             "indent": 0,
             "location": "pages\/item-4b62f800-7fb9-4a42-b28a-eacefa7bb53c\/index.html",
-            "slug": "welcome\/marketing\/page",
-            "order": "0",
+            "slug": "welcome\/marketing\/art-media",
+            "order": 0,
             "parent": "item-8991f223-d78f-42c3-a5f4-da79658ad80e",
-            "title": "Page",
-            "description": "",
+            "title": "Art \/ Media",
+            "description": "World changerOur future traveler \"World Changer\" and other HAX themed media can be found in our art repository.RPG charactersOur RPG characters and avatars are generated using a web component called",
             "metadata": {
                 "created": 1724090739,
-                "updated": 1724090739,
+                "updated": 1724093320,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
