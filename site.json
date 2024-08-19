@@ -692,16 +692,20 @@
             "id": "item-62df18a5-fe1c-416e-9429-8d3288e7afa7",
             "indent": 0,
             "location": "pages\/item-62df18a5-fe1c-416e-9429-8d3288e7afa7\/index.html",
-            "slug": "welcome\/marketing\/page-1",
-            "order": "1",
+            "slug": "welcome\/marketing\/testimonials",
+            "order": 1,
             "parent": "item-8991f223-d78f-42c3-a5f4-da79658ad80e",
-            "title": "Page",
-            "description": "",
+            "title": "Testimonials",
+            "description": "Customer Discovery 101We reached out to HAX while searching for a platform to develop Customer Discovery 101, a new entrepreneurship training program available to the public. We were running into ch",
             "metadata": {
                 "created": 1724090741,
-                "updated": 1724090741,
+                "updated": 1724092884,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
