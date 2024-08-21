@@ -3341,15 +3341,16 @@
             "title": "Tutorials",
             "description": "If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation.",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1683137690",
-                "updated": 1724249288,
-                "published": "1",
+                "updated": 1724249756,
+                "published": true,
                 "status": "",
                 "tags": "tutorials",
-                "readtime": "1",
+                "readtime": 1,
                 "videos": [],
-                "images": []
+                "images": [],
+                "hideInMenu": false
             }
         },
         {
