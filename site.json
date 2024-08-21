@@ -3360,21 +3360,23 @@
         },
         {
             "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
             "slug": "documentation\/developers\/schema\/haxelement-schema",
             "order": 0,
             "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
             "title": "HAXElement Schema",
-            "description": "",
+            "description": "Example of HAX element schema JSON object. It's a pretty simple abstraction of HTML elements that helps with packaging and sanitation. This is effectively HAX version of a VDOM in which all elements ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249289",
                 "images": [],
                 "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "status": ""
+                "updated": 1724266967,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
