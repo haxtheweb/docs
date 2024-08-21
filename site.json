@@ -3409,7 +3409,7 @@
             "description": "HAX for Desktop is the nodeJS version of the project packaged up using Electron. The repo is the raw source required to do builds for different architectures like Linux, Windows and MacOS. Currently ",
             "metadata": {
                 "created": 1724266457,
-                "updated": 1724266575,
+                "updated": 1724266673,
                 "images": [],
                 "videos": [],
                 "published": true,
