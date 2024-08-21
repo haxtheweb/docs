@@ -4009,26 +4009,6 @@
             }
         },
         {
-            "id": "item-7ee4ecbe-f90d-4745-a164-9bbd11ddd763",
-            "indent": "1",
-            "location": "pages\/item-7ee4ecbe-f90d-4745-a164-9bbd11ddd763\/index.html",
-            "slug": "page-3",
-            "order": 4,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "...",
-            "description": "",
-            "metadata": {
-                "created": "1701276564",
-                "updated": 1722023233,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1"
-            }
-        },
-        {
             "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
             "indent": 0,
             "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",

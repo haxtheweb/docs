@@ -104,25 +104,40 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     </content>
   </entry>
   <entry>
-    <title>Documentation</title>
-    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
-    <updated>2024-08-02T17:35:22-04:00</updated>
+    <title>HAX Ontology</title>
+    <id>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</id>
+    <updated>2024-07-26T15:47:12-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
-    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
-    <link href="documentation"/>
+    <summary>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 </summary>
+    <link href="ontology"/>
     
     <content type="html">
       <![CDATA[ 
-<p>🤫</p>
-<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
-</stop-note>
-<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
-<ul><li ="true"=""><a href="https://haxtheweb.org/" target="_blank">Developing for HAX</a>
+<simple-tags tags="HAX,course,ontology, pedagogy" auto-accent-color></simple-tags>
+<p><b>What is an ontology?</b>
+ For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. </p>
+<media-image source="files/HAX Course Ontology Draft Version.png" size="wide" offset="none" alt="HAX course ontology model" card box background-color="light-blue" style="background-color: var(--simple-colors-default-theme-light-blue-1); color: var(--simple-colors-default-theme-light-blue-12);" citation="HAX Course Ontology" caption="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." modal-title="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." _has-caption></media-image>
+<p>
+</p>
+<p>Watch the video tour below (11 minutes), or use the sub-page navigation to jump to a shorter ontology branch video. You can also <a href="https://app.mural.co/t/haxontologybrainstorming9982/m/haxontologybrainstorming9982/1684334263810/10186fdd1de1d49a815bb0d9b2ab038c8b1f0452?sender=u10618842d88862cf78977038" target="_blank">tour around the draft ontology in Mural</a>
+. Be sure to read the "business case" below the video, the rationale behind the need for an ontology and the key aspects that it should possess.</p>
+<video-player source="https://www.youtube.com/watch?v=iF4UZKcAWmw" caption="files/HAX_Ontology.mp4" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#4f992efe-73fb-9a76-eeb9-22e3463e5024" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" tracks="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/iF4UZKcAWmw&quot;,&quot;type&quot;:&quot;&quot;}]" element-visible media-title="HAX Ontology - V1 2023 edition" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" dark></video-player>
+<h2 data-original-level="H2" id="header-e1fc873f-5f94-8d6b-560f-b542e50244f3"><span>Why define an ontology for HAX?</span></h2>
+<ul><li><b>End user support.</b>
+ In order for HAX to provide course authoring assistance at the point of need, an underlying ontology must be operative for tagging and pulling in associated guidance and examples.<b></b>
 </li>
-<li ="true"=""><a href="https://elmsln.github.io/hax11ty/" rel="noopener noreferrer" target="_blank">HAX11ty</a>
-</li>
-<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
-</li>
+<li><b>Enabling dialog and progress.</b>
+ For HAX to continuously improve, course authors, instructional designers, and developers need to speak a common vocabulary and would benefit from a shared mental model of a course.&#8203;</li>
+<li><b>Gap analysis.</b>
+ Once we can specify the instructional tool set already provided in HAX, we can more easily determine instructional capabilities we are missing.</li>
+</ul>
+<h2 data-original-level="H2" id="header-9f645a2d-ab8c-8afd-8f53-43d3de1fd263"><span>What should characterize the ontology?</span></h2>
+<ul><li><strong>Research-informed best practice.</strong>
+ The ontology should be driven by evidence-based teaching and learning strategies and illustrated by annotated examples taken from actual ODL courses.</li>
+<li><strong>Stability supporting growth.</strong>
+ The ontology should be robust, yet capable of organic growth over time; that is, logical enough to serve as a stable foundation, while able to adapt, broaden, and deepen.</li>
+<li><strong>Empowering.</strong>
+ The ontology should permit complete flexibility in the instructional approach used, while also serving to showcase the application of recognized approaches such as Backward Design.</li>
 </ul>
  ]]>
     </content>
@@ -160,40 +175,25 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     </content>
   </entry>
   <entry>
-    <title>HAX Ontology</title>
-    <id>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</id>
-    <updated>2024-07-26T15:47:12-04:00</updated>
+    <title>Documentation</title>
+    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
+    <updated>2024-08-02T17:35:22-04:00</updated>
     <published>2023-05-03T14:14:50-04:00</published>
-    <summary>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 </summary>
-    <link href="ontology"/>
+    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
+    <link href="documentation"/>
     
     <content type="html">
       <![CDATA[ 
-<simple-tags tags="HAX,course,ontology, pedagogy" auto-accent-color></simple-tags>
-<p><b>What is an ontology?</b>
- For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. </p>
-<media-image source="files/HAX Course Ontology Draft Version.png" size="wide" offset="none" alt="HAX course ontology model" card box background-color="light-blue" style="background-color: var(--simple-colors-default-theme-light-blue-1); color: var(--simple-colors-default-theme-light-blue-12);" citation="HAX Course Ontology" caption="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." modal-title="Reflecting a view of a course as consisting of six interrelated components, further defined, the ontology serves to inform excellent pedagogical practice in HAX and to drive decision-making for future development." _has-caption></media-image>
-<p>
-</p>
-<p>Watch the video tour below (11 minutes), or use the sub-page navigation to jump to a shorter ontology branch video. You can also <a href="https://app.mural.co/t/haxontologybrainstorming9982/m/haxontologybrainstorming9982/1684334263810/10186fdd1de1d49a815bb0d9b2ab038c8b1f0452?sender=u10618842d88862cf78977038" target="_blank">tour around the draft ontology in Mural</a>
-. Be sure to read the "business case" below the video, the rationale behind the need for an ontology and the key aspects that it should possess.</p>
-<video-player source="https://www.youtube.com/watch?v=iF4UZKcAWmw" caption="files/HAX_Ontology.mp4" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#4f992efe-73fb-9a76-eeb9-22e3463e5024" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" tracks="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/iF4UZKcAWmw&quot;,&quot;type&quot;:&quot;&quot;}]" element-visible media-title="HAX Ontology - V1 2023 edition" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" dark></video-player>
-<h2 data-original-level="H2" id="header-e1fc873f-5f94-8d6b-560f-b542e50244f3"><span>Why define an ontology for HAX?</span></h2>
-<ul><li><b>End user support.</b>
- In order for HAX to provide course authoring assistance at the point of need, an underlying ontology must be operative for tagging and pulling in associated guidance and examples.<b></b>
+<p>🤫</p>
+<stop-note title="Docs rebuild is underway" icon="stopnoteicons:warning-icon" message="&#60;strong&#62;While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li ="true"=""><a href="https://haxtheweb.org/" target="_blank">Developing for HAX</a>
 </li>
-<li><b>Enabling dialog and progress.</b>
- For HAX to continuously improve, course authors, instructional designers, and developers need to speak a common vocabulary and would benefit from a shared mental model of a course.&#8203;</li>
-<li><b>Gap analysis.</b>
- Once we can specify the instructional tool set already provided in HAX, we can more easily determine instructional capabilities we are missing.</li>
-</ul>
-<h2 data-original-level="H2" id="header-9f645a2d-ab8c-8afd-8f53-43d3de1fd263"><span>What should characterize the ontology?</span></h2>
-<ul><li><strong>Research-informed best practice.</strong>
- The ontology should be driven by evidence-based teaching and learning strategies and illustrated by annotated examples taken from actual ODL courses.</li>
-<li><strong>Stability supporting growth.</strong>
- The ontology should be robust, yet capable of organic growth over time; that is, logical enough to serve as a stable foundation, while able to adapt, broaden, and deepen.</li>
-<li><strong>Empowering.</strong>
- The ontology should permit complete flexibility in the instructional approach used, while also serving to showcase the application of recognized approaches such as Backward Design.</li>
+<li ="true"=""><a href="https://elmsln.github.io/hax11ty/" rel="noopener noreferrer" target="_blank">HAX11ty</a>
+</li>
+<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
+</li>
 </ul>
  ]]>
     </content>
