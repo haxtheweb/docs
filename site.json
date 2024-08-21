@@ -1441,7 +1441,7 @@
         },
         {
             "id": "item-22596832-8320-4c7f-b7ae-f403d1d9ca31",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-22596832-8320-4c7f-b7ae-f403d1d9ca31\/index.html",
             "slug": "tutorials\/brand-new-user",
             "order": 0,
@@ -1450,10 +1450,10 @@
             "description": "Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt",
             "metadata": {
                 "created": "1683138032",
-                "updated": 1724249288,
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "updated": 1724249813,
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "contentDetails": {
                     "headings": "0",
                     "paragraphs": "1",
@@ -1510,7 +1510,8 @@
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=bmsHBhGC8_Q"
                 ],
-                "images": []
+                "images": [],
+                "hideInMenu": false
             }
         },
         {

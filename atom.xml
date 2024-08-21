@@ -294,7 +294,7 @@ and we'll prioritize it's creation.</p>
   <entry>
     <title>First-time HAX User</title>
     <id>item-22596832-8320-4c7f-b7ae-f403d1d9ca31</id>
-    <updated>2024-08-21T10:08:08-04:00</updated>
+    <updated>2024-08-21T10:16:53-04:00</updated>
     <published>2023-05-03T14:20:32-04:00</published>
     <summary>Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt</summary>
     <link href="tutorials/brand-new-user"/>
@@ -306,7 +306,7 @@ and we'll prioritize it's creation.</p>
 <li>If you prefer to read about the things in the video below, <a href="files/New User Script.docx" target="_blank" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">here is a tutorial in written form</a>
 .</li>
 </ul>
-<video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q" caption="https://www.youtube.com/watch?v=bmsHBhGC8_Q" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#6674464f-15c3-6586-bceb-1797f34d8caf" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/bmsHBhGC8_Q&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]"></video-player>
+<video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q" caption="https://www.youtube.com/watch?v=bmsHBhGC8_Q" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#6674464f-15c3-6586-bceb-1797f34d8caf" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/bmsHBhGC8_Q&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" data-width="50" style="margin: 0 auto;" media-title="First time HAX user"></video-player>
  ]]>
     </content>
   </entry>
