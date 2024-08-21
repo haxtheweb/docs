@@ -4103,15 +4103,15 @@
             "title": "Documentation",
             "description": "While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1683137690",
-                "updated": 1724249289,
-                "published": "1",
+                "updated": 1724250460,
+                "published": true,
                 "status": "",
-                "readtime": "1",
+                "readtime": 1,
                 "videos": [],
                 "images": [],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
