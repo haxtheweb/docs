@@ -4091,21 +4091,23 @@
         },
         {
             "id": "item-20addb32-74be-47bb-ab21-a8237d545b07",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-20addb32-74be-47bb-ab21-a8237d545b07\/index.html",
             "slug": "documentation\/developers\/schema\/json-outline-schema",
             "order": 2,
             "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
             "title": "JSON Outline Schema",
-            "description": "",
+            "description": "Page is rendered from the github repo as it is a stand alone API developed as part of HAXsite \/ HAXcms development.Github Repo",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249289",
                 "images": [],
                 "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "status": ""
+                "updated": 1724267367,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
