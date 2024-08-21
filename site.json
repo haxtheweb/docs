@@ -3066,7 +3066,7 @@
         },
         {
             "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
             "slug": "documentation\/elmsln",
             "order": 0,
@@ -3074,15 +3074,15 @@
             "title": "ELMS:LN",
             "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1707142965",
                 "images": [],
                 "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
+                "updated": 1724266819,
+                "published": true,
+                "hideInMenu": false,
                 "icon": "lrn:network",
-                "readtime": "1",
+                "readtime": 2,
                 "status": ""
             }
         },
