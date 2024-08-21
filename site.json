@@ -3948,19 +3948,22 @@
         },
         {
             "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
-            "slug": "documentation\/developers\/-haxtheweb\/create",
-            "order": 2,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "slug": "documentation\/developers\/tools\/create",
+            "order": 3,
+            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
             "title": "@haxtheweb\/create",
-            "description": "",
+            "description": "HAX CLI is the easiest way for front end developers to get involved in creating new HAX sites as well as stand alone web components.Start using the tool now:  npx @haxtheweb\/createGithub RepoNPM pac",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1724265952,
                 "images": [],
                 "videos": [],
-                "updated": 1724265952
+                "updated": 1724267830,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
