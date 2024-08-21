@@ -3840,7 +3840,7 @@
         },
         {
             "id": "item-54584e9b-9350-45aa-8b4f-cf92272cb53d",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-54584e9b-9350-45aa-8b4f-cf92272cb53d\/index.html",
             "slug": "documentation\/wcfactory",
             "order": 1,
@@ -3848,16 +3848,16 @@
             "title": "WCFactory",
             "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustai",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1707142965",
                 "images": [],
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=kWmtOFwcXyE"
                 ],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1724266749,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         },
