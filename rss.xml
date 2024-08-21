@@ -6,7 +6,7 @@
     <description>Create Your Own course</description>
     <copyright>Copyright (C) 2024 </copyright>
     <language>en-US</language>
-    <lastBuildDate>Fri, 26 Jul 2024 15:47:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2024 10:08:10 -0400</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
@@ -102,6 +102,20 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
       <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
     </item>
     <item>
+      <title>Tutorials</title>
+      <link>tutorials</link>
+      <description>
+          <![CDATA[ 
+<p>If there are tutorials you are looking for that the community has not covered, let us know in our <a href="https://github.com/elmsln/issues/issues" target="_blank">issue queue</a>
+ or on <a href="https://bit.ly/hax-discord">discord</a>
+ and we'll prioritize it's creation.</p>
+ ]]>
+      </description>
+      <category>tutorials</category>
+      <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
       <title>HAX Ontology</title>
       <link>ontology</link>
       <description>
@@ -136,20 +150,6 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
       </description>
       <category></category>
       <guid>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Tutorials</title>
-      <link>tutorials</link>
-      <description>
-          <![CDATA[ 
-<p>If there are tutorials you are looking for that the community has not covered, let us know in our <a href="https://github.com/elmsln/issues/issues" target="_blank">issue queue</a>
- or on <a href="https://bit.ly/hax-discord">discord</a>
- and we'll prioritize it's creation.</p>
- ]]>
-      </description>
-      <category>tutorials</category>
-      <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
       <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
     </item>
     <item>
@@ -452,23 +452,6 @@ perience" which is a development philosophy focused on each word and it's impact
       <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
     </item>
     <item>
-      <title>Pledges</title>
-      <link>pledges</link>
-      <description>
-          <![CDATA[ 
-<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
- we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
-, but <b>we try our best</b>
- to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
-<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
-<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
-    </item>
-    <item>
       <title>Accessibility and Empowerment</title>
       <link>pledges/accessibility-empowerment</link>
       <description>
@@ -489,6 +472,23 @@ perience" which is a development philosophy focused on each word and it's impact
       </description>
       <category></category>
       <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
+      <title>Pledges</title>
+      <link>pledges</link>
+      <description>
+          <![CDATA[ 
+<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
+ we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
+, but <b>we try our best</b>
+ to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
+<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
+<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
       <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
     </item>
     <item>
