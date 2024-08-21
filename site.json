@@ -4134,21 +4134,23 @@
         },
         {
             "id": "item-73fd1ab6-ba79-472d-9cc2-7828277a8e27",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-73fd1ab6-ba79-472d-9cc2-7828277a8e27\/index.html",
             "slug": "documentation\/developers\/schema\/openapi",
             "order": 4,
             "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
             "title": "OpenAPI",
-            "description": "",
+            "description": "HAXcms is documented using OpenAPI specification. A copy of the specification can be found in the nodejs repo of HAXcms.Github Repo for OpenAPI Specification for HAXcms backend",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249289",
                 "images": [],
                 "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "status": ""
+                "updated": 1724267578,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
