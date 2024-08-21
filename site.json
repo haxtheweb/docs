@@ -759,24 +759,216 @@
             }
         },
         {
-            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
-            "indent": "3",
-            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
-            "slug": "stand-alone-tools\/conversion-tools",
+            "id": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "indent": "2",
+            "location": "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
+            "slug": "documentation\/hax-frontend-devs",
             "order": 0,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Conversion tools",
-            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Frontend developers",
+            "description": "HAX primary audience is to empower no tech and low tech implementations to empower as many voices as possible. That said, it is built on highly sophisticated tools that you can use in your own workfl",
             "metadata": {
-                "created": "1687961729",
-                "updated": 1724265952,
+                "created": "1707145491",
+                "updated": 1724265951,
                 "images": [],
                 "videos": [],
                 "published": "1",
-                "tags": "tool, convert, labs",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "3",
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image66.png",
+                        "url": "files\/image66.png",
+                        "type": "image\/png",
+                        "name": "image66.png",
+                        "size": "10509"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
+            "indent": "3",
+            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
+            "slug": "documentation\/ddd",
+            "order": 0,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Design Documentation",
+            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
+            "metadata": {
+                "created": "1706046114",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "3"
+            }
+        },
+        {
+            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
+            "indent": "3",
+            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
+            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
+            "order": 1,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Implementing DDD",
+            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
+            "metadata": {
+                "created": "1710530361",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "2",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
+            "indent": "3",
+            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
+            "slug": "ontology\/page-5",
+            "order": 0,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "The Core",
+            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
+            "metadata": {
+                "created": "1688058253",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
+                ],
+                "published": "1",
                 "locked": "",
                 "readtime": "1",
                 "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
+                        "url": "files\/1_The Core.png",
+                        "type": "image\/png",
+                        "name": "1_The Core.png",
+                        "size": "346696"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "indent": "3",
+            "location": "pages\/item-51b1acee-9e5c-4756-998e-d6f3ba97882c\/index.html",
+            "slug": "effective-educational-video",
+            "order": 0,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Effective Educational Video",
+            "description": "      \u00a0Rationale for Getting It Right  Multiple studies have shown that video can be a highly effec\u00adtive educational tool. But if videos are not well designed or developed, students won",
+            "metadata": {
+                "created": "1704305842",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "relatedItems": "item-b1cf2586-d6a6-44b7-ba16-82fdfee99f01",
+                "tags": "pedagogy,video",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter_Aeschbacher.jpeg",
+                        "url": "files\/Peter_Aeschbacher.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "Peter_Aeschbacher.jpeg",
+                        "size": "4156"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj_Szczygiel.png",
+                        "url": "files\/Bonj_Szczygiel.png",
+                        "type": "image\/png",
+                        "name": "Bonj_Szczygiel.png",
+                        "size": "22510"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben_Andrew.jpeg",
+                        "url": "files\/Ben_Andrew.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "Ben_Andrew.jpeg",
+                        "size": "6528"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "indent": "4",
+            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
+            "slug": "gallery-exhibits",
+            "order": 0,
+            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "title": "Gallery Exhibits",
+            "description": "Column two",
+            "metadata": {
+                "created": "1701371579",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
+                        "url": "files\/Peter Montage.png",
+                        "type": "image\/png",
+                        "name": "Peter Montage.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
+                        "url": "files\/Peter Aeschbacher.png",
+                        "type": "image\/png",
+                        "name": "Peter Aeschbacher.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
+                        "url": "files\/Bonj Szczygiel.png",
+                        "type": "image\/png",
+                        "name": "Bonj Szczygiel.png",
+                        "size": "2614095"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
+                        "url": "files\/Ben Andrew 1.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 1.png",
+                        "size": "2190204"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
+                        "url": "files\/Ben Andrew 2.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 2.png",
+                        "size": "1552766"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
+                        "url": "files\/Peter 11.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 11.jpg",
+                        "size": "285922"
+                    }
+                ],
                 "hideInMenu": ""
             }
         },
@@ -913,723 +1105,6 @@
                         "size": "109538"
                     }
                 ]
-            }
-        },
-        {
-            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
-            "indent": "3",
-            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
-            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
-            "order": 0,
-            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
-            "title": "3D Model",
-            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
-                ],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
-            "indent": "1",
-            "location": "pages\/item-a9108086-6b38-43b0-84b0-0447cab9c123\/index.html",
-            "slug": "documentation\/pedagogy",
-            "order": 0,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "Pedagogy",
-            "description": "While HAX can be used to build many types of websites, it's original use-cases were in instruction and online course \/ textbook development. As a result, a lot of the decisions around how and why the",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265951,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "indent": "2",
-            "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
-            "slug": "ontology",
-            "order": 0,
-            "parent": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
-            "title": "HAX Ontology",
-            "description": "What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 ",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1724265951,
-                "published": "1",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "1",
-                    "paragraphs": "3",
-                    "schema": [
-                        {
-                            "resource": "#98f91cec-8ea3-e2d9-1ac3-0bd7fd195753",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        },
-                        {
-                            "resource": "#4f992efe-73fb-9a76-eeb9-22e3463e5024",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "3",
-                        "h5": "1",
-                        "video-player": "1",
-                        "img": "1"
-                    },
-                    "elements": "7"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image13.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image13.png",
-                        "url": "files\/image13.png",
-                        "type": "image\/png",
-                        "name": "image13.png",
-                        "size": "193305"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
-                        "url": "files\/HAX Course Ontology Draft Version.png",
-                        "type": "image\/png",
-                        "name": "HAX Course Ontology Draft Version.png",
-                        "size": "769447"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
-                        "url": "files\/HAX_Ontology.mp4",
-                        "type": "video\/mp4",
-                        "name": "HAX_Ontology.mp4",
-                        "size": "209088025"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/image14.png",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image14.png",
-                        "url": "files\/image14.png",
-                        "type": "image\/png",
-                        "name": "image14.png",
-                        "size": "128093"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image17.png",
-                        "url": "files\/image17.png",
-                        "type": "image\/png",
-                        "name": "image17.png",
-                        "size": "9329"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image18.png",
-                        "url": "files\/image18.png",
-                        "type": "image\/png",
-                        "name": "image18.png",
-                        "size": "29317"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image19.png",
-                        "url": "files\/image19.png",
-                        "type": "image\/png",
-                        "name": "image19.png",
-                        "size": "9059"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image20.png",
-                        "url": "files\/image20.png",
-                        "type": "image\/png",
-                        "name": "image20.png",
-                        "size": "9692"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image21.png",
-                        "url": "files\/image21.png",
-                        "type": "image\/png",
-                        "name": "image21.png",
-                        "size": "30941"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image22.png",
-                        "url": "files\/image22.png",
-                        "type": "image\/png",
-                        "name": "image22.png",
-                        "size": "30941"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/6_Instruction1.png",
-                        "url": "files\/6_Instruction1.png",
-                        "type": "image\/png",
-                        "name": "6_Instruction1.png",
-                        "size": "469571"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=iF4UZKcAWmw"
-                ],
-                "images": [
-                    "files\/HAX Course Ontology Draft Version.png"
-                ]
-            }
-        },
-        {
-            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
-            "indent": "3",
-            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
-            "slug": "ontology\/page-5",
-            "order": 0,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "The Core",
-            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
-            "metadata": {
-                "created": "1688058253",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
-                        "url": "files\/1_The Core.png",
-                        "type": "image\/png",
-                        "name": "1_The Core.png",
-                        "size": "346696"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
-            "indent": "3",
-            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
-            "slug": "ontology\/page",
-            "order": 1,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Outcomes",
-            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
-            "metadata": {
-                "created": "1683137702",
-                "updated": 1724265951,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "url": "files\/image1.png",
-                        "type": "image\/png",
-                        "name": "image1.png",
-                        "size": "128013"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "url": "files\/image3.png",
-                        "type": "image\/png",
-                        "name": "image3.png",
-                        "size": "109622"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
-                        "url": "files\/2_Outcomes.png",
-                        "type": "image\/png",
-                        "name": "2_Outcomes.png",
-                        "size": "389419"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
-                ],
-                "images": [],
-                "tags": "ontology, outcomes"
-            }
-        },
-        {
-            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
-            "indent": "3",
-            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
-            "slug": "ontology\/new-item",
-            "order": 2,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Pedagogy",
-            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1724265951,
-                "published": "1",
-                "status": "",
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2023-05-03 14-18-10.png",
-                        "size": "73304"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "url": "files\/image.png",
-                        "type": "image\/png",
-                        "name": "image.png",
-                        "size": "75798"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
-                        "url": "files\/image23.png",
-                        "type": "image\/png",
-                        "name": "image23.png",
-                        "size": "32146"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
-                        "url": "files\/4_Pedagogy2.png",
-                        "type": "image\/png",
-                        "name": "4_Pedagogy2.png",
-                        "size": "160827"
-                    }
-                ],
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "img": "1",
-                        "p": "1"
-                    },
-                    "elements": "3"
-                },
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-42b47c5a-8ad2-4507-bef1-0488c65cc54a",
-            "indent": "3",
-            "location": "pages\/item-42b47c5a-8ad2-4507-bef1-0488c65cc54a\/index.html",
-            "slug": "ontology\/page-1",
-            "order": 3,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Structure",
-            "description": "Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo",
-            "metadata": {
-                "created": "1683137703",
-                "updated": 1724265951,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#4d68885e-e5d5-d911-03cf-c8d932d03d67",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image2.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image2.png",
-                        "url": "files\/image2.png",
-                        "type": "image\/png",
-                        "name": "image2.png",
-                        "size": "58057"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/5_Structure.png",
-                        "url": "files\/5_Structure.png",
-                        "type": "image\/png",
-                        "name": "5_Structure.png",
-                        "size": "352193"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=XIZelr4Lg98"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-23eb212e-a523-4d7b-862a-0a00cb786321",
-            "indent": "3",
-            "location": "pages\/item-23eb212e-a523-4d7b-862a-0a00cb786321\/index.html",
-            "slug": "ontology\/page-3",
-            "order": 4,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Instruction",
-            "description": "Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie",
-            "metadata": {
-                "created": "1683137705",
-                "updated": 1724265951,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#dc9e47e8-01cc-09d3-89d2-04c701c43d1a",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image5.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image5.png",
-                        "url": "files\/image5.png",
-                        "type": "image\/png",
-                        "name": "image5.png",
-                        "size": "136023"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/7_Instruction2.png",
-                        "url": "files\/7_Instruction2.png",
-                        "type": "image\/png",
-                        "name": "7_Instruction2.png",
-                        "size": "429816"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=G5dYdOHLajY"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-d57321c6-4106-45ec-89a4-8ebdf0af67f2",
-            "indent": "3",
-            "location": "pages\/item-d57321c6-4106-45ec-89a4-8ebdf0af67f2\/index.html",
-            "slug": "ontology\/page-2",
-            "order": 5,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Content",
-            "description": "Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination ",
-            "metadata": {
-                "created": "1683137704",
-                "updated": 1724265951,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#5f322574-ba0f-a61e-86aa-fa025a2bc448",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image4.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image4.png",
-                        "url": "files\/image4.png",
-                        "type": "image\/png",
-                        "name": "image4.png",
-                        "size": "90868"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image24.png",
-                        "url": "files\/image24.png",
-                        "type": "image\/png",
-                        "name": "image24.png",
-                        "size": "22222"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image25.png",
-                        "url": "files\/image25.png",
-                        "type": "image\/png",
-                        "name": "image25.png",
-                        "size": "22222"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image26.png",
-                        "url": "files\/image26.png",
-                        "type": "image\/png",
-                        "name": "image26.png",
-                        "size": "27601"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image27.png",
-                        "url": "files\/image27.png",
-                        "type": "image\/png",
-                        "name": "image27.png",
-                        "size": "28033"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/14_Content1.png",
-                        "url": "files\/14_Content1.png",
-                        "type": "image\/png",
-                        "name": "14_Content1.png",
-                        "size": "438314"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=NBsjGPIf1tQ"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5",
-            "indent": "3",
-            "location": "pages\/item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5\/index.html",
-            "slug": "ontology\/page-4",
-            "order": 6,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Assessment",
-            "description": "Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake",
-            "metadata": {
-                "created": "1683137709",
-                "updated": 1724265951,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#5600e5bc-7061-db1a-d82f-3717e2e448c5",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image6.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image6.png",
-                        "url": "files\/image6.png",
-                        "type": "image\/png",
-                        "name": "image6.png",
-                        "size": "42041"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/17_Assessment1.png",
-                        "url": "files\/17_Assessment1.png",
-                        "type": "image\/png",
-                        "name": "17_Assessment1.png",
-                        "size": "515064"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=i9paCj1Kya4"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "indent": "2",
-            "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
-            "slug": "the-gallery-of-online-excellence",
-            "order": 1,
-            "parent": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
-            "title": "Gallery of Online Excellence",
-            "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
-            "metadata": {
-                "created": "1701201443",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "indent": "3",
-            "location": "pages\/item-51b1acee-9e5c-4756-998e-d6f3ba97882c\/index.html",
-            "slug": "effective-educational-video",
-            "order": 0,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Effective Educational Video",
-            "description": "      \u00a0Rationale for Getting It Right  Multiple studies have shown that video can be a highly effec\u00adtive educational tool. But if videos are not well designed or developed, students won",
-            "metadata": {
-                "created": "1704305842",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "relatedItems": "item-b1cf2586-d6a6-44b7-ba16-82fdfee99f01",
-                "tags": "pedagogy,video",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter_Aeschbacher.jpeg",
-                        "url": "files\/Peter_Aeschbacher.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "Peter_Aeschbacher.jpeg",
-                        "size": "4156"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj_Szczygiel.png",
-                        "url": "files\/Bonj_Szczygiel.png",
-                        "type": "image\/png",
-                        "name": "Bonj_Szczygiel.png",
-                        "size": "22510"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben_Andrew.jpeg",
-                        "url": "files\/Ben_Andrew.jpeg",
-                        "type": "image\/jpeg",
-                        "name": "Ben_Andrew.jpeg",
-                        "size": "6528"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "indent": "4",
-            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
-            "slug": "gallery-exhibits",
-            "order": 0,
-            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "title": "Gallery Exhibits",
-            "description": "Column two",
-            "metadata": {
-                "created": "1701371579",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
-                        "url": "files\/Peter Montage.png",
-                        "type": "image\/png",
-                        "name": "Peter Montage.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
-                        "url": "files\/Peter Aeschbacher.png",
-                        "type": "image\/png",
-                        "name": "Peter Aeschbacher.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
-                        "url": "files\/Bonj Szczygiel.png",
-                        "type": "image\/png",
-                        "name": "Bonj Szczygiel.png",
-                        "size": "2614095"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
-                        "url": "files\/Ben Andrew 1.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 1.png",
-                        "size": "2190204"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
-                        "url": "files\/Ben Andrew 2.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 2.png",
-                        "size": "1552766"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
-                        "url": "files\/Peter 11.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 11.jpg",
-                        "size": "285922"
-                    }
-                ],
-                "hideInMenu": ""
             }
         },
         {
@@ -2423,92 +1898,6 @@
             }
         },
         {
-            "id": "item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b",
-            "indent": "3",
-            "location": "pages\/item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b\/index.html",
-            "slug": "providing-quality-feedback",
-            "order": 1,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Providing Quality Feedback",
-            "description": "",
-            "metadata": {
-                "created": "1701276230",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
-            "indent": "3",
-            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
-            "slug": "study-guide-approaches",
-            "order": 2,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Study Guide Approaches",
-            "description": "",
-            "metadata": {
-                "created": "1701276272",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
-            "indent": "3",
-            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
-            "slug": "guided-practice",
-            "order": 3,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Guided Practice",
-            "description": "",
-            "metadata": {
-                "created": "1701276237",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
-            "indent": "3",
-            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
-            "slug": "odl-course-showcase",
-            "order": 4,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "ODL Course Showcase",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1711642479",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/stLwUI4G92Q"
-                ],
-                "updated": 1724265951,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
             "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
             "indent": "4",
             "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
@@ -2636,6 +2025,28 @@
             }
         },
         {
+            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
+            "indent": "3",
+            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
+            "slug": "stand-alone-tools\/conversion-tools",
+            "order": 0,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Conversion tools",
+            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "metadata": {
+                "created": "1687961729",
+                "updated": 1724265952,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "tags": "tool, convert, labs",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
             "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
             "indent": "3",
             "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
@@ -2735,78 +2146,6 @@
             }
         },
         {
-            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
-            "indent": "3",
-            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
-            "slug": "documentation\/ddd",
-            "order": 0,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Design Documentation",
-            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
-            "metadata": {
-                "created": "1706046114",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "3"
-            }
-        },
-        {
-            "id": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "indent": "2",
-            "location": "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
-            "slug": "documentation\/hax-frontend-devs",
-            "order": 0,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Frontend developers",
-            "description": "HAX primary audience is to empower no tech and low tech implementations to empower as many voices as possible. That said, it is built on highly sophisticated tools that you can use in your own workfl",
-            "metadata": {
-                "created": "1707145491",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image66.png",
-                        "url": "files\/image66.png",
-                        "type": "image\/png",
-                        "name": "image66.png",
-                        "size": "10509"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
-            "indent": "3",
-            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
-            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
-            "order": 1,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Implementing DDD",
-            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
-            "metadata": {
-                "created": "1710530361",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
-                "status": ""
-            }
-        },
-        {
             "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
             "indent": "3",
             "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
@@ -2823,6 +2162,645 @@
                 "updated": 1724265952,
                 "published": "1",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
+            "indent": "1",
+            "location": "pages\/item-a9108086-6b38-43b0-84b0-0447cab9c123\/index.html",
+            "slug": "documentation\/pedagogy",
+            "order": 0,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "Pedagogy",
+            "description": "While HAX can be used to build many types of websites, it's original use-cases were in instruction and online course \/ textbook development. As a result, a lot of the decisions around how and why the",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265951,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "indent": "2",
+            "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
+            "slug": "ontology",
+            "order": 0,
+            "parent": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
+            "title": "HAX Ontology",
+            "description": "What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 ",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1724265951,
+                "published": "1",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "1",
+                    "paragraphs": "3",
+                    "schema": [
+                        {
+                            "resource": "#98f91cec-8ea3-e2d9-1ac3-0bd7fd195753",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#4f992efe-73fb-9a76-eeb9-22e3463e5024",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "3",
+                        "h5": "1",
+                        "video-player": "1",
+                        "img": "1"
+                    },
+                    "elements": "7"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image13.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image13.png",
+                        "url": "files\/image13.png",
+                        "type": "image\/png",
+                        "name": "image13.png",
+                        "size": "193305"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
+                        "url": "files\/HAX Course Ontology Draft Version.png",
+                        "type": "image\/png",
+                        "name": "HAX Course Ontology Draft Version.png",
+                        "size": "769447"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
+                        "url": "files\/HAX_Ontology.mp4",
+                        "type": "video\/mp4",
+                        "name": "HAX_Ontology.mp4",
+                        "size": "209088025"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/image14.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image14.png",
+                        "url": "files\/image14.png",
+                        "type": "image\/png",
+                        "name": "image14.png",
+                        "size": "128093"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image17.png",
+                        "url": "files\/image17.png",
+                        "type": "image\/png",
+                        "name": "image17.png",
+                        "size": "9329"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image18.png",
+                        "url": "files\/image18.png",
+                        "type": "image\/png",
+                        "name": "image18.png",
+                        "size": "29317"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image19.png",
+                        "url": "files\/image19.png",
+                        "type": "image\/png",
+                        "name": "image19.png",
+                        "size": "9059"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image20.png",
+                        "url": "files\/image20.png",
+                        "type": "image\/png",
+                        "name": "image20.png",
+                        "size": "9692"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image21.png",
+                        "url": "files\/image21.png",
+                        "type": "image\/png",
+                        "name": "image21.png",
+                        "size": "30941"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image22.png",
+                        "url": "files\/image22.png",
+                        "type": "image\/png",
+                        "name": "image22.png",
+                        "size": "30941"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/6_Instruction1.png",
+                        "url": "files\/6_Instruction1.png",
+                        "type": "image\/png",
+                        "name": "6_Instruction1.png",
+                        "size": "469571"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=iF4UZKcAWmw"
+                ],
+                "images": [
+                    "files\/HAX Course Ontology Draft Version.png"
+                ]
+            }
+        },
+        {
+            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
+            "indent": "3",
+            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
+            "slug": "ontology\/page",
+            "order": 1,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Outcomes",
+            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
+            "metadata": {
+                "created": "1683137702",
+                "updated": 1724265951,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "url": "files\/image1.png",
+                        "type": "image\/png",
+                        "name": "image1.png",
+                        "size": "128013"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "url": "files\/image3.png",
+                        "type": "image\/png",
+                        "name": "image3.png",
+                        "size": "109622"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
+                        "url": "files\/2_Outcomes.png",
+                        "type": "image\/png",
+                        "name": "2_Outcomes.png",
+                        "size": "389419"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
+                ],
+                "images": [],
+                "tags": "ontology, outcomes"
+            }
+        },
+        {
+            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
+            "indent": "3",
+            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
+            "slug": "ontology\/new-item",
+            "order": 2,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Pedagogy",
+            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1724265951,
+                "published": "1",
+                "status": "",
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2023-05-03 14-18-10.png",
+                        "size": "73304"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "url": "files\/image.png",
+                        "type": "image\/png",
+                        "name": "image.png",
+                        "size": "75798"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
+                        "url": "files\/image23.png",
+                        "type": "image\/png",
+                        "name": "image23.png",
+                        "size": "32146"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
+                        "url": "files\/4_Pedagogy2.png",
+                        "type": "image\/png",
+                        "name": "4_Pedagogy2.png",
+                        "size": "160827"
+                    }
+                ],
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "img": "1",
+                        "p": "1"
+                    },
+                    "elements": "3"
+                },
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-42b47c5a-8ad2-4507-bef1-0488c65cc54a",
+            "indent": "3",
+            "location": "pages\/item-42b47c5a-8ad2-4507-bef1-0488c65cc54a\/index.html",
+            "slug": "ontology\/page-1",
+            "order": 3,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Structure",
+            "description": "Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo",
+            "metadata": {
+                "created": "1683137703",
+                "updated": 1724265951,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#4d68885e-e5d5-d911-03cf-c8d932d03d67",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image2.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image2.png",
+                        "url": "files\/image2.png",
+                        "type": "image\/png",
+                        "name": "image2.png",
+                        "size": "58057"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/5_Structure.png",
+                        "url": "files\/5_Structure.png",
+                        "type": "image\/png",
+                        "name": "5_Structure.png",
+                        "size": "352193"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=XIZelr4Lg98"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-23eb212e-a523-4d7b-862a-0a00cb786321",
+            "indent": "3",
+            "location": "pages\/item-23eb212e-a523-4d7b-862a-0a00cb786321\/index.html",
+            "slug": "ontology\/page-3",
+            "order": 4,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Instruction",
+            "description": "Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie",
+            "metadata": {
+                "created": "1683137705",
+                "updated": 1724265951,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#dc9e47e8-01cc-09d3-89d2-04c701c43d1a",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image5.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image5.png",
+                        "url": "files\/image5.png",
+                        "type": "image\/png",
+                        "name": "image5.png",
+                        "size": "136023"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/7_Instruction2.png",
+                        "url": "files\/7_Instruction2.png",
+                        "type": "image\/png",
+                        "name": "7_Instruction2.png",
+                        "size": "429816"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=G5dYdOHLajY"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-d57321c6-4106-45ec-89a4-8ebdf0af67f2",
+            "indent": "3",
+            "location": "pages\/item-d57321c6-4106-45ec-89a4-8ebdf0af67f2\/index.html",
+            "slug": "ontology\/page-2",
+            "order": 5,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Content",
+            "description": "Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination ",
+            "metadata": {
+                "created": "1683137704",
+                "updated": 1724265951,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#5f322574-ba0f-a61e-86aa-fa025a2bc448",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image4.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image4.png",
+                        "url": "files\/image4.png",
+                        "type": "image\/png",
+                        "name": "image4.png",
+                        "size": "90868"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image24.png",
+                        "url": "files\/image24.png",
+                        "type": "image\/png",
+                        "name": "image24.png",
+                        "size": "22222"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image25.png",
+                        "url": "files\/image25.png",
+                        "type": "image\/png",
+                        "name": "image25.png",
+                        "size": "22222"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image26.png",
+                        "url": "files\/image26.png",
+                        "type": "image\/png",
+                        "name": "image26.png",
+                        "size": "27601"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image27.png",
+                        "url": "files\/image27.png",
+                        "type": "image\/png",
+                        "name": "image27.png",
+                        "size": "28033"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/14_Content1.png",
+                        "url": "files\/14_Content1.png",
+                        "type": "image\/png",
+                        "name": "14_Content1.png",
+                        "size": "438314"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=NBsjGPIf1tQ"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5",
+            "indent": "3",
+            "location": "pages\/item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5\/index.html",
+            "slug": "ontology\/page-4",
+            "order": 6,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Assessment",
+            "description": "Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake",
+            "metadata": {
+                "created": "1683137709",
+                "updated": 1724265951,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#5600e5bc-7061-db1a-d82f-3717e2e448c5",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image6.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image6.png",
+                        "url": "files\/image6.png",
+                        "type": "image\/png",
+                        "name": "image6.png",
+                        "size": "42041"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/17_Assessment1.png",
+                        "url": "files\/17_Assessment1.png",
+                        "type": "image\/png",
+                        "name": "17_Assessment1.png",
+                        "size": "515064"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=i9paCj1Kya4"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "indent": "2",
+            "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
+            "slug": "the-gallery-of-online-excellence",
+            "order": 1,
+            "parent": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
+            "title": "Gallery of Online Excellence",
+            "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
+            "metadata": {
+                "created": "1701201443",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b",
+            "indent": "3",
+            "location": "pages\/item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b\/index.html",
+            "slug": "providing-quality-feedback",
+            "order": 1,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Providing Quality Feedback",
+            "description": "",
+            "metadata": {
+                "created": "1701276230",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
+            "indent": "3",
+            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
+            "slug": "study-guide-approaches",
+            "order": 2,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Study Guide Approaches",
+            "description": "",
+            "metadata": {
+                "created": "1701276272",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
+            "indent": "3",
+            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
+            "slug": "guided-practice",
+            "order": 3,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Guided Practice",
+            "description": "",
+            "metadata": {
+                "created": "1701276237",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
+            "indent": "3",
+            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
+            "slug": "odl-course-showcase",
+            "order": 4,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "ODL Course Showcase",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1711642479",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/stLwUI4G92Q"
+                ],
+                "updated": 1724265951,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
             }
         },
         {
@@ -3465,6 +3443,44 @@
             }
         },
         {
+            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
+            "indent": "3",
+            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
+            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
+            "order": 0,
+            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
+            "title": "3D Model",
+            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
+                ],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
+            "indent": 0,
+            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
+            "slug": "solutions\/page",
+            "order": "0",
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1724266050,
+                "updated": 1724266050,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
             "indent": "2",
             "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
@@ -3479,6 +3495,59 @@
                 "images": [],
                 "videos": [],
                 "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
+            "indent": "1",
+            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
+            "slug": "site-things\/footer",
+            "order": 1,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer",
+            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [
+                    "files\/HAX.psu World changer-circle1.png"
+                ],
+                "videos": [],
+                "updated": 1724265952,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
+                        "url": "files\/hax-footer.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-footer.jpg",
+                        "size": "16806"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
+                        "url": "files\/eberly-logo.png",
+                        "type": "image\/png",
+                        "name": "eberly-logo.png",
+                        "size": "8969"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
+                        "url": "files\/ist-logo.png",
+                        "type": "image\/png",
+                        "name": "ist-logo.png",
+                        "size": "62252"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
+                        "url": "files\/HAX.psu World changer-circle1.png",
+                        "type": "image\/png",
+                        "name": "HAX.psu World changer-circle1.png",
+                        "size": "1172092"
+                    }
+                ],
                 "published": "1",
                 "hideInMenu": "",
                 "readtime": "1",
@@ -4141,59 +4210,6 @@
                 "videos": [],
                 "updated": 1724265952,
                 "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
-            "indent": "1",
-            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
-            "slug": "site-things\/footer",
-            "order": 1,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer",
-            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [
-                    "files\/HAX.psu World changer-circle1.png"
-                ],
-                "videos": [],
-                "updated": 1724265952,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
-                        "url": "files\/hax-footer.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-footer.jpg",
-                        "size": "16806"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
-                        "url": "files\/eberly-logo.png",
-                        "type": "image\/png",
-                        "name": "eberly-logo.png",
-                        "size": "8969"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
-                        "url": "files\/ist-logo.png",
-                        "type": "image\/png",
-                        "name": "ist-logo.png",
-                        "size": "62252"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
-                        "url": "files\/HAX.psu World changer-circle1.png",
-                        "type": "image\/png",
-                        "name": "HAX.psu World changer-circle1.png",
-                        "size": "1172092"
-                    }
-                ],
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
                 "status": ""
             }
         },
