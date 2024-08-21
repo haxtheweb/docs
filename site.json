@@ -4296,16 +4296,20 @@
             "id": "item-a9fbc83f-b923-4af7-b998-5da6864a527a",
             "indent": 0,
             "location": "pages\/item-a9fbc83f-b923-4af7-b998-5da6864a527a\/index.html",
-            "slug": "solutions\/page-1",
-            "order": "3",
+            "slug": "solutions\/h-a-x",
+            "order": 3,
             "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "Page",
-            "description": "",
+            "title": "@haxtheweb\/h-a-x",
+            "description": "HAXeditor is the editor of the future you're using in this site! It's all the editing capabilities you've come for with HAX and the core solution that all other projects are based on here. The most c",
             "metadata": {
                 "created": 1724266109,
-                "updated": 1724266109,
+                "updated": 1724266230,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
