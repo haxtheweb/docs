@@ -4164,20 +4164,20 @@
             "indent": 0,
             "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
             "slug": "the-gallery-of-online-excellence",
-            "order": 3,
-            "parent": null,
+            "order": 2,
+            "parent": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
             "title": "Gallery of Online Excellence",
             "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
             "metadata": {
                 "created": "1701201443",
-                "updated": 1724249289,
+                "updated": 1724251753,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
