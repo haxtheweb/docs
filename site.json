@@ -2305,19 +2305,22 @@
         },
         {
             "id": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-a9108086-6b38-43b0-84b0-0447cab9c123\/index.html",
             "slug": "documentation\/pedagogy",
             "order": 0,
             "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
             "title": "Pedagogy",
-            "description": "",
+            "description": "While HAX can be used to build many types of websites, it's original use-cases were in instruction and online course \/ textbook development. As a result, a lot of the decisions around how and why the",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1724249289,
                 "images": [],
                 "videos": [],
-                "updated": 1724249289
+                "updated": 1724251714,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
