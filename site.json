@@ -3949,21 +3949,21 @@
             "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
             "slug": "odl-course-showcase",
             "order": 3,
-            "parent": null,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
             "title": "ODL Course Showcase",
             "description": "",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1711642479",
                 "images": [],
                 "videos": [
                     "https:\/\/youtu.be\/stLwUI4G92Q"
                 ],
-                "updated": 1722023232,
-                "published": "1",
+                "updated": 1724247337,
+                "published": true,
                 "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
