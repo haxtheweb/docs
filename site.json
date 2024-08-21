@@ -3403,15 +3403,19 @@
             "indent": 0,
             "location": "pages\/item-90f04b0e-75f3-424d-9e6f-4841af66ab6c\/index.html",
             "slug": "solutions\/page",
-            "order": "0",
+            "order": 0,
             "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "Page",
-            "description": "",
+            "title": "HAXDesktop",
+            "description": "HAX for Desktop is the nodeJS version of the project packaged up using Electron. The repo is the raw source required to do builds for different architectures like Linux, Windows and MacOS. Currently ",
             "metadata": {
                 "created": 1724266457,
-                "updated": 1724266457,
+                "updated": 1724266563,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
