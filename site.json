@@ -4257,22 +4257,6 @@
             }
         },
         {
-            "id": "item-bfaeda43-323f-4da7-b441-a9fe170deb19",
-            "indent": 0,
-            "location": "pages\/item-bfaeda43-323f-4da7-b441-a9fe170deb19\/index.html",
-            "slug": "page-2",
-            "order": "4",
-            "parent": null,
-            "title": "Page",
-            "description": "",
-            "metadata": {
-                "created": 1724266041,
-                "updated": 1724266041,
-                "images": [],
-                "videos": []
-            }
-        },
-        {
             "id": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
             "indent": 0,
             "location": "pages\/item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a\/index.html",
