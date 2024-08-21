@@ -3627,7 +3627,7 @@
         },
         {
             "id": "item-ca6807b1-e87c-4cb5-989c-cb4331b5d031",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-ca6807b1-e87c-4cb5-989c-cb4331b5d031\/index.html",
             "slug": "tutorials\/insights-dashboard",
             "order": 4,
@@ -3636,10 +3636,10 @@
             "description": "Insights provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.Automated Link Checking",
             "metadata": {
                 "created": "1683139062",
-                "updated": 1724249288,
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "updated": 1724250080,
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "contentDetails": {
                     "headings": "0",
                     "paragraphs": "1",
@@ -3660,7 +3660,8 @@
                     "https:\/\/www.youtube.com\/watch?v=I6cDZLutvhU"
                 ],
                 "images": [],
-                "tags": "insights,tutorial"
+                "tags": "insights,tutorial",
+                "hideInMenu": false
             }
         },
         {
