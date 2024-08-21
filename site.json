@@ -3708,19 +3708,22 @@
         },
         {
             "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
             "slug": "documentation\/developers\/tools",
             "order": 1,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
             "title": "Tools",
-            "description": "",
+            "description": "Experience the many tools that help the HAX ecosystem thrive!",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1724249289,
                 "images": [],
                 "videos": [],
-                "updated": 1724249289
+                "updated": 1724264351,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
