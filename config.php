@@ -25,20 +25,26 @@
  * things are rendered.
  */
 $bootstrapPath = "/../..";
+// see if we are in docker, tweak path
 if (file_exists("/.dockerenv") && __DIR__ == "/var/www/html") {
   $GLOBALS["HAXcmsInDocker"] = true;
   $bootstrapPath = "";
 }
-// look for local copy, otherwise defer
-// COMMENTED OUT UNTIL WE OFFICIALLY SUPPORT THIS FUNCTIONALITY
-/*if (file_exists(__DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php')) {
+// look for a local / larger copy of HAXcms in multi-site mode
+if (file_exists(__DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php')) {
   include_once __DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php';
+  include_once __DIR__ . $bootstrapPath . '/system/backend/php/lib/HAXSiteConfig.php';
   include_once $GLOBALS['HAXCMS']->configDirectory . '/config.php';
-}*/
+  $site = $HAXCMS->loadSite(basename(__DIR__));
+  $page = $site->loadNodeByLocation();
+  $color = 'var(' . $site->manifest->metadata->theme->variables->cssVariable . ', #FF2222)';
+  $HAXSiteConfig = new HAXSiteConfig($site);
+}
 // local slim config loader off of site.json
 // Without a global HAXcms instance this implies the above did not autoload one
 // and that we are operating in HAXsite "single site" context and must supply
 // all our configuration below to power the page.
+// this only runs if broken off from a larger deploy that hosts a PHP env
 if (!isset($GLOBALS['HAXCMS'])) {
   /**
    * A slim version of HAXcms that is just config driven off site.json
@@ -203,7 +209,7 @@ if (!isset($GLOBALS['HAXCMS'])) {
           <link rel="preconnect" crossorigin href="https://cdnjs.cloudflare.com">
           <link rel="preload" href="' . $base . 'build.js" as="script" />
           <link rel="preload" href="' . $base . 'build-haxcms.js" as="script" />
-          <link rel="preload" href="' . $base . 'wc-registry.json" as="fetch" crossorigin="anonymous" />
+          <link rel="preload" href="' . $base . 'wc-registry.json" as="fetch" crossorigin="anonymous" fetchpriority="high" />
           <link rel="preload" href="' . $base . 'build/es6/node_modules/@lrnwebcomponents/dynamic-import-registry/dynamic-import-registry.js" as="script" crossorigin="anonymous" />
           <link rel="modulepreload" href="' . $base . 'build/es6/node_modules/@lrnwebcomponents/dynamic-import-registry/dynamic-import-registry.js" />
           <link rel="preload" href="' . $base . 'build/es6/node_modules/@lrnwebcomponents/wc-autoload/wc-autoload.js" as="script" crossorigin="anonymous" />
@@ -340,7 +346,7 @@ if (!isset($GLOBALS['HAXCMS'])) {
      * Request URI resolution
      */
     public function request_uri() {
-	    if (isset($_SERVER['REQUEST_URI'])) {
+      if (isset($_SERVER['REQUEST_URI'])) {
         $uri = $_SERVER['REQUEST_URI'];
       }
       else {
