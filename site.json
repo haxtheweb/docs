@@ -1,6 +1,6 @@
 {
     "id": "b8e14c34-6f48-4f74-aca4-f35428f49855",
-    "title": "haxcellence",
+    "title": "HAXcellence",
     "author": "",
     "description": "Create Your Own course",
     "license": "by-sa",
@@ -16,9 +16,9 @@
             "logo": "files\/hax (1).png",
             "lang": "en",
             "created": 1683137556,
-            "updated": 1724265952,
+            "updated": 1724359397,
             "git": {},
-            "version": "8.0.0",
+            "version": "9.0.6",
             "domain": "",
             "static": {},
             "settings": {
@@ -28,13 +28,14 @@
                 "forceUpgrade": false,
                 "lang": "",
                 "gaID": ""
-            }
+            },
+            "tags": ""
         },
         "theme": {
             "element": "polaris-invent-theme",
-            "path": "@lrnwebcomponents\/polaris-theme\/lib\/polaris-invent-theme.js",
+            "path": "@haxtheweb\/polaris-theme\/lib\/polaris-invent-theme.js",
             "name": "Polaris - Invent",
-            "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
+            "thumbnail": "build\/es6\/node_modules\/@haxtheweb\/app-hax\/lib\/assets\/images\/PartyStyle.svg",
             "variables": {
                 "image": "",
                 "imageAlt": "",
