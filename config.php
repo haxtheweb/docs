@@ -340,7 +340,7 @@ if (!isset($GLOBALS['HAXCMS'])) {
      * Request URI resolution
      */
     public function request_uri() {
-      if (isset($_SERVER['REQUEST_URI'])) {
+	    if (isset($_SERVER['REQUEST_URI'])) {
         $uri = $_SERVER['REQUEST_URI'];
       }
       else {
