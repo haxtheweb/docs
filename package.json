@@ -1,31 +1,20 @@
 {
   "name": "haxcellence",
-  "version": "8.0.0",
+  "version": "9.0.6",
   "description": "Create Your Own course",
   "main": "index.html",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com/elmsln/haxtheweb.git"
-  },
   "author": {
     "name": "btopro"
   },
   "license": "Apache-2.0",
-  "dependencies": {
-    "@lrnwebcomponents/haxcms-elements": "^7.0.15"
-  },
   "private": false,
   "publishConfig": {
     "access": "public"
   },
-  "resolutions": {
-  },
-  "devDependencies": {
-    "@web/dev-server": "0.3.0"
-  },
   "scripts": {
-    "start": "yarn run dev",
-    "dev": "web-dev-server -c web-dev-server.haxcms.config.cjs",
-    "dev-theme": "cd custom && yarn start"
+    "start": "npm run dev",
+    "ghpages:build": "rm dist && rm assets/babel* && rm build && rm node_modules && rm wc-registry.json",
+    "dev": "npx @haxtheweb/haxcms-nodejs",
+    "dev-theme": "cd custom && npm start"
   }
 }

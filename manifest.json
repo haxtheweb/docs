@@ -1,5 +1,5 @@
 {
-    "name": "haxcellence",
+    "name": "HAXcellence",
     "short_name": "haxcellence",
     "description": "Create Your Own course",
     "icons": [
@@ -48,8 +48,8 @@
             "purpose": "maskable"
         }
     ],
-    "scope": "/bmr1/sites/haxcellence/",
-    "start_url": "/bmr1/sites/haxcellence/",
+    "scope": "/bto108/sites/haxcellence/",
+    "start_url": "/bto108/sites/haxcellence/",
     "display": "standalone",
     "theme_color": "#aeff00",
     "background_color": "#aeff00",

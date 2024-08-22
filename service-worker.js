@@ -556,7 +556,7 @@ var precacheConfig = [
     ],
     [
         "index.html",
-        "M7c7Xx4uqUyNG7U9enYmWQ"
+        "UBOFRmPjCO72u0SXQbx8fg"
     ],
     [
         "files\/haxcms-managed\/512x512-hax (1).png",
@@ -588,15 +588,15 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "JcKP8MXfoilzZBYKeoqYOA"
+        "vGBjnVMGxmjDu0wJUEAg"
     ],
     [
         "site.json",
-        "pTmOpUHjpYL8kHhZhUNnvQ"
+        "oOK7q7lGAYXEdMlI6OF6g"
     ],
     [
         "404.html",
-        "0BBVAns5rLQLPevl6LRa9A"
+        "fegVls1hG0rG6IyEHzqig"
     ],
     [
         "files\/hax-horizon-report-oct-2023.jpg",
