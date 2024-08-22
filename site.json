@@ -1681,7 +1681,7 @@
         },
         {
             "id": "item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105",
-            "indent": "4",
+            "indent": 0,
             "location": "pages\/item-e5e58d0e-aa0b-4749-a9cb-e791b08d4105\/index.html",
             "slug": "in-short-a-sound-process",
             "order": 1,
@@ -1690,12 +1690,12 @@
             "description": "  Creating effective video recordings requires mastery of two skill sets: the development of effective educational slide-based lectures and the effective recording and distribution of video content.",
             "metadata": {
                 "created": "1701460496",
-                "updated": 1724265951,
+                "updated": 1724352734,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "status": "",
                 "files": [
                     {
@@ -1797,7 +1797,7 @@
                         "size": "1890"
                     }
                 ],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
