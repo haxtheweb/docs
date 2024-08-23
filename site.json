@@ -3187,7 +3187,16 @@
                 "locked": "",
                 "readtime": "1",
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Featured_Article_Blue1.png",
+                        "url": "files\/Featured_Article_Blue1.png",
+                        "type": "image\/png",
+                        "name": "Featured_Article_Blue1.png",
+                        "size": 1910
+                    }
+                ]
             }
         },
         {

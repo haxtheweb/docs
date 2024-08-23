@@ -592,7 +592,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "oOK7q7lGAYXEdMlI6OF6g"
+        "ba8JxocSyVzoZ9gZ3jOMA"
     ],
     [
         "404.html",
@@ -917,6 +917,10 @@ var precacheConfig = [
     [
         "files\/Book at 50.png",
         "qU6RF9nBFq3XOI63ahzQHw"
+    ],
+    [
+        "files\/Featured_Article_Blue1.png",
+        "b78fBob9WHl5zvwcznvIA"
     ],
     [
         "files\/image70.png",
