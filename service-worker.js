@@ -232,7 +232,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-d0e6ac0b-fc44-4be3-8e32-3647ddaeddd7\/index.html",
-        "u6EvvpRUwEn8Hsw4Ix02xg"
+        "V5FxGQDE8RFZofAZ2zE7A"
     ],
     [
         "pages\/item-adb4f6d7-5f7a-4620-ad3a-b0ff14343e60\/index.html",
