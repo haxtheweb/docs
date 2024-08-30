@@ -2207,22 +2207,24 @@
         },
         {
             "id": "item-13056366-d039-4d51-b3ae-a3fcd12cd107",
-            "indent": "4",
+            "indent": 0,
             "location": "pages\/item-13056366-d039-4d51-b3ae-a3fcd12cd107\/index.html",
             "slug": "documentation\/pedagogy\/the-gallery-of-online-excellence\/effective-educational-video\/page",
             "order": 3,
             "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
             "title": "Cognitive Load Theory Primer",
-            "description": "",
+            "description": "A Model of Human Memory  &#8203;    Sensory &amp;gt; Working &amp;gt; Long -termWorking memory design implication  aaa  Sensory &amp;gt; Working &amp;gt; Long -termWorking memory design im",
             "metadata": {
                 "created": "1725028699",
-                "updated": 1725029141,
-                "images": [],
+                "updated": 1725029297,
+                "images": [
+                    "files\/CognativeTheoryMML.jpeg"
+                ],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
