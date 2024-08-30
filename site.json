@@ -2658,22 +2658,6 @@
             }
         },
         {
-            "id": "item-ecd1ac41-cf5f-412c-9a1b-a4fe62e4167d",
-            "indent": 0,
-            "location": "pages\/item-ecd1ac41-cf5f-412c-9a1b-a4fe62e4167d\/index.html",
-            "slug": "documentation\/pedagogy\/the-gallery-of-online-excellence\/effective-educational-video\/page\/page",
-            "order": "0",
-            "parent": "item-13056366-d039-4d51-b3ae-a3fcd12cd107",
-            "title": "Page",
-            "description": "",
-            "metadata": {
-                "created": 1725029033,
-                "updated": 1725029033,
-                "images": [],
-                "videos": []
-            }
-        },
-        {
             "id": "item-d597021d-28f9-402d-9d2c-8edff8c96e59",
             "indent": "4",
             "location": "pages\/item-d597021d-28f9-402d-9d2c-8edff8c96e59\/index.html",
