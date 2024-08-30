@@ -760,514 +760,24 @@
             }
         },
         {
-            "id": "item-7d7e9a33-1d6a-4b29-a442-35cef09ee666",
-            "indent": "3",
-            "location": "pages\/item-7d7e9a33-1d6a-4b29-a442-35cef09ee666\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/math",
+            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
+            "indent": 0,
+            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
+            "slug": "documentation\/elmsln",
             "order": 0,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Math",
-            "description": "To communicate about concepts in Mathematics a new form of expression language was required to translate chalkboard notation to the web. That syntax is known as MathML or LaTeXML. HAX supports this t",
+            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "title": "ELMS:LN",
+            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
             "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=PBnd7A0OmhU"
-                ],
-                "updated": 1724265950,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image31.png",
-                        "url": "files\/image31.png",
-                        "type": "image\/png",
-                        "name": "image31.png",
-                        "size": "30911"
-                    }
-                ],
-                "published": "1",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": "",
-                "tags": "instructional, math"
-            }
-        },
-        {
-            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "indent": "2",
-            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
-            "slug": "tutorials\/block-usage\/instructional",
-            "order": 0,
-            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "title": "Instructional",
-            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
+                "locked": false,
+                "created": "1707142965",
                 "images": [],
                 "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "indent": "3",
-            "location": "pages\/item-5931cf01-9b8d-4bdd-990b-6f4465174dcf\/index.html",
-            "slug": "tutorials\/block-usage\/question-types",
-            "order": 1,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Question types",
-            "description": "Use these question types to provide high quality formative assessment!\u00a0",
-            "metadata": {
-                "created": "1721075977",
-                "updated": 1724265950,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "question",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
-            "indent": "4",
-            "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/fill-in-the-blanks",
-            "order": 0,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Fill in the blanks",
-            "description": "This question type allows the user to complete a sentance by answering in context of other written material. Input fields are visualized directly in the paragraph and they are be modified easily via ",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-51-51.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-51-51.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-51-51.png",
-                        "size": "24119"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
-                "tags": "instructional, question, fill",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-82db2727-136d-4ee0-b965-9d847d8631c6",
-            "indent": "4",
-            "location": "pages\/item-82db2727-136d-4ee0-b965-9d847d8631c6\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/mark-the-words",
-            "order": 1,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Mark the Words",
-            "description": "Feedback in context of sentences",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-56-44.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-56-44.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-56-44.png",
-                        "size": "33515"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-56-44.png",
-                "tags": "instructional, question, mark",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-7c4e5edc-892b-4272-8513-248dd4d4efe5",
-            "indent": "4",
-            "location": "pages\/item-7c4e5edc-892b-4272-8513-248dd4d4efe5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-drag-and-drop",
-            "order": 2,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Matching \/ Drag and drop",
-            "description": "Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers. Targets can have multiple answers associated with them and there can also be options tha",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-09-09.png",
-                        "url": "files\/Screenshot from 2024-07-25 11-09-09.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 11-09-09.png",
-                        "size": "54826"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 11-09-09.png",
-                "tags": "instructional, question, matching",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
-            "indent": "4",
-            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/multiple-choice",
-            "order": 3,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Multiple choice",
-            "description": "Ask users a question with multiple possible answers",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-03.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-36-03.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-36-03.png",
-                        "size": "40949"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-031.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-36-031.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-36-031.png",
-                        "size": "40949"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
-                "tags": "instructional, question"
-            }
-        },
-        {
-            "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
-            "indent": "4",
-            "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer-question",
-            "order": 4,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Short Answer Question",
-            "description": "Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.ExampleDevelopernpm install @haxtheweb\/multiple-choice --save (short-answer-quest",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-13-35.png",
-                        "url": "files\/Screenshot from 2024-07-25 11-13-35.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 11-13-35.png",
-                        "size": "28400"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 11-13-35.png",
-                "tags": "instructional, question",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-4622057f-76f3-40dd-962b-0b6e640e4058",
-            "indent": "4",
-            "location": "pages\/item-4622057f-76f3-40dd-962b-0b6e640e4058\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/sorting-question",
-            "order": 5,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Sorting Question",
-            "description": "Self evident, Refer back to 1st gradeConsider that numbers tend to go zero, one, two...",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-13-13.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-13-13.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-13-13.png",
-                        "size": "29333"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image81.png",
-                        "url": "files\/image81.png",
-                        "type": "image\/png",
-                        "name": "image81.png",
-                        "size": "29333"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-13-13.png",
-                "tags": "instructional, question, sorting",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-c7a62f87-28f5-4049-95ce-10b1ddb94201",
-            "indent": "4",
-            "location": "pages\/item-c7a62f87-28f5-4049-95ce-10b1ddb94201\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/tagging-question",
-            "order": 6,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Tagging question",
-            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only\u00a0select  the correct answers without",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1724265950,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-59.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-22-59.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-22-59.png",
-                        "size": "26579"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-591.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-22-591.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-22-591.png",
-                        "size": "26579"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-22-591.png",
-                "tags": "instructional, question, tagging",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
-            "indent": "4",
-            "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/true-false-question",
-            "order": 7,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "True false question",
-            "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
-            "metadata": {
-                "created": "1721924056",
-                "updated": 1724265950,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "question, true false",
-                "locked": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 12-18-15.png",
-                        "url": "files\/Screenshot from 2024-07-25 12-18-15.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 12-18-15.png",
-                        "size": "25561"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 12-18-15.png",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
-            "indent": "3",
-            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/self-check",
-            "order": 2,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Self check",
-            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/k8PfCA86Ago"
-                ],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
-            "indent": "3",
-            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/stop-note",
-            "order": 3,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Stop note",
-            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/TccvXxfF8jc"
-                ],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
-            "indent": "3",
-            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/table",
-            "order": 4,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Table",
-            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/JxyZBF1j0to"
-                ],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
-            "indent": "3",
-            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/timeline",
-            "order": 5,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Timeline",
-            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/Jv634X-e6Fs"
-                ],
-                "updated": 1724265950,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "indent": "2",
-            "location": "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
-            "slug": "documentation\/hax-frontend-devs",
-            "order": 0,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Frontend developers",
-            "description": "HAX primary audience is to empower no tech and low tech implementations to empower as many voices as possible. That said, it is built on highly sophisticated tools that you can use in your own workfl",
-            "metadata": {
-                "created": "1707145491",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image66.png",
-                        "url": "files\/image66.png",
-                        "type": "image\/png",
-                        "name": "image66.png",
-                        "size": "10509"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
-            "indent": "3",
-            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
-            "slug": "documentation\/ddd",
-            "order": 0,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Design Documentation",
-            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
-            "metadata": {
-                "created": "1706046114",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "3"
-            }
-        },
-        {
-            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
-            "indent": "3",
-            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
-            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
-            "order": 1,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Implementing DDD",
-            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
-            "metadata": {
-                "created": "1710530361",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
+                "updated": 1724266819,
+                "published": true,
+                "hideInMenu": false,
+                "icon": "lrn:network",
+                "readtime": 2,
                 "status": ""
             }
         },
@@ -2215,6 +1725,22 @@
             }
         },
         {
+            "id": "item-13056366-d039-4d51-b3ae-a3fcd12cd107",
+            "indent": 0,
+            "location": "pages\/item-13056366-d039-4d51-b3ae-a3fcd12cd107\/index.html",
+            "slug": "documentation\/pedagogy\/the-gallery-of-online-excellence\/effective-educational-video\/page",
+            "order": "4",
+            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1725028699,
+                "updated": 1725028699,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-d597021d-28f9-402d-9d2c-8edff8c96e59",
             "indent": "4",
             "location": "pages\/item-d597021d-28f9-402d-9d2c-8edff8c96e59\/index.html",
@@ -2531,6 +2057,184 @@
             }
         },
         {
+            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
+            "indent": "3",
+            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
+            "slug": "ontology\/page-5",
+            "order": 0,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "The Core",
+            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
+            "metadata": {
+                "created": "1688058253",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
+                        "url": "files\/1_The Core.png",
+                        "type": "image\/png",
+                        "name": "1_The Core.png",
+                        "size": "346696"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "indent": "1",
+            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
+            "slug": "the-future",
+            "order": 0,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "The Future",
+            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
+            "metadata": {
+                "locked": "",
+                "created": "1697036006",
+                "images": [
+                    "files\/hax-horizon-report-oct-2023.jpg"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/bX04I1Cw9FA"
+                ],
+                "updated": 1724265952,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
+                        "url": "files\/hax-horizon-report-oct-2023.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-horizon-report-oct-2023.jpg",
+                        "size": "175019"
+                    }
+                ],
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "indent": "2",
+            "location": "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
+            "slug": "documentation\/hax-frontend-devs",
+            "order": 0,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Frontend developers",
+            "description": "HAX primary audience is to empower no tech and low tech implementations to empower as many voices as possible. That said, it is built on highly sophisticated tools that you can use in your own workfl",
+            "metadata": {
+                "created": "1707145491",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "3",
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image66.png",
+                        "url": "files\/image66.png",
+                        "type": "image\/png",
+                        "name": "image66.png",
+                        "size": "10509"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
+            "indent": "3",
+            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
+            "slug": "documentation\/ddd",
+            "order": 0,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Design Documentation",
+            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
+            "metadata": {
+                "created": "1706046114",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "3"
+            }
+        },
+        {
+            "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
+            "indent": "3",
+            "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
+            "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
+            "order": 1,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Implementing DDD",
+            "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
+            "metadata": {
+                "created": "1710530361",
+                "updated": 1724265951,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "2",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
+            "indent": "3",
+            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
+            "slug": "documentation\/integrations\/backdropcms",
+            "order": 0,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "BackdropCMS",
+            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
+            "indent": "1",
+            "location": "pages\/item-a9108086-6b38-43b0-84b0-0447cab9c123\/index.html",
+            "slug": "documentation\/pedagogy",
+            "order": 0,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "Pedagogy",
+            "description": "While HAX can be used to build many types of websites, it's original use-cases were in instruction and online course \/ textbook development. As a result, a lot of the decisions around how and why the",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265951,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
             "indent": "2",
             "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
@@ -2656,37 +2360,6 @@
                 ],
                 "images": [
                     "files\/HAX Course Ontology Draft Version.png"
-                ]
-            }
-        },
-        {
-            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
-            "indent": "3",
-            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
-            "slug": "ontology\/page-5",
-            "order": 0,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "The Core",
-            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
-            "metadata": {
-                "created": "1688058253",
-                "updated": 1724265951,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
-                        "url": "files\/1_The Core.png",
-                        "type": "image\/png",
-                        "name": "1_The Core.png",
-                        "size": "346696"
-                    }
                 ]
             }
         },
@@ -3073,103 +2746,6 @@
             }
         },
         {
-            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
-            "indent": 0,
-            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
-            "slug": "documentation\/elmsln",
-            "order": 0,
-            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "title": "ELMS:LN",
-            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
-            "metadata": {
-                "locked": false,
-                "created": "1707142965",
-                "images": [],
-                "videos": [],
-                "updated": 1724266819,
-                "published": true,
-                "hideInMenu": false,
-                "icon": "lrn:network",
-                "readtime": 2,
-                "status": ""
-            }
-        },
-        {
-            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "indent": "1",
-            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
-            "slug": "the-future",
-            "order": 0,
-            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "The Future",
-            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
-            "metadata": {
-                "locked": "",
-                "created": "1697036006",
-                "images": [
-                    "files\/hax-horizon-report-oct-2023.jpg"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/bX04I1Cw9FA"
-                ],
-                "updated": 1724265952,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
-                        "url": "files\/hax-horizon-report-oct-2023.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-horizon-report-oct-2023.jpg",
-                        "size": "175019"
-                    }
-                ],
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
-            "indent": "3",
-            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
-            "slug": "documentation\/integrations\/backdropcms",
-            "order": 0,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "BackdropCMS",
-            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-a9108086-6b38-43b0-84b0-0447cab9c123",
-            "indent": "1",
-            "location": "pages\/item-a9108086-6b38-43b0-84b0-0447cab9c123\/index.html",
-            "slug": "documentation\/pedagogy",
-            "order": 0,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "Pedagogy",
-            "description": "While HAX can be used to build many types of websites, it's original use-cases were in instruction and online course \/ textbook development. As a result, a lot of the decisions around how and why the",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265951,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
             "indent": "2",
             "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
@@ -3504,6 +3080,625 @@
             }
         },
         {
+            "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
+            "indent": "4",
+            "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/fill-in-the-blanks",
+            "order": 0,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Fill in the blanks",
+            "description": "This question type allows the user to complete a sentance by answering in context of other written material. Input fields are visualized directly in the paragraph and they are be modified easily via ",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-51-51.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-51-51.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-51-51.png",
+                        "size": "24119"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
+                "tags": "instructional, question, fill",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "indent": "2",
+            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
+            "slug": "tutorials\/block-usage\/instructional",
+            "order": 0,
+            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
+            "title": "Instructional",
+            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-7d7e9a33-1d6a-4b29-a442-35cef09ee666",
+            "indent": "3",
+            "location": "pages\/item-7d7e9a33-1d6a-4b29-a442-35cef09ee666\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/math",
+            "order": 0,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Math",
+            "description": "To communicate about concepts in Mathematics a new form of expression language was required to translate chalkboard notation to the web. That syntax is known as MathML or LaTeXML. HAX supports this t",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=PBnd7A0OmhU"
+                ],
+                "updated": 1724265950,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image31.png",
+                        "url": "files\/image31.png",
+                        "type": "image\/png",
+                        "name": "image31.png",
+                        "size": "30911"
+                    }
+                ],
+                "published": "1",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": "",
+                "tags": "instructional, math"
+            }
+        },
+        {
+            "id": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "indent": "3",
+            "location": "pages\/item-5931cf01-9b8d-4bdd-990b-6f4465174dcf\/index.html",
+            "slug": "tutorials\/block-usage\/question-types",
+            "order": 1,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Question types",
+            "description": "Use these question types to provide high quality formative assessment!\u00a0",
+            "metadata": {
+                "created": "1721075977",
+                "updated": 1724265950,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "question",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-82db2727-136d-4ee0-b965-9d847d8631c6",
+            "indent": "4",
+            "location": "pages\/item-82db2727-136d-4ee0-b965-9d847d8631c6\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/mark-the-words",
+            "order": 1,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Mark the Words",
+            "description": "Feedback in context of sentences",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-56-44.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-56-44.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-56-44.png",
+                        "size": "33515"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-56-44.png",
+                "tags": "instructional, question, mark",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-7c4e5edc-892b-4272-8513-248dd4d4efe5",
+            "indent": "4",
+            "location": "pages\/item-7c4e5edc-892b-4272-8513-248dd4d4efe5\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-drag-and-drop",
+            "order": 2,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Matching \/ Drag and drop",
+            "description": "Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers. Targets can have multiple answers associated with them and there can also be options tha",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "url": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 11-09-09.png",
+                        "size": "54826"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                "tags": "instructional, question, matching",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
+            "indent": "4",
+            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/multiple-choice",
+            "order": 3,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Multiple choice",
+            "description": "Ask users a question with multiple possible answers",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-03.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-36-03.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-36-03.png",
+                        "size": "40949"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-031.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-36-031.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-36-031.png",
+                        "size": "40949"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
+                "tags": "instructional, question"
+            }
+        },
+        {
+            "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
+            "indent": "4",
+            "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer-question",
+            "order": 4,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Short Answer Question",
+            "description": "Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.ExampleDevelopernpm install @haxtheweb\/multiple-choice --save (short-answer-quest",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-13-35.png",
+                        "url": "files\/Screenshot from 2024-07-25 11-13-35.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 11-13-35.png",
+                        "size": "28400"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-13-35.png",
+                "tags": "instructional, question",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4622057f-76f3-40dd-962b-0b6e640e4058",
+            "indent": "4",
+            "location": "pages\/item-4622057f-76f3-40dd-962b-0b6e640e4058\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/sorting-question",
+            "order": 5,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Sorting Question",
+            "description": "Self evident, Refer back to 1st gradeConsider that numbers tend to go zero, one, two...",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-13-13.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-13-13.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-13-13.png",
+                        "size": "29333"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image81.png",
+                        "url": "files\/image81.png",
+                        "type": "image\/png",
+                        "name": "image81.png",
+                        "size": "29333"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-13-13.png",
+                "tags": "instructional, question, sorting",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-c7a62f87-28f5-4049-95ce-10b1ddb94201",
+            "indent": "4",
+            "location": "pages\/item-c7a62f87-28f5-4049-95ce-10b1ddb94201\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/tagging-question",
+            "order": 6,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Tagging question",
+            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only\u00a0select  the correct answers without",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1724265950,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-59.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-22-59.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-22-59.png",
+                        "size": "26579"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-591.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-22-591.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-22-591.png",
+                        "size": "26579"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-22-591.png",
+                "tags": "instructional, question, tagging",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
+            "indent": "4",
+            "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/true-false-question",
+            "order": 7,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "True false question",
+            "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
+            "metadata": {
+                "created": "1721924056",
+                "updated": 1724265950,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "question, true false",
+                "locked": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "url": "files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 12-18-15.png",
+                        "size": "25561"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 12-18-15.png",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
+            "indent": "3",
+            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/self-check",
+            "order": 2,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Self check",
+            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/k8PfCA86Ago"
+                ],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
+            "indent": "3",
+            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/stop-note",
+            "order": 3,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Stop note",
+            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/TccvXxfF8jc"
+                ],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
+            "indent": "3",
+            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/table",
+            "order": 4,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Table",
+            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/JxyZBF1j0to"
+                ],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
+            "indent": "3",
+            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/timeline",
+            "order": 5,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Timeline",
+            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/Jv634X-e6Fs"
+                ],
+                "updated": 1724265950,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "indent": "2",
+            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
+            "slug": "documentation\/developers\/tools",
+            "order": 1,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Tools",
+            "description": "Experience the many tools that help the HAX ecosystem thrive!",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
+            "indent": 0,
+            "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
+            "slug": "documentation\/developers\/tools\/create",
+            "order": 3,
+            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "title": "@haxtheweb\/create",
+            "description": "HAX CLI is the easiest way for front end developers to get involved in creating new HAX sites as well as stand alone web components.Start using the tool now:  npx @haxtheweb\/createGithub RepoNPM pac",
+            "metadata": {
+                "locked": false,
+                "created": 1724265952,
+                "images": [],
+                "videos": [],
+                "updated": 1724267830,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
+            "indent": "1",
+            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
+            "slug": "site-things\/footer",
+            "order": 1,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer",
+            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [
+                    "files\/HAX.psu World changer-circle1.png"
+                ],
+                "videos": [],
+                "updated": 1724265952,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
+                        "url": "files\/hax-footer.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-footer.jpg",
+                        "size": "16806"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
+                        "url": "files\/eberly-logo.png",
+                        "type": "image\/png",
+                        "name": "eberly-logo.png",
+                        "size": "8969"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
+                        "url": "files\/ist-logo.png",
+                        "type": "image\/png",
+                        "name": "ist-logo.png",
+                        "size": "62252"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
+                        "url": "files\/HAX.psu World changer-circle1.png",
+                        "type": "image\/png",
+                        "name": "HAX.psu World changer-circle1.png",
+                        "size": "1172092"
+                    }
+                ],
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
+            "indent": 0,
+            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
+            "slug": "solutions\/haxiam",
+            "order": 1,
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "HAXiam",
+            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
+            "metadata": {
+                "created": 1724266050,
+                "updated": 1724266093,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
+            "indent": 0,
+            "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
+            "slug": "solutions\/haxsite",
+            "order": 1,
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "HAXSite",
+            "description": "HAXsite is a stand alone site produced with HAX like the one you are reading. HAXsite is also a code repository that can be used to build new sites as a developer. Just leverage the github and you ca",
+            "metadata": {
+                "created": 1724266107,
+                "updated": 1724266431,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=C6gmrI-VQN4"
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-178875ba-a955-48b5-855a-9e1435d5d840",
+            "indent": 0,
+            "location": "pages\/item-178875ba-a955-48b5-855a-9e1435d5d840\/index.html",
+            "slug": "documentation\/data-formats",
+            "order": 1,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Data formats",
+            "description": "This is a list of the data formats that HAX supports for entry and multi-media presentationMathJAXLatexMarkdown \/ md (convert to HTML or embed source as HTML)DocX (convert to HTML)Web Components \/ H",
+            "metadata": {
+                "created": "1721847613",
+                "updated": 1724267626,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "tags": "data",
+                "locked": false,
+                "readtime": 1,
+                "status": ""
+            }
+        },
+        {
+            "id": "item-1d680323-87f4-4f28-bbd2-7268c9d4e172",
+            "indent": 0,
+            "location": "pages\/item-1d680323-87f4-4f28-bbd2-7268c9d4e172\/index.html",
+            "slug": "documentation\/developers\/schema\/haxschema",
+            "order": 1,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "HAXSchema",
+            "description": "Implementing HAXSchemaIn order for your element to talk to the HAX editor, you need to implement static get haxProperties() on your element. This callback either returns a String based location of",
+            "metadata": {
+                "locked": false,
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724267253,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 5
+            }
+        },
+        {
             "id": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
             "indent": "2",
             "location": "pages\/item-2fdd27a1-190a-47c8-8192-910bc1afe0f5\/index.html",
@@ -3610,6 +3805,257 @@
                 "tags": "video,video-player,tutorial",
                 "locked": "",
                 "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "indent": "1",
+            "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
+            "slug": "documentation\/developers",
+            "order": 1,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "Developers",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265951,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "indent": "2",
+            "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
+            "slug": "documentation\/haxcms\/integrations",
+            "order": 3,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Integrations",
+            "description": "See all the ways HAXcms is integrated into other ecosystems!",
+            "metadata": {
+                "created": "1713540464",
+                "updated": 1724265952,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "2",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25",
+            "indent": "3",
+            "location": "pages\/item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25\/index.html",
+            "slug": "documentation\/integrations\/classicpress",
+            "order": 2,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Classicpress",
+            "description": "ClassicPress is a popular fork of WordPress that's even easier to get HAX up and running then it is in the original!Get the HAX plugin  from the wordpress registryGo to edit \/ create a page\/post and",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=q0IjUz2_IhA"
+                ],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
+            "indent": "3",
+            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
+            "slug": "documentation\/haxcms\/integrations\/drupal",
+            "order": 3,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Drupal",
+            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
+            "metadata": {
+                "created": "1713540493",
+                "updated": 1724265952,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-12563166-de6a-42ed-baa6-9d9f694e8312",
+            "indent": "3",
+            "location": "pages\/item-12563166-de6a-42ed-baa6-9d9f694e8312\/index.html",
+            "slug": "documentation\/integrations\/gravcms",
+            "order": 4,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "GravCMS",
+            "description": "There's two plugins needed to run HAX on GravCMS - The web components and HAX plugins.Web components plugin  - provides the build routine and installation instructionsHAX plugin  - editor capabiliti",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-9ffa23ac-c130-4a0c-92ee-481698e444a0",
+            "indent": "3",
+            "location": "pages\/item-9ffa23ac-c130-4a0c-92ee-481698e444a0\/index.html",
+            "slug": "documentation\/integrations\/wordpress",
+            "order": 5,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Wordpress",
+            "description": "We support WordPress too! In order to use HAX though you'll want to replace the Gutenberg editor. The following steps will help you get it up and running.Get the Classic Editor . This plugin helps r",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "indent": "2",
+            "location": "pages\/item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8\/index.html",
+            "slug": "documentation\/developers\/schema",
+            "order": 4,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Schema",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-20addb32-74be-47bb-ab21-a8237d545b07",
+            "indent": 0,
+            "location": "pages\/item-20addb32-74be-47bb-ab21-a8237d545b07\/index.html",
+            "slug": "documentation\/developers\/schema\/json-outline-schema",
+            "order": 2,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "JSON Outline Schema",
+            "description": "Page is rendered from the github repo as it is a stand alone API developed as part of HAXsite \/ HAXcms development.Github Repo",
+            "metadata": {
+                "locked": false,
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724267367,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-eddf89ce-60f6-417b-8295-c0525219c230",
+            "indent": "3",
+            "location": "pages\/item-eddf89ce-60f6-417b-8295-c0525219c230\/index.html",
+            "slug": "documentation\/oer-schema",
+            "order": 3,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "OER Schema",
+            "description": "What is OER Schema?                    Computer software doesn't see learning content in the same way that humans do. Where educators and students see lessons, modules and assessments, compu",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "12",
+                "icon": "hax:oerschema",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-73fd1ab6-ba79-472d-9cc2-7828277a8e27",
+            "indent": 0,
+            "location": "pages\/item-73fd1ab6-ba79-472d-9cc2-7828277a8e27\/index.html",
+            "slug": "documentation\/developers\/schema\/openapi",
+            "order": 4,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "OpenAPI",
+            "description": "HAXcms is documented using OpenAPI specification. A copy of the specification can be found in the nodejs repo of HAXcms.Github Repo for OpenAPI Specification for HAXcms backend",
+            "metadata": {
+                "locked": false,
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724267578,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "indent": "2",
+            "location": "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
+            "slug": "documentation\/developers\/legacy-projects",
+            "order": 5,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Deprecated",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1724265952,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-54584e9b-9350-45aa-8b4f-cf92272cb53d",
+            "indent": 0,
+            "location": "pages\/item-54584e9b-9350-45aa-8b4f-cf92272cb53d\/index.html",
+            "slug": "documentation\/wcfactory",
+            "order": 1,
+            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "title": "WCFactory",
+            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustai",
+            "metadata": {
+                "locked": false,
+                "created": "1707142965",
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=kWmtOFwcXyE"
+                ],
+                "updated": 1724266749,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         },
@@ -3858,436 +4304,6 @@
             }
         },
         {
-            "id": "item-54584e9b-9350-45aa-8b4f-cf92272cb53d",
-            "indent": 0,
-            "location": "pages\/item-54584e9b-9350-45aa-8b4f-cf92272cb53d\/index.html",
-            "slug": "documentation\/wcfactory",
-            "order": 1,
-            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "title": "WCFactory",
-            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustai",
-            "metadata": {
-                "locked": false,
-                "created": "1707142965",
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=kWmtOFwcXyE"
-                ],
-                "updated": 1724266749,
-                "published": true,
-                "hideInMenu": false,
-                "readtime": 1,
-                "status": ""
-            }
-        },
-        {
-            "id": "item-1d680323-87f4-4f28-bbd2-7268c9d4e172",
-            "indent": 0,
-            "location": "pages\/item-1d680323-87f4-4f28-bbd2-7268c9d4e172\/index.html",
-            "slug": "documentation\/developers\/schema\/haxschema",
-            "order": 1,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "HAXSchema",
-            "description": "Implementing HAXSchemaIn order for your element to talk to the HAX editor, you need to implement static get haxProperties() on your element. This callback either returns a String based location of",
-            "metadata": {
-                "locked": false,
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724267253,
-                "published": true,
-                "status": "",
-                "hideInMenu": false,
-                "readtime": 5
-            }
-        },
-        {
-            "id": "item-178875ba-a955-48b5-855a-9e1435d5d840",
-            "indent": 0,
-            "location": "pages\/item-178875ba-a955-48b5-855a-9e1435d5d840\/index.html",
-            "slug": "documentation\/data-formats",
-            "order": 1,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Data formats",
-            "description": "This is a list of the data formats that HAX supports for entry and multi-media presentationMathJAXLatexMarkdown \/ md (convert to HTML or embed source as HTML)DocX (convert to HTML)Web Components \/ H",
-            "metadata": {
-                "created": "1721847613",
-                "updated": 1724267626,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "tags": "data",
-                "locked": false,
-                "readtime": 1,
-                "status": ""
-            }
-        },
-        {
-            "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "indent": "1",
-            "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
-            "slug": "documentation\/developers",
-            "order": 1,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "Developers",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265951,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "indent": "2",
-            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
-            "slug": "documentation\/developers\/tools",
-            "order": 1,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Tools",
-            "description": "Experience the many tools that help the HAX ecosystem thrive!",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
-            "indent": 0,
-            "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
-            "slug": "documentation\/developers\/tools\/create",
-            "order": 3,
-            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "title": "@haxtheweb\/create",
-            "description": "HAX CLI is the easiest way for front end developers to get involved in creating new HAX sites as well as stand alone web components.Start using the tool now:  npx @haxtheweb\/createGithub RepoNPM pac",
-            "metadata": {
-                "locked": false,
-                "created": 1724265952,
-                "images": [],
-                "videos": [],
-                "updated": 1724267830,
-                "published": true,
-                "hideInMenu": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "indent": "2",
-            "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
-            "slug": "documentation\/haxcms\/integrations",
-            "order": 3,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Integrations",
-            "description": "See all the ways HAXcms is integrated into other ecosystems!",
-            "metadata": {
-                "created": "1713540464",
-                "updated": 1724265952,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25",
-            "indent": "3",
-            "location": "pages\/item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25\/index.html",
-            "slug": "documentation\/integrations\/classicpress",
-            "order": 2,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Classicpress",
-            "description": "ClassicPress is a popular fork of WordPress that's even easier to get HAX up and running then it is in the original!Get the HAX plugin  from the wordpress registryGo to edit \/ create a page\/post and",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=q0IjUz2_IhA"
-                ],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
-            "indent": "3",
-            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
-            "slug": "documentation\/haxcms\/integrations\/drupal",
-            "order": 3,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Drupal",
-            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
-            "metadata": {
-                "created": "1713540493",
-                "updated": 1724265952,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-12563166-de6a-42ed-baa6-9d9f694e8312",
-            "indent": "3",
-            "location": "pages\/item-12563166-de6a-42ed-baa6-9d9f694e8312\/index.html",
-            "slug": "documentation\/integrations\/gravcms",
-            "order": 4,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "GravCMS",
-            "description": "There's two plugins needed to run HAX on GravCMS - The web components and HAX plugins.Web components plugin  - provides the build routine and installation instructionsHAX plugin  - editor capabiliti",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-9ffa23ac-c130-4a0c-92ee-481698e444a0",
-            "indent": "3",
-            "location": "pages\/item-9ffa23ac-c130-4a0c-92ee-481698e444a0\/index.html",
-            "slug": "documentation\/integrations\/wordpress",
-            "order": 5,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Wordpress",
-            "description": "We support WordPress too! In order to use HAX though you'll want to replace the Gutenberg editor. The following steps will help you get it up and running.Get the Classic Editor . This plugin helps r",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "indent": "2",
-            "location": "pages\/item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8\/index.html",
-            "slug": "documentation\/developers\/schema",
-            "order": 4,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Schema",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-20addb32-74be-47bb-ab21-a8237d545b07",
-            "indent": 0,
-            "location": "pages\/item-20addb32-74be-47bb-ab21-a8237d545b07\/index.html",
-            "slug": "documentation\/developers\/schema\/json-outline-schema",
-            "order": 2,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "JSON Outline Schema",
-            "description": "Page is rendered from the github repo as it is a stand alone API developed as part of HAXsite \/ HAXcms development.Github Repo",
-            "metadata": {
-                "locked": false,
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724267367,
-                "published": true,
-                "status": "",
-                "hideInMenu": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-eddf89ce-60f6-417b-8295-c0525219c230",
-            "indent": "3",
-            "location": "pages\/item-eddf89ce-60f6-417b-8295-c0525219c230\/index.html",
-            "slug": "documentation\/oer-schema",
-            "order": 3,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "OER Schema",
-            "description": "What is OER Schema?                    Computer software doesn't see learning content in the same way that humans do. Where educators and students see lessons, modules and assessments, compu",
-            "metadata": {
-                "locked": "",
-                "created": "1707142965",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "12",
-                "icon": "hax:oerschema",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-73fd1ab6-ba79-472d-9cc2-7828277a8e27",
-            "indent": 0,
-            "location": "pages\/item-73fd1ab6-ba79-472d-9cc2-7828277a8e27\/index.html",
-            "slug": "documentation\/developers\/schema\/openapi",
-            "order": 4,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "OpenAPI",
-            "description": "HAXcms is documented using OpenAPI specification. A copy of the specification can be found in the nodejs repo of HAXcms.Github Repo for OpenAPI Specification for HAXcms backend",
-            "metadata": {
-                "locked": false,
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724267578,
-                "published": true,
-                "status": "",
-                "hideInMenu": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "indent": "2",
-            "location": "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
-            "slug": "documentation\/developers\/legacy-projects",
-            "order": 5,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Deprecated",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1724265952,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
-            "indent": 0,
-            "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
-            "slug": "solutions\/haxsite",
-            "order": 1,
-            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXSite",
-            "description": "HAXsite is a stand alone site produced with HAX like the one you are reading. HAXsite is also a code repository that can be used to build new sites as a developer. Just leverage the github and you ca",
-            "metadata": {
-                "created": 1724266107,
-                "updated": 1724266431,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=C6gmrI-VQN4"
-                ],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
-            "indent": 0,
-            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
-            "slug": "solutions\/haxiam",
-            "order": 1,
-            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXiam",
-            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
-            "metadata": {
-                "created": 1724266050,
-                "updated": 1724266093,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
-            "indent": "1",
-            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
-            "slug": "site-things\/footer",
-            "order": 1,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer",
-            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [
-                    "files\/HAX.psu World changer-circle1.png"
-                ],
-                "videos": [],
-                "updated": 1724265952,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
-                        "url": "files\/hax-footer.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-footer.jpg",
-                        "size": "16806"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
-                        "url": "files\/eberly-logo.png",
-                        "type": "image\/png",
-                        "name": "eberly-logo.png",
-                        "size": "8969"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
-                        "url": "files\/ist-logo.png",
-                        "type": "image\/png",
-                        "name": "ist-logo.png",
-                        "size": "62252"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
-                        "url": "files\/HAX.psu World changer-circle1.png",
-                        "type": "image\/png",
-                        "name": "HAX.psu World changer-circle1.png",
-                        "size": "1172092"
-                    }
-                ],
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
             "indent": 0,
             "location": "pages\/item-0265920d-6055-404d-a0e6-1ae71c4ce258\/index.html",
@@ -4330,23 +4346,6 @@
             }
         },
         {
-            "id": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "indent": 0,
-            "location": "pages\/item-e6b422fc-8920-45b1-9068-173399ca50b2\/index.html",
-            "slug": "solutions",
-            "order": 3,
-            "parent": null,
-            "title": "Solutions",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": 1724265952,
-                "images": [],
-                "videos": [],
-                "updated": 1724265952
-            }
-        },
-        {
             "id": "item-a9fbc83f-b923-4af7-b998-5da6864a527a",
             "indent": 0,
             "location": "pages\/item-a9fbc83f-b923-4af7-b998-5da6864a527a\/index.html",
@@ -4364,6 +4363,23 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 1
+            }
+        },
+        {
+            "id": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "indent": 0,
+            "location": "pages\/item-e6b422fc-8920-45b1-9068-173399ca50b2\/index.html",
+            "slug": "solutions",
+            "order": 3,
+            "parent": null,
+            "title": "Solutions",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": 1724265952,
+                "images": [],
+                "videos": [],
+                "updated": 1724265952
             }
         },
         {
