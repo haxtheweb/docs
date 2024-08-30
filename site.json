@@ -16,7 +16,7 @@
             "logo": "files\/hax (1).png",
             "lang": "en",
             "created": 1683137556,
-            "updated": 1725029143,
+            "updated": 1725030257,
             "git": {},
             "version": "9.0.6",
             "domain": "",
@@ -757,569 +757,6 @@
                 "published": "1",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
-            "indent": "3",
-            "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
-            "slug": "documentation\/developers\/schema\/haxelement-schema",
-            "order": 0,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "HAXElement Schema",
-            "description": "Example of HAX element schema JSON object. It's a pretty simple abstraction of HTML elements that helps with packaging and sanitation. This is effectively HAX version of a VDOM in which all elements ",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "indent": "1",
-            "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
-            "slug": "ontology",
-            "order": 4,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "HAX Ontology",
-            "description": "What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 ",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "1",
-                    "paragraphs": "3",
-                    "schema": [
-                        {
-                            "resource": "#98f91cec-8ea3-e2d9-1ac3-0bd7fd195753",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        },
-                        {
-                            "resource": "#4f992efe-73fb-9a76-eeb9-22e3463e5024",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "3",
-                        "h5": "1",
-                        "video-player": "1",
-                        "img": "1"
-                    },
-                    "elements": "7"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image13.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image13.png",
-                        "url": "files\/image13.png",
-                        "type": "image\/png",
-                        "name": "image13.png",
-                        "size": "193305"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
-                        "url": "files\/HAX Course Ontology Draft Version.png",
-                        "type": "image\/png",
-                        "name": "HAX Course Ontology Draft Version.png",
-                        "size": "769447"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
-                        "url": "files\/HAX_Ontology.mp4",
-                        "type": "video\/mp4",
-                        "name": "HAX_Ontology.mp4",
-                        "size": "209088025"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/image14.png",
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image14.png",
-                        "url": "files\/image14.png",
-                        "type": "image\/png",
-                        "name": "image14.png",
-                        "size": "128093"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image17.png",
-                        "url": "files\/image17.png",
-                        "type": "image\/png",
-                        "name": "image17.png",
-                        "size": "9329"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image18.png",
-                        "url": "files\/image18.png",
-                        "type": "image\/png",
-                        "name": "image18.png",
-                        "size": "29317"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image19.png",
-                        "url": "files\/image19.png",
-                        "type": "image\/png",
-                        "name": "image19.png",
-                        "size": "9059"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image20.png",
-                        "url": "files\/image20.png",
-                        "type": "image\/png",
-                        "name": "image20.png",
-                        "size": "9692"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image21.png",
-                        "url": "files\/image21.png",
-                        "type": "image\/png",
-                        "name": "image21.png",
-                        "size": "30941"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image22.png",
-                        "url": "files\/image22.png",
-                        "type": "image\/png",
-                        "name": "image22.png",
-                        "size": "30941"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/6_Instruction1.png",
-                        "url": "files\/6_Instruction1.png",
-                        "type": "image\/png",
-                        "name": "6_Instruction1.png",
-                        "size": "469571"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=iF4UZKcAWmw"
-                ],
-                "images": [
-                    "files\/HAX Course Ontology Draft Version.png"
-                ]
-            }
-        },
-        {
-            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
-            "indent": "2",
-            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
-            "slug": "ontology\/page-5",
-            "order": 0,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "The Core",
-            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
-            "metadata": {
-                "created": "1688058253",
-                "updated": 1725030255,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
-                        "url": "files\/1_The Core.png",
-                        "type": "image\/png",
-                        "name": "1_The Core.png",
-                        "size": "346696"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
-            "indent": "2",
-            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
-            "slug": "ontology\/page",
-            "order": 1,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Outcomes",
-            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
-            "metadata": {
-                "created": "1683137702",
-                "updated": 1725030255,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "url": "files\/image1.png",
-                        "type": "image\/png",
-                        "name": "image1.png",
-                        "size": "128013"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "url": "files\/image3.png",
-                        "type": "image\/png",
-                        "name": "image3.png",
-                        "size": "109622"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
-                        "url": "files\/2_Outcomes.png",
-                        "type": "image\/png",
-                        "name": "2_Outcomes.png",
-                        "size": "389419"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
-                ],
-                "images": [],
-                "tags": "ontology, outcomes"
-            }
-        },
-        {
-            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
-            "indent": "2",
-            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
-            "slug": "ontology\/new-item",
-            "order": 2,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Pedagogy",
-            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2023-05-03 14-18-10.png",
-                        "size": "73304"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "url": "files\/image.png",
-                        "type": "image\/png",
-                        "name": "image.png",
-                        "size": "75798"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
-                        "url": "files\/image23.png",
-                        "type": "image\/png",
-                        "name": "image23.png",
-                        "size": "32146"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
-                        "url": "files\/4_Pedagogy2.png",
-                        "type": "image\/png",
-                        "name": "4_Pedagogy2.png",
-                        "size": "160827"
-                    }
-                ],
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "img": "1",
-                        "p": "1"
-                    },
-                    "elements": "3"
-                },
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-42b47c5a-8ad2-4507-bef1-0488c65cc54a",
-            "indent": "2",
-            "location": "pages\/item-42b47c5a-8ad2-4507-bef1-0488c65cc54a\/index.html",
-            "slug": "ontology\/page-1",
-            "order": 3,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Structure",
-            "description": "Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo",
-            "metadata": {
-                "created": "1683137703",
-                "updated": 1725030255,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#4d68885e-e5d5-d911-03cf-c8d932d03d67",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image2.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image2.png",
-                        "url": "files\/image2.png",
-                        "type": "image\/png",
-                        "name": "image2.png",
-                        "size": "58057"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/5_Structure.png",
-                        "url": "files\/5_Structure.png",
-                        "type": "image\/png",
-                        "name": "5_Structure.png",
-                        "size": "352193"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=XIZelr4Lg98"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-23eb212e-a523-4d7b-862a-0a00cb786321",
-            "indent": "2",
-            "location": "pages\/item-23eb212e-a523-4d7b-862a-0a00cb786321\/index.html",
-            "slug": "ontology\/page-3",
-            "order": 4,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Instruction",
-            "description": "Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie",
-            "metadata": {
-                "created": "1683137705",
-                "updated": 1725030255,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#dc9e47e8-01cc-09d3-89d2-04c701c43d1a",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image5.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image5.png",
-                        "url": "files\/image5.png",
-                        "type": "image\/png",
-                        "name": "image5.png",
-                        "size": "136023"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/7_Instruction2.png",
-                        "url": "files\/7_Instruction2.png",
-                        "type": "image\/png",
-                        "name": "7_Instruction2.png",
-                        "size": "429816"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=G5dYdOHLajY"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-d57321c6-4106-45ec-89a4-8ebdf0af67f2",
-            "indent": "2",
-            "location": "pages\/item-d57321c6-4106-45ec-89a4-8ebdf0af67f2\/index.html",
-            "slug": "ontology\/page-2",
-            "order": 5,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Content",
-            "description": "Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination ",
-            "metadata": {
-                "created": "1683137704",
-                "updated": 1725030255,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#5f322574-ba0f-a61e-86aa-fa025a2bc448",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image4.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image4.png",
-                        "url": "files\/image4.png",
-                        "type": "image\/png",
-                        "name": "image4.png",
-                        "size": "90868"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image24.png",
-                        "url": "files\/image24.png",
-                        "type": "image\/png",
-                        "name": "image24.png",
-                        "size": "22222"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image25.png",
-                        "url": "files\/image25.png",
-                        "type": "image\/png",
-                        "name": "image25.png",
-                        "size": "22222"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image26.png",
-                        "url": "files\/image26.png",
-                        "type": "image\/png",
-                        "name": "image26.png",
-                        "size": "27601"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image27.png",
-                        "url": "files\/image27.png",
-                        "type": "image\/png",
-                        "name": "image27.png",
-                        "size": "28033"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/14_Content1.png",
-                        "url": "files\/14_Content1.png",
-                        "type": "image\/png",
-                        "name": "14_Content1.png",
-                        "size": "438314"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=NBsjGPIf1tQ"
-                ],
-                "images": []
-            }
-        },
-        {
-            "id": "item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5",
-            "indent": "2",
-            "location": "pages\/item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5\/index.html",
-            "slug": "ontology\/page-4",
-            "order": 6,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Assessment",
-            "description": "Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake",
-            "metadata": {
-                "created": "1683137709",
-                "updated": 1725030255,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#5600e5bc-7061-db1a-d82f-3717e2e448c5",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image6.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image6.png",
-                        "url": "files\/image6.png",
-                        "type": "image\/png",
-                        "name": "image6.png",
-                        "size": "42041"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/17_Assessment1.png",
-                        "url": "files\/17_Assessment1.png",
-                        "type": "image\/png",
-                        "name": "17_Assessment1.png",
-                        "size": "515064"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=i9paCj1Kya4"
-                ],
-                "images": []
             }
         },
         {
@@ -2387,6 +1824,245 @@
             }
         },
         {
+            "id": "item-22596832-8320-4c7f-b7ae-f403d1d9ca31",
+            "indent": "1",
+            "location": "pages\/item-22596832-8320-4c7f-b7ae-f403d1d9ca31\/index.html",
+            "slug": "tutorials\/brand-new-user",
+            "order": 0,
+            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
+            "title": "First-time HAX User",
+            "description": "Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt",
+            "metadata": {
+                "created": "1683138032",
+                "updated": 1725030254,
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#0452c778-334c-020c-bb1a-10e23b3fd4f4",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1"
+                    },
+                    "elements": "2"
+                },
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial Part 1.mp4",
+                        "url": "files\/New User Tutorial Part 1.mp4",
+                        "type": "video\/mp4",
+                        "name": "New User Tutorial Part 1.mp4",
+                        "size": "46983347"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial Part 11.mp4",
+                        "url": "files\/New User Tutorial Part 11.mp4",
+                        "type": "video\/mp4",
+                        "name": "New User Tutorial Part 11.mp4",
+                        "size": "21736701"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial.mp4",
+                        "url": "files\/New User Tutorial.mp4",
+                        "type": "video\/mp4",
+                        "name": "New User Tutorial.mp4",
+                        "size": "251315464"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/First-Time HAX User Tutorial Content.docx",
+                        "url": "files\/First-Time HAX User Tutorial Content.docx",
+                        "type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "name": "First-Time HAX User Tutorial Content.docx",
+                        "size": "1265112"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/New User Script.docx",
+                        "url": "files\/New User Script.docx",
+                        "type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "name": "New User Script.docx",
+                        "size": "29729"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=bmsHBhGC8_Q"
+                ],
+                "images": [],
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
+            "indent": "3",
+            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
+            "slug": "stand-alone-tools\/conversion-tools",
+            "order": 0,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Conversion tools",
+            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "metadata": {
+                "created": "1687961729",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "tags": "tool, convert, labs",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "indent": "2",
+            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
+            "slug": "stand-alone-tools",
+            "order": 0,
+            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "title": "Stand alone tools",
+            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
+            "metadata": {
+                "created": "1687960811",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
+            "indent": "3",
+            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
+            "slug": "the-future\/stand-alone-tools\/local-save",
+            "order": 1,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Local Save",
+            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
+            "metadata": {
+                "created": "1698434154",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment,local",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
+            "indent": "3",
+            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
+            "slug": "stand-alone-tools\/rubrics",
+            "order": 2,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Qualitative Rubric Prototype",
+            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
+            "metadata": {
+                "created": "1687960925",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "pageType": "connection",
+                "tags": "experiment, gradebook, lab, rubric",
+                "status": "",
+                "icon": "courseicons:chem-connection",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
+            "indent": "3",
+            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
+            "slug": "page",
+            "order": 3,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Course Model Player",
+            "description": "                                                                                                                                                      Cross section view of the ",
+            "metadata": {
+                "created": "1689365799",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "theme": {
+                    "element": "haxcms-blank-theme",
+                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
+                    "name": "Blank theme",
+                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
+                    "key": "haxcms-blank-theme"
+                },
+                "pageType": "connection",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
+            "indent": "3",
+            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
+            "slug": "stand-alone-tools\/page",
+            "order": 4,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Keycloak authentication",
+            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
+            "metadata": {
+                "created": "1695304652",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
+            "indent": "2",
+            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
+            "slug": "page-1",
+            "order": 0,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Installing HAXcms",
+            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "metadata": {
+                "created": "1695414320",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
             "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
             "indent": "3",
             "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
@@ -2404,52 +2080,6 @@
                 ],
                 "updated": 1725030254,
                 "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-15525242-f6e9-4201-bbb1-cdd8f29176f6",
-            "indent": "1",
-            "location": "pages\/item-15525242-f6e9-4201-bbb1-cdd8f29176f6\/index.html",
-            "slug": "site-things\/header",
-            "order": 0,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Header",
-            "description": "  ",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [
-                    "files\/hax.png"
-                ],
-                "videos": [],
-                "updated": 1725030257,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/psu-mark.png",
-                        "url": "files\/psu-mark.png",
-                        "type": "image\/png",
-                        "name": "psu-mark.png",
-                        "size": "25571"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/PSU_ARC_RGB_REV_2C.svg",
-                        "url": "files\/PSU_ARC_RGB_REV_2C.svg",
-                        "type": "image\/svg+xml",
-                        "name": "PSU_ARC_RGB_REV_2C.svg",
-                        "size": "14283"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax.png",
-                        "url": "files\/hax.png",
-                        "type": "image\/png",
-                        "name": "hax.png",
-                        "size": "343118"
-                    }
-                ],
-                "published": "1",
-                "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
             }
@@ -2494,6 +2124,61 @@
                 "published": "1",
                 "hideInMenu": "",
                 "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "indent": "1",
+            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
+            "slug": "the-future",
+            "order": 0,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "The Future",
+            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
+            "metadata": {
+                "locked": "",
+                "created": "1697036006",
+                "images": [
+                    "files\/hax-horizon-report-oct-2023.jpg"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/bX04I1Cw9FA"
+                ],
+                "updated": 1725030256,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
+                        "url": "files\/hax-horizon-report-oct-2023.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-horizon-report-oct-2023.jpg",
+                        "size": "175019"
+                    }
+                ],
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
+            "indent": "3",
+            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
+            "slug": "documentation\/elmsln",
+            "order": 0,
+            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "title": "ELMS:LN",
+            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "icon": "lrn:network",
+                "readtime": "2",
                 "status": ""
             }
         },
@@ -2980,413 +2665,164 @@
             }
         },
         {
-            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
+            "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
             "indent": "3",
-            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
-            "slug": "documentation\/elmsln",
+            "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
+            "slug": "documentation\/developers\/schema\/haxelement-schema",
             "order": 0,
-            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "title": "ELMS:LN",
-            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "HAXElement Schema",
+            "description": "Example of HAX element schema JSON object. It's a pretty simple abstraction of HTML elements that helps with packaging and sanitation. This is effectively HAX version of a VDOM in which all elements ",
             "metadata": {
                 "locked": "",
-                "created": "1707142965",
+                "created": "1724249289",
                 "images": [],
                 "videos": [],
                 "updated": 1725030255,
                 "published": "1",
-                "hideInMenu": "",
-                "icon": "lrn:network",
-                "readtime": "2",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "indent": "1",
-            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
-            "slug": "the-future",
-            "order": 0,
-            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "The Future",
-            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
-            "metadata": {
-                "locked": "",
-                "created": "1697036006",
-                "images": [
-                    "files\/hax-horizon-report-oct-2023.jpg"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/bX04I1Cw9FA"
-                ],
-                "updated": 1725030256,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
-                        "url": "files\/hax-horizon-report-oct-2023.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-horizon-report-oct-2023.jpg",
-                        "size": "175019"
-                    }
-                ],
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "indent": "2",
-            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
-            "slug": "stand-alone-tools",
-            "order": 0,
-            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "title": "Stand alone tools",
-            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
-            "metadata": {
-                "created": "1687960811",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
                 "status": "",
+                "hideInMenu": "",
                 "readtime": "1"
             }
         },
         {
-            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
-            "indent": "3",
-            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
-            "slug": "stand-alone-tools\/conversion-tools",
+            "id": "item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca",
+            "indent": "2",
+            "location": "pages\/item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca\/index.html",
+            "slug": "ontology\/page-5",
             "order": 0,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Conversion tools",
-            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "The Core",
+            "description": "The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si",
             "metadata": {
-                "created": "1687961729",
-                "updated": 1725030256,
+                "created": "1688058253",
+                "updated": 1725030255,
                 "images": [],
-                "videos": [],
-                "published": "1",
-                "tags": "tool, convert, labs",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
-            "indent": "3",
-            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
-            "slug": "the-future\/stand-alone-tools\/local-save",
-            "order": 1,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Local Save",
-            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
-            "metadata": {
-                "created": "1698434154",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment,local",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
-            "indent": "3",
-            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
-            "slug": "stand-alone-tools\/rubrics",
-            "order": 2,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Qualitative Rubric Prototype",
-            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
-            "metadata": {
-                "created": "1687960925",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "pageType": "connection",
-                "tags": "experiment, gradebook, lab, rubric",
-                "status": "",
-                "icon": "courseicons:chem-connection",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
-            "indent": "3",
-            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
-            "slug": "page",
-            "order": 3,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Course Model Player",
-            "description": "                                                                                                                                                      Cross section view of the ",
-            "metadata": {
-                "created": "1689365799",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "theme": {
-                    "element": "haxcms-blank-theme",
-                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
-                    "name": "Blank theme",
-                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
-                    "key": "haxcms-blank-theme"
-                },
-                "pageType": "connection",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
-            "indent": "3",
-            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
-            "slug": "stand-alone-tools\/page",
-            "order": 4,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Keycloak authentication",
-            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
-            "metadata": {
-                "created": "1695304652",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-22596832-8320-4c7f-b7ae-f403d1d9ca31",
-            "indent": "1",
-            "location": "pages\/item-22596832-8320-4c7f-b7ae-f403d1d9ca31\/index.html",
-            "slug": "tutorials\/brand-new-user",
-            "order": 0,
-            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
-            "title": "First-time HAX User",
-            "description": "Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt",
-            "metadata": {
-                "created": "1683138032",
-                "updated": 1725030254,
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#0452c778-334c-020c-bb1a-10e23b3fd4f4",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1"
-                    },
-                    "elements": "2"
-                },
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial Part 1.mp4",
-                        "url": "files\/New User Tutorial Part 1.mp4",
-                        "type": "video\/mp4",
-                        "name": "New User Tutorial Part 1.mp4",
-                        "size": "46983347"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial Part 11.mp4",
-                        "url": "files\/New User Tutorial Part 11.mp4",
-                        "type": "video\/mp4",
-                        "name": "New User Tutorial Part 11.mp4",
-                        "size": "21736701"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/New User Tutorial.mp4",
-                        "url": "files\/New User Tutorial.mp4",
-                        "type": "video\/mp4",
-                        "name": "New User Tutorial.mp4",
-                        "size": "251315464"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/First-Time HAX User Tutorial Content.docx",
-                        "url": "files\/First-Time HAX User Tutorial Content.docx",
-                        "type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                        "name": "First-Time HAX User Tutorial Content.docx",
-                        "size": "1265112"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/New User Script.docx",
-                        "url": "files\/New User Script.docx",
-                        "type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
-                        "name": "New User Script.docx",
-                        "size": "29729"
-                    }
-                ],
                 "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=bmsHBhGC8_Q"
+                    "https:\/\/www.youtube.com\/watch?v=dF4eRZFBCs0"
                 ],
-                "images": [],
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "indent": 0,
-            "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
-            "slug": "the-gallery-of-online-excellence",
-            "order": 4,
-            "parent": null,
-            "title": "Teaching Excellence",
-            "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
-            "metadata": {
-                "created": "1701201443",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
                 "published": "1",
                 "locked": "",
                 "readtime": "1",
                 "status": "",
-                "hideInMenu": "",
                 "files": [
                     {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Featured_Article_Blue1.png",
-                        "url": "files\/Featured_Article_Blue1.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/1_The Core.png",
+                        "url": "files\/1_The Core.png",
                         "type": "image\/png",
-                        "name": "Featured_Article_Blue1.png",
-                        "size": "1910"
+                        "name": "1_The Core.png",
+                        "size": "346696"
                     }
                 ]
             }
         },
         {
-            "id": "item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b",
+            "id": "item-15525242-f6e9-4201-bbb1-cdd8f29176f6",
             "indent": "1",
-            "location": "pages\/item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b\/index.html",
-            "slug": "providing-quality-feedback",
-            "order": 1,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Providing Quality Feedback",
-            "description": "",
-            "metadata": {
-                "created": "1701276230",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
-            "indent": "1",
-            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
-            "slug": "study-guide-approaches",
-            "order": 2,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Study Guide Approaches",
-            "description": "",
-            "metadata": {
-                "created": "1701276272",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
-            "indent": "1",
-            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
-            "slug": "guided-practice",
-            "order": 3,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Guided Practice",
-            "description": "",
-            "metadata": {
-                "created": "1701276237",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
-            "indent": "1",
-            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
-            "slug": "odl-course-showcase",
-            "order": 4,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "ODL Course Showcase",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1711642479",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/stLwUI4G92Q"
-                ],
-                "updated": 1725030256,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
-            "indent": "2",
-            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-            "slug": "page-1",
+            "location": "pages\/item-15525242-f6e9-4201-bbb1-cdd8f29176f6\/index.html",
+            "slug": "site-things\/header",
             "order": 0,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Installing HAXcms",
-            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Header",
+            "description": "  ",
             "metadata": {
-                "created": "1695414320",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                "locked": "",
+                "created": "1706291665",
+                "images": [
+                    "files\/hax.png"
+                ],
+                "videos": [],
+                "updated": 1725030257,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/psu-mark.png",
+                        "url": "files\/psu-mark.png",
+                        "type": "image\/png",
+                        "name": "psu-mark.png",
+                        "size": "25571"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/PSU_ARC_RGB_REV_2C.svg",
+                        "url": "files\/PSU_ARC_RGB_REV_2C.svg",
+                        "type": "image\/svg+xml",
+                        "name": "PSU_ARC_RGB_REV_2C.svg",
+                        "size": "14283"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax.png",
+                        "url": "files\/hax.png",
+                        "type": "image\/png",
+                        "name": "hax.png",
+                        "size": "343118"
+                    }
                 ],
                 "published": "1",
-                "locked": "",
+                "hideInMenu": "",
                 "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "indent": "2",
+            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
+            "slug": "documentation\/developers\/tools",
+            "order": 0,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Tools",
+            "description": "Experience the many tools that help the HAX ecosystem thrive!",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
+            "indent": "3",
+            "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
+            "slug": "documentation\/developers\/tools\/create",
+            "order": 1,
+            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "title": "@haxtheweb\/create",
+            "description": "HAX CLI is the easiest way for front end developers to get involved in creating new HAX sites as well as stand alone web components.Start using the tool now:  npx @haxtheweb\/createGithub RepoNPM pac",
+            "metadata": {
+                "locked": "",
+                "created": "1724265952",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
+            "indent": "2",
+            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
+            "slug": "documentation\/ddd",
+            "order": 0,
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Design Documentation",
+            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
+            "metadata": {
+                "created": "1706046114",
+                "updated": 1725030255,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": "",
+                "readtime": "3"
             }
         },
         {
@@ -3420,27 +2856,6 @@
             }
         },
         {
-            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
-            "indent": "2",
-            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
-            "slug": "documentation\/ddd",
-            "order": 0,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Design Documentation",
-            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
-            "metadata": {
-                "created": "1706046114",
-                "updated": 1725030255,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "3"
-            }
-        },
-        {
             "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
             "indent": "2",
             "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
@@ -3462,25 +2877,168 @@
             }
         },
         {
-            "id": "item-76e43829-027c-481b-8b39-5d215b2b9670",
+            "id": "item-1d680323-87f4-4f28-bbd2-7268c9d4e172",
             "indent": "3",
-            "location": "pages\/item-76e43829-027c-481b-8b39-5d215b2b9670\/index.html",
-            "slug": "tutorials\/block-usage\/layout\/column-layout",
+            "location": "pages\/item-1d680323-87f4-4f28-bbd2-7268c9d4e172\/index.html",
+            "slug": "documentation\/developers\/schema\/haxschema",
             "order": 1,
-            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
-            "title": "Column layout",
-            "description": "Presenting material side by side can help the user scan and experience parts of material like they would expect to find in a well laid out book page. Adding columns to material can provide a small vi",
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "HAXSchema",
+            "description": "Implementing HAXSchemaIn order for your element to talk to the HAX editor, you need to implement static get haxProperties() on your element. This callback either returns a String based location of",
             "metadata": {
                 "locked": "",
-                "created": "1697042706",
+                "created": "1724249289",
                 "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/ehdDPCaEPBY"
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "5"
+            }
+        },
+        {
+            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
+            "indent": "2",
+            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
+            "slug": "ontology\/page",
+            "order": 1,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Outcomes",
+            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
+            "metadata": {
+                "created": "1683137702",
+                "updated": 1725030255,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "url": "files\/image1.png",
+                        "type": "image\/png",
+                        "name": "image1.png",
+                        "size": "128013"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "url": "files\/image3.png",
+                        "type": "image\/png",
+                        "name": "image3.png",
+                        "size": "109622"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
+                        "url": "files\/2_Outcomes.png",
+                        "type": "image\/png",
+                        "name": "2_Outcomes.png",
+                        "size": "389419"
+                    }
                 ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
+                ],
+                "images": [],
+                "tags": "ontology, outcomes"
+            }
+        },
+        {
+            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
+            "indent": "2",
+            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
+            "slug": "documentation\/deploying-haxcms",
+            "order": 1,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Deploying HAXcms",
+            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
+            "metadata": {
+                "created": "1705611933",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "haxcms,deployment,documentation",
+                "locked": "",
+                "readtime": "3",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
+            "indent": 0,
+            "location": "pages\/item-903151c6-bd94-4bbb-9335-4649de2f9445\/index.html",
+            "slug": "tutorials",
+            "order": 1,
+            "parent": null,
+            "title": "Tutorials",
+            "description": "If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation.",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
                 "updated": 1725030254,
                 "published": "1",
+                "status": "",
+                "tags": "tutorials",
                 "readtime": "1",
-                "status": ""
+                "videos": [],
+                "images": [],
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
+            "indent": "1",
+            "location": "pages\/item-50802aa4-f49e-4207-98d2-7ef3745568fc\/index.html",
+            "slug": "tutorials\/block-usage",
+            "order": 1,
+            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
+            "title": "Block usage",
+            "description": "HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you",
+            "metadata": {
+                "created": "1683139086",
+                "updated": 1725030254,
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#c03ae665-81a5-c4c9-592a-ecd08917822d",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1"
+                    },
+                    "elements": "2"
+                },
+                "status": "",
+                "videos": [],
+                "images": [],
+                "tags": "blocks,usage,tutorial,example"
             }
         },
         {
@@ -3594,474 +3152,6 @@
             }
         },
         {
-            "id": "item-54584e9b-9350-45aa-8b4f-cf92272cb53d",
-            "indent": "3",
-            "location": "pages\/item-54584e9b-9350-45aa-8b4f-cf92272cb53d\/index.html",
-            "slug": "documentation\/wcfactory",
-            "order": 1,
-            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "title": "WCFactory",
-            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustai",
-            "metadata": {
-                "locked": "",
-                "created": "1707142965",
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=kWmtOFwcXyE"
-                ],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "indent": "1",
-            "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
-            "slug": "documentation\/developers",
-            "order": 2,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "Developers",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "indent": "2",
-            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
-            "slug": "documentation\/developers\/tools",
-            "order": 0,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Tools",
-            "description": "Experience the many tools that help the HAX ecosystem thrive!",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
-            "indent": "3",
-            "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
-            "slug": "documentation\/developers\/tools\/create",
-            "order": 1,
-            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "title": "@haxtheweb\/create",
-            "description": "HAX CLI is the easiest way for front end developers to get involved in creating new HAX sites as well as stand alone web components.Start using the tool now:  npx @haxtheweb\/createGithub RepoNPM pac",
-            "metadata": {
-                "locked": "",
-                "created": "1724265952",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-178875ba-a955-48b5-855a-9e1435d5d840",
-            "indent": "2",
-            "location": "pages\/item-178875ba-a955-48b5-855a-9e1435d5d840\/index.html",
-            "slug": "documentation\/data-formats",
-            "order": 1,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Data formats",
-            "description": "This is a list of the data formats that HAX supports for entry and multi-media presentationMathJAXLatexMarkdown \/ md (convert to HTML or embed source as HTML)DocX (convert to HTML)Web Components \/ H",
-            "metadata": {
-                "created": "1721847613",
-                "updated": 1725030255,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "data",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "indent": "1",
-            "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
-            "slug": "documentation\/haxcms\/integrations",
-            "order": 3,
-            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "title": "Integrations",
-            "description": "See all the ways HAXcms is integrated into other ecosystems!",
-            "metadata": {
-                "created": "1713540464",
-                "updated": 1725030255,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25",
-            "indent": "2",
-            "location": "pages\/item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25\/index.html",
-            "slug": "documentation\/integrations\/classicpress",
-            "order": 1,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Classicpress",
-            "description": "ClassicPress is a popular fork of WordPress that's even easier to get HAX up and running then it is in the original!Get the HAX plugin  from the wordpress registryGo to edit \/ create a page\/post and",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=q0IjUz2_IhA"
-                ],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
-            "indent": "2",
-            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
-            "slug": "documentation\/haxcms\/integrations\/drupal",
-            "order": 2,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Drupal",
-            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
-            "metadata": {
-                "created": "1713540493",
-                "updated": 1725030255,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-12563166-de6a-42ed-baa6-9d9f694e8312",
-            "indent": "2",
-            "location": "pages\/item-12563166-de6a-42ed-baa6-9d9f694e8312\/index.html",
-            "slug": "documentation\/integrations\/gravcms",
-            "order": 3,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "GravCMS",
-            "description": "There's two plugins needed to run HAX on GravCMS - The web components and HAX plugins.Web components plugin  - provides the build routine and installation instructionsHAX plugin  - editor capabiliti",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-9ffa23ac-c130-4a0c-92ee-481698e444a0",
-            "indent": "2",
-            "location": "pages\/item-9ffa23ac-c130-4a0c-92ee-481698e444a0\/index.html",
-            "slug": "documentation\/integrations\/wordpress",
-            "order": 4,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Wordpress",
-            "description": "We support WordPress too! In order to use HAX though you'll want to replace the Gutenberg editor. The following steps will help you get it up and running.Get the Classic Editor . This plugin helps r",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "indent": "2",
-            "location": "pages\/item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8\/index.html",
-            "slug": "documentation\/developers\/schema",
-            "order": 2,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Schema",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-1d680323-87f4-4f28-bbd2-7268c9d4e172",
-            "indent": "3",
-            "location": "pages\/item-1d680323-87f4-4f28-bbd2-7268c9d4e172\/index.html",
-            "slug": "documentation\/developers\/schema\/haxschema",
-            "order": 1,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "HAXSchema",
-            "description": "Implementing HAXSchemaIn order for your element to talk to the HAX editor, you need to implement static get haxProperties() on your element. This callback either returns a String based location of",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "5"
-            }
-        },
-        {
-            "id": "item-20addb32-74be-47bb-ab21-a8237d545b07",
-            "indent": "3",
-            "location": "pages\/item-20addb32-74be-47bb-ab21-a8237d545b07\/index.html",
-            "slug": "documentation\/developers\/schema\/json-outline-schema",
-            "order": 2,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "JSON Outline Schema",
-            "description": "Page is rendered from the github repo as it is a stand alone API developed as part of HAXsite \/ HAXcms development.Github Repo",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-eddf89ce-60f6-417b-8295-c0525219c230",
-            "indent": "3",
-            "location": "pages\/item-eddf89ce-60f6-417b-8295-c0525219c230\/index.html",
-            "slug": "documentation\/oer-schema",
-            "order": 3,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "OER Schema",
-            "description": "What is OER Schema?                    Computer software doesn't see learning content in the same way that humans do. Where educators and students see lessons, modules and assessments, compu",
-            "metadata": {
-                "locked": "",
-                "created": "1707142965",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "12",
-                "icon": "hax:oerschema",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-73fd1ab6-ba79-472d-9cc2-7828277a8e27",
-            "indent": "3",
-            "location": "pages\/item-73fd1ab6-ba79-472d-9cc2-7828277a8e27\/index.html",
-            "slug": "documentation\/developers\/schema\/openapi",
-            "order": 4,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "OpenAPI",
-            "description": "HAXcms is documented using OpenAPI specification. A copy of the specification can be found in the nodejs repo of HAXcms.Github Repo for OpenAPI Specification for HAXcms backend",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "indent": "2",
-            "location": "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
-            "slug": "documentation\/developers\/legacy-projects",
-            "order": 3,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Deprecated",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6",
-            "indent": "2",
-            "location": "pages\/item-348f69b5-8bbb-4cf8-8eda-26b4141fffa6\/index.html",
-            "slug": "documentation\/deploying-haxcms",
-            "order": 1,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Deploying HAXcms",
-            "description": "HAX technology is unlike anything that's existed previously in the CMS space. HAX sites have the following characteristics that make them unique:They are static per save and lack a databasePHP \/ No",
-            "metadata": {
-                "created": "1705611933",
-                "updated": 1725030256,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "haxcms,deployment,documentation",
-                "locked": "",
-                "readtime": "3",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "indent": "1",
-            "location": "pages\/item-d4b650a4-47af-4734-b891-7a6db766ca3e\/index.html",
-            "slug": "documentation\/haxcms",
-            "order": 1,
-            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXcms",
-            "description": "Read on for specific ways to work with HAXcms. HAXcms is what you are currently experiencing, it's HAX for content management.",
-            "metadata": {
-                "locked": "",
-                "created": "1706046187",
-                "images": [],
-                "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
-            "indent": "1",
-            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
-            "slug": "site-things\/footer",
-            "order": 1,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer",
-            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [
-                    "files\/HAX.psu World changer-circle1.png"
-                ],
-                "videos": [],
-                "updated": 1725030257,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
-                        "url": "files\/hax-footer.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-footer.jpg",
-                        "size": "16806"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
-                        "url": "files\/eberly-logo.png",
-                        "type": "image\/png",
-                        "name": "eberly-logo.png",
-                        "size": "8969"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
-                        "url": "files\/ist-logo.png",
-                        "type": "image\/png",
-                        "name": "ist-logo.png",
-                        "size": "62252"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
-                        "url": "files\/HAX.psu World changer-circle1.png",
-                        "type": "image\/png",
-                        "name": "HAX.psu World changer-circle1.png",
-                        "size": "1172092"
-                    }
-                ],
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "indent": "1",
-            "location": "pages\/item-50802aa4-f49e-4207-98d2-7ef3745568fc\/index.html",
-            "slug": "tutorials\/block-usage",
-            "order": 1,
-            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
-            "title": "Block usage",
-            "description": "HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you",
-            "metadata": {
-                "created": "1683139086",
-                "updated": 1725030254,
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#c03ae665-81a5-c4c9-592a-ecd08917822d",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1"
-                    },
-                    "elements": "2"
-                },
-                "status": "",
-                "videos": [],
-                "images": [],
-                "tags": "blocks,usage,tutorial,example"
-            }
-        },
-        {
             "id": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
             "indent": "2",
             "location": "pages\/item-fd8d0496-8026-4f47-bd7f-8182e32cda98\/index.html",
@@ -4080,6 +3170,28 @@
                 "readtime": "1",
                 "status": "",
                 "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-76e43829-027c-481b-8b39-5d215b2b9670",
+            "indent": "3",
+            "location": "pages\/item-76e43829-027c-481b-8b39-5d215b2b9670\/index.html",
+            "slug": "tutorials\/block-usage\/layout\/column-layout",
+            "order": 1,
+            "parent": "item-fd8d0496-8026-4f47-bd7f-8182e32cda98",
+            "title": "Column layout",
+            "description": "Presenting material side by side can help the user scan and experience parts of material like they would expect to find in a well laid out book page. Adding columns to material can provide a small vi",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/ehdDPCaEPBY"
+                ],
+                "updated": 1725030254,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
             }
         },
         {
@@ -4122,28 +3234,6 @@
                 "locked": "",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
-            "indent": 0,
-            "location": "pages\/item-903151c6-bd94-4bbb-9335-4649de2f9445\/index.html",
-            "slug": "tutorials",
-            "order": 1,
-            "parent": null,
-            "title": "Tutorials",
-            "description": "If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation.",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1725030254,
-                "published": "1",
-                "status": "",
-                "tags": "tutorials",
-                "readtime": "1",
-                "videos": [],
-                "images": [],
-                "hideInMenu": ""
             }
         },
         {
@@ -4248,6 +3338,290 @@
             }
         },
         {
+            "id": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "indent": "1",
+            "location": "pages\/item-d4b650a4-47af-4734-b891-7a6db766ca3e\/index.html",
+            "slug": "documentation\/haxcms",
+            "order": 1,
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "HAXcms",
+            "description": "Read on for specific ways to work with HAXcms. HAXcms is what you are currently experiencing, it's HAX for content management.",
+            "metadata": {
+                "locked": "",
+                "created": "1706046187",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25",
+            "indent": "2",
+            "location": "pages\/item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25\/index.html",
+            "slug": "documentation\/integrations\/classicpress",
+            "order": 1,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Classicpress",
+            "description": "ClassicPress is a popular fork of WordPress that's even easier to get HAX up and running then it is in the original!Get the HAX plugin  from the wordpress registryGo to edit \/ create a page\/post and",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=q0IjUz2_IhA"
+                ],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-54584e9b-9350-45aa-8b4f-cf92272cb53d",
+            "indent": "3",
+            "location": "pages\/item-54584e9b-9350-45aa-8b4f-cf92272cb53d\/index.html",
+            "slug": "documentation\/wcfactory",
+            "order": 1,
+            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "title": "WCFactory",
+            "description": "WCFactory is short for Web component factory. It's tooling that automates the need to configure and understand..Yarn WorkspacesLerna monoreposBuild routines for web componentsBuilding and sustai",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=kWmtOFwcXyE"
+                ],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b",
+            "indent": "1",
+            "location": "pages\/item-5d3a6d3d-fd0d-4075-b9da-4116eefdca0b\/index.html",
+            "slug": "providing-quality-feedback",
+            "order": 1,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Providing Quality Feedback",
+            "description": "",
+            "metadata": {
+                "created": "1701276230",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
+            "indent": "1",
+            "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
+            "slug": "site-things\/footer",
+            "order": 1,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer",
+            "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [
+                    "files\/HAX.psu World changer-circle1.png"
+                ],
+                "videos": [],
+                "updated": 1725030257,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
+                        "url": "files\/hax-footer.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-footer.jpg",
+                        "size": "16806"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/eberly-logo.png",
+                        "url": "files\/eberly-logo.png",
+                        "type": "image\/png",
+                        "name": "eberly-logo.png",
+                        "size": "8969"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/ist-logo.png",
+                        "url": "files\/ist-logo.png",
+                        "type": "image\/png",
+                        "name": "ist-logo.png",
+                        "size": "62252"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX.psu World changer-circle1.png",
+                        "url": "files\/HAX.psu World changer-circle1.png",
+                        "type": "image\/png",
+                        "name": "HAX.psu World changer-circle1.png",
+                        "size": "1172092"
+                    }
+                ],
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-178875ba-a955-48b5-855a-9e1435d5d840",
+            "indent": "2",
+            "location": "pages\/item-178875ba-a955-48b5-855a-9e1435d5d840\/index.html",
+            "slug": "documentation\/data-formats",
+            "order": 1,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Data formats",
+            "description": "This is a list of the data formats that HAX supports for entry and multi-media presentationMathJAXLatexMarkdown \/ md (convert to HTML or embed source as HTML)DocX (convert to HTML)Web Components \/ H",
+            "metadata": {
+                "created": "1721847613",
+                "updated": 1725030255,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "data",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "indent": "2",
+            "location": "pages\/item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8\/index.html",
+            "slug": "documentation\/developers\/schema",
+            "order": 2,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Schema",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-20addb32-74be-47bb-ab21-a8237d545b07",
+            "indent": "3",
+            "location": "pages\/item-20addb32-74be-47bb-ab21-a8237d545b07\/index.html",
+            "slug": "documentation\/developers\/schema\/json-outline-schema",
+            "order": 2,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "JSON Outline Schema",
+            "description": "Page is rendered from the github repo as it is a stand alone API developed as part of HAXsite \/ HAXcms development.Github Repo",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-eddf89ce-60f6-417b-8295-c0525219c230",
+            "indent": "3",
+            "location": "pages\/item-eddf89ce-60f6-417b-8295-c0525219c230\/index.html",
+            "slug": "documentation\/oer-schema",
+            "order": 3,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "OER Schema",
+            "description": "What is OER Schema?                    Computer software doesn't see learning content in the same way that humans do. Where educators and students see lessons, modules and assessments, compu",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "12",
+                "icon": "hax:oerschema",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-73fd1ab6-ba79-472d-9cc2-7828277a8e27",
+            "indent": "3",
+            "location": "pages\/item-73fd1ab6-ba79-472d-9cc2-7828277a8e27\/index.html",
+            "slug": "documentation\/developers\/schema\/openapi",
+            "order": 4,
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "OpenAPI",
+            "description": "HAXcms is documented using OpenAPI specification. A copy of the specification can be found in the nodejs repo of HAXcms.Github Repo for OpenAPI Specification for HAXcms backend",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "indent": "1",
+            "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
+            "slug": "documentation\/developers",
+            "order": 2,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "Developers",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "indent": "2",
+            "location": "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
+            "slug": "documentation\/developers\/legacy-projects",
+            "order": 3,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Deprecated",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
             "indent": "1",
             "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
@@ -4290,6 +3664,558 @@
             }
         },
         {
+            "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "indent": "1",
+            "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
+            "slug": "documentation\/haxcms\/integrations",
+            "order": 3,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "Integrations",
+            "description": "See all the ways HAXcms is integrated into other ecosystems!",
+            "metadata": {
+                "created": "1713540464",
+                "updated": 1725030255,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "2",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
+            "indent": "2",
+            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
+            "slug": "documentation\/haxcms\/integrations\/drupal",
+            "order": 2,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Drupal",
+            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
+            "metadata": {
+                "created": "1713540493",
+                "updated": 1725030255,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-12563166-de6a-42ed-baa6-9d9f694e8312",
+            "indent": "2",
+            "location": "pages\/item-12563166-de6a-42ed-baa6-9d9f694e8312\/index.html",
+            "slug": "documentation\/integrations\/gravcms",
+            "order": 3,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "GravCMS",
+            "description": "There's two plugins needed to run HAX on GravCMS - The web components and HAX plugins.Web components plugin  - provides the build routine and installation instructionsHAX plugin  - editor capabiliti",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-9ffa23ac-c130-4a0c-92ee-481698e444a0",
+            "indent": "2",
+            "location": "pages\/item-9ffa23ac-c130-4a0c-92ee-481698e444a0\/index.html",
+            "slug": "documentation\/integrations\/wordpress",
+            "order": 4,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Wordpress",
+            "description": "We support WordPress too! In order to use HAX though you'll want to replace the Gutenberg editor. The following steps will help you get it up and running.Get the Classic Editor . This plugin helps r",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "indent": "1",
+            "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
+            "slug": "ontology",
+            "order": 4,
+            "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "title": "HAX Ontology",
+            "description": "What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 ",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1725030255,
+                "published": "1",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "1",
+                    "paragraphs": "3",
+                    "schema": [
+                        {
+                            "resource": "#98f91cec-8ea3-e2d9-1ac3-0bd7fd195753",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        },
+                        {
+                            "resource": "#4f992efe-73fb-9a76-eeb9-22e3463e5024",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "3",
+                        "h5": "1",
+                        "video-player": "1",
+                        "img": "1"
+                    },
+                    "elements": "7"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image13.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image13.png",
+                        "url": "files\/image13.png",
+                        "type": "image\/png",
+                        "name": "image13.png",
+                        "size": "193305"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX Course Ontology Draft Version.png",
+                        "url": "files\/HAX Course Ontology Draft Version.png",
+                        "type": "image\/png",
+                        "name": "HAX Course Ontology Draft Version.png",
+                        "size": "769447"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/HAX_Ontology.mp4",
+                        "url": "files\/HAX_Ontology.mp4",
+                        "type": "video\/mp4",
+                        "name": "HAX_Ontology.mp4",
+                        "size": "209088025"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bmr1\/sites\/haxcellence\/files\/image14.png",
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image14.png",
+                        "url": "files\/image14.png",
+                        "type": "image\/png",
+                        "name": "image14.png",
+                        "size": "128093"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image17.png",
+                        "url": "files\/image17.png",
+                        "type": "image\/png",
+                        "name": "image17.png",
+                        "size": "9329"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image18.png",
+                        "url": "files\/image18.png",
+                        "type": "image\/png",
+                        "name": "image18.png",
+                        "size": "29317"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image19.png",
+                        "url": "files\/image19.png",
+                        "type": "image\/png",
+                        "name": "image19.png",
+                        "size": "9059"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image20.png",
+                        "url": "files\/image20.png",
+                        "type": "image\/png",
+                        "name": "image20.png",
+                        "size": "9692"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image21.png",
+                        "url": "files\/image21.png",
+                        "type": "image\/png",
+                        "name": "image21.png",
+                        "size": "30941"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image22.png",
+                        "url": "files\/image22.png",
+                        "type": "image\/png",
+                        "name": "image22.png",
+                        "size": "30941"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/6_Instruction1.png",
+                        "url": "files\/6_Instruction1.png",
+                        "type": "image\/png",
+                        "name": "6_Instruction1.png",
+                        "size": "469571"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=iF4UZKcAWmw"
+                ],
+                "images": [
+                    "files\/HAX Course Ontology Draft Version.png"
+                ]
+            }
+        },
+        {
+            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
+            "indent": "2",
+            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
+            "slug": "ontology\/new-item",
+            "order": 2,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Pedagogy",
+            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1725030255,
+                "published": "1",
+                "status": "",
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2023-05-03 14-18-10.png",
+                        "size": "73304"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "url": "files\/image.png",
+                        "type": "image\/png",
+                        "name": "image.png",
+                        "size": "75798"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
+                        "url": "files\/image23.png",
+                        "type": "image\/png",
+                        "name": "image23.png",
+                        "size": "32146"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
+                        "url": "files\/4_Pedagogy2.png",
+                        "type": "image\/png",
+                        "name": "4_Pedagogy2.png",
+                        "size": "160827"
+                    }
+                ],
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "img": "1",
+                        "p": "1"
+                    },
+                    "elements": "3"
+                },
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-42b47c5a-8ad2-4507-bef1-0488c65cc54a",
+            "indent": "2",
+            "location": "pages\/item-42b47c5a-8ad2-4507-bef1-0488c65cc54a\/index.html",
+            "slug": "ontology\/page-1",
+            "order": 3,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Structure",
+            "description": "Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo",
+            "metadata": {
+                "created": "1683137703",
+                "updated": 1725030255,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#4d68885e-e5d5-d911-03cf-c8d932d03d67",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image2.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image2.png",
+                        "url": "files\/image2.png",
+                        "type": "image\/png",
+                        "name": "image2.png",
+                        "size": "58057"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/5_Structure.png",
+                        "url": "files\/5_Structure.png",
+                        "type": "image\/png",
+                        "name": "5_Structure.png",
+                        "size": "352193"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=XIZelr4Lg98"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-23eb212e-a523-4d7b-862a-0a00cb786321",
+            "indent": "2",
+            "location": "pages\/item-23eb212e-a523-4d7b-862a-0a00cb786321\/index.html",
+            "slug": "ontology\/page-3",
+            "order": 4,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Instruction",
+            "description": "Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie",
+            "metadata": {
+                "created": "1683137705",
+                "updated": 1725030255,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#dc9e47e8-01cc-09d3-89d2-04c701c43d1a",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image5.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image5.png",
+                        "url": "files\/image5.png",
+                        "type": "image\/png",
+                        "name": "image5.png",
+                        "size": "136023"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/7_Instruction2.png",
+                        "url": "files\/7_Instruction2.png",
+                        "type": "image\/png",
+                        "name": "7_Instruction2.png",
+                        "size": "429816"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=G5dYdOHLajY"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-d57321c6-4106-45ec-89a4-8ebdf0af67f2",
+            "indent": "2",
+            "location": "pages\/item-d57321c6-4106-45ec-89a4-8ebdf0af67f2\/index.html",
+            "slug": "ontology\/page-2",
+            "order": 5,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Content",
+            "description": "Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination ",
+            "metadata": {
+                "created": "1683137704",
+                "updated": 1725030255,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#5f322574-ba0f-a61e-86aa-fa025a2bc448",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image4.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image4.png",
+                        "url": "files\/image4.png",
+                        "type": "image\/png",
+                        "name": "image4.png",
+                        "size": "90868"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image24.png",
+                        "url": "files\/image24.png",
+                        "type": "image\/png",
+                        "name": "image24.png",
+                        "size": "22222"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image25.png",
+                        "url": "files\/image25.png",
+                        "type": "image\/png",
+                        "name": "image25.png",
+                        "size": "22222"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image26.png",
+                        "url": "files\/image26.png",
+                        "type": "image\/png",
+                        "name": "image26.png",
+                        "size": "27601"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image27.png",
+                        "url": "files\/image27.png",
+                        "type": "image\/png",
+                        "name": "image27.png",
+                        "size": "28033"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/14_Content1.png",
+                        "url": "files\/14_Content1.png",
+                        "type": "image\/png",
+                        "name": "14_Content1.png",
+                        "size": "438314"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=NBsjGPIf1tQ"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5",
+            "indent": "2",
+            "location": "pages\/item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5\/index.html",
+            "slug": "ontology\/page-4",
+            "order": 6,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Assessment",
+            "description": "Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake",
+            "metadata": {
+                "created": "1683137709",
+                "updated": 1725030255,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#5600e5bc-7061-db1a-d82f-3717e2e448c5",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image6.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image6.png",
+                        "url": "files\/image6.png",
+                        "type": "image\/png",
+                        "name": "image6.png",
+                        "size": "42041"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/17_Assessment1.png",
+                        "url": "files\/17_Assessment1.png",
+                        "type": "image\/png",
+                        "name": "17_Assessment1.png",
+                        "size": "515064"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=i9paCj1Kya4"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
+            "indent": "1",
+            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
+            "slug": "study-guide-approaches",
+            "order": 2,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Study Guide Approaches",
+            "description": "",
+            "metadata": {
+                "created": "1701276272",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
             "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
             "indent": "1",
             "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
@@ -4311,22 +4237,24 @@
             }
         },
         {
-            "id": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "indent": 0,
-            "location": "pages\/item-e6b422fc-8920-45b1-9068-173399ca50b2\/index.html",
-            "slug": "solutions",
+            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
+            "indent": "1",
+            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
+            "slug": "guided-practice",
             "order": 3,
-            "parent": null,
-            "title": "Solutions",
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Guided Practice",
             "description": "",
             "metadata": {
-                "locked": "",
-                "created": "1724265952",
+                "created": "1701276237",
+                "updated": 1725030256,
                 "images": [],
                 "videos": [],
-                "updated": 1725030255,
                 "published": "1",
-                "status": ""
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
             }
         },
         {
@@ -4353,6 +4281,25 @@
             }
         },
         {
+            "id": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "indent": 0,
+            "location": "pages\/item-e6b422fc-8920-45b1-9068-173399ca50b2\/index.html",
+            "slug": "solutions",
+            "order": 3,
+            "parent": null,
+            "title": "Solutions",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1724265952",
+                "images": [],
+                "videos": [],
+                "updated": 1725030255,
+                "published": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-a9fbc83f-b923-4af7-b998-5da6864a527a",
             "indent": "1",
             "location": "pages\/item-a9fbc83f-b923-4af7-b998-5da6864a527a\/index.html",
@@ -4371,6 +4318,59 @@
                 "locked": "",
                 "readtime": "1",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "indent": 0,
+            "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
+            "slug": "the-gallery-of-online-excellence",
+            "order": 4,
+            "parent": null,
+            "title": "Teaching Excellence",
+            "description": "This is the front door of the gallery, a browsable, searchable gallery of online excellence, but also a set of ",
+            "metadata": {
+                "created": "1701201443",
+                "updated": 1725030256,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Featured_Article_Blue1.png",
+                        "url": "files\/Featured_Article_Blue1.png",
+                        "type": "image\/png",
+                        "name": "Featured_Article_Blue1.png",
+                        "size": "1910"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
+            "indent": "1",
+            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
+            "slug": "odl-course-showcase",
+            "order": 4,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "ODL Course Showcase",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1711642479",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/stLwUI4G92Q"
+                ],
+                "updated": 1725030256,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
             }
         },
         {
