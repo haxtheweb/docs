@@ -1113,7 +1113,7 @@
         },
         {
             "id": "item-c47bf439-54fa-4c41-8f39-a72dc0d40b60",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-c47bf439-54fa-4c41-8f39-a72dc0d40b60\/index.html",
             "slug": "ben-andrew-exhibit",
             "order": 2,
@@ -1122,7 +1122,7 @@
             "description": "This week\u2019s Case Study is an animated title sequence by designer Saul Bass, for the 1959 film  Anatomy of a Murder, which illustrates the fundamental concept of  Movement.",
             "metadata": {
                 "created": "1701372752",
-                "updated": 1725030256,
+                "updated": 1725477205,
                 "images": [
                     "files\/Scorecard for Saul Bass.png",
                     "files\/Scorecard for Super Metroid.png"
@@ -1131,11 +1131,11 @@
                     "https:\/\/youtu.be\/O63CgSG_Rzg",
                     "https:\/\/youtu.be\/6QPBmX-BRyc"
                 ],
-                "published": "1",
-                "locked": "",
-                "readtime": "4",
+                "published": true,
+                "locked": false,
+                "readtime": 3,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben 1.jpg",
