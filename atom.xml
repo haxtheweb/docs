@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-08-30T11:04:13-04:00</updated>
+    <updated>2024-09-06T08:15:48-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -31,9 +31,9 @@
   <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>init</b> <b>@haxtheweb</b></code>
 
   </li>
-  <ul ="true"="">
-    <li ="true"="">Need to install nodejs / npm? I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
-      npm/npx programs above)</li>
+  <ul ="true"="" role="textbox">
+    <li ="true"="">Need to install nodejs / npm?</li><li ="true"="">I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
+      npm/npx above) Node 20+ / NPM 10+ required</li>
   </ul>
   <li ="true"="">Install HAXcms (<b>nodejs</b>) -- <b><code ="true"="">npx @haxtheweb/haxcms-nodejs</code></b>
 
@@ -62,7 +62,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
-<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="R" seed="657" speed="500" slot="col-2"></rpg-character>
+
+<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
+
 
 
 
@@ -74,6 +76,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 <rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="R" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
 
 
 
