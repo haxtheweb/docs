@@ -2040,19 +2040,22 @@
         },
         {
             "id": "item-2a102879-1110-4db4-a6b8-3b687f0fd2b1",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-2a102879-1110-4db4-a6b8-3b687f0fd2b1\/index.html",
             "slug": "documentation\/developers\/platforms\/haxiam",
             "order": 0,
             "parent": "item-0e12b64d-2eb5-4cea-8a85-829ec279cfc7",
             "title": "HAXiam",
-            "description": "",
+            "description": "Installation and management of HAXiam have scripts to help with their setup just like other parts of the HAX ecosystemInstallationTo install dependencies on the server to ensure smooth setup, this ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1726501298,
                 "images": [],
                 "videos": [],
-                "updated": 1726501298
+                "updated": 1726502626,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
