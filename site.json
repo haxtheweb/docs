@@ -3317,7 +3317,7 @@
         },
         {
             "id": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-d4b650a4-47af-4734-b891-7a6db766ca3e\/index.html",
             "slug": "documentation\/haxcms",
             "order": 1,
@@ -3325,14 +3325,14 @@
             "title": "HAXcms",
             "description": "Read on for specific ways to work with HAXcms. HAXcms is what you are currently experiencing, it's HAX for content management.",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706046187",
                 "images": [],
                 "videos": [],
-                "updated": 1725030255,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1726501009,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         },
