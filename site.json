@@ -3601,7 +3601,7 @@
         },
         {
             "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
             "slug": "solutions\/haxiam",
             "order": 2,
@@ -3610,13 +3610,13 @@
             "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
             "metadata": {
                 "created": "1724266050",
-                "updated": 1725030256,
+                "updated": 1726501145,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": ""
             }
         },
