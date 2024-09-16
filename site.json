@@ -2657,19 +2657,22 @@
         },
         {
             "id": "item-0e12b64d-2eb5-4cea-8a85-829ec279cfc7",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-0e12b64d-2eb5-4cea-8a85-829ec279cfc7\/index.html",
             "slug": "documentation\/developers\/platforms",
             "order": 0,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
             "title": "Platforms",
-            "description": "",
+            "description": "Platform level documentation for developers doing work with these platforms",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1726501298,
                 "images": [],
                 "videos": [],
-                "updated": 1726501298
+                "updated": 1726501319,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
