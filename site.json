@@ -203,6 +203,22 @@
             }
         },
         {
+            "id": "item-d131e688-d93c-4cbc-b32d-f0d052aeb8d0",
+            "indent": 0,
+            "location": "pages\/item-d131e688-d93c-4cbc-b32d-f0d052aeb8d0\/index.html",
+            "slug": "welcome\/what-is-hax\/page",
+            "order": "0",
+            "parent": "item-06108b56-48b5-4c50-b262-81659edc750e",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1726601434,
+                "updated": 1726601434,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-d673110e-8d91-4294-b80f-74a38cf51533",
             "indent": "1",
             "location": "pages\/item-d673110e-8d91-4294-b80f-74a38cf51533\/index.html",
@@ -797,419 +813,24 @@
             }
         },
         {
-            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
             "indent": "2",
-            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
-            "slug": "gallery-exhibits",
+            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
+            "slug": "documentation\/ddd",
             "order": 0,
-            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "title": "Gallery Exhibits",
-            "description": "Column two",
+            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
+            "title": "Design Documentation",
+            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
             "metadata": {
-                "created": "1701371579",
-                "updated": 1726501299,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
-                        "url": "files\/Peter Montage.png",
-                        "type": "image\/png",
-                        "name": "Peter Montage.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
-                        "url": "files\/Peter Aeschbacher.png",
-                        "type": "image\/png",
-                        "name": "Peter Aeschbacher.png",
-                        "size": "682130"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
-                        "url": "files\/Bonj Szczygiel.png",
-                        "type": "image\/png",
-                        "name": "Bonj Szczygiel.png",
-                        "size": "2614095"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
-                        "url": "files\/Ben Andrew 1.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 1.png",
-                        "size": "2190204"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
-                        "url": "files\/Ben Andrew 2.png",
-                        "type": "image\/png",
-                        "name": "Ben Andrew 2.png",
-                        "size": "1552766"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
-                        "url": "files\/Peter 11.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 11.jpg",
-                        "size": "285922"
-                    }
-                ],
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-0ae1c6fb-3f57-4917-8caa-91853eda4982",
-            "indent": "3",
-            "location": "pages\/item-0ae1c6fb-3f57-4917-8caa-91853eda4982\/index.html",
-            "slug": "peter-aeschbacher-exhibit",
-            "order": 0,
-            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "title": "Peter Aeschbacher Exhibit",
-            "description": "aaabbb",
-            "metadata": {
-                "created": "1701372747",
-                "updated": 1726501299,
-                "images": [
-                    "files\/Scorecard for Calatravas Bridges (Part 1).png",
-                    "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/9_nO9mtTnWw",
-                    "https:\/\/youtu.be\/R4K7d24tr_E",
-                    "https:\/\/youtu.be\/wZbctmvP93c"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "5",
-                "status": "",
-                "hideInMenu": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/voice-recording-1017381.7000000477.mp3",
-                        "url": "files\/voice-recording-1017381.7000000477.mp3",
-                        "type": "audio\/mpeg",
-                        "name": "voice-recording-1017381.7000000477.mp3",
-                        "size": "38328"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 1.png",
-                        "url": "files\/Peter 1.png",
-                        "type": "image\/png",
-                        "name": "Peter 1.png",
-                        "size": "689080"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.png",
-                        "url": "files\/Peter 11.png",
-                        "type": "image\/png",
-                        "name": "Peter 11.png",
-                        "size": "689080"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 1.jpg",
-                        "url": "files\/Peter 1.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 1.jpg",
-                        "size": "285922"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 2.jpg",
-                        "url": "files\/Peter 2.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 2.jpg",
-                        "size": "505979"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 3.jpg",
-                        "url": "files\/Peter 3.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Peter 3.jpg",
-                        "size": "228514"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Design-Art-Science.png",
-                        "url": "files\/Scorecard for Design-Art-Science.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Design-Art-Science.png",
-                        "size": "110823"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 1).png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 1).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 1).png",
-                        "size": "110425"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
-                        "size": "109724"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image71.png",
-                        "url": "files\/image71.png",
-                        "type": "image\/png",
-                        "name": "image71.png",
-                        "size": "6464"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image72.png",
-                        "url": "files\/image72.png",
-                        "type": "image\/png",
-                        "name": "image72.png",
-                        "size": "17363"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
-                        "size": "109538"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
-                        "size": "109538"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
-                        "size": "109538"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
-                        "url": "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Calatravas Bridges (Part 2) EDITED.png",
-                        "size": "109538"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-73d866cd-ebd0-4124-ad99-b1b18455327d",
-            "indent": "3",
-            "location": "pages\/item-73d866cd-ebd0-4124-ad99-b1b18455327d\/index.html",
-            "slug": "bonj-szczygiel-exhibit",
-            "order": 1,
-            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "title": "Bonj Szczygiel Exhibit",
-            "description": "Before proceeding with additional lesson content, check your understanding using the question(s) below. If you answer incorrectly, be sure to read the feedback carefully; follow the guidance offer",
-            "metadata": {
-                "created": "1701372742",
-                "updated": 1726501299,
-                "images": [
-                    "files\/Scorecard for Monticello.png",
-                    "files\/Scorecard for Versailles1.png"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/WQGzmmf8Xbo",
-                    "https:\/\/youtu.be\/opqCJphYD-w"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "4",
-                "status": "",
-                "hideInMenu": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj 1.jpg",
-                        "url": "files\/Bonj 1.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Bonj 1.jpg",
-                        "size": "375393"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj 2.jpg",
-                        "url": "files\/Bonj 2.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Bonj 2.jpg",
-                        "size": "456622"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image67.png",
-                        "url": "files\/image67.png",
-                        "type": "image\/png",
-                        "name": "image67.png",
-                        "size": "4253"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image68.png",
-                        "url": "files\/image68.png",
-                        "type": "image\/png",
-                        "name": "image68.png",
-                        "size": "4253"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image69.png",
-                        "url": "files\/image69.png",
-                        "type": "image\/png",
-                        "name": "image69.png",
-                        "size": "4367"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image70.png",
-                        "url": "files\/image70.png",
-                        "type": "image\/png",
-                        "name": "image70.png",
-                        "size": "4147"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Monticello.png",
-                        "url": "files\/Scorecard for Monticello.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Monticello.png",
-                        "size": "109780"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Monticello (50).png",
-                        "url": "files\/Scorecard for Monticello (50).png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Monticello (50).png",
-                        "size": "81239"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Test1.png",
-                        "url": "files\/Test1.png",
-                        "type": "image\/png",
-                        "name": "Test1.png",
-                        "size": "118556"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Versailles.png",
-                        "url": "files\/Scorecard for Versailles.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Versailles.png",
-                        "size": "106132"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Versailles1.png",
-                        "url": "files\/Scorecard for Versailles1.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Versailles1.png",
-                        "size": "106928"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-c47bf439-54fa-4c41-8f39-a72dc0d40b60",
-            "indent": "3",
-            "location": "pages\/item-c47bf439-54fa-4c41-8f39-a72dc0d40b60\/index.html",
-            "slug": "ben-andrew-exhibit",
-            "order": 2,
-            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "title": "Ben Andrew Exhibit",
-            "description": "This week\u2019s Case Study is an animated title sequence by designer Saul Bass, for the 1959 film  Anatomy of a Murder, which illustrates the fundamental concept of  Movement.",
-            "metadata": {
-                "created": "1701372752",
-                "updated": 1726501299,
-                "images": [
-                    "files\/Scorecard for Saul Bass.png",
-                    "files\/Scorecard for Super Metroid.png"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/O63CgSG_Rzg",
-                    "https:\/\/youtu.be\/6QPBmX-BRyc"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "2",
-                "status": "",
-                "hideInMenu": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben 1.jpg",
-                        "url": "files\/Ben 1.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Ben 1.jpg",
-                        "size": "401424"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben 2.jpg",
-                        "url": "files\/Ben 2.jpg",
-                        "type": "image\/jpeg",
-                        "name": "Ben 2.jpg",
-                        "size": "655747"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Saul Bass.png",
-                        "url": "files\/Scorecard for Saul Bass.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Saul Bass.png",
-                        "size": "108891"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Super Metroid.png",
-                        "url": "files\/Scorecard for Super Metroid.png",
-                        "type": "image\/png",
-                        "name": "Scorecard for Super Metroid.png",
-                        "size": "109352"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
-            "indent": "2",
-            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
-            "slug": "documentation\/integrations\/backdropcms",
-            "order": 0,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "BackdropCMS",
-            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
+                "created": "1706046114",
                 "updated": 1726501298,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
-            "indent": "4",
-            "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/fill-in-the-blanks",
-            "order": 0,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Fill in the blanks",
-            "description": "This question type allows the user to complete a sentance by answering in context of other written material. Input fields are visualized directly in the paragraph and they are be modified easily via ",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
                 "images": [],
                 "videos": [],
-                "updated": 1726501297,
                 "published": "1",
+                "locked": "",
+                "status": "",
                 "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-51-51.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-51-51.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-51-51.png",
-                        "size": "24119"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
-                "tags": "instructional, question, fill",
-                "status": ""
+                "readtime": "3"
             }
         },
         {
@@ -1363,6 +984,38 @@
                 "tags": "question",
                 "locked": "",
                 "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
+            "indent": "4",
+            "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/fill-in-the-blanks",
+            "order": 0,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Fill in the blanks",
+            "description": "This question type allows the user to complete a sentance by answering in context of other written material. Input fields are visualized directly in the paragraph and they are be modified easily via ",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1726501297,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-51-51.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-51-51.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-51-51.png",
+                        "size": "24119"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
+                "tags": "instructional, question, fill",
                 "status": ""
             }
         },
@@ -1892,6 +1545,369 @@
                         "type": "image\/jpeg",
                         "name": "Ben_Andrew.jpeg",
                         "size": "6528"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "indent": "2",
+            "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
+            "slug": "gallery-exhibits",
+            "order": 0,
+            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
+            "title": "Gallery Exhibits",
+            "description": "Column two",
+            "metadata": {
+                "created": "1701371579",
+                "updated": 1726501299,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
+                        "url": "files\/Peter Montage.png",
+                        "type": "image\/png",
+                        "name": "Peter Montage.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Aeschbacher.png",
+                        "url": "files\/Peter Aeschbacher.png",
+                        "type": "image\/png",
+                        "name": "Peter Aeschbacher.png",
+                        "size": "682130"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj Szczygiel.png",
+                        "url": "files\/Bonj Szczygiel.png",
+                        "type": "image\/png",
+                        "name": "Bonj Szczygiel.png",
+                        "size": "2614095"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 1.png",
+                        "url": "files\/Ben Andrew 1.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 1.png",
+                        "size": "2190204"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben Andrew 2.png",
+                        "url": "files\/Ben Andrew 2.png",
+                        "type": "image\/png",
+                        "name": "Ben Andrew 2.png",
+                        "size": "1552766"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.jpg",
+                        "url": "files\/Peter 11.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 11.jpg",
+                        "size": "285922"
+                    }
+                ],
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-0ae1c6fb-3f57-4917-8caa-91853eda4982",
+            "indent": "3",
+            "location": "pages\/item-0ae1c6fb-3f57-4917-8caa-91853eda4982\/index.html",
+            "slug": "peter-aeschbacher-exhibit",
+            "order": 0,
+            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "title": "Peter Aeschbacher Exhibit",
+            "description": "aaabbb",
+            "metadata": {
+                "created": "1701372747",
+                "updated": 1726501299,
+                "images": [
+                    "files\/Scorecard for Calatravas Bridges (Part 1).png",
+                    "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/9_nO9mtTnWw",
+                    "https:\/\/youtu.be\/R4K7d24tr_E",
+                    "https:\/\/youtu.be\/wZbctmvP93c"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "5",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/voice-recording-1017381.7000000477.mp3",
+                        "url": "files\/voice-recording-1017381.7000000477.mp3",
+                        "type": "audio\/mpeg",
+                        "name": "voice-recording-1017381.7000000477.mp3",
+                        "size": "38328"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 1.png",
+                        "url": "files\/Peter 1.png",
+                        "type": "image\/png",
+                        "name": "Peter 1.png",
+                        "size": "689080"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 11.png",
+                        "url": "files\/Peter 11.png",
+                        "type": "image\/png",
+                        "name": "Peter 11.png",
+                        "size": "689080"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 1.jpg",
+                        "url": "files\/Peter 1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 1.jpg",
+                        "size": "285922"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 2.jpg",
+                        "url": "files\/Peter 2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 2.jpg",
+                        "size": "505979"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter 3.jpg",
+                        "url": "files\/Peter 3.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Peter 3.jpg",
+                        "size": "228514"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Design-Art-Science.png",
+                        "url": "files\/Scorecard for Design-Art-Science.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Design-Art-Science.png",
+                        "size": "110823"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 1).png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 1).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 1).png",
+                        "size": "110425"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
+                        "size": "109724"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image71.png",
+                        "url": "files\/image71.png",
+                        "type": "image\/png",
+                        "name": "image71.png",
+                        "size": "6464"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image72.png",
+                        "url": "files\/image72.png",
+                        "type": "image\/png",
+                        "name": "image72.png",
+                        "size": "17363"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
+                        "size": "109538"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
+                        "size": "109538"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 2).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 2).png",
+                        "size": "109538"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
+                        "url": "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Calatravas Bridges (Part 2) EDITED.png",
+                        "size": "109538"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-73d866cd-ebd0-4124-ad99-b1b18455327d",
+            "indent": "3",
+            "location": "pages\/item-73d866cd-ebd0-4124-ad99-b1b18455327d\/index.html",
+            "slug": "bonj-szczygiel-exhibit",
+            "order": 1,
+            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "title": "Bonj Szczygiel Exhibit",
+            "description": "Before proceeding with additional lesson content, check your understanding using the question(s) below. If you answer incorrectly, be sure to read the feedback carefully; follow the guidance offer",
+            "metadata": {
+                "created": "1701372742",
+                "updated": 1726501299,
+                "images": [
+                    "files\/Scorecard for Monticello.png",
+                    "files\/Scorecard for Versailles1.png"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/WQGzmmf8Xbo",
+                    "https:\/\/youtu.be\/opqCJphYD-w"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "4",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj 1.jpg",
+                        "url": "files\/Bonj 1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Bonj 1.jpg",
+                        "size": "375393"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Bonj 2.jpg",
+                        "url": "files\/Bonj 2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Bonj 2.jpg",
+                        "size": "456622"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image67.png",
+                        "url": "files\/image67.png",
+                        "type": "image\/png",
+                        "name": "image67.png",
+                        "size": "4253"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image68.png",
+                        "url": "files\/image68.png",
+                        "type": "image\/png",
+                        "name": "image68.png",
+                        "size": "4253"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image69.png",
+                        "url": "files\/image69.png",
+                        "type": "image\/png",
+                        "name": "image69.png",
+                        "size": "4367"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image70.png",
+                        "url": "files\/image70.png",
+                        "type": "image\/png",
+                        "name": "image70.png",
+                        "size": "4147"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Monticello.png",
+                        "url": "files\/Scorecard for Monticello.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Monticello.png",
+                        "size": "109780"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Monticello (50).png",
+                        "url": "files\/Scorecard for Monticello (50).png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Monticello (50).png",
+                        "size": "81239"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Test1.png",
+                        "url": "files\/Test1.png",
+                        "type": "image\/png",
+                        "name": "Test1.png",
+                        "size": "118556"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Versailles.png",
+                        "url": "files\/Scorecard for Versailles.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Versailles.png",
+                        "size": "106132"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Versailles1.png",
+                        "url": "files\/Scorecard for Versailles1.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Versailles1.png",
+                        "size": "106928"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "item-c47bf439-54fa-4c41-8f39-a72dc0d40b60",
+            "indent": "3",
+            "location": "pages\/item-c47bf439-54fa-4c41-8f39-a72dc0d40b60\/index.html",
+            "slug": "ben-andrew-exhibit",
+            "order": 2,
+            "parent": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
+            "title": "Ben Andrew Exhibit",
+            "description": "This week\u2019s Case Study is an animated title sequence by designer Saul Bass, for the 1959 film  Anatomy of a Murder, which illustrates the fundamental concept of  Movement.",
+            "metadata": {
+                "created": "1701372752",
+                "updated": 1726501299,
+                "images": [
+                    "files\/Scorecard for Saul Bass.png",
+                    "files\/Scorecard for Super Metroid.png"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/O63CgSG_Rzg",
+                    "https:\/\/youtu.be\/6QPBmX-BRyc"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "2",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben 1.jpg",
+                        "url": "files\/Ben 1.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Ben 1.jpg",
+                        "size": "401424"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Ben 2.jpg",
+                        "url": "files\/Ben 2.jpg",
+                        "type": "image\/jpeg",
+                        "name": "Ben 2.jpg",
+                        "size": "655747"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Saul Bass.png",
+                        "url": "files\/Scorecard for Saul Bass.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Saul Bass.png",
+                        "size": "108891"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Scorecard for Super Metroid.png",
+                        "url": "files\/Scorecard for Super Metroid.png",
+                        "type": "image\/png",
+                        "name": "Scorecard for Super Metroid.png",
+                        "size": "109352"
                     }
                 ]
             }
@@ -2451,27 +2467,6 @@
             }
         },
         {
-            "id": "item-4bb1088a-8d44-4c7c-bf7c-89abe3787458",
-            "indent": "2",
-            "location": "pages\/item-4bb1088a-8d44-4c7c-bf7c-89abe3787458\/index.html",
-            "slug": "documentation\/ddd",
-            "order": 0,
-            "parent": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "title": "Design Documentation",
-            "description": "These are in-progress design documentation for the HAX design system, code named DDD (Develop, Design, Destroy!).What is DDD?DDD is short for Develop, Design, Destroy!Develop: we needed to develo",
-            "metadata": {
-                "created": "1706046114",
-                "updated": 1726501298,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "3"
-            }
-        },
-        {
             "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
             "indent": "2",
             "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
@@ -2510,6 +2505,27 @@
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 2
+            }
+        },
+        {
+            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
+            "indent": "2",
+            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
+            "slug": "documentation\/integrations\/backdropcms",
+            "order": 0,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "BackdropCMS",
+            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1726501298,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
             }
         },
         {
@@ -2924,126 +2940,6 @@
             }
         },
         {
-            "id": "item-7a54e617-a1cf-456d-866c-442b200d9e53",
-            "indent": 0,
-            "location": "pages\/item-7a54e617-a1cf-456d-866c-442b200d9e53\/index.html",
-            "slug": "hax-lab\/hax-youtube-channel",
-            "order": 1,
-            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "HAX YouTube Channel",
-            "description": "HAX has a primary YouTube channel for official postings as well as a playlist for more in-progress development, tutorials and progress as communicated by project lead Bryan Ollendyke.HAX Official Yo",
-            "metadata": {
-                "created": 1726600996,
-                "updated": 1726601357,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
-            }
-        },
-        {
-            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
-            "indent": "2",
-            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
-            "slug": "ontology\/page",
-            "order": 1,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Outcomes",
-            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
-            "metadata": {
-                "created": "1683137702",
-                "updated": 1726501298,
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1",
-                        "img": "1"
-                    },
-                    "elements": "3"
-                },
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
-                        "url": "files\/image1.png",
-                        "type": "image\/png",
-                        "name": "image1.png",
-                        "size": "128013"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
-                        "url": "files\/image3.png",
-                        "type": "image\/png",
-                        "name": "image3.png",
-                        "size": "109622"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
-                        "url": "files\/2_Outcomes.png",
-                        "type": "image\/png",
-                        "name": "2_Outcomes.png",
-                        "size": "389419"
-                    }
-                ],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
-                ],
-                "images": [],
-                "tags": "ontology, outcomes"
-            }
-        },
-        {
-            "id": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "indent": "1",
-            "location": "pages\/item-50802aa4-f49e-4207-98d2-7ef3745568fc\/index.html",
-            "slug": "tutorials\/block-usage",
-            "order": 1,
-            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
-            "title": "Block usage",
-            "description": "HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you",
-            "metadata": {
-                "created": "1683139086",
-                "updated": 1726501296,
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#c03ae665-81a5-c4c9-592a-ecd08917822d",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "p": "1"
-                    },
-                    "elements": "2"
-                },
-                "status": "",
-                "videos": [],
-                "images": [],
-                "tags": "blocks,usage,tutorial,example"
-            }
-        },
-        {
             "id": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
             "indent": "2",
             "location": "pages\/item-2fdd27a1-190a-47c8-8192-910bc1afe0f5\/index.html",
@@ -3151,6 +3047,106 @@
                 "locked": "",
                 "readtime": "1",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-ac8baab4-f493-4fd9-9826-5f79e2e44c03",
+            "indent": "2",
+            "location": "pages\/item-ac8baab4-f493-4fd9-9826-5f79e2e44c03\/index.html",
+            "slug": "ontology\/page",
+            "order": 1,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Outcomes",
+            "description": "Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the \"first and foremost\" of all course aspects. Specifically, what s",
+            "metadata": {
+                "created": "1683137702",
+                "updated": 1726501298,
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e02c0ddb-f692-d757-06c2-3527bcbab574",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1",
+                        "img": "1"
+                    },
+                    "elements": "3"
+                },
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image1.png",
+                        "url": "files\/image1.png",
+                        "type": "image\/png",
+                        "name": "image1.png",
+                        "size": "128013"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image3.png",
+                        "url": "files\/image3.png",
+                        "type": "image\/png",
+                        "name": "image3.png",
+                        "size": "109622"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/2_Outcomes.png",
+                        "url": "files\/2_Outcomes.png",
+                        "type": "image\/png",
+                        "name": "2_Outcomes.png",
+                        "size": "389419"
+                    }
+                ],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=msETqDgyFzI"
+                ],
+                "images": [],
+                "tags": "ontology, outcomes"
+            }
+        },
+        {
+            "id": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
+            "indent": "1",
+            "location": "pages\/item-50802aa4-f49e-4207-98d2-7ef3745568fc\/index.html",
+            "slug": "tutorials\/block-usage",
+            "order": 1,
+            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
+            "title": "Block usage",
+            "description": "HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you",
+            "metadata": {
+                "created": "1683139086",
+                "updated": 1726501296,
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#c03ae665-81a5-c4c9-592a-ecd08917822d",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "p": "1"
+                    },
+                    "elements": "2"
+                },
+                "status": "",
+                "videos": [],
+                "images": [],
+                "tags": "blocks,usage,tutorial,example"
             }
         },
         {
@@ -3731,6 +3727,180 @@
             }
         },
         {
+            "id": "item-7a54e617-a1cf-456d-866c-442b200d9e53",
+            "indent": 0,
+            "location": "pages\/item-7a54e617-a1cf-456d-866c-442b200d9e53\/index.html",
+            "slug": "hax-lab\/hax-youtube-channel",
+            "order": 1,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "HAX YouTube Channel",
+            "description": "HAX has a primary YouTube channel for official postings as well as a playlist for more in-progress development, tutorials and progress as communicated by project lead Bryan Ollendyke.HAX Official Yo",
+            "metadata": {
+                "created": 1726600996,
+                "updated": 1726601357,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
+            "indent": 0,
+            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
+            "slug": "solutions\/haxiam",
+            "order": 2,
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "HAXiam",
+            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
+            "metadata": {
+                "created": "1724266050",
+                "updated": 1726503001,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
+                "status": ""
+            }
+        },
+        {
+            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
+            "indent": "1",
+            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
+            "slug": "study-guide-approaches",
+            "order": 2,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Study Guide Approaches",
+            "description": "",
+            "metadata": {
+                "created": "1701276272",
+                "updated": 1726501299,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
+            "indent": "1",
+            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
+            "slug": "site-things\/footer-bottom",
+            "order": 2,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer - bottom",
+            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [],
+                "videos": [],
+                "updated": 1726501300,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
+            "indent": "2",
+            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
+            "slug": "ontology\/new-item",
+            "order": 2,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Pedagogy",
+            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1726501298,
+                "published": "1",
+                "status": "",
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2023-05-03 14-18-10.png",
+                        "size": "73304"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "url": "files\/image.png",
+                        "type": "image\/png",
+                        "name": "image.png",
+                        "size": "75798"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
+                        "url": "files\/image23.png",
+                        "type": "image\/png",
+                        "name": "image23.png",
+                        "size": "32146"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
+                        "url": "files\/4_Pedagogy2.png",
+                        "type": "image\/png",
+                        "name": "4_Pedagogy2.png",
+                        "size": "160827"
+                    }
+                ],
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "img": "1",
+                        "p": "1"
+                    },
+                    "elements": "3"
+                },
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
+                ],
+                "images": []
+            }
+        },
+        {
+            "id": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "indent": 0,
+            "location": "pages\/item-0265920d-6055-404d-a0e6-1ae71c4ce258\/index.html",
+            "slug": "documentation",
+            "order": 2,
+            "parent": null,
+            "title": "Documentation",
+            "description": "While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1726501297,
+                "published": "1",
+                "status": "",
+                "readtime": "1",
+                "videos": [],
+                "images": [],
+                "hideInMenu": ""
+            }
+        },
+        {
             "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
             "indent": "1",
             "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
@@ -3812,27 +3982,6 @@
                 "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "indent": 0,
-            "location": "pages\/item-0265920d-6055-404d-a0e6-1ae71c4ce258\/index.html",
-            "slug": "documentation",
-            "order": 2,
-            "parent": null,
-            "title": "Documentation",
-            "description": "While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1726501297,
-                "published": "1",
-                "status": "",
-                "readtime": "1",
-                "videos": [],
-                "images": [],
-                "hideInMenu": ""
             }
         },
         {
@@ -3962,76 +4111,6 @@
                 "images": [
                     "files\/HAX Course Ontology Draft Version.png"
                 ]
-            }
-        },
-        {
-            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
-            "indent": "2",
-            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
-            "slug": "ontology\/new-item",
-            "order": 2,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Pedagogy",
-            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1726501298,
-                "published": "1",
-                "status": "",
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2023-05-03 14-18-10.png",
-                        "size": "73304"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "url": "files\/image.png",
-                        "type": "image\/png",
-                        "name": "image.png",
-                        "size": "75798"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
-                        "url": "files\/image23.png",
-                        "type": "image\/png",
-                        "name": "image23.png",
-                        "size": "32146"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
-                        "url": "files\/4_Pedagogy2.png",
-                        "type": "image\/png",
-                        "name": "4_Pedagogy2.png",
-                        "size": "160827"
-                    }
-                ],
-                "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "img": "1",
-                        "p": "1"
-                    },
-                    "elements": "3"
-                },
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
-                ],
-                "images": []
             }
         },
         {
@@ -4283,90 +4362,6 @@
             }
         },
         {
-            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
-            "indent": "1",
-            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
-            "slug": "site-things\/footer-bottom",
-            "order": 2,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer - bottom",
-            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [],
-                "videos": [],
-                "updated": 1726501300,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
-            "indent": 0,
-            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
-            "slug": "solutions\/haxiam",
-            "order": 2,
-            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXiam",
-            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
-            "metadata": {
-                "created": "1724266050",
-                "updated": 1726503001,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1,
-                "status": ""
-            }
-        },
-        {
-            "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
-            "indent": "1",
-            "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
-            "slug": "study-guide-approaches",
-            "order": 2,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Study Guide Approaches",
-            "description": "",
-            "metadata": {
-                "created": "1701276272",
-                "updated": 1726501299,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
-            "indent": "1",
-            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
-            "slug": "guided-practice",
-            "order": 3,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "Guided Practice",
-            "description": "",
-            "metadata": {
-                "created": "1701276237",
-                "updated": 1726501299,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
             "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
             "indent": "1",
             "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
@@ -4427,6 +4422,27 @@
                 "locked": "",
                 "readtime": "1",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-7607700d-d318-4479-a588-837ea13ecd8b",
+            "indent": "1",
+            "location": "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
+            "slug": "guided-practice",
+            "order": 3,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "Guided Practice",
+            "description": "",
+            "metadata": {
+                "created": "1701276237",
+                "updated": 1726501299,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
             }
         },
         {
