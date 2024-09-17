@@ -4464,14 +4464,14 @@
             "title": "Site things",
             "description": "no one has access to these things",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706291665",
                 "images": [],
                 "videos": [],
-                "updated": 1726501300,
-                "published": "",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1726599166,
+                "published": false,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         }
