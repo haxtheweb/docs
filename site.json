@@ -2927,16 +2927,20 @@
             "id": "item-7a54e617-a1cf-456d-866c-442b200d9e53",
             "indent": 0,
             "location": "pages\/item-7a54e617-a1cf-456d-866c-442b200d9e53\/index.html",
-            "slug": "hax-lab\/page",
-            "order": "0",
+            "slug": "hax-lab\/hax-youtube-channel",
+            "order": 1,
             "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "Page",
-            "description": "",
+            "title": "HAX YouTube Channel",
+            "description": "HAX has a primary YouTube channel for official postings as well as a playlist for more in-progress development, tutorials and progress as communicated by project lead Bryan Ollendyke.HAX Official Yo",
             "metadata": {
                 "created": 1726600996,
-                "updated": 1726600996,
+                "updated": 1726601357,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {

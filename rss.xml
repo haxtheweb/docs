@@ -105,24 +105,6 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
       <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
     </item>
     <item>
-      <title>Documentation</title>
-      <link>documentation</link>
-      <description>
-          <![CDATA[ 
-<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
-</stop-note>
-<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
-<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
-<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
-</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
       <title>Pedagogy</title>
       <link>ontology/new-item</link>
       <description>
@@ -153,6 +135,24 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>tutorials</category>
       <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>documentation</link>
+      <description>
+          <![CDATA[ 
+<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
+<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
+</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
       <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
     </item>
     <item>
@@ -460,6 +460,26 @@ perience" which is a development philosophy focused on each word and it's impact
       <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
     </item>
     <item>
+      <title>Environmental impact</title>
+      <link>pledges/environmental-impact</link>
+      <description>
+          <![CDATA[ 
+<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
+<ul><li>Turning to web standards over large libraries to use less resources</li>
+<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
+<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
+<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
+<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
+</ul>
+<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" data-accent="5">please submit an issue request to our queue</a>
+ detailing how we can achieve a greener platform.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
       <title>Accessibility and Empowerment</title>
       <link>pledges/accessibility-empowerment</link>
       <description>
@@ -480,26 +500,6 @@ perience" which is a development philosophy focused on each word and it's impact
       </description>
       <category></category>
       <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Environmental impact</title>
-      <link>pledges/environmental-impact</link>
-      <description>
-          <![CDATA[ 
-<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
-<ul><li>Turning to web standards over large libraries to use less resources</li>
-<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
-<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
-<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
-<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
-</ul>
-<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" data-accent="5">please submit an issue request to our queue</a>
- detailing how we can achieve a greener platform.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
       <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
     </item>
     <item>
