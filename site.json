@@ -215,7 +215,16 @@
                 "created": 1726601434,
                 "updated": 1726601434,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/giphy.gif",
+                        "url": "files\/giphy.gif",
+                        "type": "image\/gif",
+                        "name": "giphy.gif",
+                        "size": 484000
+                    }
+                ]
             }
         },
         {
