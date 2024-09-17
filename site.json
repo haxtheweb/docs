@@ -161,6 +161,13 @@
                         "type": "image\/jpeg",
                         "name": "HAX-The-Web.jpg",
                         "size": "602062"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-ecosystem-concepts.jpg",
+                        "url": "files\/hax-ecosystem-concepts.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-ecosystem-concepts.jpg",
+                        "size": 186035
                     }
                 ],
                 "hideInMenu": ""

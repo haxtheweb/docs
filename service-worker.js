@@ -604,7 +604,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "NvV6zPktbJP9r1nc9iN50Q"
+        "k9HnsvO5LNKI561I9Ooaw"
     ],
     [
         "404.html",
@@ -649,6 +649,10 @@ var precacheConfig = [
     [
         "files\/5_Structure.png",
         "0mlqg0DOmaol0LCQKW4bEA"
+    ],
+    [
+        "files\/hax-ecosystem-concepts.jpg",
+        "5JCar6G18YldroOjKrig"
     ],
     [
         "files\/image38.png",
