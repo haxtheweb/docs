@@ -3393,16 +3393,20 @@
             "id": "item-ad71d26c-8288-4a47-9b38-7e93baa49c53",
             "indent": 0,
             "location": "pages\/item-ad71d26c-8288-4a47-9b38-7e93baa49c53\/index.html",
-            "slug": "documentation\/developers\/tools\/page",
-            "order": "2",
+            "slug": "documentation\/developers\/tools\/wcfactory",
+            "order": 2,
             "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "title": "Page",
-            "description": "",
+            "title": "WCFactory",
+            "description": "We made tooling to publish web component monorepos with ease and in any library. It's called WCFactory and while not required, it's the tooling we use for managing our monorepo. We highly recommend y",
             "metadata": {
                 "created": 1726603396,
-                "updated": 1726603396,
+                "updated": 1726603604,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
