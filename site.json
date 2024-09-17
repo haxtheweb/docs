@@ -206,14 +206,14 @@
             "id": "item-d131e688-d93c-4cbc-b32d-f0d052aeb8d0",
             "indent": 0,
             "location": "pages\/item-d131e688-d93c-4cbc-b32d-f0d052aeb8d0\/index.html",
-            "slug": "welcome\/what-is-hax\/page",
-            "order": "0",
+            "slug": "welcome\/what-is-hax\/meme-maker",
+            "order": 1,
             "parent": "item-06108b56-48b5-4c50-b262-81659edc750e",
-            "title": "Page",
-            "description": "",
+            "title": "meme-maker",
+            "description": "We all enjoy memes, so let's understand HAX through a simple meme based example.How to make a memeFind imagesubmit to serviceenter text on imagedownload meme and shareHAX based memeWe created an ",
             "metadata": {
                 "created": 1726601434,
-                "updated": 1726601434,
+                "updated": 1726601979,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -224,7 +224,11 @@
                         "name": "giphy.gif",
                         "size": 484000
                     }
-                ]
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
