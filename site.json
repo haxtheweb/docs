@@ -778,16 +778,22 @@
             "id": "item-6ecf99f9-5623-4892-a651-9472ec0c74a5",
             "indent": 0,
             "location": "pages\/item-6ecf99f9-5623-4892-a651-9472ec0c74a5\/index.html",
-            "slug": "welcome\/page",
-            "order": "5",
+            "slug": "welcome\/i-need-help",
+            "order": 5,
             "parent": "item-8a5bf844-d498-4f75-bf96-110eaedb42d9",
-            "title": "Page",
-            "description": "",
+            "title": "I need help!",
+            "description": "If you have problems while using HAX or would like to contribute to anything in the HAX ecosystem, please file an issue in our project issue queue:Post issues here: hax issue queueChat with the comm",
             "metadata": {
                 "created": 1726600645,
-                "updated": 1726600645,
-                "images": [],
-                "videos": []
+                "updated": 1726600909,
+                "images": [
+                    "files\/image82.png"
+                ],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
