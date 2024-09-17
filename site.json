@@ -3598,21 +3598,23 @@
         },
         {
             "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
             "slug": "documentation\/developers",
             "order": 1,
             "parent": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
             "title": "Developers",
-            "description": "",
+            "description": "Developing for HAX itself or leveraging it's tools? There's a lot going on in our ecosystem so if we miss something let us know!Contribute webcomponents repoCreate my own web componentsThe HAX CL",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249289",
                 "images": [],
                 "videos": [],
-                "updated": 1726501298,
-                "published": "1",
-                "status": ""
+                "updated": 1726602271,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
