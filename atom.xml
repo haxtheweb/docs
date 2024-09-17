@@ -107,6 +107,26 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     </content>
   </entry>
   <entry>
+    <title>Documentation</title>
+    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
+    <updated>2024-09-16T11:41:37-04:00</updated>
+    <published>2023-05-03T14:14:50-04:00</published>
+    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
+    <link href="documentation"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
+<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
+</li>
+</ul>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Pedagogy</title>
     <id>item-40583b55-32bf-40c7-8e81-99c054b9a764</id>
     <updated>2024-09-16T11:41:38-04:00</updated>
@@ -178,26 +198,6 @@ and we'll prioritize it's creation.</p>
  The ontology should be robust, yet capable of organic growth over time; that is, logical enough to serve as a stable foundation, while able to adapt, broaden, and deepen.</li>
 <li><strong>Empowering.</strong>
  The ontology should permit complete flexibility in the instructional approach used, while also serving to showcase the application of recognized approaches such as Backward Design.</li>
-</ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Documentation</title>
-    <id>item-0265920d-6055-404d-a0e6-1ae71c4ce258</id>
-    <updated>2024-09-16T11:41:37-04:00</updated>
-    <published>2023-05-03T14:14:50-04:00</published>
-    <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
-    <link href="documentation"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
-</stop-note>
-<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
-<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
-<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
-</li>
 </ul>
  ]]>
     </content>

@@ -169,6 +169,13 @@
                         "type": "image\/jpeg",
                         "name": "hax-ecosystem-concepts.jpg",
                         "size": 186035
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image82.png",
+                        "url": "files\/image82.png",
+                        "type": "image\/png",
+                        "name": "image82.png",
+                        "size": 17947
                     }
                 ],
                 "hideInMenu": false
