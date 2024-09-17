@@ -134,7 +134,7 @@
         },
         {
             "id": "item-06108b56-48b5-4c50-b262-81659edc750e",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-06108b56-48b5-4c50-b262-81659edc750e\/index.html",
             "slug": "what-is-hax",
             "order": 1,
@@ -143,16 +143,17 @@
             "description": "A new way of authoringWrite HTML without knowing it, HAX is here to transform web publishing. Watch why HAX is different than past CMS solutions as well as pillars of development and where the platf",
             "metadata": {
                 "created": "1687956682",
-                "updated": 1726501295,
+                "updated": 1726599129,
                 "images": [
-                    "files\/HAX-The-Web.jpg"
+                    "files\/HAX-The-Web.jpg",
+                    "files\/hax-ecosystem-concepts.jpg"
                 ],
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=iPGgdRGyUtM"
                 ],
-                "published": "1",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "locked": false,
+                "readtime": 3,
                 "status": "",
                 "files": [
                     {
@@ -170,7 +171,7 @@
                         "size": 186035
                     }
                 ],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
