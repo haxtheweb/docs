@@ -35,7 +35,7 @@ if (file_exists(__DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php
   include_once __DIR__ . $bootstrapPath . '/system/backend/php/bootstrapHAX.php';
   include_once __DIR__ . $bootstrapPath . '/system/backend/php/lib/HAXSiteConfig.php';
   include_once $GLOBALS['HAXCMS']->configDirectory . '/config.php';
-  $site = $GLOBALS['HAXCMS']->loadSite(basename(__DIR__));
+  $site = $HAXCMS->loadSiteFromConfig(__DIR__);
   $page = $site->loadNodeByLocation();
   $color = 'var(' . $site->manifest->metadata->theme->variables->cssVariable . ', #FF2222)';
   $HAXSiteConfig = new HAXSiteConfig($site);
@@ -53,8 +53,14 @@ if (!isset($GLOBALS['HAXCMS'])) {
   class HAXSiteConfig {
     public function __construct($basePath = NULL, $location = "./site.json") {
       $this->basePath = $basePath;
+      // test forced setting, fallback to an environmental global, then just /
       if ($this->basePath === NULL) {
-        $this->basePath = $this->request_uri();
+        if (getenv('HAXSITE_BASE_URL')) {
+          $this->basePath = getenv('HAXSITE_BASE_URL');
+        }
+        else {
+          $this->basePath = '/';
+        }
       }
       $this->cdn = './';
       $this->developerMode = FALSE;
@@ -371,6 +377,9 @@ if (!isset($GLOBALS['HAXCMS'])) {
       // load from the active address if we have one
       if (is_null($path)) {
         $opPath = str_replace($this->basePath . $this->sitesDirectory . '/' . $this->manifest->metadata->site->name . '/', '', $this->request_uri());
+        if (getenv('HAXSITE_BASE_URL')) {
+          $opPath = str_replace(getenv('HAXSITE_BASE_URL'), '', $opPath);
+        }
         $path = $opPath;
       }
       $path .= "/index.html";
@@ -539,7 +548,7 @@ if (!isset($GLOBALS['HAXCMS'])) {
       }
       // support dynamic calculation
       if (is_null($basePath)) {
-        $basePath = $this->basePath . $this->manifest->metadata->site->name . '/';
+        $basePath = $this->basePath;
       }
       return "
       <script>
