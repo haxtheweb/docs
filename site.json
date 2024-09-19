@@ -1961,7 +1961,7 @@
             "description": "There is a simple working example of a HAX element provided in our monorepo. The\u00a0example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
             "metadata": {
                 "created": 1726773925,
-                "updated": 1726774385,
+                "updated": 1726774938,
                 "images": [],
                 "videos": [],
                 "published": true,
@@ -1978,7 +1978,7 @@
                     }
                 ],
                 "image": "files\/Screenshot from 2024-09-19 15-30-43.png",
-                "tags": "example"
+                "tags": "code example"
             }
         },
         {
