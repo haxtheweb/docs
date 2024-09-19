@@ -2925,16 +2925,20 @@
             "id": "item-7b57c34b-d8b4-4401-baed-01e39cc0cd77",
             "indent": 0,
             "location": "pages\/item-7b57c34b-d8b4-4401-baed-01e39cc0cd77\/index.html",
-            "slug": "documentation\/developers\/hax\/page",
-            "order": "0",
+            "slug": "documentation\/developers\/hax\/example-hax-element",
+            "order": 0,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
-            "title": "Page",
-            "description": "",
+            "title": "example-hax-element",
+            "description": "There is a simple working example of a HAX element provided in our monorepo. The&#160;example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
             "metadata": {
                 "created": 1726773925,
-                "updated": 1726773925,
+                "updated": 1726774198,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
