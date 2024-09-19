@@ -3119,10 +3119,10 @@
             "order": 1,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
             "title": "haxHooks",
-            "description": "Elements can integrate deeply into HAX state management using what we call \"hax hooks\". By supplying a method on your web component like   haxHooks()&#160;you are magically able to tap into differe",
+            "description": "Elements can integrate deeply into HAX state management using what we call ",
             "metadata": {
                 "created": 1726774282,
-                "updated": 1726774696,
+                "updated": 1726774927,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -3137,7 +3137,7 @@
                 "published": true,
                 "hideInMenu": false,
                 "image": "files\/Screenshot from 2024-09-19 15-35-26.png",
-                "tags": "example",
+                "tags": "code sample",
                 "locked": false,
                 "readtime": 5
             }
