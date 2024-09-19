@@ -632,7 +632,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "3OtBZb9EgojUQPTUhO8bg"
+        "7EFM50LCRrOx4HMg5Fz2JQ"
     ],
     [
         "404.html",
@@ -909,6 +909,10 @@ var precacheConfig = [
     [
         "files\/image33.png",
         "8grYFl6Mnzb3UAcz25ojA"
+    ],
+    [
+        "files\/Screenshot from 2024-09-19 15-35-26.png",
+        "ZC8SjcKB5hrn7vjPPV543g"
     ],
     [
         "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png",
