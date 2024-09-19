@@ -2898,14 +2898,14 @@
             "id": "item-585825f8-7d6a-4cf3-80cd-8fbed78053e6",
             "indent": 0,
             "location": "pages\/item-585825f8-7d6a-4cf3-80cd-8fbed78053e6\/index.html",
-            "slug": "documentation\/developers\/hax\/page",
-            "order": "0",
+            "slug": "documentation\/developers\/hax\/haxhooks",
+            "order": 1,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
-            "title": "Page",
-            "description": "",
+            "title": "haxHooks",
+            "description": "Elements can integrate deeply into HAX state management using what we call \"hax hooks\". By supplying a method on your web component like   haxHooks()&#160;you are magically able to tap into differe",
             "metadata": {
                 "created": 1726774282,
-                "updated": 1726774282,
+                "updated": 1726774696,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -2916,7 +2916,13 @@
                         "name": "Screenshot from 2024-09-19 15-35-26.png",
                         "size": 90798
                     }
-                ]
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "image": "files\/Screenshot from 2024-09-19 15-35-26.png",
+                "tags": "example",
+                "locked": false,
+                "readtime": 5
             }
         },
         {
