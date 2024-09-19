@@ -3645,16 +3645,20 @@
             "id": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
             "indent": 0,
             "location": "pages\/item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7\/index.html",
-            "slug": "documentation\/developers\/page",
-            "order": "5",
+            "slug": "documentation\/developers\/hax",
+            "order": 5,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Page",
-            "description": "",
+            "title": "HAX",
+            "description": "Whether working with h-a-x to integrate the editor into your environment or providing custom blocks for the editor itself, we've got the documentation, blog posts, and examples you need to get going.",
             "metadata": {
                 "created": 1726773589,
-                "updated": 1726773589,
+                "updated": 1726773900,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {

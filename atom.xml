@@ -500,25 +500,6 @@ perience" which is a development philosophy focused on each word and it's impact
     </content>
   </entry>
   <entry>
-    <title>Pledges</title>
-    <id>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</id>
-    <updated>2024-09-16T11:41:36-04:00</updated>
-    <published>2023-06-29T11:01:12-04:00</published>
-    <summary>These are pledges we make to our community and attempt to strive towards. We won't always hit the mark, but we try our best to do so. These aspirations push us closer to who we want to be as a com</summary>
-    <link href="pledges"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
- we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
-, but <b>we try our best</b>
- to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
-<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
-<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
- ]]>
-    </content>
-  </entry>
-  <entry>
     <title>Environmental impact</title>
     <id>item-edcd6f86-05b5-43a9-8766-8a56709451c8</id>
     <updated>2024-09-16T11:41:36-04:00</updated>
@@ -562,6 +543,25 @@ perience" which is a development philosophy focused on each word and it's impact
 </ul>
 <p>If you notice an accessibility error or issue with any aspect of the HAX platform, please <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=a11y&amp;title=%5Baccessibility+request%5D" target="_blank" data-style-decoration="mark-yellow" data-accent="5">file an issue in our issue queue</a>
  so we can correct it in a timely manner.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
+    <title>Pledges</title>
+    <id>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</id>
+    <updated>2024-09-16T11:41:36-04:00</updated>
+    <published>2023-06-29T11:01:12-04:00</published>
+    <summary>These are pledges we make to our community and attempt to strive towards. We won't always hit the mark, but we try our best to do so. These aspirations push us closer to who we want to be as a com</summary>
+    <link href="pledges"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
+ we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
+, but <b>we try our best</b>
+ to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
+<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
+<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
  ]]>
     </content>
   </entry>
