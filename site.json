@@ -3363,7 +3363,16 @@
                 "created": 1726774767,
                 "updated": 1726774767,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-09-19 15-41-24.png",
+                        "url": "files\/Screenshot from 2024-09-19 15-41-24.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-09-19 15-41-24.png",
+                        "size": 52180
+                    }
+                ]
             }
         },
         {
