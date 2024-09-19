@@ -2929,10 +2929,10 @@
             "order": 0,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
             "title": "example-hax-element",
-            "description": "There is a simple working example of a HAX element provided in our monorepo. The&#160;example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
+            "description": "There is a simple working example of a HAX element provided in our monorepo. The\u00a0example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
             "metadata": {
                 "created": 1726773925,
-                "updated": 1726774198,
+                "updated": 1726774267,
                 "images": [],
                 "videos": [],
                 "published": true,
@@ -2947,7 +2947,9 @@
                         "name": "Screenshot from 2024-09-19 15-30-43.png",
                         "size": 59769
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-09-19 15-30-43.png",
+                "tags": "example"
             }
         },
         {
