@@ -2938,7 +2938,16 @@
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-09-19 15-30-43.png",
+                        "url": "files\/Screenshot from 2024-09-19 15-30-43.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-09-19 15-30-43.png",
+                        "size": 59769
+                    }
+                ]
             }
         },
         {
