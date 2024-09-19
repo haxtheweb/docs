@@ -3361,7 +3361,7 @@
             "description": "We've created a way to internationalize ANY web component you create. Because this is a complex topic, and we seek to empower anyone, anywhere to work with web components; i18n is a critical piece of",
             "metadata": {
                 "created": 1726774767,
-                "updated": 1726774894,
+                "updated": 1726774911,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -3377,7 +3377,8 @@
                 "hideInMenu": false,
                 "image": "files\/Screenshot from 2024-09-19 15-41-24.png",
                 "locked": false,
-                "readtime": 1
+                "readtime": 1,
+                "tags": "code, example"
             }
         },
         {
