@@ -826,231 +826,23 @@
             }
         },
         {
-            "id": "item-7b57c34b-d8b4-4401-baed-01e39cc0cd77",
+            "id": "item-d090faf0-5374-4039-8aee-c6dad760c5e1",
             "indent": 0,
-            "location": "pages\/item-7b57c34b-d8b4-4401-baed-01e39cc0cd77\/index.html",
-            "slug": "documentation\/developers\/hax\/example-hax-element",
+            "location": "pages\/item-d090faf0-5374-4039-8aee-c6dad760c5e1\/index.html",
+            "slug": "documentation\/developers\/hax\/app-store-api\/apps",
             "order": 0,
-            "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
-            "title": "example-hax-element",
-            "description": "There is a simple working example of a HAX element provided in our monorepo. The\u00a0example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
+            "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
+            "title": "apps",
+            "description": "A single App definitionThis is an example of how the Flickr integration is set up in haxtheweb.org. Below this integration's pieces have been annotated i order to illustrate what each provides ",
             "metadata": {
-                "created": 1726773925,
-                "updated": 1726774938,
+                "created": 1727110935,
+                "updated": 1727110994,
                 "images": [],
                 "videos": [],
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
-                "readtime": 1,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-09-19 15-30-43.png",
-                        "url": "files\/Screenshot from 2024-09-19 15-30-43.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-09-19 15-30-43.png",
-                        "size": 59769
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-09-19 15-30-43.png",
-                "tags": "code example"
-            }
-        },
-        {
-            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
-            "indent": "2",
-            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-            "slug": "page-1",
-            "order": 0,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Installing HAXcms",
-            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
-            "metadata": {
-                "created": "1695414320",
-                "updated": 1726501299,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "indent": "1",
-            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
-            "slug": "the-future",
-            "order": 0,
-            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "The Future",
-            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
-            "metadata": {
-                "locked": "",
-                "created": "1697036006",
-                "images": [
-                    "files\/hax-horizon-report-oct-2023.jpg"
-                ],
-                "videos": [
-                    "https:\/\/youtu.be\/bX04I1Cw9FA"
-                ],
-                "updated": 1726501300,
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
-                        "url": "files\/hax-horizon-report-oct-2023.jpg",
-                        "type": "image\/jpeg",
-                        "name": "hax-horizon-report-oct-2023.jpg",
-                        "size": "175019"
-                    }
-                ],
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "indent": "2",
-            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
-            "slug": "stand-alone-tools",
-            "order": 0,
-            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-            "title": "Stand alone tools",
-            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
-            "metadata": {
-                "created": "1687960811",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1"
-            }
-        },
-        {
-            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
-            "indent": "3",
-            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
-            "slug": "stand-alone-tools\/conversion-tools",
-            "order": 0,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Conversion tools",
-            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
-            "metadata": {
-                "created": "1687961729",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "tags": "tool, convert, labs",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
-            "indent": "3",
-            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
-            "slug": "the-future\/stand-alone-tools\/local-save",
-            "order": 1,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Local Save",
-            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
-            "metadata": {
-                "created": "1698434154",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment,local",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
-            "indent": "3",
-            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
-            "slug": "stand-alone-tools\/rubrics",
-            "order": 2,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Qualitative Rubric Prototype",
-            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
-            "metadata": {
-                "created": "1687960925",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "pageType": "connection",
-                "tags": "experiment, gradebook, lab, rubric",
-                "status": "",
-                "icon": "courseicons:chem-connection",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
-            "indent": "3",
-            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
-            "slug": "page",
-            "order": 3,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Course Model Player",
-            "description": "                                                                                                                                                      Cross section view of the ",
-            "metadata": {
-                "created": "1689365799",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "locked": "",
-                "status": "",
-                "readtime": "1",
-                "theme": {
-                    "element": "haxcms-blank-theme",
-                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
-                    "name": "Blank theme",
-                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
-                    "key": "haxcms-blank-theme"
-                },
-                "pageType": "connection",
-                "icon": "courseicons:chem-connection"
-            }
-        },
-        {
-            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
-            "indent": "3",
-            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
-            "slug": "stand-alone-tools\/page",
-            "order": 4,
-            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
-            "title": "Keycloak authentication",
-            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
-            "metadata": {
-                "created": "1695304652",
-                "updated": 1726501300,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "pageType": "connection",
-                "tags": "experiment",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "icon": "courseicons:chem-connection"
+                "readtime": 2
             }
         },
         {
@@ -2609,26 +2401,6 @@
             }
         },
         {
-            "id": "item-d090faf0-5374-4039-8aee-c6dad760c5e1",
-            "indent": 0,
-            "location": "pages\/item-d090faf0-5374-4039-8aee-c6dad760c5e1\/index.html",
-            "slug": "documentation\/developers\/hax\/app-store-api\/apps",
-            "order": 0,
-            "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
-            "title": "apps",
-            "description": "A single App definitionThis is an example of how the Flickr integration is set up in haxtheweb.org. Below this integration's pieces have been annotated i order to illustrate what each provides ",
-            "metadata": {
-                "created": 1727110935,
-                "updated": 1727110994,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 2
-            }
-        },
-        {
             "id": "item-90f04b0e-75f3-424d-9e6f-4841af66ab6c",
             "indent": "1",
             "location": "pages\/item-90f04b0e-75f3-424d-9e6f-4841af66ab6c\/index.html",
@@ -2650,6 +2422,147 @@
             }
         },
         {
+            "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "indent": "2",
+            "location": "pages\/item-0d30bca9-c852-4b30-ae4e-abc519262d31\/index.html",
+            "slug": "stand-alone-tools",
+            "order": 0,
+            "parent": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "title": "Stand alone tools",
+            "description": "Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea",
+            "metadata": {
+                "created": "1687960811",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1"
+            }
+        },
+        {
+            "id": "item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9",
+            "indent": "3",
+            "location": "pages\/item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9\/index.html",
+            "slug": "stand-alone-tools\/conversion-tools",
+            "order": 0,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Conversion tools",
+            "description": "These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression \/ image resizer\u00a0(tweak settings then right",
+            "metadata": {
+                "created": "1687961729",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "tags": "tool, convert, labs",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44",
+            "indent": "3",
+            "location": "pages\/item-39f2e47c-f0fb-4d87-9180-f0f8dedfbe44\/index.html",
+            "slug": "the-future\/stand-alone-tools\/local-save",
+            "order": 1,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Local Save",
+            "description": "This is a stand alone copy of HAX that can read and write a file on your local file system (Chrome Only).HAX Stand Alone Local save",
+            "metadata": {
+                "created": "1698434154",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment,local",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-635fe9b5-9bda-4658-a1af-3a366d123657",
+            "indent": "3",
+            "location": "pages\/item-635fe9b5-9bda-4658-a1af-3a366d123657\/index.html",
+            "slug": "stand-alone-tools\/rubrics",
+            "order": 2,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Qualitative Rubric Prototype",
+            "description": "We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with ",
+            "metadata": {
+                "created": "1687960925",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "pageType": "connection",
+                "tags": "experiment, gradebook, lab, rubric",
+                "status": "",
+                "icon": "courseicons:chem-connection",
+                "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-14ee9de9-51d1-4a0d-9944-3ba6856ac053",
+            "indent": "3",
+            "location": "pages\/item-14ee9de9-51d1-4a0d-9944-3ba6856ac053\/index.html",
+            "slug": "page",
+            "order": 3,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Course Model Player",
+            "description": "                                                                                                                                                      Cross section view of the ",
+            "metadata": {
+                "created": "1689365799",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "locked": "",
+                "status": "",
+                "readtime": "1",
+                "theme": {
+                    "element": "haxcms-blank-theme",
+                    "path": "lrnwebcomponents\/elements\/haxcms-elements\/lib\/core\/themes\/haxcms-blank-theme.js",
+                    "name": "Blank theme",
+                    "thumbnail": "build\/es6\/node_modules\/@lrnwebcomponents\/app-hax\/lib\/assets\/images\/GreyStyle.svg",
+                    "key": "haxcms-blank-theme"
+                },
+                "pageType": "connection",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
+            "id": "item-e56349a0-bcf9-427b-8b68-e092ae15061f",
+            "indent": "3",
+            "location": "pages\/item-e56349a0-bcf9-427b-8b68-e092ae15061f\/index.html",
+            "slug": "stand-alone-tools\/page",
+            "order": 4,
+            "parent": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
+            "title": "Keycloak authentication",
+            "description": "This is work for a headless authentication service. Built on KeyCloak (a Red Hat open source project) and implemented by Andrew Maier, you can read about the construction of this solution end to end",
+            "metadata": {
+                "created": "1695304652",
+                "updated": 1726501300,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "pageType": "connection",
+                "tags": "experiment",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "icon": "courseicons:chem-connection"
+            }
+        },
+        {
             "id": "item-778bd19b-566a-422b-99d1-20f564f12489",
             "indent": "3",
             "location": "pages\/item-778bd19b-566a-422b-99d1-20f564f12489\/index.html",
@@ -2667,27 +2580,6 @@
                 "hideInMenu": "",
                 "tags": "collection",
                 "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-b29033b8-b3a4-4025-8f6a-f869e044a1be",
-            "indent": "3",
-            "location": "pages\/item-b29033b8-b3a4-4025-8f6a-f869e044a1be\/index.html",
-            "slug": "documentation\/hax11ty",
-            "order": 0,
-            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "title": "HAX11ty",
-            "description": "HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:User edits via HAX (future) or modifies files locallyhax11ty script watches for changes and rebuilds files ",
-            "metadata": {
-                "locked": "",
-                "created": "1707142965",
-                "images": [],
-                "videos": [],
-                "updated": 1726501298,
-                "published": "1",
-                "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
             }
@@ -3021,6 +2913,114 @@
             }
         },
         {
+            "id": "item-b29033b8-b3a4-4025-8f6a-f869e044a1be",
+            "indent": "3",
+            "location": "pages\/item-b29033b8-b3a4-4025-8f6a-f869e044a1be\/index.html",
+            "slug": "documentation\/hax11ty",
+            "order": 0,
+            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "title": "HAX11ty",
+            "description": "HAX11ty is a merger between HAX and 11ty. It uses these technologies in the following way:User edits via HAX (future) or modifies files locallyhax11ty script watches for changes and rebuilds files ",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [],
+                "updated": 1726501298,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+            "indent": "1",
+            "location": "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
+            "slug": "the-future",
+            "order": 0,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "The Future",
+            "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
+            "metadata": {
+                "locked": "",
+                "created": "1697036006",
+                "images": [
+                    "files\/hax-horizon-report-oct-2023.jpg"
+                ],
+                "videos": [
+                    "https:\/\/youtu.be\/bX04I1Cw9FA"
+                ],
+                "updated": 1726501300,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-horizon-report-oct-2023.jpg",
+                        "url": "files\/hax-horizon-report-oct-2023.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-horizon-report-oct-2023.jpg",
+                        "size": "175019"
+                    }
+                ],
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-7b57c34b-d8b4-4401-baed-01e39cc0cd77",
+            "indent": 0,
+            "location": "pages\/item-7b57c34b-d8b4-4401-baed-01e39cc0cd77\/index.html",
+            "slug": "documentation\/developers\/hax\/example-hax-element",
+            "order": 0,
+            "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
+            "title": "example-hax-element",
+            "description": "There is a simple working example of a HAX element provided in our monorepo. The\u00a0example-hax-element tag implements very basic wiring for a title and boolean value to demonstrate how you can int",
+            "metadata": {
+                "created": 1726773925,
+                "updated": 1726774938,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-09-19 15-30-43.png",
+                        "url": "files\/Screenshot from 2024-09-19 15-30-43.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-09-19 15-30-43.png",
+                        "size": 59769
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-09-19 15-30-43.png",
+                "tags": "code example"
+            }
+        },
+        {
+            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
+            "indent": "2",
+            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
+            "slug": "page-1",
+            "order": 0,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Installing HAXcms",
+            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "metadata": {
+                "created": "1695414320",
+                "updated": 1726501299,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
+            }
+        },
+        {
             "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
             "indent": "1",
             "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
@@ -3105,27 +3105,6 @@
             }
         },
         {
-            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "indent": "2",
-            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
-            "slug": "documentation\/developers\/tools",
-            "order": 1,
-            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Tools",
-            "description": "Experience the many tools that help the HAX ecosystem thrive!",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1726501298,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3",
             "indent": "3",
             "location": "pages\/item-2ba3a0b9-8b5b-4e3f-bfed-a19c1a5edff3\/index.html",
@@ -3144,26 +3123,6 @@
                 "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-ad71d26c-8288-4a47-9b38-7e93baa49c53",
-            "indent": 0,
-            "location": "pages\/item-ad71d26c-8288-4a47-9b38-7e93baa49c53\/index.html",
-            "slug": "documentation\/developers\/tools\/wcfactory",
-            "order": 2,
-            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
-            "title": "WCFactory",
-            "description": "We made tooling to publish web component monorepos with ease and in any library. It's called WCFactory and while not required, it's the tooling we use for managing our monorepo. We highly recommend y",
-            "metadata": {
-                "created": 1726603396,
-                "updated": 1726603604,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
             }
         },
         {
@@ -3211,6 +3170,26 @@
             }
         },
         {
+            "id": "item-0af79ce5-d4ef-4602-8207-b67c711d8cc7",
+            "indent": 0,
+            "location": "pages\/item-0af79ce5-d4ef-4602-8207-b67c711d8cc7\/index.html",
+            "slug": "documentation\/developers\/hax\/app-store-api\/stax",
+            "order": 1,
+            "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
+            "title": "stax",
+            "description": "Stax are what most WYSIWYG systems would call Templates. Stax in HAX are a series of HAX element schema's in succession.Below is a definition for the \"example lesson\" seen above. This is a larger e",
+            "metadata": {
+                "created": 1727110999,
+                "updated": 1727111163,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 4
+            }
+        },
+        {
             "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
             "indent": 0,
             "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
@@ -3228,6 +3207,47 @@
                 "published": true,
                 "status": "",
                 "hideInMenu": false,
+                "readtime": 1
+            }
+        },
+        {
+            "id": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "indent": "2",
+            "location": "pages\/item-76c7ae2d-0520-48f6-957c-f4ec9f623736\/index.html",
+            "slug": "documentation\/developers\/tools",
+            "order": 1,
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Tools",
+            "description": "Experience the many tools that help the HAX ecosystem thrive!",
+            "metadata": {
+                "locked": "",
+                "created": "1724249289",
+                "images": [],
+                "videos": [],
+                "updated": 1726501298,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-ad71d26c-8288-4a47-9b38-7e93baa49c53",
+            "indent": 0,
+            "location": "pages\/item-ad71d26c-8288-4a47-9b38-7e93baa49c53\/index.html",
+            "slug": "documentation\/developers\/tools\/wcfactory",
+            "order": 2,
+            "parent": "item-76c7ae2d-0520-48f6-957c-f4ec9f623736",
+            "title": "WCFactory",
+            "description": "We made tooling to publish web component monorepos with ease and in any library. It's called WCFactory and while not required, it's the tooling we use for managing our monorepo. We highly recommend y",
+            "metadata": {
+                "created": 1726603396,
+                "updated": 1726603604,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
                 "readtime": 1
             }
         },
@@ -3428,26 +3448,6 @@
             }
         },
         {
-            "id": "item-0af79ce5-d4ef-4602-8207-b67c711d8cc7",
-            "indent": 0,
-            "location": "pages\/item-0af79ce5-d4ef-4602-8207-b67c711d8cc7\/index.html",
-            "slug": "documentation\/developers\/hax\/app-store-api\/stax",
-            "order": 1,
-            "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
-            "title": "stax",
-            "description": "Stax are what most WYSIWYG systems would call Templates. Stax in HAX are a series of HAX element schema's in succession.Below is a definition for the \"example lesson\" seen above. This is a larger e",
-            "metadata": {
-                "created": 1727110999,
-                "updated": 1727111163,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 4
-            }
-        },
-        {
             "id": "item-e26fa70d-3b7b-4523-9779-909bc83b073d",
             "indent": 0,
             "location": "pages\/item-e26fa70d-3b7b-4523-9779-909bc83b073d\/index.html",
@@ -3465,6 +3465,22 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 2
+            }
+        },
+        {
+            "id": "item-dec72ecf-71ad-480d-bb4b-105c4c83b676",
+            "indent": 0,
+            "location": "pages\/item-dec72ecf-71ad-480d-bb4b-105c4c83b676\/index.html",
+            "slug": "documentation\/developers\/page",
+            "order": "6",
+            "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1727122062,
+                "updated": 1727122062,
+                "images": [],
+                "videos": []
             }
         },
         {
@@ -3993,27 +4009,6 @@
             }
         },
         {
-            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
-            "indent": "2",
-            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
-            "slug": "documentation\/haxcms\/integrations\/drupal",
-            "order": 2,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "Drupal",
-            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
-            "metadata": {
-                "created": "1713540493",
-                "updated": 1726501298,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
             "indent": "1",
             "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
@@ -4035,73 +4030,24 @@
             }
         },
         {
-            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
-            "indent": "2",
-            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
-            "slug": "ontology\/new-item",
+            "id": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
+            "indent": 0,
+            "location": "pages\/item-0265920d-6055-404d-a0e6-1ae71c4ce258\/index.html",
+            "slug": "documentation",
             "order": 2,
-            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Pedagogy",
-            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
+            "parent": null,
+            "title": "Documentation",
+            "description": "While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt",
             "metadata": {
                 "locked": "",
                 "created": "1683137690",
-                "updated": 1726501298,
+                "updated": 1726501297,
                 "published": "1",
                 "status": "",
-                "files": [
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2023-05-03 14-18-10.png",
-                        "size": "73304"
-                    },
-                    {
-                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
-                        "url": "files\/image.png",
-                        "type": "image\/png",
-                        "name": "image.png",
-                        "size": "75798"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
-                        "url": "files\/image23.png",
-                        "type": "image\/png",
-                        "name": "image23.png",
-                        "size": "32146"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
-                        "url": "files\/4_Pedagogy2.png",
-                        "type": "image\/png",
-                        "name": "4_Pedagogy2.png",
-                        "size": "160827"
-                    }
-                ],
                 "readtime": "1",
-                "contentDetails": {
-                    "headings": "0",
-                    "paragraphs": "1",
-                    "schema": [
-                        {
-                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
-                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
-                        }
-                    ],
-                    "tags": {
-                        "page-break": "1",
-                        "img": "1",
-                        "p": "1"
-                    },
-                    "elements": "3"
-                },
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
-                ],
-                "images": []
+                "videos": [],
+                "images": [],
+                "hideInMenu": ""
             }
         },
         {
@@ -4122,6 +4068,27 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 3,
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8477c368-ebc7-403d-b576-5d1c450a629c",
+            "indent": "2",
+            "location": "pages\/item-8477c368-ebc7-403d-b576-5d1c450a629c\/index.html",
+            "slug": "documentation\/haxcms\/integrations\/drupal",
+            "order": 2,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "Drupal",
+            "description": "Try on SimplyTest.meTry HAX on Simplytest me in a few steps without needing to install anythingGo to Simplytest me and pick HAX modulePick 9.x,8.x or 7.xLog in, go to Administration -&gt; Configura",
+            "metadata": {
+                "created": "1713540493",
+                "updated": 1726501298,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
                 "status": ""
             }
         },
@@ -4165,48 +4132,6 @@
                 "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
-            "indent": "1",
-            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
-            "slug": "site-things\/footer-bottom",
-            "order": 2,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer - bottom",
-            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [],
-                "videos": [],
-                "updated": 1726501300,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-0265920d-6055-404d-a0e6-1ae71c4ce258",
-            "indent": 0,
-            "location": "pages\/item-0265920d-6055-404d-a0e6-1ae71c4ce258\/index.html",
-            "slug": "documentation",
-            "order": 2,
-            "parent": null,
-            "title": "Documentation",
-            "description": "While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt",
-            "metadata": {
-                "locked": "",
-                "created": "1683137690",
-                "updated": 1726501297,
-                "published": "1",
-                "status": "",
-                "readtime": "1",
-                "videos": [],
-                "images": [],
-                "hideInMenu": ""
             }
         },
         {
@@ -4336,6 +4261,76 @@
                 "images": [
                     "files\/HAX Course Ontology Draft Version.png"
                 ]
+            }
+        },
+        {
+            "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
+            "indent": "2",
+            "location": "pages\/item-40583b55-32bf-40c7-8e81-99c054b9a764\/index.html",
+            "slug": "ontology\/new-item",
+            "order": 2,
+            "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
+            "title": "Pedagogy",
+            "description": "Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe",
+            "metadata": {
+                "locked": "",
+                "created": "1683137690",
+                "updated": 1726501298,
+                "published": "1",
+                "status": "",
+                "files": [
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "url": "files\/Screenshot from 2023-05-03 14-18-10.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2023-05-03 14-18-10.png",
+                        "size": "73304"
+                    },
+                    {
+                        "path": "\/var\/www\/iam\/users\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image.png",
+                        "url": "files\/image.png",
+                        "type": "image\/png",
+                        "name": "image.png",
+                        "size": "75798"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image23.png",
+                        "url": "files\/image23.png",
+                        "type": "image\/png",
+                        "name": "image23.png",
+                        "size": "32146"
+                    },
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/4_Pedagogy2.png",
+                        "url": "files\/4_Pedagogy2.png",
+                        "type": "image\/png",
+                        "name": "4_Pedagogy2.png",
+                        "size": "160827"
+                    }
+                ],
+                "readtime": "1",
+                "contentDetails": {
+                    "headings": "0",
+                    "paragraphs": "1",
+                    "schema": [
+                        {
+                            "resource": "#e1ca684d-f4c7-c12f-8f9c-278745dd7f2b",
+                            "prefix": "oer:http:\/\/oerschema.org\/ schema:http:\/\/schema.org\/ dc:http:\/\/purl.org\/dc\/terms\/ foaf:http:\/\/xmlns.com\/foaf\/0.1\/ cc:http:\/\/creativecommons.org\/ns# bib:http:\/\/bib.schema.org "
+                        }
+                    ],
+                    "tags": {
+                        "page-break": "1",
+                        "img": "1",
+                        "p": "1"
+                    },
+                    "elements": "3"
+                },
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=JjsNyK5Wqtk"
+                ],
+                "images": []
             }
         },
         {
@@ -4608,6 +4603,27 @@
             }
         },
         {
+            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
+            "indent": "1",
+            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
+            "slug": "site-things\/footer-bottom",
+            "order": 2,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer - bottom",
+            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [],
+                "videos": [],
+                "updated": 1726501300,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
             "indent": "1",
             "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
@@ -4692,6 +4708,29 @@
             }
         },
         {
+            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
+            "indent": "1",
+            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
+            "slug": "odl-course-showcase",
+            "order": 4,
+            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
+            "title": "ODL Course Showcase",
+            "description": "",
+            "metadata": {
+                "locked": "",
+                "created": "1711642479",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/stLwUI4G92Q"
+                ],
+                "updated": 1726501299,
+                "published": "1",
+                "status": "",
+                "hideInMenu": "",
+                "readtime": "1"
+            }
+        },
+        {
             "id": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
             "indent": 0,
             "location": "pages\/item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f\/index.html",
@@ -4719,29 +4758,6 @@
                         "size": "1910"
                     }
                 ]
-            }
-        },
-        {
-            "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
-            "indent": "1",
-            "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
-            "slug": "odl-course-showcase",
-            "order": 4,
-            "parent": "item-c8edb5fb-6fa9-4d47-b07f-e030d26c2a9f",
-            "title": "ODL Course Showcase",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1711642479",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/stLwUI4G92Q"
-                ],
-                "updated": 1726501299,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
             }
         },
         {
