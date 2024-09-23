@@ -3942,10 +3942,10 @@
             "order": 3,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
             "title": "App store API",
-            "description": "The HAX \"App Store\" API is a basic json specification that provides the directions to HAX on what blocks and integrations it has access to. It has three key aspectsApps - Apps provide either places ",
+            "description": "The HAX ",
             "metadata": {
                 "created": 1727110251,
-                "updated": 1727110881,
+                "updated": 1727111177,
                 "images": [],
                 "videos": [],
                 "published": true,
