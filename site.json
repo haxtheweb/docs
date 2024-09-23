@@ -2981,9 +2981,11 @@
             "metadata": {
                 "locked": false,
                 "created": 1726501298,
-                "images": [],
+                "images": [
+                    "files\/HAXCms workflow.jpg"
+                ],
                 "videos": [],
-                "updated": 1727120317,
+                "updated": 1727120394,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
