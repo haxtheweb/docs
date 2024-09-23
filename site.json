@@ -2987,16 +2987,20 @@
             "id": "item-d090faf0-5374-4039-8aee-c6dad760c5e1",
             "indent": 0,
             "location": "pages\/item-d090faf0-5374-4039-8aee-c6dad760c5e1\/index.html",
-            "slug": "documentation\/developers\/hax\/app-store-api\/page",
-            "order": "0",
+            "slug": "documentation\/developers\/hax\/app-store-api\/apps",
+            "order": 0,
             "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
-            "title": "Page",
-            "description": "",
+            "title": "apps",
+            "description": "A single App definitionThis is an example of how the Flickr integration is set up in haxtheweb.org. Below this integration's pieces have been annotated i order to illustrate what each provides ",
             "metadata": {
                 "created": 1727110935,
-                "updated": 1727110935,
+                "updated": 1727110994,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2
             }
         },
         {
