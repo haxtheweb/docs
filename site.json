@@ -3898,16 +3898,21 @@
             "id": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
             "indent": 0,
             "location": "pages\/item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743\/index.html",
-            "slug": "documentation\/developers\/hax\/page",
-            "order": "3",
+            "slug": "documentation\/developers\/hax\/app-store-api",
+            "order": 3,
             "parent": "item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7",
-            "title": "Page",
-            "description": "",
+            "title": "App store API",
+            "description": "The HAX \"App Store\" API is a basic json specification that provides the directions to HAX on what blocks and integrations it has access to. It has three key aspectsApps - Apps provide either places ",
             "metadata": {
                 "created": 1727110251,
-                "updated": 1727110251,
+                "updated": 1727110881,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "tags": "api",
+                "locked": false,
+                "readtime": 1
             }
         },
         {
