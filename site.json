@@ -3007,16 +3007,20 @@
             "id": "item-0af79ce5-d4ef-4602-8207-b67c711d8cc7",
             "indent": 0,
             "location": "pages\/item-0af79ce5-d4ef-4602-8207-b67c711d8cc7\/index.html",
-            "slug": "documentation\/developers\/hax\/app-store-api\/page",
-            "order": "0",
+            "slug": "documentation\/developers\/hax\/app-store-api\/stax",
+            "order": 1,
             "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
-            "title": "Page",
-            "description": "",
+            "title": "stax",
+            "description": "Stax are what most WYSIWYG systems would call Templates. Stax in HAX are a series of HAX element schema's in succession.Below is a definition for the \"example lesson\" seen above. This is a larger e",
             "metadata": {
                 "created": 1727110999,
-                "updated": 1727110999,
+                "updated": 1727111163,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 4
             }
         },
         {
