@@ -656,7 +656,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "m9qKnPXdH7cNJa1NpbLDzQ"
+        "2eIb9LvHiNsK9xVaEp4sQ"
     ],
     [
         "404.html",
@@ -953,6 +953,10 @@ var precacheConfig = [
     [
         "files\/Scorecard for Monticello.png",
         "zSyYjQ90Bmq8gDlDNOTRgw"
+    ],
+    [
+        "files\/Screenshot from 2024-09-23 16-15-32.png",
+        "NPp7Q2jV7IY9TcemqJHQ"
     ],
     [
         "files\/Peter Aeschbacher.png",

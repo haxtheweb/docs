@@ -3451,7 +3451,16 @@
                 "hideInMenu": false,
                 "tags": "api",
                 "locked": false,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-09-23 16-15-32.png",
+                        "url": "files\/Screenshot from 2024-09-23 16-15-32.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-09-23 16-15-32.png",
+                        "size": 57090
+                    }
+                ]
             }
         },
         {
