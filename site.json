@@ -3444,7 +3444,7 @@
             "description": "The HAX ",
             "metadata": {
                 "created": 1727110251,
-                "updated": 1727111177,
+                "updated": 1727122550,
                 "images": [],
                 "videos": [],
                 "published": true,
@@ -3460,7 +3460,8 @@
                         "name": "Screenshot from 2024-09-23 16-15-32.png",
                         "size": 57090
                     }
-                ]
+                ],
+                "image": "files\/Screenshot from 2024-09-23 16-15-32.png"
             }
         },
         {
