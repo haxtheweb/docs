@@ -2986,7 +2986,16 @@
                 "updated": 1727120317,
                 "published": true,
                 "hideInMenu": false,
-                "readtime": 1
+                "readtime": 1,
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAXCms workflow.jpg",
+                        "url": "files\/HAXCms workflow.jpg",
+                        "type": "image\/jpeg",
+                        "name": "HAXCms workflow.jpg",
+                        "size": 72736
+                    }
+                ]
             }
         },
         {
