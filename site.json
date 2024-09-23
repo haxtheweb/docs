@@ -3478,16 +3478,22 @@
             "id": "item-dec72ecf-71ad-480d-bb4b-105c4c83b676",
             "indent": 0,
             "location": "pages\/item-dec72ecf-71ad-480d-bb4b-105c4c83b676\/index.html",
-            "slug": "documentation\/developers\/page",
-            "order": "6",
+            "slug": "documentation\/developers\/hax-theme",
+            "order": 6,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "Page",
-            "description": "",
+            "title": "hax theme",
+            "description": "While you're not required to use them, HAX supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of hax",
             "metadata": {
                 "created": 1727122062,
-                "updated": 1727122062,
-                "images": [],
-                "videos": []
+                "updated": 1727122304,
+                "images": [
+                    "files\/2019-03-12_16-45-51.png"
+                ],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2
             }
         },
         {
