@@ -3434,16 +3434,20 @@
             "id": "item-e26fa70d-3b7b-4523-9779-909bc83b073d",
             "indent": 0,
             "location": "pages\/item-e26fa70d-3b7b-4523-9779-909bc83b073d\/index.html",
-            "slug": "documentation\/developers\/hax\/app-store-api\/page",
-            "order": "2",
+            "slug": "documentation\/developers\/hax\/app-store-api\/autoloader",
+            "order": 2,
             "parent": "item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743",
-            "title": "Page",
-            "description": "",
+            "title": "autoloader",
+            "description": "autoloader is an object of references to web components that HAX should load the definitions of once it's done bootstrapping. Here's a basic example with the steps as to what HAX does with this infor",
             "metadata": {
                 "created": 1727119775,
-                "updated": 1727119775,
+                "updated": 1727120011,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2
             }
         },
         {
