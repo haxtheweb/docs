@@ -2974,10 +2974,10 @@
             "indent": 0,
             "location": "pages\/item-41d063cb-b6b6-4c42-8a0e-6208a4f98a89\/index.html",
             "slug": "documentation\/developers\/platforms\/haxcms",
-            "order": 1,
+            "order": 0,
             "parent": "item-0e12b64d-2eb5-4cea-8a85-829ec279cfc7",
             "title": "HAXcms",
-            "description": "HAXcms, that which powers the site you are currently reading is a powerful \"static site generator\" paradigm. It leverages server technology in order to orchestrate a static site. That way the \"server",
+            "description": "HAXcms, that which powers the site you are currently reading is a powerful ",
             "metadata": {
                 "locked": false,
                 "created": 1726501298,
@@ -2985,7 +2985,7 @@
                     "files\/HAXCms workflow.jpg"
                 ],
                 "videos": [],
-                "updated": 1727120394,
+                "updated": 1727120453,
                 "published": true,
                 "hideInMenu": false,
                 "readtime": 1,
