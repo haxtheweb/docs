@@ -330,7 +330,7 @@
         },
         {
             "id": "item-f826380c-963c-49ff-a558-9337edbc6245",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-f826380c-963c-49ff-a558-9337edbc6245\/index.html",
             "slug": "welcome\/community\/pillars\/extensibility",
             "order": 1,
@@ -338,17 +338,17 @@
             "title": "Extensibility",
             "description": "This is all about extending our system in a sustainable way.",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1726501296,
-                "published": "1",
+                "updated": 1727804196,
+                "published": true,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "image": "https:\/\/images-assets.nasa.gov\/image\/S70-50762\/S70-50762~thumb.jpg",
                 "tags": "extend",
-                "readtime": "1"
+                "readtime": 1
             }
         },
         {
