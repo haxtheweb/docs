@@ -332,7 +332,7 @@ and we'll prioritize it's creation.</p>
       <link>what-is-hax</link>
       <description>
           <![CDATA[ 
-<p>In a word. <b>Ubiquity</b>. The ability to be creative on the web with modern authoring tools and not ever stop and think you you'll get that information there. How long will it work? What if we have to move it?</p>
+<p>In a word. <b>Ubiquity</b>. The ability to be creative on the web with modern authoring tools and not ever stop and think how you'll get that information there. How long will it work? What if we have to move it?</p>
 <p><b>The web needs a file format</b> like jpg, gif, png, html, or xml. I should be able to give you a website as a single directory and it <i>Just Works</i>&#8482;. I shouldn't need to know how it was built to edit it. The editor need just appear, be pervasive and embedded in the things we wish to be creative with on the web. HAX is more than just an authoring experience; it's a way to simplify the broadcast of creativity on the web.</p>
 <h2 data-original-level="H2" id="header-0a340992-6bd7-019e-ef43-be87ac585a5a">A new way of authoring</h2>
 <p>Write HTML without knowing it, HAX is here to transform web publishing. Watch why HAX is different than past CMS solutions as well as pillars of development and where the platform is now.</p>
@@ -343,7 +343,7 @@ and we'll prioritize it's creation.</p>
 eadless <b>A</b>
 uthoring e<b>X</b>
 perience" which is a development philosophy focused on each word and it's impact for the solution we build</p>
-<h2 id="header-a078f1cd-fa0f-72e7-48bd-0b19f54d5d62">An ecosystem mindset</h2>
+<h2 data-original-level="H2" id="header-a078f1cd-fa0f-72e7-48bd-0b19f54d5d62">An ecosystem mindset</h2>
 <p>HAX is an ecosystem of blocks, templates, platforms and web tools in order allow for a ubiquitous web ecosystem. This can be difficult to envision, but here's a picture of many of the tools and concepts in our ecosystem and their interplay.</p>
 <p></p>
 <media-image source="files/hax-ecosystem-concepts.jpg" alt="HAX Ecosystem of project visualized" accent-color="grey" size="wide" offset="none"></media-image>
