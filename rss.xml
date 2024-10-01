@@ -339,13 +339,9 @@ and we'll prioritize it's creation.</p>
 <video-player source="https://www.youtube.com/watch?v=iPGgdRGyUtM" caption="https://www.youtube.com/watch?v=iPGgdRGyUtM" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#d6da1a3f-ba84-e7ab-49cd-fab6568c6dda" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/iPGgdRGyUtM&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="This, is HAX The Web (2023)"></video-player>
 <h3 data-original-level="H3" id="header-ae62ae4b-4310-fab5-3a81-a39617392c03">Image referenced in the video</h3>
 <media-image source="files/HAX-The-Web.jpg" alt="files/HAX-The-Web.jpg" size="wide" offset="none" card citation="'This, is HAX the web' diagram shown in video" accent-color="grey" cardcolor="var(--ddd-theme-default-white)" style="--card-background-color: var(--ddd-theme-default-white);" card-color="var(--ddd-theme-default-white)"></media-image>
-<p>HAX stands for "<b>H</b>
-eadless <b>A</b>
-uthoring e<b>X</b>
-perience" which is a development philosophy focused on each word and it's impact for the solution we build</p>
+<p>HAX stands for "<b>H</b>eadless <b>A</b>uthoring e<b>X</b>perience" which is a development philosophy focused on each word and it's impact for the solution we build</p>
 <h2 data-original-level="H2" id="header-a078f1cd-fa0f-72e7-48bd-0b19f54d5d62">An ecosystem mindset</h2>
 <p>HAX is an ecosystem of blocks, templates, platforms and web tools in order allow for a ubiquitous web ecosystem. This can be difficult to envision, but here's a picture of many of the tools and concepts in our ecosystem and their interplay.</p>
-<p></p>
 <media-image source="files/hax-ecosystem-concepts.jpg" alt="HAX Ecosystem of project visualized" accent-color="grey" size="wide" offset="none"></media-image>
 <h3 data-original-level="H3" id="header-fbade326-3686-48de-78e8-f26a751497b5">Headless</h3>
 <p>Headless is a common phrase in modern front-end web development. Without getting too technical up front, imagine that traditional web solutions are built as a single location solution. They require things you see on your screen right now but also are highly tied to "back-end" software that makes the experience work for you.</p>
@@ -360,7 +356,6 @@ perience" which is a development philosophy focused on each word and it's impact
 <p>From here, it's up to you to build the best web you can. We hope you enjoy <b>HAX</b>
  and consider joining our user community by&#160;<a href="https://bit.ly/hax-discord" target="_blank" style="font-family: var(--haxcms-base-styles-body-font-family); font-size: 22.4px; letter-spacing: var(--haxcms-base-styles-body-letter-spacing);">joining our Discord</a>
 , ask questions and help us empower the next billion content creators!&#160;🤓</p>
-<p></p>
  ]]>
       </description>
       <category></category>
