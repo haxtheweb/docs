@@ -656,7 +656,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "P67oscrGiyRnqp714dRRw"
+        "w4rOzzlGTTtvWpIP1fdg"
     ],
     [
         "404.html",
@@ -885,6 +885,10 @@ var precacheConfig = [
     [
         "files\/image74.png",
         "NIQYji3PhpgtHiJQhZCZKg"
+    ],
+    [
+        "files\/Scorecard for Saul Bass1.png",
+        "wvoKTOQLNo9ilPWB36FWQ"
     ],
     [
         "files\/image54.png",
