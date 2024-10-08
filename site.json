@@ -1022,7 +1022,7 @@
         },
         {
             "id": "item-0ae1c6fb-3f57-4917-8caa-91853eda4982",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-0ae1c6fb-3f57-4917-8caa-91853eda4982\/index.html",
             "slug": "peter-aeschbacher-exhibit",
             "order": 0,
@@ -1031,7 +1031,7 @@
             "description": "aaabbb",
             "metadata": {
                 "created": "1701372747",
-                "updated": 1726501299,
+                "updated": 1728396950,
                 "images": [
                     "files\/Scorecard for Calatravas Bridges (Part 1).png",
                     "files\/Scorecard for Calatravas Bridges (Part 2) EDITED.png"
@@ -1041,11 +1041,11 @@
                     "https:\/\/youtu.be\/R4K7d24tr_E",
                     "https:\/\/youtu.be\/wZbctmvP93c"
                 ],
-                "published": "1",
-                "locked": "",
-                "readtime": "5",
+                "published": true,
+                "locked": false,
+                "readtime": 5,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/voice-recording-1017381.7000000477.mp3",
