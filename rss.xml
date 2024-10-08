@@ -18,6 +18,8 @@
  web content. The goal of HAX is simple: to help people create rich and engaging web content 
   
   without needing to understand web code.</p>
+<h3 id="header-fe0523d9-3015-c850-0767-e58ec8c3e739" data-primary="12" data-design-treatment="horz-25p">Try hax without installing a thing!</h3>
+<p><a href="https://hax.cloud/" target="_blank">HAX.cloud is a demo</a> service that allows you to test drive HAX without installing anything. Great for those trying to evaluate the platform's capabilities prior to installation. Try it out now!</p>
 <h3 data-original-level="H3" id="header-42c94050-07ee-367a-11ad-945263ad0672" data-design-treatment="horz-25p" data-primary="18">Get involved!</h3>
 <ul>
   <li ="true"=""><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
@@ -58,7 +60,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
-<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
+
+<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="R" seed="657" speed="500" slot="col-2"></rpg-character>
+
 
 
 
@@ -71,6 +75,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 <rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="R" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
 
 
 
