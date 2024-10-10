@@ -957,7 +957,7 @@
         },
         {
             "id": "item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-d7a7736b-3262-4d0e-8df7-a9af7823a2b7\/index.html",
             "slug": "gallery-exhibits",
             "order": 0,
@@ -966,13 +966,13 @@
             "description": "Column two",
             "metadata": {
                 "created": "1701371579",
-                "updated": 1726501299,
+                "updated": 1728592240,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "locked": "",
+                "published": true,
+                "locked": false,
                 "status": "",
-                "readtime": "1",
+                "readtime": 1,
                 "files": [
                     {
                         "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/Peter Montage.png",
@@ -1017,7 +1017,7 @@
                         "size": "285922"
                     }
                 ],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
