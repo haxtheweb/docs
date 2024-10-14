@@ -2170,42 +2170,6 @@
             }
         },
         {
-            "id": "item-3f3cc6fc-18c9-47cb-95bf-0295b6a9e82d",
-            "indent": "2",
-            "location": "pages\/item-3f3cc6fc-18c9-47cb-95bf-0295b6a9e82d\/index.html",
-            "slug": "page-2\/research-evidence-base",
-            "order": 4,
-            "parent": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "title": "Evidence Base and Learning More",
-            "description": "",
-            "metadata": {
-                "locked": "",
-                "created": "1701377061",
-                "images": [],
-                "videos": [],
-                "updated": 1726501299,
-                "published": "1",
-                "status": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image47.png",
-                        "url": "files\/image47.png",
-                        "type": "image\/png",
-                        "name": "image47.png",
-                        "size": "10759"
-                    },
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image48.png",
-                        "url": "files\/image48.png",
-                        "type": "image\/png",
-                        "name": "image48.png",
-                        "size": "13018"
-                    }
-                ]
-            }
-        },
-        {
             "id": "item-d597021d-28f9-402d-9d2c-8edff8c96e59",
             "indent": "2",
             "location": "pages\/item-d597021d-28f9-402d-9d2c-8edff8c96e59\/index.html",
