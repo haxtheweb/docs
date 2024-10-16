@@ -695,7 +695,16 @@
                 "created": 1729106012,
                 "updated": 1729106012,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-governance.jpg",
+                        "url": "files\/hax-governance.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-governance.jpg",
+                        "size": 230744
+                    }
+                ]
             }
         },
         {
