@@ -686,15 +686,17 @@
             "id": "item-b1a951b6-6989-4c62-aca2-e446bdc17bc9",
             "indent": 0,
             "location": "pages\/item-b1a951b6-6989-4c62-aca2-e446bdc17bc9\/index.html",
-            "slug": "welcome\/community\/page",
-            "order": "4",
+            "slug": "welcome\/community\/governance",
+            "order": 4,
             "parent": "item-68ecb822-ae89-466a-bce2-20b33332451a",
-            "title": "Page",
-            "description": "",
+            "title": "Governance",
+            "description": "While not exclusively created by Penn State, this is a flow chart attempting to explain decision making of when something gets into the platform. This is a Penn State centric version as many of \"can ",
             "metadata": {
                 "created": 1729106012,
-                "updated": 1729106012,
-                "images": [],
+                "updated": 1729106252,
+                "images": [
+                    "files\/hax-governance.jpg"
+                ],
                 "videos": [],
                 "files": [
                     {
@@ -704,7 +706,11 @@
                         "name": "hax-governance.jpg",
                         "size": 230744
                     }
-                ]
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
