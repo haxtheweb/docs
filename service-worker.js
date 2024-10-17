@@ -644,7 +644,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "2icdMtcSKUQZCTwVKBznA"
+        "zoPkPSkJs2Ac33aLx9OypA"
     ],
     [
         "404.html",
@@ -745,6 +745,10 @@ var precacheConfig = [
     [
         "files\/Screenshot from 2024-07-25 10-36-031.png",
         "NVxop1KlkPIxZCSMJdYfg"
+    ],
+    [
+        "files\/Scorecard for Super Metroid1.png",
+        "JtSi6qWKyCf3GGzatwZPQA"
     ],
     [
         "files\/First-Time HAX User Tutorial Content.docx",
