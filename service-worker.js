@@ -644,7 +644,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "9Go952yMGZydX0UbTrDw"
+        "dO0JBBnbAiMwJNuwRn8Og"
     ],
     [
         "404.html",
@@ -1265,6 +1265,10 @@ var precacheConfig = [
     [
         "files\/HAX Course Ontology Draft Version.png",
         "3AAL1FDOPx4shhuJcuccA"
+    ],
+    [
+        "files\/Scorecard for Versailles2.png",
+        "zi10i7lupY1Z2dsuPJe88A"
     ],
     [
         "files\/image44.png",
