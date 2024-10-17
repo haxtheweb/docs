@@ -644,7 +644,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "P4xAZqAwbt086vmmsLSEdg"
+        "kgttvb3XqpCMTGPAhZCQ"
     ],
     [
         "404.html",
@@ -1321,6 +1321,10 @@ var precacheConfig = [
     [
         "files\/image.png",
         "mU8oBw9vnMXRYPsA2UUmxg"
+    ],
+    [
+        "files\/Scorecard for Monticello1.png",
+        "5FZUU1BB5zR6ozaIb6mg"
     ],
     [
         "files\/image7.png",
