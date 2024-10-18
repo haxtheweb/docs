@@ -914,7 +914,7 @@
         },
         {
             "id": "item-51b1acee-9e5c-4756-998e-d6f3ba97882c",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-51b1acee-9e5c-4756-998e-d6f3ba97882c\/index.html",
             "slug": "effective-educational-video",
             "order": 0,
@@ -923,13 +923,15 @@
             "description": "      \u00a0Rationale for Getting It Right  Multiple studies have shown that video can be a highly effec\u00adtive educational tool. But if videos are not well designed or developed, students won",
             "metadata": {
                 "created": "1704305842",
-                "updated": 1729274142,
+                "updated": 1729274522,
                 "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=LrS7dqokTLE"
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1,
                 "status": "",
                 "relatedItems": "item-b1cf2586-d6a6-44b7-ba16-82fdfee99f01",
                 "tags": "pedagogy,video",
