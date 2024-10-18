@@ -6,7 +6,7 @@
     <description>Create Your Own course</description>
     <copyright>Copyright (C) 2024 </copyright>
     <language>en-US</language>
-    <lastBuildDate>Wed, 18 Sep 2024 15:00:49 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 13:55:43 -0400</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
@@ -110,43 +110,6 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
       <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
     </item>
     <item>
-      <title>Tutorials</title>
-      <link>tutorials</link>
-      <description>
-          <![CDATA[ 
-<p>If there are tutorials you are looking for that the community has not covered, let
-  us know in our <a href="https://github.com/elmsln/issues/issues" target="_blank">issue queue</a>
-or
-  on <a href="https://bit.ly/hax-discord">discord</a>
-and we'll prioritize it's creation.</p>
-<h2 data-original-level="H2" id="header-201dee4c-675d-509d-3133-e561f86af4a2">Playlist of all tutorials</h2>
-<p>This is a <a href="https://www.youtube.com/playlist?list=PLlJjKfvF9oaOb60T3wW5vfkCrjDRWFJHc" target="_blank">playlist of all our tutorials</a> on our community YouTube channel</p>
-<iframe width="100%" height="600" src="https://www.youtube.com/embed/aDmSFBJmWIg?si=Z9xMDW79HSeiK9y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
- ]]>
-      </description>
-      <category>tutorials</category>
-      <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Documentation</title>
-      <link>documentation</link>
-      <description>
-          <![CDATA[ 
-<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
-</stop-note>
-<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
-<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
-<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
-</li>
-</ul>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
       <title>HAX Ontology</title>
       <link>ontology</link>
       <description>
@@ -195,6 +158,43 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-40583b55-32bf-40c7-8e81-99c054b9a764</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Tutorials</title>
+      <link>tutorials</link>
+      <description>
+          <![CDATA[ 
+<p>If there are tutorials you are looking for that the community has not covered, let
+  us know in our <a href="https://github.com/elmsln/issues/issues" target="_blank">issue queue</a>
+or
+  on <a href="https://bit.ly/hax-discord">discord</a>
+and we'll prioritize it's creation.</p>
+<h2 data-original-level="H2" id="header-201dee4c-675d-509d-3133-e561f86af4a2">Playlist of all tutorials</h2>
+<p>This is a <a href="https://www.youtube.com/playlist?list=PLlJjKfvF9oaOb60T3wW5vfkCrjDRWFJHc" target="_blank">playlist of all our tutorials</a> on our community YouTube channel</p>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/aDmSFBJmWIg?si=Z9xMDW79HSeiK9y4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+ ]]>
+      </description>
+      <category>tutorials</category>
+      <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
+      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>documentation</link>
+      <description>
+          <![CDATA[ 
+<stop-note title="Docs rebuild is ongoing" icon="stopnoteicons:warning-icon" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)&#60;/strong&#62;" accent-color="grey" status="warning"><p slot="message" ="true"="" role="textbox"><strong>While we are centralizing our community documentation, please note that at times you will want to go to other sites as we clean up from our success :)</strong></p>
+</stop-note>
+<p>Documentation is being rebuilt around End User Documentation as well as different levels of development based on what part of HAX you are looking to interface with. While we restructure this material feel free to fallback on the following resources for things unique to different parts of the project:</p>
+<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
+<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
+</li>
+</ul>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
       <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
     </item>
     <item>
@@ -460,6 +460,29 @@ and we'll prioritize it's creation.</p>
       <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
     </item>
     <item>
+      <title>Accessibility and Empowerment</title>
+      <link>pledges/accessibility-empowerment</link>
+      <description>
+          <![CDATA[ 
+<p>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say <abbr role="textbox" title="accessibility">a11y</abbr><span>, we mean access to everyone, everywhere, regardless of ability either physical ability, technical ability, or device capability.</span></p>
+<p>HAX a11y principles:</p>
+<ul><li>Use the minimal amount of resources (see <a href="pledges/environmental-impact" data-uuid="item-edcd6f86-05b5-43a9-8766-8a56709451c8" role="textbox" style="background-color: var(--simple-colors-default-theme-light-green-1); color: var(--simple-colors-default-theme-light-green-12);" background-color="light-green">Environmental impact</a>
+) required to deliver experiences in order to use less resources at a distance</li>
+<li>ensure that HAX itself meets WCAG 2.0 AA compliance standards</li>
+<li>Ensure that, within reason, HAX enforces and automatically eliminates considerations of writing web code that could lead to web accessibility errors</li>
+<li>Leverage accessible, audited base classes to ensure uniformity visually and non-visually to all blocks created <i><b>with or for</b>
+</i>
+ HAX</li>
+</ul>
+<p>If you notice an accessibility error or issue with any aspect of the HAX platform, please <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=a11y&amp;title=%5Baccessibility+request%5D" target="_blank" data-style-decoration="mark-yellow" data-accent="5">file an issue in our issue queue</a>
+ so we can correct it in a timely manner.</p>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
+      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+    </item>
+    <item>
       <title>Pledges</title>
       <link>pledges</link>
       <description>
@@ -494,29 +517,6 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Accessibility and Empowerment</title>
-      <link>pledges/accessibility-empowerment</link>
-      <description>
-          <![CDATA[ 
-<p>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say <abbr role="textbox" title="accessibility">a11y</abbr><span>, we mean access to everyone, everywhere, regardless of ability either physical ability, technical ability, or device capability.</span></p>
-<p>HAX a11y principles:</p>
-<ul><li>Use the minimal amount of resources (see <a href="pledges/environmental-impact" data-uuid="item-edcd6f86-05b5-43a9-8766-8a56709451c8" role="textbox" style="background-color: var(--simple-colors-default-theme-light-green-1); color: var(--simple-colors-default-theme-light-green-12);" background-color="light-green">Environmental impact</a>
-) required to deliver experiences in order to use less resources at a distance</li>
-<li>ensure that HAX itself meets WCAG 2.0 AA compliance standards</li>
-<li>Ensure that, within reason, HAX enforces and automatically eliminates considerations of writing web code that could lead to web accessibility errors</li>
-<li>Leverage accessible, audited base classes to ensure uniformity visually and non-visually to all blocks created <i><b>with or for</b>
-</i>
- HAX</li>
-</ul>
-<p>If you notice an accessibility error or issue with any aspect of the HAX platform, please <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=a11y&amp;title=%5Baccessibility+request%5D" target="_blank" data-style-decoration="mark-yellow" data-accent="5">file an issue in our issue queue</a>
- so we can correct it in a timely manner.</p>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
       <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
     </item>
     <item>
