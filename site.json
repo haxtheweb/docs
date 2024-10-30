@@ -271,6 +271,22 @@
             }
         },
         {
+            "id": "item-58846489-4cbe-496e-8330-444fa9c69252",
+            "indent": 0,
+            "location": "pages\/item-58846489-4cbe-496e-8330-444fa9c69252\/index.html",
+            "slug": "welcome\/page",
+            "order": "3",
+            "parent": "item-8a5bf844-d498-4f75-bf96-110eaedb42d9",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1730315983,
+                "updated": 1730315983,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-68ecb822-ae89-466a-bce2-20b33332451a",
             "indent": "1",
             "location": "pages\/item-68ecb822-ae89-466a-bce2-20b33332451a\/index.html",
@@ -877,89 +893,24 @@
             }
         },
         {
-            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
-            "indent": "2",
-            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-            "slug": "page-1",
-            "order": 0,
-            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
-            "title": "Installing HAXcms",
-            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
-            "metadata": {
-                "created": "1695414320",
-                "updated": 1730315925,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
-                ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": ""
-            }
-        },
-        {
-            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
-            "indent": "2",
-            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
-            "slug": "documentation\/integrations\/backdropcms",
-            "order": 0,
-            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "title": "BackdropCMS",
-            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
-            "metadata": {
-                "locked": "",
-                "created": "1713540714",
-                "images": [],
-                "videos": [],
-                "updated": 1730315924,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
+            "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
             "indent": "3",
-            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
-            "slug": "documentation\/elmsln",
+            "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
+            "slug": "documentation\/developers\/schema\/haxelement-schema",
             "order": 0,
-            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
-            "title": "ELMS:LN",
-            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
+            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
+            "title": "HAXElement Schema",
+            "description": "Example of HAX element schema JSON object. It's a pretty simple abstraction of HTML elements that helps with packaging and sanitation. This is effectively HAX version of a VDOM in which all elements ",
             "metadata": {
                 "locked": "",
-                "created": "1707142965",
+                "created": "1724249289",
                 "images": [],
                 "videos": [],
                 "updated": 1730315924,
                 "published": "1",
+                "status": "",
                 "hideInMenu": "",
-                "icon": "lrn:network",
-                "readtime": "2",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "indent": "2",
-            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
-            "slug": "tutorials\/block-usage\/instructional",
-            "order": 0,
-            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
-            "title": "Instructional",
-            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
+                "readtime": "1"
             }
         },
         {
@@ -996,28 +947,6 @@
             }
         },
         {
-            "id": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "indent": "3",
-            "location": "pages\/item-5931cf01-9b8d-4bdd-990b-6f4465174dcf\/index.html",
-            "slug": "tutorials\/block-usage\/question-types",
-            "order": 1,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Question types",
-            "description": "Use these question types to provide high quality formative assessment!\u00a0",
-            "metadata": {
-                "created": "1721075977",
-                "updated": 1730315923,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "question",
-                "locked": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-3938a1cf-d097-473e-8e27-47d34c2e8e4b",
             "indent": "4",
             "location": "pages\/item-3938a1cf-d097-473e-8e27-47d34c2e8e4b\/index.html",
@@ -1046,339 +975,6 @@
                 ],
                 "image": "files\/Screenshot from 2024-07-25 10-51-51.png",
                 "tags": "instructional, question, fill",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-82db2727-136d-4ee0-b965-9d847d8631c6",
-            "indent": "4",
-            "location": "pages\/item-82db2727-136d-4ee0-b965-9d847d8631c6\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/mark-the-words",
-            "order": 1,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Mark the Words",
-            "description": "Feedback in context of sentences",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-56-44.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-56-44.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-56-44.png",
-                        "size": "33515"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-56-44.png",
-                "tags": "instructional, question, mark",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-7c4e5edc-892b-4272-8513-248dd4d4efe5",
-            "indent": "4",
-            "location": "pages\/item-7c4e5edc-892b-4272-8513-248dd4d4efe5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-drag-and-drop",
-            "order": 2,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Matching \/ Drag and drop",
-            "description": "Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers. Targets can have multiple answers associated with them and there can also be options tha",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-09-09.png",
-                        "url": "files\/Screenshot from 2024-07-25 11-09-09.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 11-09-09.png",
-                        "size": "54826"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 11-09-09.png",
-                "tags": "instructional, question, matching",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
-            "indent": "4",
-            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/multiple-choice",
-            "order": 3,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Multiple choice",
-            "description": "Ask users a question with multiple possible answers",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": "",
-                "hideInMenu": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-03.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-36-03.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-36-03.png",
-                        "size": "40949"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-031.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-36-031.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-36-031.png",
-                        "size": "40949"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
-                "tags": "instructional, question"
-            }
-        },
-        {
-            "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
-            "indent": "4",
-            "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer-question",
-            "order": 4,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Short Answer Question",
-            "description": "Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.ExampleDevelopernpm install @haxtheweb\/multiple-choice --save (short-answer-quest",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-13-35.png",
-                        "url": "files\/Screenshot from 2024-07-25 11-13-35.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 11-13-35.png",
-                        "size": "28400"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 11-13-35.png",
-                "tags": "instructional, question",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-4622057f-76f3-40dd-962b-0b6e640e4058",
-            "indent": "4",
-            "location": "pages\/item-4622057f-76f3-40dd-962b-0b6e640e4058\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/sorting-question",
-            "order": 5,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Sorting Question",
-            "description": "Self evident, Refer back to 1st gradeConsider that numbers tend to go zero, one, two...",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-13-13.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-13-13.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-13-13.png",
-                        "size": "29333"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image81.png",
-                        "url": "files\/image81.png",
-                        "type": "image\/png",
-                        "name": "image81.png",
-                        "size": "29333"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-13-13.png",
-                "tags": "instructional, question, sorting",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-c7a62f87-28f5-4049-95ce-10b1ddb94201",
-            "indent": "4",
-            "location": "pages\/item-c7a62f87-28f5-4049-95ce-10b1ddb94201\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/tagging-question",
-            "order": 6,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "Tagging question",
-            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only\u00a0select  the correct answers without",
-            "metadata": {
-                "locked": "",
-                "created": "1721076144",
-                "images": [],
-                "videos": [],
-                "updated": 1730315923,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-59.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-22-59.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-22-59.png",
-                        "size": "26579"
-                    },
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-591.png",
-                        "url": "files\/Screenshot from 2024-07-25 10-22-591.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 10-22-591.png",
-                        "size": "26579"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 10-22-591.png",
-                "tags": "instructional, question, tagging",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
-            "indent": "4",
-            "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/question-types\/true-false-question",
-            "order": 7,
-            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
-            "title": "True false question",
-            "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
-            "metadata": {
-                "created": "1721924056",
-                "updated": 1730315923,
-                "images": [],
-                "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "tags": "question, true false",
-                "locked": "",
-                "readtime": "1",
-                "files": [
-                    {
-                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 12-18-15.png",
-                        "url": "files\/Screenshot from 2024-07-25 12-18-15.png",
-                        "type": "image\/png",
-                        "name": "Screenshot from 2024-07-25 12-18-15.png",
-                        "size": "25561"
-                    }
-                ],
-                "image": "files\/Screenshot from 2024-07-25 12-18-15.png",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
-            "indent": "3",
-            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/self-check",
-            "order": 2,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Self check",
-            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/k8PfCA86Ago"
-                ],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
-            "indent": "3",
-            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/stop-note",
-            "order": 3,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Stop note",
-            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/TccvXxfF8jc"
-                ],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
-            "indent": "3",
-            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/table",
-            "order": 4,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Table",
-            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/JxyZBF1j0to"
-                ],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
-            "indent": "3",
-            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
-            "slug": "tutorials\/block-usage\/instructional\/timeline",
-            "order": 5,
-            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
-            "title": "Timeline",
-            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/Jv634X-e6Fs"
-                ],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
                 "status": ""
             }
         },
@@ -2351,27 +1947,6 @@
             }
         },
         {
-            "id": "item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b",
-            "indent": "3",
-            "location": "pages\/item-af6cc6b8-3436-48fd-89c5-987cf0fa1e0b\/index.html",
-            "slug": "documentation\/developers\/schema\/haxelement-schema",
-            "order": 0,
-            "parent": "item-4277ed25-a0ca-414c-a4ca-62e7d093d2f8",
-            "title": "HAXElement Schema",
-            "description": "Example of HAX element schema JSON object. It's a pretty simple abstraction of HTML elements that helps with packaging and sanitation. This is effectively HAX version of a VDOM in which all elements ",
-            "metadata": {
-                "locked": "",
-                "created": "1724249289",
-                "images": [],
-                "videos": [],
-                "updated": 1730315924,
-                "published": "1",
-                "status": "",
-                "hideInMenu": "",
-                "readtime": "1"
-            }
-        },
-        {
             "id": "item-2a102879-1110-4db4-a6b8-3b687f0fd2b1",
             "indent": "3",
             "location": "pages\/item-2a102879-1110-4db4-a6b8-3b687f0fd2b1\/index.html",
@@ -2388,6 +1963,28 @@
                 "updated": 1730315924,
                 "published": "1",
                 "hideInMenu": "",
+                "readtime": "2",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-e730662d-1e5e-4519-b2cc-6689657eeced",
+            "indent": "3",
+            "location": "pages\/item-e730662d-1e5e-4519-b2cc-6689657eeced\/index.html",
+            "slug": "documentation\/elmsln",
+            "order": 0,
+            "parent": "item-680a9a59-5691-424e-8f84-ee9019e39849",
+            "title": "ELMS:LN",
+            "description": "ELMS Learning Network (ELMSLN) is an open source educational technology platform for building and sustaining innovation in course technologies. It is not a traditional LMS but a Next Generation Digit",
+            "metadata": {
+                "locked": "",
+                "created": "1707142965",
+                "images": [],
+                "videos": [],
+                "updated": 1730315924,
+                "published": "1",
+                "hideInMenu": "",
+                "icon": "lrn:network",
                 "readtime": "2",
                 "status": ""
             }
@@ -2642,28 +2239,6 @@
             }
         },
         {
-            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
-            "indent": "3",
-            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
-            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
-            "order": 0,
-            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
-            "title": "3D Model",
-            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
-            "metadata": {
-                "locked": "",
-                "created": "1697042706",
-                "images": [],
-                "videos": [
-                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
-                ],
-                "updated": 1730315923,
-                "published": "1",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
             "id": "item-90f04b0e-75f3-424d-9e6f-4841af66ab6c",
             "indent": "1",
             "location": "pages\/item-90f04b0e-75f3-424d-9e6f-4841af66ab6c\/index.html",
@@ -2888,6 +2463,447 @@
                 "published": "1",
                 "readtime": "1",
                 "status": ""
+            }
+        },
+        {
+            "id": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "indent": "2",
+            "location": "pages\/item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8\/index.html",
+            "slug": "tutorials\/block-usage\/instructional",
+            "order": 0,
+            "parent": "item-50802aa4-f49e-4207-98d2-7ef3745568fc",
+            "title": "Instructional",
+            "description": "Blocks that primarily serve an instructional purpose to help users learn.",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "indent": "3",
+            "location": "pages\/item-5931cf01-9b8d-4bdd-990b-6f4465174dcf\/index.html",
+            "slug": "tutorials\/block-usage\/question-types",
+            "order": 1,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Question types",
+            "description": "Use these question types to provide high quality formative assessment!\u00a0",
+            "metadata": {
+                "created": "1721075977",
+                "updated": 1730315923,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "question",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-82db2727-136d-4ee0-b965-9d847d8631c6",
+            "indent": "4",
+            "location": "pages\/item-82db2727-136d-4ee0-b965-9d847d8631c6\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/mark-the-words",
+            "order": 1,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Mark the Words",
+            "description": "Feedback in context of sentences",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-56-44.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-56-44.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-56-44.png",
+                        "size": "33515"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-56-44.png",
+                "tags": "instructional, question, mark",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-7c4e5edc-892b-4272-8513-248dd4d4efe5",
+            "indent": "4",
+            "location": "pages\/item-7c4e5edc-892b-4272-8513-248dd4d4efe5\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/matching-drag-and-drop",
+            "order": 2,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Matching \/ Drag and drop",
+            "description": "Matching question, often called a drag and drop, allows for setting drop targets to possible matching answers. Targets can have multiple answers associated with them and there can also be options tha",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "url": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 11-09-09.png",
+                        "size": "54826"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-09-09.png",
+                "tags": "instructional, question, matching",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948",
+            "indent": "4",
+            "location": "pages\/item-3c4f0dbd-ef6a-4c8d-acaa-27b295243948\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/multiple-choice",
+            "order": 3,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Multiple choice",
+            "description": "Ask users a question with multiple possible answers",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-03.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-36-03.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-36-03.png",
+                        "size": "40949"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-36-031.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-36-031.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-36-031.png",
+                        "size": "40949"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-36-031.png",
+                "tags": "instructional, question"
+            }
+        },
+        {
+            "id": "item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f",
+            "indent": "4",
+            "location": "pages\/item-a92e0dfc-e26f-4a7c-aa1d-f0d977b27d8f\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/short-answer-question",
+            "order": 4,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Short Answer Question",
+            "description": "Short answer supports multiple possible answers and is best utilized with single words for accuracy in user entry.ExampleDevelopernpm install @haxtheweb\/multiple-choice --save (short-answer-quest",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 11-13-35.png",
+                        "url": "files\/Screenshot from 2024-07-25 11-13-35.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 11-13-35.png",
+                        "size": "28400"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 11-13-35.png",
+                "tags": "instructional, question",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4622057f-76f3-40dd-962b-0b6e640e4058",
+            "indent": "4",
+            "location": "pages\/item-4622057f-76f3-40dd-962b-0b6e640e4058\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/sorting-question",
+            "order": 5,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Sorting Question",
+            "description": "Self evident, Refer back to 1st gradeConsider that numbers tend to go zero, one, two...",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-13-13.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-13-13.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-13-13.png",
+                        "size": "29333"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/image81.png",
+                        "url": "files\/image81.png",
+                        "type": "image\/png",
+                        "name": "image81.png",
+                        "size": "29333"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-13-13.png",
+                "tags": "instructional, question, sorting",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-c7a62f87-28f5-4049-95ce-10b1ddb94201",
+            "indent": "4",
+            "location": "pages\/item-c7a62f87-28f5-4049-95ce-10b1ddb94201\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/tagging-question",
+            "order": 6,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "Tagging question",
+            "description": "Tagging questions allow for a drag and drop or click to select method of answering.  They allow you to add options that are incorrect and the user must only\u00a0select  the correct answers without",
+            "metadata": {
+                "locked": "",
+                "created": "1721076144",
+                "images": [],
+                "videos": [],
+                "updated": 1730315923,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-59.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-22-59.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-22-59.png",
+                        "size": "26579"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 10-22-591.png",
+                        "url": "files\/Screenshot from 2024-07-25 10-22-591.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 10-22-591.png",
+                        "size": "26579"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 10-22-591.png",
+                "tags": "instructional, question, tagging",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-ca708b68-1af2-47b5-83d9-7cb94b42da91",
+            "indent": "4",
+            "location": "pages\/item-ca708b68-1af2-47b5-83d9-7cb94b42da91\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/question-types\/true-false-question",
+            "order": 7,
+            "parent": "item-5931cf01-9b8d-4bdd-990b-6f4465174dcf",
+            "title": "True false question",
+            "description": "A simple question type that allows you to supply the question but the user only can pick between true and false.ExampleDeveloper",
+            "metadata": {
+                "created": "1721924056",
+                "updated": 1730315923,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "tags": "question, true false",
+                "locked": "",
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "url": "files\/Screenshot from 2024-07-25 12-18-15.png",
+                        "type": "image\/png",
+                        "name": "Screenshot from 2024-07-25 12-18-15.png",
+                        "size": "25561"
+                    }
+                ],
+                "image": "files\/Screenshot from 2024-07-25 12-18-15.png",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-526ae84e-2f82-4007-a443-7dbe1115571c",
+            "indent": "3",
+            "location": "pages\/item-526ae84e-2f82-4007-a443-7dbe1115571c\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/self-check",
+            "order": 2,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Self check",
+            "description": "Sometimes after a video or reading a section of content we have a simple question that we want the user to ask themselves to reflect. The \"Self check\" tag, allows for an image + question and then all",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/k8PfCA86Ago"
+                ],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3",
+            "indent": "3",
+            "location": "pages\/item-f74ecc94-2b62-44c7-bb23-820e3d0cf9f3\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/stop-note",
+            "order": 3,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Stop note",
+            "description": "There might be times when we've given out a lot of information to our users all at once, or perhaps there's a critical piece of detail we want to reemphasize before we move on. This is a case where t",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/TccvXxfF8jc"
+                ],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-99c45cf5-0c3b-4911-83de-70886b9d0c0d",
+            "indent": "3",
+            "location": "pages\/item-99c45cf5-0c3b-4911-83de-70886b9d0c0d\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/table",
+            "order": 4,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Table",
+            "description": "The effective sharing and display of large data tables helped build the web as we know it. But tables are often difficult to manage on the web without understanding the complexities of HTML. Fortunat",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/JxyZBF1j0to"
+                ],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5",
+            "indent": "3",
+            "location": "pages\/item-af5ebc9a-83b4-48e6-9465-7f2e94f305b5\/index.html",
+            "slug": "tutorials\/block-usage\/instructional\/timeline",
+            "order": 5,
+            "parent": "item-6516e05a-35ca-4e30-94c9-da8f32ed7ac8",
+            "title": "Timeline",
+            "description": "Events happen in a sequence, but sometimes it's hard to convey the same meaning in pure written form. It's also possible that identification of historical period is more about adding context as oppos",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/Jv634X-e6Fs"
+                ],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d",
+            "indent": "3",
+            "location": "pages\/item-4d1a84b2-ddcb-4dbc-9b37-2d135442c32d\/index.html",
+            "slug": "tutorials\/block-usage\/multimedia\/3d-model",
+            "order": 0,
+            "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
+            "title": "3D Model",
+            "description": "As unbelievable as it may be, with the modern web platform we can display advanced 3D models using the 3D Model block in HAX. With this we can easily display interactive 3D models on the web and eve",
+            "metadata": {
+                "locked": "",
+                "created": "1697042706",
+                "images": [],
+                "videos": [
+                    "https:\/\/youtu.be\/bqvgx2N0ZB4"
+                ],
+                "updated": 1730315923,
+                "published": "1",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-8dfd19ae-77ec-4737-9981-72e4d5880cb9",
+            "indent": "2",
+            "location": "pages\/item-8dfd19ae-77ec-4737-9981-72e4d5880cb9\/index.html",
+            "slug": "documentation\/integrations\/backdropcms",
+            "order": 0,
+            "parent": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
+            "title": "BackdropCMS",
+            "description": "Getting HAX setup in BackdropCMSSearch for HAX on BackdropCMS.org  or from within your Backdrop siteFollow the instructions in the Web components module README  for buildingDon't worry, HAX requires",
+            "metadata": {
+                "locked": "",
+                "created": "1713540714",
+                "images": [],
+                "videos": [],
+                "updated": 1730315924,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
+            "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
+            "indent": "2",
+            "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
+            "slug": "page-1",
+            "order": 0,
+            "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
+            "title": "Installing HAXcms",
+            "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
+            "metadata": {
+                "created": "1695414320",
+                "updated": 1730315925,
+                "images": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
+                ],
+                "published": "1",
+                "locked": "",
+                "readtime": "1",
+                "status": "",
+                "hideInMenu": ""
             }
         },
         {
@@ -3904,6 +3920,27 @@
             }
         },
         {
+            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
+            "indent": "1",
+            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
+            "slug": "site-things\/footer-bottom",
+            "order": 2,
+            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
+            "title": "Footer - bottom",
+            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
+            "metadata": {
+                "locked": "",
+                "created": "1706291665",
+                "images": [],
+                "videos": [],
+                "updated": 1730315925,
+                "published": "1",
+                "hideInMenu": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
             "indent": "1",
             "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
@@ -3981,27 +4018,6 @@
                 "images": [],
                 "videos": [],
                 "updated": 1730315924,
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-3af50499-d450-4068-b2d2-5893283d0e27",
-            "indent": "1",
-            "location": "pages\/item-3af50499-d450-4068-b2d2-5893283d0e27\/index.html",
-            "slug": "site-things\/footer-bottom",
-            "order": 2,
-            "parent": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
-            "title": "Footer - bottom",
-            "description": "Copyright 2024 &#169; The Pennsylvania State University     Privacy     Non-Discrimination     Equal Opportunity     Accessibility     Legal   ",
-            "metadata": {
-                "locked": "",
-                "created": "1706291665",
-                "images": [],
-                "videos": [],
-                "updated": 1730315925,
                 "published": "1",
                 "hideInMenu": "",
                 "readtime": "1",
@@ -4477,6 +4493,27 @@
             }
         },
         {
+            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
+            "indent": "1",
+            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
+            "slug": "solutions\/haxiam",
+            "order": 2,
+            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
+            "title": "HAXiam",
+            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
+            "metadata": {
+                "created": "1724266050",
+                "updated": 1730315925,
+                "images": [],
+                "videos": [],
+                "published": "1",
+                "hideInMenu": "",
+                "locked": "",
+                "readtime": "1",
+                "status": ""
+            }
+        },
+        {
             "id": "item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff",
             "indent": "1",
             "location": "pages\/item-2eccc2a9-90b2-4dab-a4cb-f36bc45bc0ff\/index.html",
@@ -4498,19 +4535,21 @@
             }
         },
         {
-            "id": "item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe",
+            "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
             "indent": "1",
-            "location": "pages\/item-80c5b6c1-cbe0-4955-b80e-b2acccf7a3fe\/index.html",
-            "slug": "solutions\/haxiam",
-            "order": 2,
+            "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
+            "slug": "solutions\/haxsite",
+            "order": 3,
             "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXiam",
-            "description": "HAXiam (HAX-I-Am ) is a SaaS platform code base that's used to deploy HAXcms to multiple people. It is an abstraction on the HAXcms code base that enables it to be used by multiple users from a singl",
+            "title": "HAXSite",
+            "description": "HAXsite is a stand alone site produced with HAX like the one you are reading. HAXsite is also a code repository that can be used to build new sites as a developer. Just leverage the github and you ca",
             "metadata": {
-                "created": "1724266050",
+                "created": "1724266107",
                 "updated": 1730315925,
                 "images": [],
-                "videos": [],
+                "videos": [
+                    "https:\/\/www.youtube.com\/watch?v=C6gmrI-VQN4"
+                ],
                 "published": "1",
                 "hideInMenu": "",
                 "locked": "",
@@ -4555,29 +4594,6 @@
                 "videos": [],
                 "updated": 1730315925,
                 "published": "1",
-                "status": ""
-            }
-        },
-        {
-            "id": "item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236",
-            "indent": "1",
-            "location": "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
-            "slug": "solutions\/haxsite",
-            "order": 3,
-            "parent": "item-e6b422fc-8920-45b1-9068-173399ca50b2",
-            "title": "HAXSite",
-            "description": "HAXsite is a stand alone site produced with HAX like the one you are reading. HAXsite is also a code repository that can be used to build new sites as a developer. Just leverage the github and you ca",
-            "metadata": {
-                "created": "1724266107",
-                "updated": 1730315925,
-                "images": [],
-                "videos": [
-                    "https:\/\/www.youtube.com\/watch?v=C6gmrI-VQN4"
-                ],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "1",
                 "status": ""
             }
         },
