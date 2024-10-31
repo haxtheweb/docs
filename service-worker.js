@@ -652,7 +652,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "KxoIjanhSfhlWcRXo0rMg"
+        "I21RiNiZaAXDhekpZoXhQ"
     ],
     [
         "404.html",
@@ -933,6 +933,10 @@ var precacheConfig = [
     [
         "files\/image18.png",
         "5XFeEbRS4Q2levoH8vZAg"
+    ],
+    [
+        "files\/image83.png",
+        "1dHqa5jwXwVagNNjq9AT5A"
     ],
     [
         "files\/Memory Duration by Type.png",

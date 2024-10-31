@@ -250,7 +250,16 @@
                 "hideInMenu": false,
                 "locked": false,
                 "readtime": 1,
-                "status": ""
+                "status": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image83.png",
+                        "url": "files\/image83.png",
+                        "type": "image\/png",
+                        "name": "image83.png",
+                        "size": 14650
+                    }
+                ]
             }
         },
         {
