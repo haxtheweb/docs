@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-10-30T15:21:17-04:00</updated>
+    <updated>2024-10-31T14:29:44-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -23,19 +23,17 @@
  web content. The goal of HAX is simple: to help people create rich and engaging web content 
   
   without needing to understand web code.</p>
-<h3 id="header-fe0523d9-3015-c850-0767-e58ec8c3e739" data-primary="12" data-design-treatment="horz-25p">Try hax without installing a thing!</h3>
-<p><a href="https://hax.cloud/" target="_blank">HAX.cloud is a demo</a> service that allows you to test drive HAX without installing anything. Great for those trying to evaluate the platform's capabilities prior to installation. Try it out now!</p>
+<h3 data-original-level="H3" id="header-fe0523d9-3015-c850-0767-e58ec8c3e739" data-primary="12" data-design-treatment="horz-25p">Try hax without installing a thing!</h3>
+<p><a href="https://hax.cloud/" target="_blank">HAX.cloud is a demo</a> service that allows you to test drive HAX without installing anything! Great for those trying to evaluate the platform's capabilities. <a href="https://hax.cloud/" role="textbox" target="_blank">Try it out now!</a></p>
 <h3 data-original-level="H3" id="header-42c94050-07ee-367a-11ad-945263ad0672" data-design-treatment="horz-25p" data-primary="18">Get involved!</h3>
 <ul>
   <li ="true"=""><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
 
   </li>
-  <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>init</b> <b>@haxtheweb</b></code>
-
-  </li>
-  <ul ="true"="" role="textbox">
+  <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>install --global</b> <b>@haxtheweb/create</b></code></li>
+  <ul ="true"="">
     <li ="true"="">Need to install nodejs / npm?</li><li ="true"="">I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
-      npm/npx above) Node 20+ / NPM 10+ required</li>
+      npm/npx above) Node 20+ / NPM 10+ required</li><li ="true"="">Then type: <b><code>hax start</code></b> to get started</li>
   </ul>
   <li ="true"="">Install HAXcms (<b>nodejs</b>) -- <b><code ="true"="">npx @haxtheweb/haxcms-nodejs</code></b>
 
@@ -53,7 +51,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 <p slot="col-1" ="true"="">In the 90's, when the web really caught on, it was difficult to design and develop web content, but it was easy to maintain and anyone could participate with minor technical ability. As tools have evolved, the web became a feature rich, design centric place that we know and use today but the complexity curve went way up to achieve that.</p>
 <h3 slot="col-2" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" ="true"="">we had simple fun</h3>
 
-<rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="R" seed="cool1" speed="500" slot="col-2"></rpg-character>
+<rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="L" seed="cool1" speed="500" slot="col-2"></rpg-character>
 
 
 
@@ -66,7 +64,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
-<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="R" seed="657" speed="500" slot="col-2"></rpg-character>
+
+<rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
+
 
 
 
@@ -80,6 +80,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 <rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="R" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
 
 
 
