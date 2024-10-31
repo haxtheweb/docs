@@ -11,7 +11,7 @@
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
-    <updated>2024-10-31T14:29:44-04:00</updated>
+    <updated>2024-10-31T14:36:16-04:00</updated>
     <published>2023-05-03T14:12:36-04:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
     <link href="welcome"/>
@@ -30,10 +30,8 @@
   <li ="true"=""><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
 
   </li>
-  <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>install --global</b> <b>@haxtheweb/create</b></code></li>
-  <ul ="true"="">
-    <li ="true"="">Need to install nodejs / npm?</li><li ="true"="">I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
-      npm/npx above) Node 20+ / NPM 10+ required</li><li ="true"="">Then type: <b><code>hax start</code></b> to get started</li>
+  <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>install --global</b> <b>@haxtheweb/create</b></code></li><li>Then type: <strong style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary); caret-color: var(--hax-ui-caret-color, auto);"><code>hax start</code></strong><span style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary); caret-color: var(--hax-ui-caret-color, auto);"> to get started</span></li><ul ="true"=""><li ="true"="">Need to install nodejs / npm?</li><li ="true"="">I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
+      npm/npx above) Node 20+ / NPM 10+ required</li>
   </ul>
   <li ="true"="">Install HAXcms (<b>nodejs</b>) -- <b><code ="true"="">npx @haxtheweb/haxcms-nodejs</code></b>
 
@@ -65,7 +63,9 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
+
 <rpg-character accent-color="orange" accessories="8" height="142" width="113" base="1" face="0" face-item="1" hair="4" pants="0" shirt="0" skin="0" hat-color="0" hat="random" leg="L" seed="657" speed="500" slot="col-2"></rpg-character>
+
 
 
 
@@ -93,11 +93,12 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
+
 </grid-plate>
 <p>HAX seeks to bring the web to the level of sustainability of the 90's web but without technical barriers to participate. It does this by encapsulating complexity using modern tools, yet saving everything in a portable, human readable format. As evidence, this website is built using HAX and is entirely static content that could be downloaded as a single zip file and moved easily.</p>
 <h2 data-original-level="H2" id="header-3cd03667-ed9b-7bc0-c588-eecc4283945e">Pillars of our community</h2>
 <p></p>
-<site-collection-list responsive-width="913" responsive-size="sm" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-a13f6fde-9c55-4a1c-bd64-cf8498be649d" items-per-row="7" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode accent-color="grey"></site-collection-list>
+<site-collection-list responsive-width="913" responsive-size="sm" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-a13f6fde-9c55-4a1c-bd64-cf8498be649d" items-per-row="7" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode="" accent-color="grey"></site-collection-list>
 <p>You can read more about our <a href="pledges">community Pledges</a>
  as well as the <a href="documentation">technical details of how HAX</a>
 &#160;reduces barriers to creative expression online, while doing so in an ecosystem that is easy for developers to maintain, extend and grow.</p>
