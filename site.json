@@ -243,13 +243,13 @@
             "description": "Text...Column one content to replaceColumn two content to replace",
             "metadata": {
                 "created": "1730315983",
-                "updated": 1730752458,
+                "updated": 1730753267,
                 "images": [],
                 "videos": [],
                 "published": true,
                 "hideInMenu": false,
                 "locked": false,
-                "readtime": 1,
+                "readtime": 2,
                 "status": "",
                 "files": [
                     {
