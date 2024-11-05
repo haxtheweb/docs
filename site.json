@@ -233,36 +233,6 @@
             }
         },
         {
-            "id": "item-58846489-4cbe-496e-8330-444fa9c69252",
-            "indent": 0,
-            "location": "pages\/item-58846489-4cbe-496e-8330-444fa9c69252\/index.html",
-            "slug": "welcome\/page",
-            "order": 2,
-            "parent": "item-8a5bf844-d498-4f75-bf96-110eaedb42d9",
-            "title": "HAX Explained and Shown",
-            "description": "Text...Column one content to replaceColumn two content to replace",
-            "metadata": {
-                "created": "1730315983",
-                "updated": 1730833508,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 3,
-                "status": "",
-                "files": [
-                    {
-                        "fullUrl": "\/bmr1\/sites\/haxcellence\/files\/image83.png",
-                        "url": "files\/image83.png",
-                        "type": "image\/png",
-                        "name": "image83.png",
-                        "size": 14650
-                    }
-                ]
-            }
-        },
-        {
             "id": "item-4b504f9b-4efd-46a1-81a6-ec67c349c835",
             "indent": 0,
             "location": "pages\/item-4b504f9b-4efd-46a1-81a6-ec67c349c835\/index.html",
