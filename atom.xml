@@ -114,6 +114,22 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     </content>
   </entry>
   <entry>
+    <title>Pedagogy</title>
+    <id>item-40583b55-32bf-40c7-8e81-99c054b9a764</id>
+    <updated>2024-10-30T15:21:19-04:00</updated>
+    <published>2023-05-03T14:14:50-04:00</published>
+    <summary>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe</summary>
+    <link href="ontology/new-item"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
+<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Tutorials</title>
     <id>item-903151c6-bd94-4bbb-9335-4649de2f9445</id>
     <updated>2024-10-30T15:21:18-04:00</updated>
@@ -190,22 +206,6 @@ and we'll prioritize it's creation.</p>
 <li><strong>Empowering.</strong>
  The ontology should permit complete flexibility in the instructional approach used, while also serving to showcase the application of recognized approaches such as Backward Design.</li>
 </ul>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Pedagogy</title>
-    <id>item-40583b55-32bf-40c7-8e81-99c054b9a764</id>
-    <updated>2024-10-30T15:21:19-04:00</updated>
-    <published>2023-05-03T14:14:50-04:00</published>
-    <summary>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe</summary>
-    <link href="ontology/new-item"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
-<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
-<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
  ]]>
     </content>
   </entry>
@@ -502,6 +502,28 @@ and we'll prioritize it's creation.</p>
     </content>
   </entry>
   <entry>
+    <title>Environmental impact</title>
+    <id>item-edcd6f86-05b5-43a9-8766-8a56709451c8</id>
+    <updated>2024-10-30T15:21:17-04:00</updated>
+    <published>2023-06-29T11:01:12-04:00</published>
+    <summary>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr</summary>
+    <link href="pledges/environmental-impact"/>
+    
+    <content type="html">
+      <![CDATA[ 
+<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
+<ul><li>Turning to web standards over large libraries to use less resources</li>
+<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
+<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
+<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
+<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
+</ul>
+<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" data-accent="5">please submit an issue request to our queue</a>
+ detailing how we can achieve a greener platform.</p>
+ ]]>
+    </content>
+  </entry>
+  <entry>
     <title>Accessibility and Empowerment</title>
     <id>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</id>
     <updated>2024-10-30T15:21:17-04:00</updated>
@@ -542,28 +564,6 @@ and we'll prioritize it's creation.</p>
  to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
 <h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
 <site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
- ]]>
-    </content>
-  </entry>
-  <entry>
-    <title>Environmental impact</title>
-    <id>item-edcd6f86-05b5-43a9-8766-8a56709451c8</id>
-    <updated>2024-10-30T15:21:17-04:00</updated>
-    <published>2023-06-29T11:01:12-04:00</published>
-    <summary>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr</summary>
-    <link href="pledges/environmental-impact"/>
-    
-    <content type="html">
-      <![CDATA[ 
-<p>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..</p>
-<ul><li>Turning to web standards over large libraries to use less resources</li>
-<li>Enabling offline capable progressive web app capabilities to reduce energy usage</li>
-<li>Tuning caching and usage settings to leverage less energy through redundant traffic requests</li>
-<li>Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology</li>
-<li>Leveraging micro-services whenever possible in configurations that only run when necessary for processing API requests</li>
-</ul>
-<p>If you have areas for possible improvement in energy usage by the HAX platform <a href="https://github.com/elmsln/issues/issues/new?assignees=&amp;labels=energy&amp;title=%5Bresource+usage+request%5D" target="_blank" data-style-decoration="mark-yellow" padding-top="8" padding-right="8" padding-bottom="8" padding-left="8" margin-top="0" background-color="grey" data-accent="5">please submit an issue request to our queue</a>
- detailing how we can achieve a greener platform.</p>
  ]]>
     </content>
   </entry>
