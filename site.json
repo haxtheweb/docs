@@ -239,11 +239,11 @@
             "slug": "welcome\/page-1",
             "order": 2,
             "parent": "item-8a5bf844-d498-4f75-bf96-110eaedb42d9",
-            "title": "HiTech Podcast: HAX Explained and Shown",
+            "title": "HiTech Podcast: HAX Explained &amp; Shown",
             "description": "Text...Column one content to replaceColumn two content to replace",
             "metadata": {
                 "created": 1730834076,
-                "updated": 1730838733,
+                "updated": 1730838828,
                 "images": [],
                 "videos": [],
                 "published": true,
