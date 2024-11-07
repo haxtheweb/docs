@@ -4462,16 +4462,20 @@
             "id": "item-9cdc0d02-056e-4171-ac0a-207fb3dd6678",
             "indent": 0,
             "location": "pages\/item-9cdc0d02-056e-4171-ac0a-207fb3dd6678\/index.html",
-            "slug": "documentation\/ontology\/page",
-            "order": "7",
+            "slug": "documentation\/ontology\/text-schema",
+            "order": 7,
             "parent": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "title": "Page",
-            "description": "",
+            "title": "Text Schema",
+            "description": "This is the visual in textual form as a hierarchy. This is useful for LLMs.AssumptionsThe following terms and assumptions are made relative to the hierarchy below.We assume there is a syllabusWe a",
             "metadata": {
                 "created": 1731006043,
-                "updated": 1731006043,
+                "updated": 1731008132,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2
             }
         },
         {
