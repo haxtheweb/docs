@@ -3926,7 +3926,7 @@
         },
         {
             "id": "item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-3577db8a-6017-4df6-a2bb-8ecad1a2bbe7\/index.html",
             "slug": "documentation\/haxcms\/integrations",
             "order": 2,
@@ -3935,13 +3935,13 @@
             "description": "See all the ways HAXcms is integrated into other ecosystems!",
             "metadata": {
                 "created": "1713540464",
-                "updated": 1730316079,
+                "updated": 1731600796,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": "",
                 "files": [
                     {
@@ -3951,7 +3951,8 @@
                         "name": "Gemini_Generated_Image_xgwbmtxgwbmtxgwb-min.jpeg",
                         "size": 50350
                     }
-                ]
+                ],
+                "image": "files\/Gemini_Generated_Image_xgwbmtxgwbmtxgwb-min.jpeg"
             }
         },
         {
