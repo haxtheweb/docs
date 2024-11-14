@@ -3001,7 +3001,7 @@
         },
         {
             "id": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-c835c36d-38f5-43ac-9296-0b1be7851ce6\/index.html",
             "slug": "documentation\/developers",
             "order": 1,
@@ -3009,15 +3009,15 @@
             "title": "Developers",
             "description": "Developing for HAX itself or leveraging it's tools? There's a lot going on in our ecosystem so if we miss something let us know!Contribute webcomponents repoCreate my own web componentsThe HAX CL",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249289",
                 "images": [],
                 "videos": [],
-                "updated": 1730316078,
-                "published": "1",
+                "updated": 1731600651,
+                "published": true,
                 "status": "",
-                "hideInMenu": "",
-                "readtime": "1",
+                "hideInMenu": false,
+                "readtime": 1,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg",
@@ -3026,7 +3026,8 @@
                         "name": "Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg",
                         "size": 32963
                     }
-                ]
+                ],
+                "image": "files\/Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg"
             }
         },
         {
