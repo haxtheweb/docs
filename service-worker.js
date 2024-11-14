@@ -652,7 +652,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "8WHp3fqMxTNFIbc3xlY9A"
+        "TSSscxCCcIiT2Dajz9MOA"
     ],
     [
         "404.html",
@@ -941,6 +941,10 @@ var precacheConfig = [
     [
         "files\/image18.png",
         "5XFeEbRS4Q2levoH8vZAg"
+    ],
+    [
+        "files\/Gemini_Generated_Image_l7n6aol7n6aol7n6-min.jpeg",
+        "6idCrDRCe73Yqe49i1BE5g"
     ],
     [
         "files\/Gemini_Generated_Image_xgwbmtxgwbmtxgwb-min.jpeg",
