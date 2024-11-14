@@ -3017,7 +3017,16 @@
                 "published": "1",
                 "status": "",
                 "hideInMenu": "",
-                "readtime": "1"
+                "readtime": "1",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg",
+                        "url": "files\/Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg",
+                        "type": "image\/jpeg",
+                        "name": "Gemini_Generated_Image_55tdtf55tdtf55td-min.jpeg",
+                        "size": 32963
+                    }
+                ]
             }
         },
         {
