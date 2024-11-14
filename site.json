@@ -4041,7 +4041,7 @@
         },
         {
             "id": "item-b8f8fb5d-b05d-448d-814d-fac40fac14f6",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-b8f8fb5d-b05d-448d-814d-fac40fac14f6\/index.html",
             "slug": "ontology",
             "order": 3,
@@ -4049,12 +4049,12 @@
             "title": "HAX Ontology",
             "description": "What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1683137690",
-                "updated": 1730316079,
-                "published": "1",
+                "updated": 1731600899,
+                "published": true,
                 "status": "",
-                "readtime": "1",
+                "readtime": 1,
                 "contentDetails": {
                     "headings": "1",
                     "paragraphs": "3",
@@ -4172,7 +4172,9 @@
                 ],
                 "images": [
                     "files\/HAX Course Ontology Draft Version.png"
-                ]
+                ],
+                "hideInMenu": false,
+                "image": "files\/Gemini_Generated_Image_l7n6aol7n6aol7n6-min.jpeg"
             }
         },
         {
