@@ -2217,7 +2217,7 @@
         },
         {
             "id": "item-59855d23-c026-4b44-9c9f-d5414cc80e55",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
             "slug": "documentation\/hax-frontend-devs",
             "order": 0,
@@ -2226,13 +2226,13 @@
             "description": "HAX primary audience is to empower no tech and low tech implementations to empower as many voices as possible. That said, it is built on highly sophisticated tools that you can use in your own workfl",
             "metadata": {
                 "created": "1707145491",
-                "updated": 1730316078,
+                "updated": 1731600512,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "3",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": "",
                 "files": [
                     {
@@ -2249,7 +2249,8 @@
                         "name": "horsedev.jpeg",
                         "size": 35600
                     }
-                ]
+                ],
+                "image": "files\/horsedev.jpeg"
             }
         },
         {
