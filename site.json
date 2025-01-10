@@ -386,7 +386,7 @@
         },
         {
             "id": "item-6cf36319-fe20-4a72-9cb3-97e44e80f8b9",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-6cf36319-fe20-4a72-9cb3-97e44e80f8b9\/index.html",
             "slug": "welcome\/community\/pillars\/performant",
             "order": 3,
@@ -394,12 +394,12 @@
             "title": "Efficient",
             "description": "HAX seeks to be the most performant platform it can possibly be. It does this through methodology, low level platform APIs, leveraging micro-services, and lazy loading expensive assets as needed. Per",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1730316077,
-                "published": "1",
+                "updated": 1736525816,
+                "published": true,
                 "status": "",
                 "files": [
                     {
@@ -410,9 +410,9 @@
                         "size": "516783"
                     }
                 ],
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "image": "files\/CopyQ.LchTVs.png",
-                "readtime": "1",
+                "readtime": 1,
                 "tags": "performance"
             }
         },
