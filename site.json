@@ -134,7 +134,7 @@
         },
         {
             "id": "item-e0580363-6b05-4092-8711-7413ae36a221",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-e0580363-6b05-4092-8711-7413ae36a221\/index.html",
             "slug": "roadmap",
             "order": 1,
@@ -143,13 +143,13 @@
             "description": "HAX is many things to many people. This is our best attempt to the roadmap for 2025. It is vision statement with where we are going based on where we have been and are as of the beginning of the year",
             "metadata": {
                 "created": "1736888495",
-                "updated": 1736889443,
+                "updated": 1736947472,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2,
                 "status": ""
             }
         },
