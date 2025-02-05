@@ -652,11 +652,11 @@ var precacheConfig = [
     ],
     [
         "manifest.json",
-        "vGBjnVMGxmjDu0wJUEAg"
+        "jwJHIQuBO1P5mfXlxUr0Q"
     ],
     [
         "site.json",
-        "q3e3cRJgN4v2oYiEIhw"
+        "wjq96K3QvTxa76CXf7URbA"
     ],
     [
         "404.html",

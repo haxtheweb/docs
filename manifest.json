@@ -54,7 +54,7 @@
     "theme_color": "#aeff00",
     "background_color": "#aeff00",
     "dir": "auto",
-    "lang": "en",
+    "lang": "en-US",
     "orientation": "any",
     "display_override": [
       "window-controls-overlay"
