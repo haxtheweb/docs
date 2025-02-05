@@ -1,7 +1,7 @@
 {
-    "name": "HAXcellence",
+    "name": "HAX The Web",
     "short_name": "haxcellence",
-    "description": "Create Your Own course",
+    "description": "Ubiquitous Web Publishing",
     "icons": [
         {
             "src": "files/haxcms-managed/48x48-hax (1).png",
@@ -54,7 +54,7 @@
     "theme_color": "#aeff00",
     "background_color": "#aeff00",
     "dir": "auto",
-    "lang": "en-US",
+    "lang": "en",
     "orientation": "any",
     "display_override": [
       "window-controls-overlay"
