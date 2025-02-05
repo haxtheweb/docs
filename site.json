@@ -1,35 +1,35 @@
 {
     "id": "b8e14c34-6f48-4f74-aca4-f35428f49855",
-    "title": "HAXcellence",
+    "title": "HAX The Web",
     "author": "",
-    "description": "Create Your Own course",
-    "license": "by-sa",
+    "description": "Ubiquitous Web Publishing",
+    "license": "by-nc-sa",
     "metadata": {
         "author": {
-            "image": "",
-            "name": "",
-            "email": "",
-            "socialLink": ""
+            "image": "files\/hax-traveler-world-changer.jpg",
+            "name": "HAX The Web",
+            "email": "hax@psu.edu",
+            "socialLink": "https:\/\/www.linkedin.com\/company\/haxtheweb\/"
         },
         "site": {
             "name": "haxcellence",
             "logo": "files\/hax (1).png",
             "lang": "en",
             "created": 1683137556,
-            "updated": 1736889447,
+            "updated": 1738787376,
             "git": {},
-            "version": "9.0.6",
-            "domain": "",
+            "version": "10.0.2",
+            "domain": "https:\/\/haxtheweb.org",
             "static": {},
             "settings": {
                 "pathauto": false,
                 "publishPagesOn": true,
                 "sw": false,
                 "forceUpgrade": false,
-                "lang": "",
-                "gaID": ""
+                "lang": "en",
+                "gaID": "G-C507KZPTHE"
             },
-            "tags": ""
+            "tags": "web development, hax, haxtheweb, pennstate, psu, webdev, lit, documentation, ubiquity"
         },
         "theme": {
             "element": "polaris-invent-theme",
@@ -41,7 +41,7 @@
                 "imageAlt": "",
                 "imageLink": "",
                 "hexCode": "#aeff00",
-                "cssVariable": "--simple-colors-default-theme--7",
+                "cssVariable": "--simple-colors-default-theme-red-7",
                 "icon": "hax:hax2022"
             },
             "regions": {
