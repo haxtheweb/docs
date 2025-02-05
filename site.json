@@ -106,6 +106,13 @@
                         "type": "image\/png",
                         "name": "HAX.psu World changer-circle.png",
                         "size": "1172092"
+                    },
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-traveler-world-changer.jpg",
+                        "url": "files\/hax-traveler-world-changer.jpg",
+                        "type": "image\/jpeg",
+                        "name": "hax-traveler-world-changer.jpg",
+                        "size": 126612
                     }
                 ],
                 "hideInMenu": false

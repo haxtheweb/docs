@@ -656,7 +656,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "8ZPO3UbwrC3a9Ghe6lypow"
+        "jrdsP5I1r01tmqST3uFw"
     ],
     [
         "404.html",
@@ -1153,6 +1153,10 @@ var precacheConfig = [
     [
         "files\/image51.png",
         "cnty1Rfnnh38kMh9t5nOBA"
+    ],
+    [
+        "files\/hax-traveler-world-changer.jpg",
+        "NTKIjhRmmGzbU6oM8dquHQ"
     ],
     [
         "files\/Peter 1.jpg",
