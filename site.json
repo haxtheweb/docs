@@ -16,7 +16,7 @@
             "logo": "files\/hax (1).png",
             "lang": "en",
             "created": 1683137556,
-            "updated": 1738789261,
+            "updated": 1738789271,
             "git": {},
             "version": "10.0.2",
             "domain": "",
@@ -26,7 +26,7 @@
                 "publishPagesOn": true,
                 "sw": false,
                 "forceUpgrade": false,
-                "lang": "en",
+                "lang": "",
                 "gaID": "G-C507KZPTHE"
             },
             "tags": "web development, hax, haxtheweb, pennstate, psu, webdev, lit, documentation, ubiquity"
