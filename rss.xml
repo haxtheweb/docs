@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>HAX The Web</title>
+    <title>haxcellence</title>
     <link></link>
     <description>Ubiquitous Web Publishing</description>
     <copyright>Copyright (C) 2025 </copyright>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Feb 2025 15:37:59 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 16:01:01 -0500</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
