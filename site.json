@@ -2804,25 +2804,25 @@
         },
         {
             "id": "item-4b788e81-94f5-4699-b885-37b664eb8d7f",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-            "slug": "page-1",
+            "slug": "installation",
             "order": 0,
             "parent": "item-d4b650a4-47af-4734-b891-7a6db766ca3e",
             "title": "Installing HAXcms",
             "description": "Installing HAXcms on Reclaim.cloudReclaim.cloud and Reclaim hosting are two providers that support installation of HAXcms via one-click interface.\u00a0Manual installationHAXcms can be installe",
             "metadata": {
                 "created": "1695414320",
-                "updated": 1738791019,
+                "updated": 1740157726,
                 "images": [],
                 "videos": [
                     "https:\/\/www.youtube.com\/watch?v=zmext_0e4xQ"
                 ],
-                "published": "1",
-                "locked": "",
-                "readtime": "1",
+                "published": true,
+                "locked": false,
+                "readtime": 1,
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
