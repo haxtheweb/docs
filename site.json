@@ -4639,15 +4639,17 @@
             "order": 3,
             "parent": null,
             "title": "Solutions",
-            "description": "",
+            "description": "Ubiquity comes in many forms.",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724265952",
                 "images": [],
                 "videos": [],
-                "updated": 1738791019,
-                "published": "1",
-                "status": ""
+                "updated": 1740158059,
+                "published": true,
+                "status": "",
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
