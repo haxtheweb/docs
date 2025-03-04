@@ -747,16 +747,20 @@
             "id": "item-6817087b-a94d-4314-95cf-e53c1404f24d",
             "indent": 0,
             "location": "pages\/item-6817087b-a94d-4314-95cf-e53c1404f24d\/index.html",
-            "slug": "welcome\/community\/page",
-            "order": "5",
+            "slug": "welcome\/community\/contributor-guide",
+            "order": 5,
             "parent": "item-68ecb822-ae89-466a-bce2-20b33332451a",
-            "title": "Page",
-            "description": "",
+            "title": "Contributor guide",
+            "description": "Welcome to the HAX community's Contributor Guide! In this section you will find information to help you figure out how you can bring your unique abilities and interests to the community. Contribution",
             "metadata": {
                 "created": 1741120522,
-                "updated": 1741120522,
+                "updated": 1741121197,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
