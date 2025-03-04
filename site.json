@@ -744,6 +744,22 @@
             }
         },
         {
+            "id": "item-6817087b-a94d-4314-95cf-e53c1404f24d",
+            "indent": 0,
+            "location": "pages\/item-6817087b-a94d-4314-95cf-e53c1404f24d\/index.html",
+            "slug": "welcome\/community\/page",
+            "order": "5",
+            "parent": "item-68ecb822-ae89-466a-bce2-20b33332451a",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1741120522,
+                "updated": 1741120522,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-8991f223-d78f-42c3-a5f4-da79658ad80e",
             "indent": "1",
             "location": "pages\/item-8991f223-d78f-42c3-a5f4-da79658ad80e\/index.html",
@@ -4769,6 +4785,26 @@
             }
         },
         {
+            "id": "item-b55b41d1-00b6-4add-9942-6d706a4fb14f",
+            "indent": 0,
+            "location": "pages\/item-b55b41d1-00b6-4add-9942-6d706a4fb14f\/index.html",
+            "slug": "hax-lab\/hax-ai",
+            "order": 7,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "HAX AI",
+            "description": "Data summit 2025This is a talk at Penn State Data Summit 2025 by Dr. David Fusco and Bryan Ollendyke about the state of AI with HAX. Discussed and shown is a working prototype of teaching Claude the",
+            "metadata": {
+                "created": 1741025829,
+                "updated": 1741025946,
+                "images": [],
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
+            }
+        },
+        {
             "id": "item-861b84da-33c7-49e8-bf25-7aa8d9206d3b",
             "indent": 0,
             "location": "pages\/item-861b84da-33c7-49e8-bf25-7aa8d9206d3b\/index.html",
@@ -4787,26 +4823,6 @@
                 "hideInMenu": "",
                 "readtime": "1",
                 "status": ""
-            }
-        },
-        {
-            "id": "item-b55b41d1-00b6-4add-9942-6d706a4fb14f",
-            "indent": 0,
-            "location": "pages\/item-b55b41d1-00b6-4add-9942-6d706a4fb14f\/index.html",
-            "slug": "hax-lab\/hax-ai",
-            "order": 7,
-            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "HAX AI",
-            "description": "Data summit 2025This is a talk at Penn State Data Summit 2025 by Dr. David Fusco and Bryan Ollendyke about the state of AI with HAX. Discussed and shown is a working prototype of teaching Claude the",
-            "metadata": {
-                "created": 1741025829,
-                "updated": 1741025946,
-                "images": [],
-                "videos": [],
-                "published": true,
-                "hideInMenu": false,
-                "locked": false,
-                "readtime": 1
             }
         }
     ],
