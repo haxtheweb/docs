@@ -3597,19 +3597,22 @@
         },
         {
             "id": "item-0e8a3894-a90b-450e-8d15-a5990ac65477",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-0e8a3894-a90b-450e-8d15-a5990ac65477\/index.html",
             "slug": "documentation\/developers\/haxsite",
             "order": 5,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
             "title": "HAXsite",
-            "description": "",
+            "description": "HAXsite is the site as a folder which includes everything needed to render your content. Everything created works as a stand alone or as powered by a CDN. It's contents become editable when HAXcms is",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1741367860,
                 "images": [],
                 "videos": [],
-                "updated": 1741367860
+                "updated": 1741367975,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1
             }
         },
         {
