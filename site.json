@@ -3935,7 +3935,7 @@
         },
         {
             "id": "item-aae73811-4bb1-44ba-9215-05c90b9f9007",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-aae73811-4bb1-44ba-9215-05c90b9f9007\/index.html",
             "slug": "tutorials\/migrate-data-to-hax",
             "order": 2,
@@ -3944,7 +3944,7 @@
             "description": "HAX is easy to move content to because it is playing flat HTML files from a simple JSON based data structure. As a result the community has been able to produce a number of atypical migration methodo",
             "metadata": {
                 "created": "1698242807",
-                "updated": 1741367860,
+                "updated": 1741379294,
                 "images": [],
                 "videos": [
                     "https:\/\/youtu.be\/58AKmH4K-Ec?si=L_-gwGLdASEqpaPz",
@@ -3952,12 +3952,12 @@
                     "https:\/\/youtu.be\/lZbWlNORlb0?si=q4LfH3WpDmN2LTCo",
                     "https:\/\/youtu.be\/h2oPDvQPAKg?si=JFauWghFMr_MhXQG"
                 ],
-                "published": "1",
+                "published": true,
                 "tags": "import,migration",
-                "locked": "",
-                "readtime": "2",
+                "locked": false,
+                "readtime": 2,
                 "status": "",
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX Import Template.docx",
