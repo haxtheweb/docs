@@ -2953,19 +2953,22 @@
         },
         {
             "id": "item-78385e2a-baae-49b6-bb0c-dcf565052a62",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-78385e2a-baae-49b6-bb0c-dcf565052a62\/index.html",
             "slug": "documentation\/developers\/haxsite\/data-store",
             "order": 0,
             "parent": "item-0e8a3894-a90b-450e-8d15-a5990ac65477",
             "title": "Data store",
-            "description": "",
+            "description": "At HAXeditor and HAXsite core data storage is MobX. MobX provides simple, scalable state management and the two data stores work together to provide individual yet integrated capability. MobX is how ",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": 1741367860,
                 "images": [],
                 "videos": [],
-                "updated": 1741367860
+                "updated": 1741368680,
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 4
             }
         },
         {
