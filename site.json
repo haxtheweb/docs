@@ -3957,7 +3957,16 @@
                 "locked": "",
                 "readtime": "2",
                 "status": "",
-                "hideInMenu": ""
+                "hideInMenu": "",
+                "files": [
+                    {
+                        "fullUrl": "\/bto108\/sites\/haxcellence\/files\/HAX Import Template.docx",
+                        "url": "files\/HAX Import Template.docx",
+                        "type": "application\/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                        "name": "HAX Import Template.docx",
+                        "size": 20501
+                    }
+                ]
             }
         },
         {

@@ -676,7 +676,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "I1d6cvsiQ35x9kt05q0WA"
+        "LE0KwjRI3wWQ8CmRdz0sQ"
     ],
     [
         "404.html",
@@ -1373,6 +1373,10 @@ var precacheConfig = [
     [
         "files\/image6.png",
         "YIjiv8EH1kG9S0f7r9YFg"
+    ],
+    [
+        "files\/HAX Import Template.docx",
+        "UtIdjUHKr7Ab07Qs9HSBQ"
     ],
     [
         "files\/CognativeTheoryMML.jpeg",
