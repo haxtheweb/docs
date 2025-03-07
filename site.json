@@ -3580,7 +3580,7 @@
         },
         {
             "id": "item-dec72ecf-71ad-480d-bb4b-105c4c83b676",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-dec72ecf-71ad-480d-bb4b-105c4c83b676\/index.html",
             "slug": "documentation\/developers\/hax-theme",
             "order": 5,
@@ -3589,15 +3589,15 @@
             "description": "While you're not required to use them, HAX supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of hax",
             "metadata": {
                 "created": "1727122062",
-                "updated": 1741364628,
+                "updated": 1741365442,
                 "images": [
                     "files\/2019-03-12_16-45-51.png"
                 ],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 3,
                 "status": ""
             }
         },
