@@ -3,12 +3,18 @@
 <code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">hax site coolstuff --theme "custom-theme" --custom-theme-name "custom-coolstuff-theme" --custom-theme-template "base" --y</template></code-sample>
 <p>This will create a new site called <code>coolstuff</code> and a theme for it. To edit your theme use the following developer workflow:</p>
 <ul><li><code>hax site start --root ./coolstuff</code> -- this gets HAX running so you can edit pages / see your site</li>
+
 <li><code>cd coolstuff/custom &amp;&amp; npm start</code> -- this gets the files being watched and rebuilt for your theme</li>
+
 <li>You can edit <code>coolstuff/custom/src/custom-coolstuff-theme.js</code> to work on your theme</li>
+
 </ul>
 <h2 id="header-ae9b6c1b-9fd0-7f59-584d-585c99bde47d">Considerations</h2>
 <ul><li>you can add additional outside projects, just make sure they are not already leveraged in the HAXSite core series of elements</li><li>Any usage of <code>@haxtheweb</code> based projects, just reference, you don't need to install</li>
+
 <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap" target="_blank">Importmaps</a> ensure that your assets resolve correctly when pushed out and are left as bare-import references by design</li>
+<li>There are many reusable blocks provided to simply theme development. Check them out in the <a href="documentation/developers/theme-blocks" target="_blank">Theme Blocks section.</a>&#160;</li>
+
 
 
 </ul>
@@ -17,10 +23,18 @@
 <code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">import { HAXCMSLitElementTheme, css, unsafeCSS, html, store, autorun, toJS } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
 </template></code-sample>
 <ul><li><b>HAXCMSLitElementTheme</b> - provides all needed wiring to work with HAXEditor and HAXsite store</li>
+
 <li><b>unsafeCSS</b> / <b>html</b> / <b>css</b> - lit template literal processors so you don't have to import lit</li>
+
 <li><b>store</b> - HAXSite store so you don't have to reference it</li>
+
 <li><b>autorun</b> / <b>toJS</b> - MobX common ways of interfacing with and reacting to store data</li>
+
 </ul>
+<h2 id="header-ad1548e2-13ee-7cc2-30b7-cfad44c9e317">Design system alignment</h2>
+<p>While you don't have to use DDD, our design system, leveraging it's sizing, colors and spacing will help make your site feel uniform. We hope to support other design systems in the future, until then, you can leverage the <code>hax</code> cli again to ensure what you are developing matches our design system standards.</p>
+<p>Just go to your site and run <code><b>hax audit</b></code>
+ and it will run a job to see areas you may be able to improve in your usage of css sizing and other values to match the design system. Again, you are not required to do this, but it can help ensure things feel cohesive.</p>
 <h2 id="header-7fff7a1b-8b7c-7853-6d8f-c38497fb09bd">Custom theme example</h2>
 <p>This is an example of a custom theme for <a href="https://github.com/btopro/btopro-internet-outlet/blob/master/custom/src/custom-custom-btopro-theme.js" target="_blank">btopro internet outlet</a>. You can build really complex themes as well that work with the information architecture of your site. While not providing the source, here's an example from <a href="https://odl.science.psu.edu/" target="_blank">Eberly ODL</a> that is a HAXsite based theme.</p>
 <p></p>
