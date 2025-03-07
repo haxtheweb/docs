@@ -2886,7 +2886,7 @@
         },
         {
             "id": "item-cb3070a2-9525-41df-a6bb-91c2844c5ed5",
-            "indent": "2",
+            "indent": 0,
             "location": "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
             "slug": "documentation\/hax-frontend-devs\/implementing-ddd",
             "order": 1,
@@ -2895,13 +2895,13 @@
             "description": "DDD provides our design language, but it also is a BaseClass and (technically) a web component in our repo (d-d-d). This guide will help you implement DDD in your projects. DDD Extends LitElement and",
             "metadata": {
                 "created": "1710530361",
-                "updated": 1741364627,
+                "updated": 1741364698,
                 "images": [],
                 "videos": [],
-                "published": "1",
-                "hideInMenu": "",
-                "locked": "",
-                "readtime": "2",
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 2,
                 "status": ""
             }
         },
