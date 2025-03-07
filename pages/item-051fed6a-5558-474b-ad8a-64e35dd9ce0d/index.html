@@ -1,1 +1,16 @@
+
+<p>Using hax cli you can create a custom theme for your site.</p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">hax site coolstuff --theme "custom-theme" --custom-theme-name "custom-coolstuff-theme" --custom-theme-template "base" --y</template></code-sample>
+<p>This will create a new site called coolstuff and a theme for it. To edit your theme use the following developer workflow:</p>
+<ul><li>hax site start --root ./coolstuff -- this gets HAX running so you can edit pages / see your site</li><li>cd coolstuff/custom &amp;&amp; npm start -- this gets the files being watched and rebuilt for your theme</li><li>You can edit coolstuff/custom/src/custom-coolstuff-theme.js to work on your theme</li></ul>
+<h2 id="header-ae9b6c1b-9fd0-7f59-584d-585c99bde47d">Considerations</h2>
+<ul><li>you can add additional outside projects, just make sure they are not already leveraged in the HAXSite core series of elements</li><li>Any usage of @haxtheweb based projects, just reference, you don't need to install</li><li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap" target="_blank">Importmaps</a> ensure that your assets resolve correctly when pushed out and are left as bare-import references by design</li>
+</ul>
+<h2 id="header-8182953b-623b-8924-4fba-31becc65efe9">Lit theme dev</h2>
+<p>The&#160;<span>HAXCMSLitElementTheme base class provides exports for the most commonly used functions and classes when working with HAXSite based theme development. You can use your own, but Lit is highly recommended and the primarily supported / documented approach.</span></p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">import { HAXCMSLitElementTheme, css, unsafeCSS, html, store, autorun, toJS } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
+</template></code-sample>
+<ul><li>HAXCMSLitElementTheme - provides all needed wiring to work with HAXEditor and HAXsite store</li><li>unsafeCSS / html / css - lit template literal processors so you don't have to import lit</li><li>store - HAXSite store so you don't have to reference it</li><li>autorun / toJS - MobX common ways of interfacing with and reacting to store data</li></ul>
+<h2 id="header-7fff7a1b-8b7c-7853-6d8f-c38497fb09bd">Custom theme example</h2>
+<p>This is an example of a custom theme for btopro internet outlet.</p>
 <p></p>
