@@ -48,6 +48,7 @@ import { autorun, toJS } from "mobx";</template></code-sample>
 <stop-note title="Learn more about theme development" accent-color="grey" icon="stopnoteicons:book-icon" status="info" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;site-title and many other blocks are available for theme development.&#60;/strong&#62;" url="documentation/developers/haxsite-theming" remote-link-target="{}" remote-link-url="documentation/developers/haxsite-theming"><p slot="message"><strong>site-title and many other blocks are available for theme development.</strong></p>
 
 
+
 </stop-note>
 <p>The most common way to get notified to changes in the store is with autoruns. A full example is below as Core development approach, however here's the critical piece.</p>
 <code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">autorun((reaction) =&gt; {
@@ -56,16 +57,22 @@ import { autorun, toJS } from "mobx";</template></code-sample>
 });</template></code-sample>
 <p>Here's how you can read and interpret the above (which can be applied to ANY store property):</p>
 <ul><li>Automatically run the following code whenever <b>siteTitle</b> changes in the store</li>
+
 <ul><li>This is part of the <i>magic of MobX</i>! It does textual analysis to say "the store cares about <b>siteTitle</b> so rerun this anonymous function because the code says it cares about <b>siteTitle</b>"</li>
+
 </ul>
+
 <li><span target="_blank"><code>toJS</code></span>&#160;clones the siteTitle so that it is a stand alone string as opposed to a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy" target="_blank">Proxy object</a>&#160;(the thing making MobX so powerful under the hood)</li>
+
 <li>in your <code>LitElement</code> / web component then you'd react to changes in <code>this.siteTitle</code>, render and respond as you see fit!</li>
+
 <li>the <code>this.__disposer</code> block is referenced below and is just data clean up in the event this element is not persistently rendered in the page.</li>
+
 </ul>
 <h3 id="header-04a32b1f-5899-6570-ca2b-827fb93fe3ad">Check understanding</h3>
 <p></p>
 <true-false-question question="You can use the autorun / toJS paradigm in order to react to ANY store property change listed above as MobX store props" max-attempts="0" typeof="oer:Assessment" resource="#31cf300a-a359-21cb-615d-68aa5f276263" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " quiz-name="default" data-primary="15" data-padding="xs" single-option>
-<p slot="feedbackIncorrect">Scroll back up the page, any property that we add to the MobX store you can subscribe to changes with the approach mentioned!</p><p slot="feedbackCorrect">You are one step closer to unlocking the magic of MobX + HAX!</p><p slot="content"></p><p slot="hint"></p><p slot="evidence"></p><input type="checkbox" value="True" correct="correct"><input type="checkbox" value="False"></true-false-question>
+<p slot="feedbackIncorrect">Scroll back up the page, any property that we add to the MobX store you can subscribe to changes with the approach mentioned!</p><p slot="feedbackCorrect">You are one step closer to unlocking the magic of MobX + HAX!</p><input type="checkbox" value="True" correct="correct"><input type="checkbox" value="False"></true-false-question>
 <h3 id="header-53250bbf-9888-5a5d-3d3b-e462996f8387">Core development approach to site-title</h3>
 <code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">/**
  * Copyright 2019 The Pennsylvania State University
