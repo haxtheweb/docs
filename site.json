@@ -3626,16 +3626,16 @@
             "order": 1,
             "parent": "item-0e8a3894-a90b-450e-8d15-a5990ac65477",
             "title": "Custom theme development",
-            "description": "Using hax cli you can create a custom theme for your site.hax site coolstuff --theme \"custom-theme\" --custom-theme-name \"custom-coolstuff-theme\" --custom-theme-template \"base\" --yThis will create a",
+            "description": "Using hax cli you can create a custom theme for your site.hax site coolstuff --theme ",
             "metadata": {
                 "locked": false,
                 "created": 1741367860,
                 "images": [],
                 "videos": [],
-                "updated": 1741372069,
+                "updated": 1741372322,
                 "published": true,
                 "hideInMenu": false,
-                "readtime": 1
+                "readtime": 2
             }
         },
         {
