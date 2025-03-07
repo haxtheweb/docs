@@ -3585,11 +3585,11 @@
             "slug": "documentation\/developers\/hax-theme",
             "order": 5,
             "parent": "item-c835c36d-38f5-43ac-9296-0b1be7851ce6",
-            "title": "hax theme",
+            "title": "HAXcms theming",
             "description": "While you're not required to use them, HAX supplies a series of elements that can make theme development effortless. You can see the source of these in greater detail under the theme directory of hax",
             "metadata": {
                 "created": "1727122062",
-                "updated": 1741367704,
+                "updated": 1741367743,
                 "images": [
                     "files\/2019-03-12_16-45-51.png"
                 ],
