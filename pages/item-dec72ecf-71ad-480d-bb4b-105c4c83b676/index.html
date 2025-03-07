@@ -49,19 +49,37 @@ import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-rss-button.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-search.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-title.js";
 import "@haxtheweb/haxcms-elements/lib/ui-components/site/site-uuid-link.js";</template></code-sample>
-<p>Now here's what each of them provide you which they are pretty self explanatory.</p>
-<ul><li><strong>site-active-title - </strong>the title of the active item wrapped in a h1 tag</li>
+<p>Now here's what each of them provide you which they are generally self explanatory. There are a few listed above which are not communicated below. This is because they are not common or are largely for core / end-user development.</p>
+<ul><li><b>site-active-media-banner - </b><span>media (usually an image) associated with the <b>activeItem</b></span></li>
+<li><b>site-active-tags -</b>&#160;a printed Array of tags rendered using simple-tag.</li>
+<li><strong>site-active-title - </strong>the title of the active item wrapped in a h1 tag</li>
+<li><b>site-git-corner</b> - if the site has a publicly available repo powering it (referenced in site.json / manifest) then it will present a link to the repo backing the site.</li>
+<li><b>site-share-widget</b> - creates a share button that when clicked presents different platforms you can share a link to the current page.</li>
+
 <li><strong>site-children-block</strong> - all child menu items based on a criteria match</li>
+
 <li><strong>site-outline-block</strong> - part of the outline based on criteria match</li>
+<li><b>site-recent-content-block</b> - presents recently added content to the site, ordered by created date, initial limit of 10 but can be modified</li>
+<li>site-drawer - </li>
 <li><strong>site-footer</strong> - a basic footer with license element based on site details</li>
+
 <li><strong>site-modal</strong> - a basic modal with button that can house other elements</li>
+
 <li><strong>site-breadcrumb</strong> - a breadcrumb trail for the active menu item</li>
+
 <li><strong>site-dot-indicator</strong> - site links but as a simple line of dots</li>
+
 <li><strong>site-menu-button</strong> - buttons for navigating through the active items in the menu. This is next, previous, parent and first child kinds of options.</li>
+
 <li><strong>site-menu</strong> - A visualization of the hierarchy of your site, complete with check-marks given per page the user goes to (optional) as well as a lot of styling options and a highlighted bar that scrolls the menu into view for small screens. It's fantastic and one line.</li>
+
 <li><strong>site-top-menu</strong> - Top level menu links with indicator that scrolls to focus</li>
+
 <li><strong>site-print-button</strong> - print button with support for 4 levels of printing the site</li>
+
 <li><strong>site-rss-button</strong> - a button that displays a link (opened in a new window) to get the RSS feed in RSS 2.0 or Atom 1.0 format (also applies correct semantic values for bots to discover)</li>
+
 <li><strong>site-title</strong> - a link to the homepage of the site wrapped in an h1 tag</li>
+
 </ul>
 <p>See the elements themselves for more details API examples and check out our themes as we leverage them heavily across the core themes.</p>
