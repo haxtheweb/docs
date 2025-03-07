@@ -1,11 +1,14 @@
 
 <p>autoloader is an object of references to web components that HAX should load the definitions of once it's done bootstrapping. Here's a basic example with the steps as to what HAX does with this information</p>
-<ol><li>HAX loads the appstore definition</li><li>HAX finishes its bootstrap and is ready to use (slides in from top of UI)</li><li>It then loops through each autoloader element and does the following:</li><ul><li>attempts to dynamically import the definition of the element</li><li>It then creates an instance of the element (virtually) and looks for <strong>static get haxProperties</strong></li><li>If this exists and is valid <a href="documentation/developers/schema/haxschema" target="_blank">haxSchema</a> then it shows up as a valid block in HAX!</li></ul></ol>
+<ol><li>HAX loads the appstore definition</li><li>HAX finishes its bootstrap and is ready to use (slides in from top of UI)</li><li>It then loops through each autoloader element and does the following:</li><ul><li>attempts to dynamically import the definition of the element</li><li>It then creates an instance of the element (virtually) and looks for <strong>static get haxProperties</strong></li>
+<li>If this exists and is valid <a href="documentation/developers/schema/haxschema" target="_blank">haxSchema</a> then it shows up as a valid block in HAX!</li>
+</ul>
+</ol>
 <h3 id="header-e807791d-f308-d370-20fc-d0109381f279">Spec details</h3>
 <p>There are a few different ways you can declare references to the autoloader schema. Here is a simple example of all three common forms an then we'll explain each.</p>
 <p></p>
 <code-sample copy-clipboard-button type="json"><template preserve-content="preserve-content">"autoloader": {
-"meme-maker": "@lrnwebcomponents/meme-maker/meme-maker.js",
+"meme-maker": "@haxtheweb/meme-maker/meme-maker.js",
 "another-tag": {
   "import": "some-other-location/bare-import-name/whatever.js"
 },
