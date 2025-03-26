@@ -4806,6 +4806,22 @@
             }
         },
         {
+            "id": "item-e3d2082f-7243-4cc4-83c9-f08fe2857f43",
+            "indent": 0,
+            "location": "pages\/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43\/index.html",
+            "slug": "hax-lab\/page",
+            "order": "3",
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+            "title": "Page",
+            "description": "",
+            "metadata": {
+                "created": 1743021717,
+                "updated": 1743021717,
+                "images": [],
+                "videos": []
+            }
+        },
+        {
             "id": "item-8ec9cf78-ab0c-42ec-abee-7c906be0a487",
             "indent": "1",
             "location": "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
