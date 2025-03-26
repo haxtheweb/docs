@@ -6,7 +6,7 @@
     <description>Ubiquitous Web Publishing</description>
     <copyright>Copyright (C) 2025 </copyright>
     <language>en-US</language>
-    <lastBuildDate>Fri, 07 Mar 2025 12:17:42 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 17:17:42 +0000</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
@@ -110,7 +110,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
       </description>
       <category></category>
       <guid>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</guid>
-      <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:12:36 +0000</pubDate>
     </item>
     <item>
       <title>Tutorials</title>
@@ -129,7 +129,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>tutorials</category>
       <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Pedagogy</title>
@@ -143,7 +143,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-40583b55-32bf-40c7-8e81-99c054b9a764</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Documentation</title>
@@ -163,7 +163,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>HAX Ontology</title>
@@ -199,7 +199,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Outcomes</title>
@@ -213,7 +213,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>ontology, outcomes</category>
       <guid>item-ac8baab4-f493-4fd9-9826-5f79e2e44c03</guid>
-      <pubDate>Wed, 03 May 2023 14:15:02 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:02 +0000</pubDate>
     </item>
     <item>
       <title>Structure</title>
@@ -227,7 +227,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-42b47c5a-8ad2-4507-bef1-0488c65cc54a</guid>
-      <pubDate>Wed, 03 May 2023 14:15:03 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Content</title>
@@ -241,7 +241,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-d57321c6-4106-45ec-89a4-8ebdf0af67f2</guid>
-      <pubDate>Wed, 03 May 2023 14:15:04 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:04 +0000</pubDate>
     </item>
     <item>
       <title>Instruction</title>
@@ -263,7 +263,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-23eb212e-a523-4d7b-862a-0a00cb786321</guid>
-      <pubDate>Wed, 03 May 2023 14:15:05 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:05 +0000</pubDate>
     </item>
     <item>
       <title>Assessment</title>
@@ -277,7 +277,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5</guid>
-      <pubDate>Wed, 03 May 2023 14:15:09 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:09 +0000</pubDate>
     </item>
     <item>
       <title>First-time HAX User</title>
@@ -295,7 +295,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-22596832-8320-4c7f-b7ae-f403d1d9ca31</guid>
-      <pubDate>Wed, 03 May 2023 14:20:32 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:20:32 +0000</pubDate>
     </item>
     <item>
       <title>Managing Course Structure</title>
@@ -307,7 +307,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-3e882dd4-4f71-4035-9ea0-26d840853c29</guid>
-      <pubDate>Wed, 03 May 2023 14:37:24 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:24 +0000</pubDate>
     </item>
     <item>
       <title>Insights dashboard</title>
@@ -321,7 +321,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>insights,tutorial</category>
       <guid>item-ca6807b1-e87c-4cb5-989c-cb4331b5d031</guid>
-      <pubDate>Wed, 03 May 2023 14:37:42 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:42 +0000</pubDate>
     </item>
     <item>
       <title>Block usage</title>
@@ -335,7 +335,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>blocks,usage,tutorial,example</category>
       <guid>item-50802aa4-f49e-4207-98d2-7ef3745568fc</guid>
-      <pubDate>Wed, 03 May 2023 14:38:06 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:38:06 +0000</pubDate>
     </item>
     <item>
       <title>What is HAX?</title>
@@ -370,7 +370,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-06108b56-48b5-4c50-b262-81659edc750e</guid>
-      <pubDate>Wed, 28 Jun 2023 08:51:22 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:51:22 +0000</pubDate>
     </item>
     <item>
       <title>Marketing</title>
@@ -386,7 +386,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-8991f223-d78f-42c3-a5f4-da79658ad80e</guid>
-      <pubDate>Wed, 28 Jun 2023 08:57:35 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:57:35 +0000</pubDate>
     </item>
     <item>
       <title>White papers</title>
@@ -409,7 +409,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-0842ac8e-9e65-4715-be25-e3ef4c0baf8b</guid>
-      <pubDate>Wed, 28 Jun 2023 09:03:55 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 13:03:55 +0000</pubDate>
     </item>
     <item>
       <title>Stand alone tools</title>
@@ -422,7 +422,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-0d30bca9-c852-4b30-ae4e-abc519262d31</guid>
-      <pubDate>Wed, 28 Jun 2023 10:00:11 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:00:11 +0000</pubDate>
     </item>
     <item>
       <title>Qualitative Rubric Prototype</title>
@@ -436,7 +436,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>experiment, gradebook, lab, rubric</category>
       <guid>item-635fe9b5-9bda-4658-a1af-3a366d123657</guid>
-      <pubDate>Wed, 28 Jun 2023 10:02:05 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:02:05 +0000</pubDate>
     </item>
     <item>
       <title>Conversion tools</title>
@@ -462,7 +462,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>tool, convert, labs</category>
       <guid>item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9</guid>
-      <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:15:29 +0000</pubDate>
     </item>
     <item>
       <title>Pledges</title>
@@ -479,7 +479,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>Environmental impact</title>
@@ -499,7 +499,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>Accessibility and Empowerment</title>
@@ -522,7 +522,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>The Core</title>
@@ -538,7 +538,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca</guid>
-      <pubDate>Thu, 29 Jun 2023 13:04:13 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 17:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Course Model Player</title>
@@ -662,7 +662,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-14ee9de9-51d1-4a0d-9944-3ba6856ac053</guid>
-      <pubDate>Fri, 14 Jul 2023 16:16:39 -0400</pubDate>
+      <pubDate>Fri, 14 Jul 2023 20:16:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

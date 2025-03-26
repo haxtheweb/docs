@@ -623,6 +623,10 @@ var precacheConfig = [
         "9CjLCcBYboY1Qgstp38dMg"
     ],
     [
+        "pages\/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43\/index.html",
+        "Ufw6jmy20Q5kCVZyHBK7g"
+    ],
+    [
         "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
         "MZNpBzbR2LmXiuUmDo76Qw"
     ],
@@ -676,7 +680,7 @@ var precacheConfig = [
     ],
     [
         "site.json",
-        "xd4C2ixjKAhsP3XfEs6UA"
+        "vDtZSa3a7NpFHXJq9QLZkA"
     ],
     [
         "404.html",
@@ -1121,6 +1125,10 @@ var precacheConfig = [
     [
         "files\/image3.png",
         "hFa2sNpuVUSc9bEY1ziB0g"
+    ],
+    [
+        "files\/haxstudentpipeline (1).jpg",
+        "X5ckU5f00ezSnv3rAjTw"
     ],
     [
         "files\/image55.png",
