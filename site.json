@@ -4809,14 +4809,14 @@
             "id": "item-e3d2082f-7243-4cc4-83c9-f08fe2857f43",
             "indent": 0,
             "location": "pages\/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43\/index.html",
-            "slug": "hax-lab\/page",
-            "order": "3",
+            "slug": "hax-lab\/student-innovation-pipeline",
+            "order": 3,
             "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-            "title": "Page",
-            "description": "",
+            "title": "Student Innovation Pipeline",
+            "description": "The Student innovation pipeline is a pipeline of young people that need to gain skills and contribute to something bigger than themselves in order to make their way into the web development landscape",
             "metadata": {
                 "created": 1743021717,
-                "updated": 1743021717,
+                "updated": 1743022122,
                 "images": [],
                 "videos": [],
                 "files": [
@@ -4827,7 +4827,11 @@
                         "name": "haxstudentpipeline (1).jpg",
                         "size": 141093
                     }
-                ]
+                ],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         },
         {
