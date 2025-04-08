@@ -2973,7 +2973,7 @@
         },
         {
             "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
-            "indent": "1",
+            "indent": 0,
             "location": "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
             "slug": "site-things\/footer",
             "order": 1,
@@ -2981,13 +2981,13 @@
             "title": "Footer",
             "description": "HAX seeks to empower as many people as it humans possible by open sourcing the high quality user experiences necessary to make building the web effortless. We seek to lift up all voices to make anyo",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706291665",
                 "images": [
                     "files\/HAX.psu World changer-circle1.png"
                 ],
                 "videos": [],
-                "updated": 1741367862,
+                "updated": 1744138341,
                 "files": [
                     {
                         "fullUrl": "\/bto108\/sites\/haxcellence\/files\/hax-footer.jpg",
@@ -3018,9 +3018,9 @@
                         "size": "1172092"
                     }
                 ],
-                "published": "1",
-                "hideInMenu": "",
-                "readtime": "1",
+                "published": true,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         },
