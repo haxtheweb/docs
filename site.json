@@ -4916,16 +4916,16 @@
             "order": 6,
             "parent": null,
             "title": "Site things",
-            "description": "no one has access to these things",
+            "description": "",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706291665",
                 "images": [],
                 "videos": [],
-                "updated": 1741367861,
-                "published": "",
-                "hideInMenu": "",
-                "readtime": "1",
+                "updated": 1744135919,
+                "published": false,
+                "hideInMenu": false,
+                "readtime": 1,
                 "status": ""
             }
         }
