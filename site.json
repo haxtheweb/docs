@@ -77,10 +77,10 @@
             "description": "HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90",
             "metadata": {
                 "created": "1683137556",
-                "updated": 1741367858,
-                "published": "1",
-                "locked": "",
-                "readtime": "2",
+                "updated": 1748870996,
+                "published": true,
+                "locked": false,
+                "readtime": 2,
                 "contentDetails": {
                     "headings": "0",
                     "paragraphs": "1",
@@ -115,7 +115,7 @@
                         "size": "126612"
                     }
                 ],
-                "hideInMenu": ""
+                "hideInMenu": false
             }
         },
         {
