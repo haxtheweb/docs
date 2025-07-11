@@ -4897,15 +4897,15 @@
             "title": "HAX Lab",
             "description": "What is HAX Lab?HAX Lab is the group responsible for HAX and the process of educating student contributors for the HAX ecosystem. HAX Lab is a collaboration between IST, Arts and Architecture and ot",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1724249290",
                 "images": [],
                 "videos": [],
-                "updated": 1741367861,
-                "published": "1",
+                "updated": 1752246451,
+                "published": true,
                 "status": "",
-                "hideInMenu": "",
-                "readtime": "2"
+                "hideInMenu": false,
+                "readtime": 2
             }
         },
         {

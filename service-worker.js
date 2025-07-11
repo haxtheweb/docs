@@ -636,7 +636,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a\/index.html",
-        "7zWTRJb3ZIao8dmvXdCIg"
+        "8q2NGLM9DJ0ir6gC99vmkw"
     ],
     [
         "pages\/item-861b84da-33c7-49e8-bf25-7aa8d9206d3b\/index.html",
@@ -647,40 +647,12 @@ var precacheConfig = [
         "UBOFRmPjCO72u0SXQbx8fg"
     ],
     [
-        "files\/haxcms-managed\/512x512-hax (1).png",
-        "EchqxpyZTF5enZmXTUZJvQ"
-    ],
-    [
-        "files\/haxcms-managed\/256x256-hax (1).png",
-        "4TnCKr1x6CyCJzLnw764Mg"
-    ],
-    [
-        "files\/haxcms-managed\/192x192-hax (1).png",
-        "D6yWvy6Nm7jprhLAwMrHw"
-    ],
-    [
-        "files\/haxcms-managed\/144x144-hax (1).png",
-        "hfWAbrQcE2cSByQdyX57Gg"
-    ],
-    [
-        "files\/haxcms-managed\/96x96-hax (1).png",
-        "flOE8Si6SE41jiNViJaA"
-    ],
-    [
-        "files\/haxcms-managed\/72x72-hax (1).png",
-        "UaAxfbehpvAus288AA3DA"
-    ],
-    [
-        "files\/haxcms-managed\/48x48-hax (1).png",
-        "BfT5IBVvUGCuDXjMDhvQ"
-    ],
-    [
         "manifest.json",
         "lyL7okHkcGZB9hVDBGQ"
     ],
     [
         "site.json",
-        "YnAyowhrWVqCucYbmz0OzA"
+        "cVfVuHeJMxwJuvN2Cf6Xw"
     ],
     [
         "404.html",
