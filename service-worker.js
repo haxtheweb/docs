@@ -40,7 +40,7 @@
 var precacheConfig = [
     [
         "pages\/item-8a5bf844-d498-4f75-bf96-110eaedb42d9\/index.html",
-        "AfO2RrLpg64CQimSG8Xdpw"
+        "5qR9WTlEXCQFultBZoYnmQ"
     ],
     [
         "pages\/item-4550bc1f-bef7-4891-85f0-58647624a26b\/index.html",
@@ -68,7 +68,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-68ecb822-ae89-466a-bce2-20b33332451a\/index.html",
-        "FS8xGuZiuUhjECvakMMg"
+        "Dis4sEUnwVpjoaXGJ3jAA"
     ],
     [
         "pages\/item-a13f6fde-9c55-4a1c-bd64-cf8498be649d\/index.html",
@@ -125,6 +125,10 @@ var precacheConfig = [
     [
         "pages\/item-b1a951b6-6989-4c62-aca2-e446bdc17bc9\/index.html",
         "lfUKNr8wVIZNPiRhXJr5g"
+    ],
+    [
+        "pages\/item-6817087b-a94d-4314-95cf-e53c1404f24d\/index.html",
+        "gKJv9LQT9KG3jcrKrvr0Kw"
     ],
     [
         "pages\/item-8991f223-d78f-42c3-a5f4-da79658ad80e\/index.html",
@@ -252,7 +256,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-22596832-8320-4c7f-b7ae-f403d1d9ca31\/index.html",
-        "2ixNSWOt5WhkjauxJV8fRA"
+        "KWyTsKF6Di920JjI7anw"
     ],
     [
         "pages\/item-f44c0f01-32e2-4e61-b965-3b24778abba0\/index.html",
@@ -356,7 +360,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-4b788e81-94f5-4699-b885-37b664eb8d7f\/index.html",
-        "K5KKDqyqOtz85g3VtIWg"
+        "7D7nXLpHYMWXs7CyLvwcOw"
     ],
     [
         "pages\/item-59855d23-c026-4b44-9c9f-d5414cc80e55\/index.html",
@@ -364,15 +368,19 @@ var precacheConfig = [
     ],
     [
         "pages\/item-cb3070a2-9525-41df-a6bb-91c2844c5ed5\/index.html",
-        "SbW7agooshkeU9JsAUPw"
+        "PI3ammw3sbbOWPPYGg6BA"
     ],
     [
         "pages\/item-15525242-f6e9-4201-bbb1-cdd8f29176f6\/index.html",
         "D2GaKqkgnXjXv7TXIVHfg"
     ],
     [
+        "pages\/item-78385e2a-baae-49b6-bb0c-dcf565052a62\/index.html",
+        "srbLl7on3rwo6aKtyoi1Q"
+    ],
+    [
         "pages\/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4\/index.html",
-        "xloaBNlvaVpcxIdXtiebA"
+        "WlYEgdAgqUlkAxk0OkgGBA"
     ],
     [
         "pages\/item-39d2b3f7-0ebc-43a6-88a3-5c1efd876b25\/index.html",
@@ -443,12 +451,8 @@ var precacheConfig = [
         "KGFZDxJNFKzohR5fguqfw"
     ],
     [
-        "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
-        "S6Jgz2jAIzD6RwVK8lNgxw"
-    ],
-    [
         "pages\/item-fbb47697-aa83-4b41-a3b4-ed8f9b2709c7\/index.html",
-        "ROdOnXmaziIJnkgbLaWtQ"
+        "wmFpa3a63muWc86cBF3PMA"
     ],
     [
         "pages\/item-585825f8-7d6a-4cf3-80cd-8fbed78053e6\/index.html",
@@ -456,7 +460,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-f3c9734c-89d9-41a9-b886-55d782c63114\/index.html",
-        "Eg2tQ1iWSOTFA4jJditHQ"
+        "9kuCRE9iydw3FUKj83HUug"
     ],
     [
         "pages\/item-3be9e67a-53cb-4b3a-9f5b-dc0b40cda743\/index.html",
@@ -468,11 +472,23 @@ var precacheConfig = [
     ],
     [
         "pages\/item-e26fa70d-3b7b-4523-9779-909bc83b073d\/index.html",
-        "Jj8guDdI9C4ggpPc2uO17Q"
+        "qo0kU0q4T9UUq0Z5ayntww"
+    ],
+    [
+        "pages\/item-0e8a3894-a90b-450e-8d15-a5990ac65477\/index.html",
+        "DxdWBVbGakk7byopG0xMSg"
+    ],
+    [
+        "pages\/item-051fed6a-5558-474b-ad8a-64e35dd9ce0d\/index.html",
+        "vVQaOpc2wPmzQLDFt54og"
     ],
     [
         "pages\/item-dec72ecf-71ad-480d-bb4b-105c4c83b676\/index.html",
-        "gMJFar92N3RBUbkbleJ1vg"
+        "mDmdLMbwR6oHdEkAIQzAbg"
+    ],
+    [
+        "pages\/item-680a9a59-5691-424e-8f84-ee9019e39849\/index.html",
+        "S6Jgz2jAIzD6RwVK8lNgxw"
     ],
     [
         "pages\/item-76e43829-027c-481b-8b39-5d215b2b9670\/index.html",
@@ -516,7 +532,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-aae73811-4bb1-44ba-9215-05c90b9f9007\/index.html",
-        "DXd3yO4ncsEarOlYlzzmTg"
+        "ZLyBA8DVMIkP8kmReAeWkw"
     ],
     [
         "pages\/item-3e882dd4-4f71-4035-9ea0-26d840853c29\/index.html",
@@ -587,12 +603,16 @@ var precacheConfig = [
         "R4UrmIKBCDKg7CuZgds2g"
     ],
     [
+        "pages\/item-b55b41d1-00b6-4add-9942-6d706a4fb14f\/index.html",
+        "mTQdRphqTc0Af7vZmCdKA"
+    ],
+    [
         "pages\/item-2b292b5e-6eb5-4031-9c82-7f3b7f87b236\/index.html",
         "daTzc0kP6rtbhUrVCBUVg"
     ],
     [
         "pages\/item-e6b422fc-8920-45b1-9068-173399ca50b2\/index.html",
-        "hkmxelQdWBCZBuF3ntTMQ"
+        "aNyJWlVG7fwujFWGTrETQ"
     ],
     [
         "pages\/item-a9fbc83f-b923-4af7-b998-5da6864a527a\/index.html",
@@ -601,6 +621,10 @@ var precacheConfig = [
     [
         "pages\/item-7607700d-d318-4479-a588-837ea13ecd8b\/index.html",
         "9CjLCcBYboY1Qgstp38dMg"
+    ],
+    [
+        "pages\/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43\/index.html",
+        "72Du69xXvOofIAk1ZLg"
     ],
     [
         "pages\/item-8ec9cf78-ab0c-42ec-abee-7c906be0a487\/index.html",
@@ -612,7 +636,7 @@ var precacheConfig = [
     ],
     [
         "pages\/item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a\/index.html",
-        "7zWTRJb3ZIao8dmvXdCIg"
+        "8q2NGLM9DJ0ir6gC99vmkw"
     ],
     [
         "pages\/item-861b84da-33c7-49e8-bf25-7aa8d9206d3b\/index.html",
@@ -623,40 +647,12 @@ var precacheConfig = [
         "UBOFRmPjCO72u0SXQbx8fg"
     ],
     [
-        "files\/haxcms-managed\/512x512-hax (1).png",
-        "EchqxpyZTF5enZmXTUZJvQ"
-    ],
-    [
-        "files\/haxcms-managed\/256x256-hax (1).png",
-        "4TnCKr1x6CyCJzLnw764Mg"
-    ],
-    [
-        "files\/haxcms-managed\/192x192-hax (1).png",
-        "D6yWvy6Nm7jprhLAwMrHw"
-    ],
-    [
-        "files\/haxcms-managed\/144x144-hax (1).png",
-        "hfWAbrQcE2cSByQdyX57Gg"
-    ],
-    [
-        "files\/haxcms-managed\/96x96-hax (1).png",
-        "flOE8Si6SE41jiNViJaA"
-    ],
-    [
-        "files\/haxcms-managed\/72x72-hax (1).png",
-        "UaAxfbehpvAus288AA3DA"
-    ],
-    [
-        "files\/haxcms-managed\/48x48-hax (1).png",
-        "BfT5IBVvUGCuDXjMDhvQ"
-    ],
-    [
         "manifest.json",
-        "vGBjnVMGxmjDu0wJUEAg"
+        "lyL7okHkcGZB9hVDBGQ"
     ],
     [
         "site.json",
-        "pfr36FCU0rcet86YJbWmw"
+        "A3kdZdUn0yL2F5RS4AW1AQ"
     ],
     [
         "404.html",
@@ -1103,6 +1099,10 @@ var precacheConfig = [
         "hFa2sNpuVUSc9bEY1ziB0g"
     ],
     [
+        "files\/haxstudentpipeline (1).jpg",
+        "X5ckU5f00ezSnv3rAjTw"
+    ],
+    [
         "files\/image55.png",
         "nwQ5jOhhcMELM64KdEjCWw"
     ],
@@ -1153,6 +1153,10 @@ var precacheConfig = [
     [
         "files\/image51.png",
         "cnty1Rfnnh38kMh9t5nOBA"
+    ],
+    [
+        "files\/hax-traveler-world-changer.jpg",
+        "NTKIjhRmmGzbU6oM8dquHQ"
     ],
     [
         "files\/Peter 1.jpg",
@@ -1349,6 +1353,10 @@ var precacheConfig = [
     [
         "files\/image6.png",
         "YIjiv8EH1kG9S0f7r9YFg"
+    ],
+    [
+        "files\/HAX Import Template.docx",
+        "UtIdjUHKr7Ab07Qs9HSBQ"
     ],
     [
         "files\/CognativeTheoryMML.jpeg",

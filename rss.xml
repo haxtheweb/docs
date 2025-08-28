@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title>HAXcellence</title>
+    <title>HAXTheWeb</title>
     <link></link>
-    <description>Create Your Own course</description>
+    <description>Ubiquitous Web Publishing</description>
     <copyright>Copyright (C) 2025 </copyright>
     <language>en-US</language>
-    <lastBuildDate>Tue, 14 Jan 2025 16:17:27 -0500</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 17:17:42 +0000</lastBuildDate>
     <atom:link href="" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
@@ -18,33 +18,46 @@
  web content. The goal of HAX is simple: to help people create rich and engaging web content 
   
   without needing to understand web code.</p>
-<h3 data-original-level="H3" id="header-fe0523d9-3015-c850-0767-e58ec8c3e739" data-primary="12" data-design-treatment="horz-25p">Try hax without installing a thing!</h3>
-<p><a href="https://hax.cloud/" target="_blank">HAX.cloud is a demo</a> service that allows you to test drive HAX without installing anything! Great for those trying to evaluate the platform's capabilities. <a href="https://hax.cloud/" role="textbox" target="_blank">Try it out now!</a></p>
-<h3 data-original-level="H3" id="header-42c94050-07ee-367a-11ad-945263ad0672" data-design-treatment="horz-25p" data-primary="18">Get involved!</h3>
-<ul>
-  <li ="true"=""><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
+<h3 id="header-fe0523d9-3015-c850-0767-e58ec8c3e739" data-primary="12" data-design-treatment="horz-25p">Try hax without installing a thing!</h3>
+<p><a href="https://hax.cloud/" target="_blank">HAX.cloud is a demo</a> service that allows you to test drive HAX without installing anything! Great for those trying to evaluate the platform's capabilities. <a href="https://hax.cloud/" target="_blank">Try it out now!</a></p>
+<h3 id="header-42c94050-07ee-367a-11ad-945263ad0672" data-design-treatment="horz-25p" data-primary="18">Get involved!</h3>
+<ul><li><a href="https://bit.ly/hax-discord" target="_blank">Join HAX community on Discord</a>
 
   </li>
-  <li ="true"="">Run the HAX CLI (<b>nodejs</b>) -- <code ="true"=""><b>npm</b> <b>install --global</b> <b>@haxtheweb/create</b></code></li><li>Then type: <strong style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary); caret-color: var(--hax-ui-caret-color, auto);"><code>hax start</code></strong><span style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary); caret-color: var(--hax-ui-caret-color, auto);"> to get started</span></li><ul ="true"=""><li ="true"="">Need to install nodejs / npm?</li><li ="true"="">I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
+
+  <li>Run the HAX CLI (<b>nodejs</b>) -- <code><b>npm</b> <b>install --global</b> <b>@haxtheweb/create</b></code>
+</li>
+<li>Then type: <strong><code>hax start</code></strong>
+<span> to get started</span></li>
+<ul><li>Need to install nodejs / npm?</li><li>I<a href="https://nodejs.org/" target="_blank">nstall NodeJS now</a> (comes with
       npm/npx above) Node 20+ / NPM 10+ required</li>
+
   </ul>
-  <li ="true"="">Install HAXcms (<b>nodejs</b>) -- <b><code ="true"="">npx @haxtheweb/haxcms-nodejs</code></b>
+
+  <li>Install HAXcms (<b>nodejs</b>) -- <b><code>npx @haxtheweb/haxcms-nodejs</code></b>
+
 
   </li>
-  <li ="true"=""><a href="https://github.com/haxtheweb/haxcms-php" target="_blank">Install HAXcms</a> (<b>PHP</b>)</li><li ="true"="">Check out <a href="https://cdn.hax.cloud/" target="_blank">"The Magic Script"</a> and leverage assets on our CDN</li>
-  <li ="true"="">Participate in <a href="https://github.com/elmsln/issues/issues" target="_blank">our issue queue</a>
+
+  <li><a href="https://github.com/haxtheweb/haxcms-php" target="_blank">Install HAXcms</a> (<b>PHP</b>)</li>
+<li>Check out <a href="https://cdn.hax.cloud/" target="_blank">"The Magic Script"</a> and leverage assets on our CDN</li>
+
+  <li>Participate in <a href="https://github.com/elmsln/issues/issues" target="_blank">our issue queue</a>
 
     </li>
-    <li ="true"="">Connect with <a href="https://x.com/HAXTheWeb" target="_blank">us on X</a>
+
+    <li>Connect with <a href="https://x.com/HAXTheWeb" target="_blank">us on X</a>
 and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">LinkedIn</a>
 
     </li>
 </ul>
-<grid-plate layout="1-1" disable-responsive item-padding="16" style=""><h3 slot="col-1" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" ="true"="">In the 90's</h3>
-<p slot="col-1" ="true"="">In the 90's, when the web really caught on, it was difficult to design and develop web content, but it was easy to maintain and anyone could participate with minor technical ability. As tools have evolved, the web became a feature rich, design centric place that we know and use today but the complexity curve went way up to achieve that.</p>
-<h3 slot="col-2" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133" ="true"="">we had simple fun</h3>
+<grid-plate layout="1-1" disable-responsive item-padding="16"><h3 slot="col-1" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133">In the 90's</h3>
+<p slot="col-1">In the 90's, when the web really caught on, it was difficult to design and develop web content, but it was easy to maintain and anyone could participate with minor technical ability. As tools have evolved, the web became a feature rich, design centric place that we know and use today but the complexity curve went way up to achieve that.</p>
+<h3 slot="col-2" id="header-e1415bdd-8774-d4b0-53c0-d5fcf1d8f133">we had simple fun</h3>
 
 <rpg-character accent-color="orange" accessories="3" height="142" width="113" base="0" face="5" face-item="7" hair="3" pants="8" shirt="0" skin="5" hat-color="2" hat="random" leg="L" seed="cool1" speed="500" slot="col-2"></rpg-character>
+
+
 
 
 
@@ -74,7 +87,11 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 
 
-<rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="R" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
+
+<rpg-character accent-color="orange" accessories="7" height="142" width="113" base="0" face="2" face-item="1" hair="5" pants="5" shirt="5" skin="0" hat-color="1" hat="none" leg="L" speed="500" slot="col-2" seed="btopro"></rpg-character>
+
+
 
 
 
@@ -91,25 +108,19 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
 
 </grid-plate>
 <p>HAX seeks to bring the web to the level of sustainability of the 90's web but without technical barriers to participate. It does this by encapsulating complexity using modern tools, yet saving everything in a portable, human readable format. As evidence, this website is built using HAX and is entirely static content that could be downloaded as a single zip file and moved easily.</p>
-<h2 data-original-level="H2" id="header-3cd03667-ed9b-7bc0-c588-eecc4283945e">Pillars of our community</h2>
+<h2 id="header-3cd03667-ed9b-7bc0-c588-eecc4283945e">Pillars of our community</h2>
 <p></p>
-<site-collection-list responsive-width="913" responsive-size="sm" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-a13f6fde-9c55-4a1c-bd64-cf8498be649d" items-per-row="7" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" edit-mode="" accent-color="grey"></site-collection-list>
+<site-collection-list responsive-width="913" responsive-size="sm" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-a13f6fde-9c55-4a1c-bd64-cf8498be649d" items-per-row="7" accent-color="grey"></site-collection-list>
 <p>You can read more about our <a href="pledges">community Pledges</a>
  as well as the <a href="documentation">technical details of how HAX</a>
 &#160;reduces barriers to creative expression online, while doing so in an ecosystem that is easy for developers to maintain, extend and grow.</p>
 <p>We hope you enjoy creating with HAX as much as we've enjoyed building it.</p>
-<p>Sincerely,</p>
-<p></p>
-<ul><li ="true"="">Penn State Office of Digital Learning, Arts &amp; Architecture</li>
-<li ="true"="">Penn State Office of Digital Leaerning, Eberly College of Science</li>
-</ul>
-<p></p>
-<p></p>
+<p>The HAXTheWeb Community</p>
  ]]>
       </description>
       <category></category>
       <guid>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</guid>
-      <pubDate>Wed, 03 May 2023 14:12:36 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:12:36 +0000</pubDate>
     </item>
     <item>
       <title>Tutorials</title>
@@ -128,7 +139,41 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>tutorials</category>
       <guid>item-903151c6-bd94-4bbb-9335-4649de2f9445</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pedagogy</title>
+      <link>ontology/new-item</link>
+      <description>
+          <![CDATA[ 
+<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
+<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
+<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-40583b55-32bf-40c7-8e81-99c054b9a764</guid>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>documentation</link>
+      <description>
+          <![CDATA[ 
+<stop-note title="Docs 💗" icon="stopnoteicons:warning-icon" message="&#60;span data-hax-layout=&quot;true&quot; data-hax-ray=&quot;SPAN&quot;=&quot;true&quot;&#62;If you see something missing from documentation, please offer suggestions of what needs clarified in our &#60;a href=&quot;https://github.com/haxtheweb/issues/issues&quot; target=&quot;_blank&quot;=&quot;true&quot; data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Basic link&quot;&#62;issue queue&#60;/a&#62;. The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials.&#60;/span&#62;" accent-color="grey" status="warning"><p slot="message" ="true"=""><span>If you see something missing from documentation, please offer suggestions of what needs clarified in our <a href="https://github.com/haxtheweb/issues/issues" target="_blank">issue queue</a>. The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials.</span></p>
+</stop-note>
+<p>HAX ecosystem covers PHP, NodeJS, other CMSs, Express, Desktop apps, 11ty, web components, CLIs and more. It's vast, so some parts of our ecosystem have their own mini-doc sites too.</p>
+<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
+<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
+</li>
+</ul>
+<p></p>
+<site-collection-list accent-color="grey" responsive-size="lg" published="" limit="8" sort="order" parent="item-0265920d-6055-404d-a0e6-1ae71c4ce258" sort-obj="{&quot;order&quot;:&quot;ASC&quot;}"></site-collection-list>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>HAX Ontology</title>
@@ -164,41 +209,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-b8f8fb5d-b05d-448d-814d-fac40fac14f6</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Documentation</title>
-      <link>documentation</link>
-      <description>
-          <![CDATA[ 
-<stop-note title="Docs 💗" icon="stopnoteicons:warning-icon" message="&#60;span data-hax-layout=&quot;true&quot; data-hax-ray=&quot;SPAN&quot;=&quot;true&quot;&#62;If you see something missing from documentation, please offer suggestions of what needs clarified in our &#60;a href=&quot;https://github.com/haxtheweb/issues/issues&quot; target=&quot;_blank&quot;=&quot;true&quot; data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Basic link&quot;&#62;issue queue&#60;/a&#62;. The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials.&#60;/span&#62;" accent-color="grey" status="warning"><p slot="message" ="true"=""><span>If you see something missing from documentation, please offer suggestions of what needs clarified in our <a href="https://github.com/haxtheweb/issues/issues" target="_blank">issue queue</a>. The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials.</span></p>
-</stop-note>
-<p>HAX ecosystem covers PHP, NodeJS, other CMSs, Express, Desktop apps, 11ty, web components, CLIs and more. It's vast, so some parts of our ecosystem have their own mini-doc sites too.</p>
-<ul><li ="true"=""><a href="https://haxtheweb.github.io/hax11ty/" rel="noopener noreferrer" target="_blank" style="font-size: var(--ddd-theme-body-font-size); font-family: var(--ddd-font-primary);">HAX11ty</a><br></li>
-<li ="true"=""><a href="https://wcfactory.js.org/" rel="noopener noreferrer" target="_blank">WCFactory</a>
-</li>
-</ul>
-<p></p>
-<site-collection-list accent-color="grey" responsive-size="lg" published="" limit="8" sort="order" parent="item-0265920d-6055-404d-a0e6-1ae71c4ce258" sort-obj="{&quot;order&quot;:&quot;ASC&quot;}"></site-collection-list>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-0265920d-6055-404d-a0e6-1ae71c4ce258</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pedagogy</title>
-      <link>ontology/new-item</link>
-      <description>
-          <![CDATA[ 
-<p>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</p>
-<simple-tags tags="ontology,pedagogy" auto-accent-color></simple-tags>
-<video-player accent-color="grey" dark crossorigin="anonymous" sticky-corner="none" resource="#870e89b8-4840-18b8-ac04-ddc2eb8c3e1a" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/JjsNyK5Wqtk&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" media-title="Pedagogy" text-align="center" style="background-color: var(--simple-colors-default-theme-null-1); color: var(--simple-colors-default-theme-null-12); text-align: center;" source="https://www.youtube.com/watch?v=JjsNyK5Wqtk" element-visible></video-player>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-40583b55-32bf-40c7-8e81-99c054b9a764</guid>
-      <pubDate>Wed, 03 May 2023 14:14:50 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
     </item>
     <item>
       <title>Outcomes</title>
@@ -212,7 +223,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>ontology, outcomes</category>
       <guid>item-ac8baab4-f493-4fd9-9826-5f79e2e44c03</guid>
-      <pubDate>Wed, 03 May 2023 14:15:02 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:02 +0000</pubDate>
     </item>
     <item>
       <title>Structure</title>
@@ -226,7 +237,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-42b47c5a-8ad2-4507-bef1-0488c65cc54a</guid>
-      <pubDate>Wed, 03 May 2023 14:15:03 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Content</title>
@@ -240,7 +251,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-d57321c6-4106-45ec-89a4-8ebdf0af67f2</guid>
-      <pubDate>Wed, 03 May 2023 14:15:04 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:04 +0000</pubDate>
     </item>
     <item>
       <title>Instruction</title>
@@ -262,7 +273,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-23eb212e-a523-4d7b-862a-0a00cb786321</guid>
-      <pubDate>Wed, 03 May 2023 14:15:05 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:05 +0000</pubDate>
     </item>
     <item>
       <title>Assessment</title>
@@ -276,7 +287,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-f37eeda2-e9b9-4039-84d5-f983ece1a6e5</guid>
-      <pubDate>Wed, 03 May 2023 14:15:09 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:09 +0000</pubDate>
     </item>
     <item>
       <title>First-time HAX User</title>
@@ -284,16 +295,17 @@ and we'll prioritize it's creation.</p>
       <description>
           <![CDATA[ 
 <ul><li>Before you get started, make sure you <a href="files/First-Time HAX User Tutorial Content.docx" target="_blank" background-color="cyan" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">download this HAX working document</a>
- in order to perform the tutorial shown</li>
-<li>If you prefer to read about the things in the video below, <a href="files/New User Script.docx" target="_blank" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">here is a tutorial in written form</a>
-.</li>
+ in order to perform the tutorial shown.</li>
+
+<li>If you prefer to read about the things in the video below, <a href="files/New User Script.docx" target="_blank" style="background-color: var(--simple-colors-default-theme-cyan-1); color: var(--simple-colors-default-theme-cyan-12);">here is a tutorial in written form</a>.</li>
+
 </ul>
 <video-player source="https://www.youtube.com/watch?v=bmsHBhGC8_Q" caption="https://www.youtube.com/watch?v=bmsHBhGC8_Q" accent-color="grey" crossorigin="anonymous" sticky-corner="none" resource="#6674464f-15c3-6586-bceb-1797f34d8caf" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " element-visible lang="en" t="{&quot;embeddedMedia&quot;:&quot;embedded media&quot;}" source-type="youtube" sources="[]" source-data="[{&quot;src&quot;:&quot;https://www.youtube.com/embed/bmsHBhGC8_Q&quot;,&quot;type&quot;:&quot;&quot;}]" tracks="[]" data-width="50" style="margin: 0 auto;" media-title="First time HAX user"></video-player>
  ]]>
       </description>
       <category></category>
       <guid>item-22596832-8320-4c7f-b7ae-f403d1d9ca31</guid>
-      <pubDate>Wed, 03 May 2023 14:20:32 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:20:32 +0000</pubDate>
     </item>
     <item>
       <title>Managing Course Structure</title>
@@ -305,7 +317,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-3e882dd4-4f71-4035-9ea0-26d840853c29</guid>
-      <pubDate>Wed, 03 May 2023 14:37:24 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:24 +0000</pubDate>
     </item>
     <item>
       <title>Insights dashboard</title>
@@ -319,7 +331,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>insights,tutorial</category>
       <guid>item-ca6807b1-e87c-4cb5-989c-cb4331b5d031</guid>
-      <pubDate>Wed, 03 May 2023 14:37:42 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:42 +0000</pubDate>
     </item>
     <item>
       <title>Block usage</title>
@@ -333,7 +345,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>blocks,usage,tutorial,example</category>
       <guid>item-50802aa4-f49e-4207-98d2-7ef3745568fc</guid>
-      <pubDate>Wed, 03 May 2023 14:38:06 -0400</pubDate>
+      <pubDate>Wed, 03 May 2023 18:38:06 +0000</pubDate>
     </item>
     <item>
       <title>What is HAX?</title>
@@ -368,7 +380,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-06108b56-48b5-4c50-b262-81659edc750e</guid>
-      <pubDate>Wed, 28 Jun 2023 08:51:22 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:51:22 +0000</pubDate>
     </item>
     <item>
       <title>Marketing</title>
@@ -384,7 +396,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-8991f223-d78f-42c3-a5f4-da79658ad80e</guid>
-      <pubDate>Wed, 28 Jun 2023 08:57:35 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:57:35 +0000</pubDate>
     </item>
     <item>
       <title>White papers</title>
@@ -407,7 +419,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-0842ac8e-9e65-4715-be25-e3ef4c0baf8b</guid>
-      <pubDate>Wed, 28 Jun 2023 09:03:55 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 13:03:55 +0000</pubDate>
     </item>
     <item>
       <title>Stand alone tools</title>
@@ -420,7 +432,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-0d30bca9-c852-4b30-ae4e-abc519262d31</guid>
-      <pubDate>Wed, 28 Jun 2023 10:00:11 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:00:11 +0000</pubDate>
     </item>
     <item>
       <title>Qualitative Rubric Prototype</title>
@@ -434,7 +446,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>experiment, gradebook, lab, rubric</category>
       <guid>item-635fe9b5-9bda-4658-a1af-3a366d123657</guid>
-      <pubDate>Wed, 28 Jun 2023 10:02:05 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:02:05 +0000</pubDate>
     </item>
     <item>
       <title>Conversion tools</title>
@@ -460,7 +472,24 @@ and we'll prioritize it's creation.</p>
       </description>
       <category>tool, convert, labs</category>
       <guid>item-5bcfc9da-de7b-4e0c-858d-1f7adde911a9</guid>
-      <pubDate>Wed, 28 Jun 2023 10:15:29 -0400</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:15:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pledges</title>
+      <link>pledges</link>
+      <description>
+          <![CDATA[ 
+<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
+ we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
+, but <b>we try our best</b>
+ to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
+<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
+<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
+ ]]>
+      </description>
+      <category></category>
+      <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>Environmental impact</title>
@@ -480,7 +509,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-edcd6f86-05b5-43a9-8766-8a56709451c8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>Accessibility and Empowerment</title>
@@ -503,24 +532,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-d64f8a31-bd4c-499d-a0e0-e97ad1c9d1cb</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
-    </item>
-    <item>
-      <title>Pledges</title>
-      <link>pledges</link>
-      <description>
-          <![CDATA[ 
-<p font-size="xx-large" background-color="light-blue" text-align="center" padding-top="64" padding-right="64" padding-bottom="64" padding-left="64" margin-right="8" margin-top="8" margin-bottom="8" margin-left="8" data-font-family="navigation" data-accent="2" data-primary="1" data-font-size="l" data-text-align="center" data-border-radius="xl" data-border="lg" data-box-shadow="sm">These are <i>pledges</i>
- we make to our community and attempt to strive towards.<i> We won't always hit the mark</i>
-, but <b>we try our best</b>
- to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond!</p>
-<h2 data-original-level="H2" id="header-b26c1b01-cab4-131b-c6c8-ae8883995e74">Learn more about pledges</h2>
-<site-collection-list responsive-width="1462" responsive-size="md" published="" limit="8" sort="title" breakpoint-sm="900" breakpoint-md="1200" breakpoint-lg="1500" breakpoint-xl="1800" parent="item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8" sort-obj="{&quot;title&quot;:&quot;ASC&quot;}" accent-color="grey" edit-mode></site-collection-list>
- ]]>
-      </description>
-      <category></category>
-      <guid>item-012ec894-f7a5-4d12-b0e5-f8e131d7c2b8</guid>
-      <pubDate>Thu, 29 Jun 2023 11:01:12 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
     </item>
     <item>
       <title>The Core</title>
@@ -536,7 +548,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-4c29eaf9-75db-4e33-8cd3-de1f4d64d6ca</guid>
-      <pubDate>Thu, 29 Jun 2023 13:04:13 -0400</pubDate>
+      <pubDate>Thu, 29 Jun 2023 17:04:13 +0000</pubDate>
     </item>
     <item>
       <title>Course Model Player</title>
@@ -660,7 +672,7 @@ and we'll prioritize it's creation.</p>
       </description>
       <category></category>
       <guid>item-14ee9de9-51d1-4a0d-9944-3ba6856ac053</guid>
-      <pubDate>Fri, 14 Jul 2023 16:16:39 -0400</pubDate>
+      <pubDate>Fri, 14 Jul 2023 20:16:39 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,235 @@
+
+<p>At HAXeditor and HAXsite core data storage is <a href="https://mobx.js.org/" target="_blank">MobX</a>. MobX provides simple, scalable state management and the two data stores work together to provide individual yet integrated capability. MobX is how all pieces of the application understand what is 'active' either at the editor or site layer. It's how the editor can operate without the site and the site can understand the editor to help create a decoupled yet seamless experience.</p>
+<h2 id="header-14e06c4c-5b07-78c3-6b6f-3e24916572db">Store properties</h2>
+<p>This list may fall out of date, however the store is not commonly modified, when it is, it is api enhancement as opposed to removal. HAXsite's MobX store is simple and primarily in charge of bridging the router (url slug / path) with what the 'activeId' is. From there, the activeItem from the site.json manifest's items array can be correctly identified.</p>
+<p>Each property is listed and available on the store. To pull in the store in your code write the following:</p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">import { store } from "@haxtheweb/haxcms-elements/lib/core/haxcms-site-store.js";
+import { autorun, toJS } from "mobx";</template></code-sample>
+<h3 id="header-bb43a4d8-3894-66c6-eb84-2b122dc65960">MobX store props</h3>
+<code-sample type="javascript"><template preserve-content="preserve-content">{
+  location: observable.ref, // router location in url
+  currentRouterLocation: observable.ref,
+  internalRoutes: observable, // internal routes to haxcms
+  editMode: observable, // global editing state
+  jwt: observable, // json web token
+  userData: observable, // user data object for logged in users
+  manifest: observable, // JOS / manifest
+  activeItemContent: observable, // active site content, cleaned up
+  themeElement: observable, // theme element
+  version: observable, // version of haxcms FRONTEND as per package.json
+  routerManifest: computed, // router mixed in manifest w/ routes / paths
+  siteTitle: computed, // site title
+  siteDescription: computed, // site description
+  isLoggedIn: computed, // simple boolean for state so we can style based on logged in
+  themeData: computed, // get the active theme from manifest + activeId
+  regionData: computed, // get the active region data from manifest + activeId
+  entityData: computed, // get entity data from manifest
+  homeLink: computed,
+  activeId: observable, // this affects all state changes associated to activeItem
+  activeItem: computed, // active item object
+  activeItemFields: computed, // active item field values
+  activeManifestIndex: computed, // active array index, used for pagination
+  activeManifestIndexCounter: computed, // active array index counter, used for pagination
+  activeTitle: computed, // active page title
+  activeTags: computed, // active page tags
+  parentTitle: computed, // active page parent title
+  ancestorTitle: computed, // active page ancestor title
+  ancestorItem: computed, // active page ancestor
+  darkMode: observable, // dark mode pref
+  soundStatus: observable, // toggle sounds on and off
+  appReady: observable, // system is ready via firstUpdated of haxcms-site-builder
+  badDevice: observable, // if we have a low performance device
+  pageAllowed: observable, // if the page operations are allowed to be viewed
+}</template></code-sample>
+<h2 id="header-69512fbd-ebbe-3359-1f27-2a2eb0fbdd94">MobX common usage</h2>
+<ul><li>You create a LitElement which is stateful and reactive to properties</li><li>You want to subscribe to this style of property reactivity when changes happen in HAXsite or HAXeditor</li></ul>
+<h3 id="header-2f68b807-a588-5b8f-db0b-9ed78ca85c80">toJS / autorun paradigm</h3>
+<p>While MobX has extensive docs, this is the most common way that you can integrate with HAX in the ways most people will care about. The following is how site-title knows to render the title, react to being in an editable state, and change when the manifest updates the name of the site.</p>
+<stop-note title="Learn more about theme development" accent-color="grey" icon="stopnoteicons:book-icon" status="info" message="&#60;strong data-hax-layout=&quot;true&quot; data-hax-ray=&quot;Bold&quot;=&quot;true&quot;&#62;site-title and many other blocks are available for theme development.&#60;/strong&#62;" url="documentation/developers/haxsite-theming" remote-link-target="{}" remote-link-url="documentation/developers/haxsite-theming"><p slot="message"><strong>site-title and many other blocks are available for theme development.</strong></p>
+
+
+
+</stop-note>
+<p>The most common way to get notified to changes in the store is with autoruns. A full example is below as Core development approach, however here's the critical piece.</p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">autorun((reaction) =&gt; {
+  this.siteTitle = toJS(store.siteTitle);
+  this.__disposer.push(reaction);
+});</template></code-sample>
+<p>Here's how you can read and interpret the above (which can be applied to ANY store property):</p>
+<ul><li>Automatically run the following code whenever <b>siteTitle</b> changes in the store</li>
+
+<ul><li>This is part of the <i>magic of MobX</i>! It does textual analysis to say "the store cares about <b>siteTitle</b> so rerun this anonymous function because the code says it cares about <b>siteTitle</b>"</li>
+
+</ul>
+
+<li><span target="_blank"><code>toJS</code></span>&#160;clones the siteTitle so that it is a stand alone string as opposed to a <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy" target="_blank">Proxy object</a>&#160;(the thing making MobX so powerful under the hood)</li>
+
+<li>in your <code>LitElement</code> / web component then you'd react to changes in <code>this.siteTitle</code>, render and respond as you see fit!</li>
+
+<li>the <code>this.__disposer</code> block is referenced below and is just data clean up in the event this element is not persistently rendered in the page.</li>
+
+</ul>
+<h3 id="header-04a32b1f-5899-6570-ca2b-827fb93fe3ad">Check understanding</h3>
+<p></p>
+<true-false-question question="You can use the autorun / toJS paradigm in order to react to ANY store property change listed above as MobX store props" max-attempts="0" typeof="oer:Assessment" resource="#31cf300a-a359-21cb-615d-68aa5f276263" prefix="oer:http://oerschema.org/ schema:http://schema.org/ dc:http://purl.org/dc/terms/ foaf:http://xmlns.com/foaf/0.1/ cc:http://creativecommons.org/ns# bib:http://bib.schema.org " quiz-name="default" data-primary="15" data-padding="xs" single-option>
+<p slot="feedbackIncorrect">Scroll back up the page, any property that we add to the MobX store you can subscribe to changes with the approach mentioned!</p><p slot="feedbackCorrect">You are one step closer to unlocking the magic of MobX + HAX!</p><input type="checkbox" value="True" correct="correct"><input type="checkbox" value="False"></true-false-question>
+<h3 id="header-53250bbf-9888-5a5d-3d3b-e462996f8387">Core development approach to site-title</h3>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">/**
+ * Copyright 2019 The Pennsylvania State University
+ * @license Apache-2.0, see License.md for full text.
+ */
+import { LitElement, html, css } from "lit";
+import { store } from "@haxtheweb/haxcms-elements/lib/core/haxcms-site-store.js";
+import { autorun, toJS } from "mobx";
+import { HAXCMSI18NMixin } from "../../core/utils/HAXCMSI18NMixin.js";
+import "@haxtheweb/simple-icon/lib/simple-icon-lite.js";
+import "@haxtheweb/simple-icon/lib/simple-icons.js";
+import { HAXCMSThemeParts } from "@haxtheweb/haxcms-elements/lib/core/utils/HAXCMSThemeParts.js";
+
+/**
+ * `site-title`
+ * `Title of the site`
+ *
+
+ * @demo demo/index.html
+ */
+class SiteTitle extends HAXCMSThemeParts(HAXCMSI18NMixin(LitElement)) {
+  /**
+   * LitElement constructable styles enhancement
+   */
+  static get styles() {
+    return [
+      super.styles,
+      css`
+        :host {
+          display: block;
+          text-rendering: optimizelegibility;
+          position: relative;
+          color: inherit;
+          --simple-icon-width: 32px;
+          --simple-icon-height: 32px;
+        }
+        a {
+          color: inherit;
+          display: var(--site-title-link-display, block);
+          text-decoration: var(--site-title-link-text-decoration);
+        }
+        simple-icon-lite {
+          margin-right: 8px;
+        }
+        a h1 {
+          display: var(--site-title-link-h1-display, block);
+          color: inherit;
+          text-rendering: optimizelegibility;
+          font-family: var(--site-title-heading-font-family);
+          font-size: var(--site-title-heading-font-size);
+          margin: var(--site-title-heading-margin);
+          padding: var(--site-title-heading-padding);
+          text-align: var(--site-title-heading-text-align);
+          text-rendering: var(--site-title-heading-text-rendering);
+          font-weight: var(--site-title-heading-font-weight);
+          line-height: var(--site-title-heading-font-size);
+        }
+      `,
+    ];
+  }
+  /**
+   * Store the tag name to make it easier to obtain directly.
+   */
+  static get tag() {
+    return "site-title";
+  }
+  constructor() {
+    super();
+    this.HAXCMSI18NMixinBase = "../../../";
+    this.__disposer = [];
+    this.icon = null;
+    this.t = {
+      home: "Home",
+    };
+    this.notitle = false;
+    autorun((reaction) =&gt; {
+      this.siteTitle = toJS(store.siteTitle);
+      this.__disposer.push(reaction);
+    });
+    autorun((reaction) =&gt; {
+      this.homeLink = toJS(store.homeLink);
+      this.__disposer.push(reaction);
+    });
+    autorun((reaction) =&gt; {
+      this.editMode = toJS(store.editMode);
+      this.__disposer.push(reaction);
+    });
+  }
+
+  _editClick(e) {
+    if (this.disabled || this.editMode) {
+      e.preventDefault();
+    }
+  }
+  /**
+   * LitElement
+   */
+  render() {
+    return html`
+      <a href="${this.homeLink}" title="${this.t.home}" @click="${this._editClick}" .part="${this.editMode ? `edit-mode-active` : ``}" ?disabled="${this.disabled || this.editMode}">
+        <simple-icon-lite ?hidden="${this.icon ? false : true}" icon="${this.icon}"></simple-icon-lite>
+        ${this.notitle ? `` : html` <h1>${this.siteTitle}</h1> `}
+      </a>
+    `;
+  }
+  /**
+   * Props
+   */
+  static get properties() {
+    return {
+      ...super.properties,
+      disabled: {
+        type: Boolean,
+        reflect: true,
+      },
+      editMode: {
+        type: Boolean,
+        attribute: "edit-mode",
+        reflect: true,
+      },
+      /**
+       * Site title
+       */
+      siteTitle: {
+        type: String,
+        attribute: "site-title",
+      },
+      /**
+       * HREF to the home page
+       */
+      homeLink: {
+        type: String,
+        attribute: "home-link",
+      },
+      /**
+       * optional icon
+       */
+      icon: {
+        type: String,
+      },
+      /**
+       * If the title should be displayed or not
+       */
+      notitle: {
+        type: Boolean,
+        reflect: true,
+      },
+    };
+  }
+  disconnectedCallback() {
+    for (var i in this.__disposer) {
+      this.__disposer[i].dispose();
+    }
+    super.disconnectedCallback();
+  }
+}
+customElements.define(SiteTitle.tag, SiteTitle);
+export { SiteTitle };
+</template></code-sample>
+<p></p>

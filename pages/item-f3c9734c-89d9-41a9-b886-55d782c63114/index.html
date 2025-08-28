@@ -1,18 +1,22 @@
 
 <p>We've created a way to internationalize ANY web component you create. Because this is a complex topic, and we seek to empower anyone, anywhere to work with web components; i18n is a critical piece of accessibility and improving knowledge access on the web. Doing so without requiring a framework driven approach, or even knowing how our element will be used in production, is a complicated series of decisions.</p>
 <a href="https://dev.to/btopro/i18n-manager-web-component-41a2">This blog series details these decisions</a>
-<h3 data-original-level="H3" id="header-ecb29a0d-0858-782b-80ef-34646ea1b56e">I18NMixin</h3>
+<h3 id="header-ecb29a0d-0858-782b-80ef-34646ea1b56e">I18NMixin</h3>
 <ul>
     <li>
       Install the mixin: <code>npm install @haxtheweb/i18n-manager</code>
     </li>
+
     <li>
       create a folder in your element called <code>/locales</code>
     </li>
+
     <li>create a file called <code>my-element.es.json</code> for the spanish translation of your element. Japanese would be <code>my-element.ja.json</code> for example.</li>
+
   </ul>
 <code-sample type="javascript" copy-clipboard-button>
-  <template preserve-content="preserve-content">import { I18NMixin } from "@lrnwebcomponents/i18n-manager/lib/I18NMixin.js";
+  
+<template preserve-content="preserve-content">import { I18NMixin } from "@haxtheweb/i18n-manager/lib/I18NMixin.js";
 class MyElement extends I18NMixin(HTMLElement) {
   constructor() {
     this.t = {
@@ -30,8 +34,7 @@ class MyElement extends I18NMixin(HTMLElement) {
       this.innerHTML = `<span>${this.t.stuff}</span>`;
     }
   }
-}</template>
-</code-sample>
+}</template></code-sample>
 <p>This invokes a dependency on our manager which you might not want to have in your element. If you want to do a similar approach but without dependencies, you just have to feed a custom event to our manager. You'll still have to use the  convention for translatable text, but here's how you can invoke the event needed</p>
 <code-sample type="javascript" copy-clipboard-button>
   <template preserve-content="preserve-content">window.dispatchEvent(

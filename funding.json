@@ -1,0 +1,145 @@
+{
+    "$schema": "https://floss.fund/schema/v1.0.0/funding.schema.json#",
+    "version": "v1.0.0",
+    "entity": {
+        "type": "organisation",
+        "role": "owner",
+        "name": "HAX The Web",
+        "email": "hax@psu.edu",
+        "phone": "814-867-0450",
+        "description": "HAX The Web is an open source ubiquitous web development project created by The Pennsylvania State University. Primarily worked on in HAX Lab, a partnership between College of Arts & Architecture and College of Information Sciences and Technology. We are a group of researchers, developers, students, faculty and designers who are passionate about making the web more accessible, inclusive and ubiquitous for anyone regardless of ability.",
+        "webpageUrl": {
+            "url": "https://haxtheweb.org"
+        }
+    },
+    "projects": [
+        {
+            "guid": "webcomponents",
+            "name": "Web component monorepo",
+            "description": "A collection of web components that are used in the HAX ecosystem. These components are used to build the HAX editor, HAXcms and other projects.",
+            "webpageUrl": {
+                "url": "https://github.com/haxtheweb/webcomponents",
+                "wellKnown": "https://github.com/haxtheweb/webcomponents/blob/master/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/haxtheweb/webcomponents",
+                "wellKnown": "https://github.com/haxtheweb/webcomponents/blob/master/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:Apache-2.0"],
+            "tags": ["webcomponents", "lit", "haxtheweb"]
+        },
+        {
+            "guid": "haxcms-php",
+            "name": "HAXcms PHP",
+            "description": "A PHP version of HAXcms, a headless CMS that is built on web components.",
+            "webpageUrl": {
+                "url": "https://github.com/haxtheweb/haxcms-php",
+                "wellKnown": "https://github.com/haxtheweb/haxcms-php/blob/master/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/haxtheweb/haxcms-php",
+                "wellKnown": "https://github.com/haxtheweb/haxcms-php/blob/master/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:Apache-2.0"],
+            "tags": ["webcomponents", "lit", "haxtheweb"]
+        },
+        {
+            "guid": "haxcms-nodejs",
+            "name": "HAXcms Nodejs",
+            "description": "A Nodejs version of HAXcms, a headless CMS that is built on web components.",
+            "webpageUrl": {
+                "url": "https://github.com/haxtheweb/haxcms-nodejs",
+                "wellKnown": "https://github.com/haxtheweb/haxcms-nodejs/blob/main/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/haxtheweb/haxcms-nodejs",
+                "wellKnown": "https://github.com/haxtheweb/haxcms-nodejs/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:Apache-2.0"],
+            "tags": ["webcomponents", "lit", "haxtheweb"]
+        },
+        {
+            "guid": "create",
+            "name": "HAX CLI",
+            "description": "A CLI tool for creating HAX sites and web components.",
+            "webpageUrl": {
+                "url": "https://github.com/haxtheweb/create",
+                "wellKnown": "https://github.com/haxtheweb/create/blob/main/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/haxtheweb/create",
+                "wellKnown": "https://github.com/haxtheweb/create/blob/main/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:Apache-2.0"],
+            "tags": ["webcomponents", "lit", "haxtheweb"]
+        },
+        {
+            "guid": "issues",
+            "name": "HAX The Web Issue Tracker",
+            "description": "A place to report issues and feature requests for HAX The Web projects.",
+            "webpageUrl": {
+                "url": "https://github.com/haxtheweb/issues",
+                "wellKnown": "https://github.com/haxtheweb/issues/blob/master/.well-known/funding-manifest-urls"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/haxtheweb/issues",
+                "wellKnown": "https://github.com/haxtheweb/issues/blob/master/.well-known/funding-manifest-urls"
+            },
+            "licenses": ["spdx:Apache-2.0"],
+            "tags": ["webcomponents", "lit", "haxtheweb"]
+        }
+    ],
+    "funding": {
+        "channels": [
+            {
+            "guid": "opencollective",
+            "type": "payment-provider",
+            "address": "https://opencollective.com/haxtheweb",
+            "description": "Donate to HAX The Web via Open Collective."
+            }
+        ],
+        "plans": [
+            {
+            "guid": "project-growth",
+            "status": "active",
+            "name": "Growth",
+            "description": "Our projects require constant management in order to sustain and grow. Please consider helping us continue to grow by building up funds to support student developers, bug bounties and more!",
+            "amount": 50,
+            "currency": "USD",
+            "frequency": "monthly",
+            "channels": ["opencollective"]
+            },
+            {
+            "guid": "hax-lab-student-developer-time",
+            "status": "active",
+            "name": "HAX Lab student internship",
+            "description": "This will cover the cost of one student developer working for HAX Lab to complete a 240 hour requirement, while funding them to do so. HAX Lab students learn about modern web development by contributing to issues in the HAX ecosystem. These internships often are unfunded due to students just desiring to learn about the project. Funding students helps bring in more students that want to do this as a profession and have the space to grow while being financially supported.",
+            "amount": 4680,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["opencollective"]
+            },
+            {
+            "guid": "angel-plan",
+            "status": "active",
+            "name": "Goodwill plan",
+            "description": "Pay anything you wish to show your goodwill for the project and help HAX grow.",
+            "amount": 0,
+            "currency": "USD",
+            "frequency": "one-time",
+            "channels": ["opencollective"]
+            }
+        ],
+        "history": [
+            {"year": 2017, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "ELMS efforts, HAX being one of them, are formally recognized by Apereo as a mature software community."},
+            {"year": 2018, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2019, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2020, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2021, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2022, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2023, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2024, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."},
+            {"year": 2025, "income": 0, "expenses": 0, "taxes": 0, "currency": "USD", "description": "HAX PSU community grows, seeking funding opportunities through grants and other means in order to grow the community and increase sustainability of development. Open source community is subsidized by Penn State University. HAX The Web code released to the public to benefit web development broadly while being used to power online courses directly."}
+        ]
+    }
+}

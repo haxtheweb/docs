@@ -1,0 +1,124 @@
+
+<p>Using hax cli you can create a custom theme for your site.</p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">hax site coolstuff --theme "custom-theme" --custom-theme-name "custom-coolstuff-theme" --custom-theme-template "base" --y</template></code-sample>
+<p>This will create a new site called <code>coolstuff</code> and a theme for it. To edit your theme use the following developer workflow:</p>
+<ul><li><code>hax site start --root ./coolstuff</code> -- this gets HAX running so you can edit pages / see your site</li>
+
+
+
+
+<li><code>cd coolstuff/custom &amp;&amp; npm start</code> -- this gets the files being watched and rebuilt for your theme</li>
+
+
+
+
+<li>You can edit <code>coolstuff/custom/src/custom-coolstuff-theme.js</code> to work on your theme</li>
+
+
+
+
+</ul>
+<h2 id="header-ae9b6c1b-9fd0-7f59-584d-585c99bde47d">Considerations</h2>
+<ul><li>you can add additional outside projects, just make sure they are not already leveraged in the HAXSite core series of elements</li><li>Any usage of <code>@haxtheweb</code> based projects, just reference, you don't need to install</li>
+
+
+
+
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script/type/importmap" target="_blank">Importmaps</a> ensure that your assets resolve correctly when pushed out and are left as bare-import references by design</li>
+
+
+
+<li>There are many reusable blocks provided to simply theme development. Check them out in the <a href="documentation/developers/theme-blocks" target="_blank">Theme Blocks section.</a>&#160;</li>
+
+
+
+
+
+
+</ul>
+<h2 id="header-8182953b-623b-8924-4fba-31becc65efe9">Lit theme dev</h2>
+<p>The&#160;<span><code>HAXCMSLitElementTheme</code> base class provides exports for the most commonly used functions and classes when working with HAXSite based theme development. You can use your own, but Lit is highly recommended and the primarily supported / documented approach.</span></p>
+<code-sample type="javascript" copy-clipboard-button><template preserve-content="preserve-content">import { HAXCMSLitElementTheme, css, unsafeCSS, html, store, autorun, toJS } from "@haxtheweb/haxcms-elements/lib/core/HAXCMSLitElementTheme.js";
+</template></code-sample>
+<ul><li><b>HAXCMSLitElementTheme</b> - provides all needed wiring to work with HAXEditor and HAXsite store</li>
+
+
+
+
+<li><b>unsafeCSS</b> / <b>html</b> / <b>css</b> - lit template literal processors so you don't have to import lit</li>
+
+
+
+
+<li><b>store</b> - HAXSite store so you don't have to reference it</li>
+
+
+
+
+<li><b>autorun</b> / <b>toJS</b> - MobX common ways of interfacing with and reacting to store data</li>
+
+
+
+
+</ul>
+<h2 id="header-ad1548e2-13ee-7cc2-30b7-cfad44c9e317">Design system alignment</h2>
+<p>While you don't have to use DDD, our design system, leveraging it's sizing, colors and spacing will help make your site feel uniform. We hope to support other design systems in the future, until then, you can leverage the <code>hax</code> cli again to ensure what you are developing matches our design system standards.</p>
+<p>Just go to your site and run <code><b>hax audit</b></code>
+
+
+
+ and it will run a job to see areas you may be able to improve in your usage of css sizing and other values to match the design system. Again, you are not required to do this, but it can help ensure things feel cohesive.</p>
+<h2 id="header-7fff7a1b-8b7c-7853-6d8f-c38497fb09bd">Custom theme example</h2>
+<p>This is an <a href="https://hax-custom-theme-1.surge.sh/page" target="_blank">example of a custom theme</a> and another for <a href="https://github.com/btopro/btopro-internet-outlet/blob/master/custom/src/custom-custom-btopro-theme.js" target="_blank">btopro internet outlet</a>. This is only slightly different from what you get as boilerplate when starting a theme that is using the <code><b>base</b></code>
+
+
+ option. You can build really complex themes as well that work with the information architecture of your site. While not providing the source, here's an example from <a href="https://odl.science.psu.edu/" target="_blank">Eberly ODL</a> that is a HAXsite based theme.</p>
+<h2 id="header-b9a69711-5146-6445-e8ed-3256b67409a6">Manual custom theme steps</h2>
+<p>The CLI is the best way to make a new theme. It puts things in place based on conventions that we have established for the project. However, you can manually engage in these steps in order to add a custom theme to an existing site. We recommend working on this locally, getting it ironed out, and then pushing it up. This example will be for a site called <code>zombocom</code></p>
+<ol><li>go into <code>zombocom</code>&#160;via <code><b>cd zombocom</b></code>
+
+</li>
+
+<li>create a new file in <code>custom/src/</code> called <code>custom-zombocom-theme.js</code></li>
+
+<li>edit <code>custom/src/custom.js</code> and add the line <code>import "./custom-zombocom-theme.js";</code></li>
+
+<li>Use the <a href="https://github.com/btopro/btopro-internet-outlet/blob/master/custom/src/custom-custom-btopro-theme.js" target="_blank">source from btopro's internet outlet example</a> as your starting point, renaming the class to be <code>CustomZombocomTheme</code>, changing the tag to <code>custom-zombocom-theme</code> and modifying the <code>customElement</code> definition at the bottom of the file to match the new class name</li>
+
+<li>in the custom folder, run <code><b>npm run start</b></code>
+
+ . Now changes to your theme will be updated to a 'build' version which is ready to see in your site.</li>
+
+<li>Open a new terminal process / window, leave the other start command running.</li><li>To see the theme, go out of the <code><b>cd ../</b></code>
+
+ custom folder and edit the <code>site.json</code> file</li>
+
+<li>Find the <i>metadata.theme</i> object (<a href="https://github.com/haxtheweb/docs/blob/master/site.json#L35-L36" target="_blank">example</a>) and modify element to be <code>custom-zombocom-theme</code></li>
+
+<li>path can be left alone as custom is already roped into the site loading routine</li><li>run <code>hax site start</code> or npm start to see your theme</li>
+
+</ol>
+<h2 id="header-ccf54a40-a9cb-12db-cf31-10298e9917dc">Trouble shooting</h2>
+<p>If your site doesn't present the theme as is, inspect console for errors. It might also be related to needing <a href="https://github.com/btopro/btopro-internet-outlet/blob/master/index.html#L4-L12" target="_blank">importmap to be added to index.html</a>&#160;(sites created as of <b>March 3rd, 2025</b> do this automatically). When used for local development it should look like this:</p>
+<p>Wrap either in a <code><b>&lt;script type="importmap"&gt;</b></code>
+ tag.</p>
+<code-sample type="json" copy-clipboard-button><template preserve-content="preserve-content">
+    {
+      "scopes": {
+        "./custom/build/": {  
+          "@haxtheweb/": "./build/es6/node_modules/@haxtheweb/"
+        }
+      }
+    }
+</template></code-sample>
+<p>When used in a gh-pages / vercel / netlify / surge style static publishing option where the assets are coming from a CDN, it should look like this:</p>
+<code-sample type="json" copy-clipboard-button><template preserve-content="preserve-content">
+    {
+      "scopes": {
+        "./custom/build/": {  
+          "@haxtheweb/": "https://cdn.hax.cloud/cdn/build/es6/node_modules/@haxtheweb/"
+        }
+      }
+    }
+</template></code-sample>
+<p>If you have questions or run into issues, join us on <a href="https://bit.ly/hax-discord" target="_blank">Discord</a> or the <a href="https://github.com/haxtheweb/issues/issues" target="_blank">issue queue</a>.</p>
