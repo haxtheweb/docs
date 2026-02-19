@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>HAXTheWeb</title>
-  <link href="" rel="self" />
+  <link href="https://haxtheweb.org/" rel="self" />
   <subtitle>Ubiquitous Web Publishing</subtitle>
   <updated>2025-03-07T17:17:42+00:00</updated>
   <author>
       <name></name>
   </author>
-  <id></id>
+  <id>https://haxtheweb.org/</id>
   <entry>
     <title>Welcome</title>
     <id>item-8a5bf844-d498-4f75-bf96-110eaedb42d9</id>
     <updated>2025-06-02T13:29:56+00:00</updated>
     <published>2023-05-03T18:12:36+00:00</published>
     <summary>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code.In the 90</summary>
-    <link href="welcome"/>
+    <link href="https://haxtheweb.org/welcome"/>
     
     <content type="html">
       <![CDATA[ 
@@ -130,7 +130,7 @@ and <a href="https://www.linkedin.com/company/haxtheweb/" target="_blank">Linked
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-05-03T18:14:50+00:00</published>
     <summary>If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation.</summary>
-    <link href="tutorials"/>
+    <link href="https://haxtheweb.org/tutorials"/>
     
     <content type="html">
       <![CDATA[ 
@@ -151,7 +151,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:14:50+00:00</published>
     <summary>Pedagogy is the method and practice of teaching, strongly shaped by one&#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whe</summary>
-    <link href="ontology/new-item"/>
+    <link href="https://haxtheweb.org/ontology/new-item"/>
     
     <content type="html">
       <![CDATA[ 
@@ -167,7 +167,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:40+00:00</updated>
     <published>2023-05-03T18:14:50+00:00</published>
     <summary>While we are rebuilding our community documentation, please note that at times we will send you to sites that are in development or in the process of being migrated.Documentation is being rebuilt</summary>
-    <link href="documentation"/>
+    <link href="https://haxtheweb.org/documentation"/>
     
     <content type="html">
       <![CDATA[ 
@@ -189,7 +189,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:14:50+00:00</published>
     <summary>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 </summary>
-    <link href="ontology"/>
+    <link href="https://haxtheweb.org/ontology"/>
     
     <content type="html">
       <![CDATA[ 
@@ -227,7 +227,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:15:02+00:00</published>
     <summary>Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the "first and foremost" of all course aspects. Specifically, what s</summary>
-    <link href="ontology/page"/>
+    <link href="https://haxtheweb.org/ontology/page"/>
     
     <content type="html">
       <![CDATA[ 
@@ -243,7 +243,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:15:03+00:00</published>
     <summary>Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and belo</summary>
-    <link href="ontology/page-1"/>
+    <link href="https://haxtheweb.org/ontology/page-1"/>
     
     <content type="html">
       <![CDATA[ 
@@ -259,7 +259,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:15:04+00:00</published>
     <summary>Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&#8217;s progress in the learning sequence.&#160;Our natural inclination </summary>
-    <link href="ontology/page-2"/>
+    <link href="https://haxtheweb.org/ontology/page-2"/>
     
     <content type="html">
       <![CDATA[ 
@@ -275,7 +275,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:15:05+00:00</published>
     <summary>Instruction is the planned sequence of teaching and learning activities.&#8203; Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hie</summary>
-    <link href="ontology/page-3"/>
+    <link href="https://haxtheweb.org/ontology/page-3"/>
     
     <content type="html">
       <![CDATA[ 
@@ -299,7 +299,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-05-03T18:15:09+00:00</published>
     <summary>Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &#8211; low stakes &#8211; no stake</summary>
-    <link href="ontology/page-4"/>
+    <link href="https://haxtheweb.org/ontology/page-4"/>
     
     <content type="html">
       <![CDATA[ 
@@ -315,7 +315,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-05-03T18:20:32+00:00</published>
     <summary>Before you get started, make sure you download this HAX working document in order to perform the tutorial shownIf you prefer to read about the things in the video below, here is a tutorial in writt</summary>
-    <link href="tutorials/brand-new-user"/>
+    <link href="https://haxtheweb.org/tutorials/brand-new-user"/>
     
     <content type="html">
       <![CDATA[ 
@@ -335,7 +335,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:40+00:00</updated>
     <published>2023-05-03T18:37:24+00:00</published>
     <summary>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</summary>
-    <link href="tutorials/page-1"/>
+    <link href="https://haxtheweb.org/tutorials/page-1"/>
     
     <content type="html">
       <![CDATA[ 
@@ -349,7 +349,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:40+00:00</updated>
     <published>2023-05-03T18:37:42+00:00</published>
     <summary>Insights provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.Automated Link Checking</summary>
-    <link href="tutorials/insights-dashboard"/>
+    <link href="https://haxtheweb.org/tutorials/insights-dashboard"/>
     
     <content type="html">
       <![CDATA[ 
@@ -365,7 +365,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-05-03T18:38:06+00:00</published>
     <summary>HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer.See that we're missing a block tutorial you</summary>
-    <link href="tutorials/block-usage"/>
+    <link href="https://haxtheweb.org/tutorials/block-usage"/>
     
     <content type="html">
       <![CDATA[ 
@@ -381,7 +381,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-28T12:51:22+00:00</published>
     <summary>A new way of authoringWrite HTML without knowing it, HAX is here to transform web publishing. Watch why HAX is different than past CMS solutions as well as pillars of development and where the platf</summary>
-    <link href="what-is-hax"/>
+    <link href="https://haxtheweb.org/what-is-hax"/>
     
     <content type="html">
       <![CDATA[ 
@@ -418,7 +418,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-28T12:57:35+00:00</published>
     <summary>Trying to talk to a friend or convince a decision maker to check out HAX? Here's some materials to help.HAX one page (embedded below)</summary>
-    <link href="marketing"/>
+    <link href="https://haxtheweb.org/marketing"/>
     
     <content type="html">
       <![CDATA[ 
@@ -436,7 +436,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-28T13:03:55+00:00</published>
     <summary>HAX is built on thought work spanning 2008 to present. Occasionally we will release white papers associated with the project but typically these are produced for specific events or conferenence submi</summary>
-    <link href="documentation/white-papers"/>
+    <link href="https://haxtheweb.org/documentation/white-papers"/>
     
     <content type="html">
       <![CDATA[ 
@@ -461,7 +461,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-06-28T14:00:11+00:00</published>
     <summary>Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't rea</summary>
-    <link href="stand-alone-tools"/>
+    <link href="https://haxtheweb.org/stand-alone-tools"/>
     
     <content type="html">
       <![CDATA[ 
@@ -476,7 +476,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-06-28T14:02:05+00:00</published>
     <summary>We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with </summary>
-    <link href="stand-alone-tools/rubrics"/>
+    <link href="https://haxtheweb.org/stand-alone-tools/rubrics"/>
     
     <content type="html">
       <![CDATA[ 
@@ -492,7 +492,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-06-28T14:15:29+00:00</published>
     <summary>These tools can be used to convert documents between different formatsDocX to HTMLDocX to PDFMarkdown to HTML (and HTML to Markdown)Compression / image resizer (tweak settings then right</summary>
-    <link href="stand-alone-tools/conversion-tools"/>
+    <link href="https://haxtheweb.org/stand-alone-tools/conversion-tools"/>
     
     <content type="html">
       <![CDATA[ 
@@ -520,7 +520,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-29T15:01:12+00:00</published>
     <summary>These are pledges we make to our community and attempt to strive towards. We won't always hit the mark, but we try our best to do so. These aspirations push us closer to who we want to be as a com</summary>
-    <link href="pledges"/>
+    <link href="https://haxtheweb.org/pledges"/>
     
     <content type="html">
       <![CDATA[ 
@@ -539,7 +539,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-29T15:01:12+00:00</published>
     <summary>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values..Turning to web standards over large libraries to use less resourcesEnabling offline capable progr</summary>
-    <link href="pledges/environmental-impact"/>
+    <link href="https://haxtheweb.org/pledges/environmental-impact"/>
     
     <content type="html">
       <![CDATA[ 
@@ -561,7 +561,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:39+00:00</updated>
     <published>2023-06-29T15:01:12+00:00</published>
     <summary>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y, we mean access to everyone, everywhere, regardless of abilit</summary>
-    <link href="pledges/accessibility-empowerment"/>
+    <link href="https://haxtheweb.org/pledges/accessibility-empowerment"/>
     
     <content type="html">
       <![CDATA[ 
@@ -586,7 +586,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-06-29T17:04:13+00:00</published>
     <summary>The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, si</summary>
-    <link href="ontology/page-5"/>
+    <link href="https://haxtheweb.org/ontology/page-5"/>
     
     <content type="html">
       <![CDATA[ 
@@ -604,7 +604,7 @@ and we'll prioritize it's creation.</p>
     <updated>2025-03-07T17:17:41+00:00</updated>
     <published>2023-07-14T20:16:39+00:00</published>
     <summary>                                                                                                                                                      Cross section view of the </summary>
-    <link href="page"/>
+    <link href="https://haxtheweb.org/page"/>
     
     <content type="html">
       <![CDATA[ 

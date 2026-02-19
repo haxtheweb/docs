@@ -4934,15 +4934,19 @@
             "indent": 0,
             "location": "pages\/item-fe822500-0630-46b5-98d3-ede409e5b063\/index.html",
             "slug": "hax-the-whole-web",
-            "order": "6",
+            "order": 7,
             "parent": null,
             "title": "HAX The Whole Web",
-            "description": "",
+            "description": "The real power of HAX comes in the ability to simplify web creation to match specific use-cases people have for documents on the internet. Much like a templated Google\/Word doc, HAX skeletons create ",
             "metadata": {
                 "created": 1771527760,
-                "updated": 1771527760,
+                "updated": 1771528114,
                 "images": [],
-                "videos": []
+                "videos": [],
+                "published": true,
+                "hideInMenu": false,
+                "locked": false,
+                "readtime": 1
             }
         }
     ],
