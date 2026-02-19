@@ -16,7 +16,7 @@
             "logo": "files\/hax (1).png",
             "lang": "en",
             "created": 1683137556,
-            "updated": 1741367862,
+            "updated": 1771528154,
             "git": {},
             "version": "10.0.2",
             "domain": "https:\/\/haxtheweb.org\/",
@@ -4931,11 +4931,11 @@
         },
         {
             "id": "item-fe822500-0630-46b5-98d3-ede409e5b063",
-            "indent": 0,
+            "indent": 1,
             "location": "pages\/item-fe822500-0630-46b5-98d3-ede409e5b063\/index.html",
             "slug": "hax-the-whole-web",
-            "order": 7,
-            "parent": null,
+            "order": 4,
+            "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
             "title": "HAX The Whole Web",
             "description": "The real power of HAX comes in the ability to simplify web creation to match specific use-cases people have for documents on the internet. Much like a templated Google\/Word doc, HAX skeletons create ",
             "metadata": {
