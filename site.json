@@ -4928,6 +4928,22 @@
                 "readtime": 1,
                 "status": ""
             }
+        },
+        {
+            "id": "item-fe822500-0630-46b5-98d3-ede409e5b063",
+            "indent": 0,
+            "location": "pages\/item-fe822500-0630-46b5-98d3-ede409e5b063\/index.html",
+            "slug": "hax-the-whole-web",
+            "order": "6",
+            "parent": null,
+            "title": "HAX The Whole Web",
+            "description": "",
+            "metadata": {
+                "created": 1771527760,
+                "updated": 1771527760,
+                "images": [],
+                "videos": []
+            }
         }
     ],
     "location": null
