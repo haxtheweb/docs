@@ -382,7 +382,7 @@
         },
         {
             "id": "item-86b505f8-dc95-4b86-8fdd-5104ecc4f02b",
-            "indent": "3",
+            "indent": 0,
             "location": "pages\/item-86b505f8-dc95-4b86-8fdd-5104ecc4f02b\/index.html",
             "slug": "welcome\/community\/pillars\/free-and-open",
             "order": 2,
@@ -390,12 +390,12 @@
             "title": "Free and Open",
             "description": "Open community, Penn State and Beyond. Free and Open means that we are an Open Community, welcoming to all, Penn State and beyond. It means that we value the 5Rs of content reuse in an OER context an",
             "metadata": {
-                "locked": "",
+                "locked": false,
                 "created": "1706289893",
                 "images": [],
                 "videos": [],
-                "updated": 1741367859,
-                "published": "1",
+                "updated": 1775155721,
+                "published": true,
                 "status": "",
                 "files": [
                     {
@@ -406,9 +406,9 @@
                         "size": "480582"
                     }
                 ],
-                "hideInMenu": "",
+                "hideInMenu": false,
                 "image": "files\/CopyQ.YGHozZ.png",
-                "readtime": "1",
+                "readtime": 1,
                 "tags": "foss, open"
             }
         },
