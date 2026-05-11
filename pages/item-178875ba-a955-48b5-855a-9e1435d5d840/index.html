@@ -1,3 +1,22 @@
 
-<p>This is a list of the data formats that HAX supports for entry and multi-media presentation</p>
-<ul><li>MathJAX</li><li>Latex</li><li>Markdown / md (convert to HTML or embed source as HTML)</li><li>DocX (convert to HTML)</li><li>Web Components / HTML (duh)</li><li>Images (png, jpg, jpeg)</li><li>Video (mp4)</li><li>Audio (mp3 file or via browser based recording)</li></ul>
+<p>HAX pages are authored in HTML (including web components), and each page save now writes multiple machine-friendly formats in addition to the canonical page HTML.</p>
+<h2 id="header-page-save-formats">Formats generated on every page save</h2>
+<ul>
+  <li><code>.html</code> - Canonical rendered page content</li>
+  <li><code>.md</code> - Markdown version of the page content</li>
+  <li><code>.json</code> - Structured page payload including metadata and content</li>
+  <li><code>.yaml</code> - Structured page payload including metadata and content in YAML</li>
+  <li><code>.xml</code> - Structured page payload including metadata and content in XML</li>
+</ul>
+<p>For any page route, append an extension to access the alternate format directly. Example for this page: <code>/documentation/data-formats.md</code>, <code>/documentation/data-formats.json</code>, <code>/documentation/data-formats.yaml</code>, and <code>/documentation/data-formats.xml</code>.</p>
+<h2 id="header-authoring-formats">Authoring and media formats supported in HAX</h2>
+<ul>
+  <li>MathJAX</li>
+  <li>LaTeX</li>
+  <li>Markdown / md (convert to HTML or embed source as HTML)</li>
+  <li>DocX (convert to HTML)</li>
+  <li>Web Components / HTML</li>
+  <li>Images (png, jpg, jpeg)</li>
+  <li>Video (mp4)</li>
+  <li>Audio (mp3 file or browser-based recording)</li>
+</ul>
