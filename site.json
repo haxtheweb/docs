@@ -4011,8 +4011,8 @@
             "slug": "tutorials\/insights-dashboard",
             "order": 4,
             "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
-            "title": "Insights dashboard",
-            "description": "Insights provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.Automated Link Checking",
+            "title": "Reports",
+            "description": "Reports provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX.Automated Link Checking",
             "metadata": {
                 "created": "1683139062",
                 "updated": 1741367860,
@@ -4041,6 +4041,28 @@
                 "images": [],
                 "tags": "insights,tutorial",
                 "hideInMenu": ""
+            }
+        },
+        {
+            "id": "item-a0df2b69-d4d1-4b7e-9f67-90c217be262e",
+            "indent": "1",
+            "location": "pages/item-a0df2b69-d4d1-4b7e-9f67-90c217be262e/index.html",
+            "slug": "tutorials/changelog",
+            "order": 5,
+            "parent": "item-903151c6-bd94-4bbb-9335-4649de2f9445",
+            "title": "Changelog",
+            "description": "Track major updates, releases, and upgrade guidance across the HAX ecosystem in one place.",
+            "metadata": {
+                "created": "1771528195",
+                "updated": 1771528195,
+                "published": true,
+                "locked": false,
+                "readtime": 1,
+                "status": "",
+                "videos": [],
+                "images": [],
+                "tags": "changelog,release,updates",
+                "hideInMenu": false
             }
         },
         {
