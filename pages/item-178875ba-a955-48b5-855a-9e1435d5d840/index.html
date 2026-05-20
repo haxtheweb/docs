@@ -1,6 +1,25 @@
 
-<p>HAX pages are authored in HTML (including web components), and each page save now writes multiple machine-friendly formats in addition to the canonical page HTML.</p>
-<h2 id="header-page-save-formats">Formats generated on every page save</h2>
+<p>HAX supports a broad set of formats for authoring, import workflows, machine-readable output, and AI discoverability. This page is the canonical list of format support across HAX and HAXcms.</p>
+<h2 id="header-authoring-formats">Authoring and import formats supported in HAX</h2>
+<ul>
+  <li><b>HTML / Web Components</b> - Canonical authoring format used for all saved page content.</li>
+  <li><b>Markdown (.md)</b> - Can be authored, imported, and converted to HTML.</li>
+  <li><b>MathJAX / LaTeX</b> - Mathematical notation support in page content.</li>
+  <li><b>DOCX, PPTX, XLSX</b> - Supported for import into site structure (outline / page generation) and for converting content directly into pages.</li>
+  <li><b>PDF</b> - Supported for importing and embedding in content workflows.</li>
+  <li><b>HTML files / URLs</b> - Import HTML directly from files or remote URLs.</li>
+  <li><b>Platform / system imports</b> - HAXcms, Notion, GitBook, Pressbooks, WordPress, Drupal, ELMS:LN, and additional ecosystem migration pathways.</li>
+</ul>
+<h3 id="header-file-upload-types">File upload types accepted by HAXcms</h3>
+<ul>
+  <li><b>Images</b>: jpg, jpeg, png, gif, webp</li>
+  <li><b>Video</b>: mp4, webm, mov</li>
+  <li><b>Audio</b>: mp3</li>
+  <li><b>Documents / data</b>: csv, txt, rtf, vtt, html, md, pdf, doc, docx, xls, xlsx, ppt, pptx</li>
+</ul>
+<p><b>Note:</b> SVG is currently not part of the supported content format list.</p>
+<h2 id="header-page-save-formats">Page-level alternate formats generated on save</h2>
+<p>Every page save writes multiple machine-friendly representations in addition to canonical page HTML.</p>
 <ul>
   <li><code>.html</code> - Canonical rendered page content</li>
   <li><code>.md</code> - Markdown version of the page content</li>
@@ -8,15 +27,21 @@
   <li><code>.yaml</code> - Structured page payload including metadata and content in YAML</li>
   <li><code>.xml</code> - Structured page payload including metadata and content in XML</li>
 </ul>
-<p>For any page route, append an extension to access the alternate format directly. Example for this page: <code>/documentation/data-formats.md</code>, <code>/documentation/data-formats.json</code>, <code>/documentation/data-formats.yaml</code>, and <code>/documentation/data-formats.xml</code>.</p>
-<h2 id="header-authoring-formats">Authoring and media formats supported in HAX</h2>
+<h2 id="header-ai-discoverability">AI discoverability and understanding</h2>
+<p>HAXcms includes first-class support for AI-oriented discovery metadata as part of its format ecosystem.</p>
 <ul>
-  <li>MathJAX</li>
-  <li>LaTeX</li>
-  <li>Markdown / md (convert to HTML or embed source as HTML)</li>
-  <li>DocX (convert to HTML)</li>
-  <li>Web Components / HTML</li>
-  <li>Images (png, jpg, jpeg)</li>
-  <li>Video (mp4)</li>
-  <li>Audio (mp3 file or browser-based recording)</li>
+  <li><b><code>llms.txt</code></b> is generated from your manifest and page outputs to provide LLMs with a clean site map plus machine-readable content links.</li>
+  <li><b><code>robots.txt</code></b> includes discoverability directives, including <code>Sitemap</code> and <code>LLMS</code> references, so AI systems and search crawlers can locate the right resources.</li>
+  <li>Generated page format variants (<code>.md</code>, <code>.json</code>, <code>.yaml</code>, <code>.xml</code>) improve machine understanding and downstream tooling interoperability.</li>
+</ul>
+<p>For any page route, append an extension to access the alternate format directly. Example for this page: <code>/documentation/data-formats.md</code>, <code>/documentation/data-formats.json</code>, <code>/documentation/data-formats.yaml</code>, and <code>/documentation/data-formats.xml</code>.</p>
+<p>HAXcms also supports content negotiation via <code>Accept</code> headers for markdown, JSON, YAML, and XML responses, and publishes alternate format links for crawler and client discovery.</p>
+<h2 id="header-site-level-machine-formats">Site-level machine-readable and discovery formats</h2>
+<ul>
+  <li><code>site.json</code> - Canonical JSON Outline Schema site manifest</li>
+  <li><code>rss.xml</code> and <code>atom.xml</code> - Feed formats generated from site content</li>
+  <li><code>sitemap.xml</code> and <code>sitemap-index.xml</code> - URL discovery maps for search engines and crawlers</li>
+  <li><code>lunrSearchIndex.json</code> - Search index used by built-in site search</li>
+  <li><code>robots.txt</code> - Crawl rules and discoverability directives</li>
+  <li><code>llms.txt</code> - LLM-oriented site map for AI understanding and retrieval</li>
 </ul>
