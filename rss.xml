@@ -5,139 +5,139 @@
     <link>https://haxtheweb.org/</link>
     <description>Ubiquitous Web Publishing</description>
     <copyright>Copyright (C) 2026 https://haxtheweb.org</copyright>
-    <language>en-US</language>
-    <lastBuildDate>Thu, 19 Feb 2026 19:09:55 +0000</lastBuildDate>
-    <generator>HAXcms PHP</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Feb 2026 19:09:55 GMT</lastBuildDate>
+    <generator>HAXcms NodeJS</generator>
     <atom:link href="https://haxtheweb.org/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Welcome</title>
       <link>https://haxtheweb.org/welcome</link>
-      <description>HAX is a radically simple way to create, share, and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code. Try hax without installing a thing! HAX.cloud is a demo service that allows you to test drive HAX without installing anything! Great for those trying to evaluate the platform's capabilities. Try it out now! Get involved! Join HAX community on Discord Run the HAX CLI (nodejs) -- npm install --global @haxthe...</description>
+      <description>HAX is a radically simple way to create , share , and remix web content. The goal of HAX is simple: to help people create rich and engaging web content without needing to understand web code. Try hax without installing a thing! HAX.cloud is a demo service that allows you to test drive HAX without installing anything! Great for those trying to evaluate the platform&apos;s capabilities. Try it out now! Get involved! Join HAX community on Discord Run the HAX CLI ( nodejs ) -- npm install --global @ha...</description>
       <guid>https://haxtheweb.org/welcome</guid>
-      <pubDate>Wed, 03 May 2023 18:12:36 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:12:36 GMT</pubDate>
     </item>
     <item>
       <title>Tutorials</title>
       <link>https://haxtheweb.org/tutorials</link>
-      <description>If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we'll prioritize it's creation. Playlist of all tutorials This is a playlist of all our tutorials on our community YouTube channel</description>
+      <description>If there are tutorials you are looking for that the community has not covered, let us know in our issue queue or on discord and we&apos;ll prioritize it&apos;s creation. Playlist of all tutorials This is a playlist of all our tutorials on our community YouTube channel</description>
       <category>tutorials</category>
       <guid>https://haxtheweb.org/tutorials</guid>
-      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 GMT</pubDate>
     </item>
     <item>
       <title>Pedagogy</title>
       <link>https://haxtheweb.org/ontology/new-item</link>
-      <description>Pedagogy is the method and practice of teaching, strongly shaped by one’s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</description>
+      <description>Pedagogy is the method and practice of teaching, strongly shaped by one&amp;#8217;s underlying beliefs about the nature of learning. Every course has a pedagogy driving it, whether implied or stated, whether consciously applied or not.</description>
       <guid>https://haxtheweb.org/ontology/new-item</guid>
-      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 GMT</pubDate>
     </item>
     <item>
       <title>Documentation</title>
       <link>https://haxtheweb.org/documentation</link>
-      <description>If you see something missing from documentation, please offer suggestions of what needs clarified in our issue queue. The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials. HAX ecosystem covers PHP, NodeJS, other CMSs, Express, Desktop apps, 11ty, web components, CLIs and more. It's vast, so some parts of our ecosystem have their own mini-doc sites too. HAX11ty WCFactory</description>
+      <description>If you see something missing from documentation, please offer suggestions of what needs clarified in our issue queue . The HAX ecosystem is vast and we are always looking to improve the quality of our documentation and tutorials. HAX ecosystem covers PHP, NodeJS, other CMSs, Express, Desktop apps, 11ty, web components, CLIs and more. It&apos;s vast, so some parts of our ecosystem have their own mini-doc sites too. HAX11ty WCFactory</description>
       <guid>https://haxtheweb.org/documentation</guid>
-      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 GMT</pubDate>
     </item>
     <item>
       <title>HAX Ontology</title>
       <link>https://haxtheweb.org/ontology</link>
-      <description>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 minutes), or use the sub-page navigation to jump to a shorter ontology branch video. You can also tour around the draft ontology in Mural . Be sure to read the "business case" below the video, the rationale behind the need for an ontology and the key aspects that it should possess. Why define an ontolog...</description>
+      <description>What is an ontology? For our purposes, it is a visual analysis of the essential and desirable elements of a course, and how those elements relate to one another. Watch the video tour below (11 minutes), or use the sub-page navigation to jump to a shorter ontology branch video. You can also tour around the draft ontology in Mural . Be sure to read the &quot;business case&quot; below the video, the rationale behind the need for an ontology and the key aspects that it should possess. Why define an ontolog...</description>
       <guid>https://haxtheweb.org/ontology</guid>
-      <pubDate>Wed, 03 May 2023 18:14:50 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:14:50 GMT</pubDate>
     </item>
     <item>
       <title>Outcomes</title>
       <link>https://haxtheweb.org/ontology/page</link>
-      <description>Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the "first and foremost" of all course aspects. Specifically, what skills, knowledge, and abilities do we want students to acquire by the end of the course? And how will be know they have attained them?</description>
+      <description>Whether defined as traditional student-focused course goals and learning objectives, or accounted for by other means, outcomes are the &quot;first and foremost&quot; of all course aspects. Specifically, what skills, knowledge, and abilities do we want students to acquire by the end of the course? And how will be know they have attained them?</description>
       <category>ontology, outcomes</category>
       <guid>https://haxtheweb.org/ontology/page</guid>
-      <pubDate>Wed, 03 May 2023 18:15:02 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:02 GMT</pubDate>
     </item>
     <item>
       <title>Structure</title>
       <link>https://haxtheweb.org/ontology/page-1</link>
       <description>Course structure is pretty straightforward, with a few courses departing from the lesson-per-week of instruction norm. There are optional structures above the lesson level (modules or units) and below the lesson level (sub-lessons), as well as different naming/numbering conventions.</description>
       <guid>https://haxtheweb.org/ontology/page-1</guid>
-      <pubDate>Wed, 03 May 2023 18:15:03 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:03 GMT</pubDate>
     </item>
     <item>
       <title>Content</title>
       <link>https://haxtheweb.org/ontology/page-2</link>
-      <description>Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student’s progress in the learning sequence. Our natural inclination is to classify content by instructional purpose, like a lecture or demonstration page, an image gallery to see a range of examples, or a lesson overview and objectives page.</description>
+      <description>Interestingly, the Content branch took shape as a product of two aspects: the structural considerations in play, and a student&amp;#8217;s progress in the learning sequence.&amp;#160;Our natural inclination is to classify content by instructional purpose, like a lecture or demonstration page, an image gallery to see a range of examples, or a lesson overview and objectives page.</description>
       <guid>https://haxtheweb.org/ontology/page-2</guid>
-      <pubDate>Wed, 03 May 2023 18:15:04 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:04 GMT</pubDate>
     </item>
     <item>
       <title>Instruction</title>
       <link>https://haxtheweb.org/ontology/page-3</link>
-      <description>Instruction is the planned sequence of teaching and learning activities.​ Teaching follows Adler's three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hierarchical progression from acquiring fundamental skill and knowledge, to working to understand better and more deeply, and finally to perform fluidly, demonstrating attainment of goals.</description>
+      <description>Instruction is the planned sequence of teaching and learning activities.&amp;#8203; Teaching follows Adler&apos;s three modes of instruction (direct instruction, facilitation, and coaching). Learning is a hierarchical progression from acquiring fundamental skill and knowledge, to working to understand better and more deeply, and finally to perform fluidly, demonstrating attainment of goals.</description>
       <guid>https://haxtheweb.org/ontology/page-3</guid>
-      <pubDate>Wed, 03 May 2023 18:15:05 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:05 GMT</pubDate>
     </item>
     <item>
       <title>Assessment</title>
       <link>https://haxtheweb.org/ontology/page-4</link>
-      <description>Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes – low stakes – no stakes.</description>
+      <description>Assessment is an interesting branch, and we found it useful to organize it according to the assessment purpose and the level of impact upon a student: high stakes &amp;#8211; low stakes &amp;#8211; no stakes.</description>
       <guid>https://haxtheweb.org/ontology/page-4</guid>
-      <pubDate>Wed, 03 May 2023 18:15:09 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:15:09 GMT</pubDate>
     </item>
     <item>
       <title>First-time HAX User</title>
       <link>https://haxtheweb.org/tutorials/brand-new-user</link>
-      <description>Before you get started, make sure you download this HAX working document in order to perform the tutorial shown. If you prefer to read about the things in the video below, here is a tutorial in written form.</description>
+      <description>Before you get started, make sure you download this HAX working document in order to perform the tutorial shown. If you prefer to read about the things in the video below, here is a tutorial in written form .</description>
       <guid>https://haxtheweb.org/tutorials/brand-new-user</guid>
-      <pubDate>Wed, 03 May 2023 18:20:32 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:20:32 GMT</pubDate>
     </item>
     <item>
       <title>Managing Course Structure</title>
       <link>https://haxtheweb.org/tutorials/page-1</link>
       <description>The outline designer is an interface for bulk management of the site outline. It allows you to add, delete, duplicate, and move content around in bulk and then see changes applied on save.</description>
       <guid>https://haxtheweb.org/tutorials/page-1</guid>
-      <pubDate>Wed, 03 May 2023 18:37:24 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:24 GMT</pubDate>
     </item>
     <item>
-      <title>Insights dashboard</title>
+      <title>Reports</title>
       <link>https://haxtheweb.org/tutorials/insights-dashboard</link>
-      <description>Insights (beta) provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX. Automated Link Checking</description>
+      <description>Reports (beta) provide a variety of ways to optimize the process of maintaining and discovering meaning in sites built with HAX. Automated Link Checking</description>
       <category>insights,tutorial</category>
       <guid>https://haxtheweb.org/tutorials/insights-dashboard</guid>
-      <pubDate>Wed, 03 May 2023 18:37:42 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:37:42 GMT</pubDate>
     </item>
     <item>
       <title>Block usage</title>
       <link>https://haxtheweb.org/tutorials/block-usage</link>
-      <description>HAX has an ever-expanding ecosystem of reusable blocks. Below here you'll find tutorials and details on how to use a few of the more complex ones we offer. See that we're missing a block tutorial you think we should add? Let us know in the issue queue and we'll prioritize it!</description>
+      <description>HAX has an ever-expanding ecosystem of reusable blocks. Below is the current catalog of documented block tutorials in this site, grouped by category. Documented block catalog Multimedia 3D Model GIF player Inline audio Video player Layout Collection List Column layout Learning Component Play list Instructional Math Self check Stop note Table Timeline Question types Fill in the blanks Mark the Words Matching / Drag and drop Multiple choice Short Answer Question Sorting Question Tagging questio...</description>
       <category>blocks,usage,tutorial,example</category>
       <guid>https://haxtheweb.org/tutorials/block-usage</guid>
-      <pubDate>Wed, 03 May 2023 18:38:06 +0000</pubDate>
+      <pubDate>Wed, 03 May 2023 18:38:06 GMT</pubDate>
     </item>
     <item>
       <title>What is HAX?</title>
       <link>https://haxtheweb.org/what-is-hax</link>
-      <description>In a word. Ubiquity. The ability to be creative on the web with modern authoring tools and not ever stop and think how you'll get that information there. How long will it work? What if we have to move it? The web needs a file format like jpg, gif, png, html, or xml. I should be able to give you a website as a single directory and it Just Works™. I shouldn't need to know how it was built to edit it. The editor need just appear, be pervasive and embedded in the things we wish to be creative w...</description>
+      <description>In a word. Ubiquity . The ability to be creative on the web with modern authoring tools and not ever stop and think how you&apos;ll get that information there. How long will it work? What if we have to move it? The web needs a file format like jpg, gif, png, html, or xml. I should be able to give you a website as a single directory and it Just Works &amp;#8482;. I shouldn&apos;t need to know how it was built to edit it. The editor need just appear, be pervasive and embedded in the things we wish to be crea...</description>
       <guid>https://haxtheweb.org/what-is-hax</guid>
-      <pubDate>Wed, 28 Jun 2023 12:51:22 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:51:22 GMT</pubDate>
     </item>
     <item>
       <title>Marketing</title>
       <link>https://haxtheweb.org/marketing</link>
-      <description>Trying to talk to a friend or convince a decision maker to check out HAX? Here's some materials to help. HAX one page (embedded below)</description>
+      <description>Trying to talk to a friend or convince a decision maker to check out HAX? Here&apos;s some materials to help. HAX one page (embedded below)</description>
       <guid>https://haxtheweb.org/marketing</guid>
-      <pubDate>Wed, 28 Jun 2023 12:57:35 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 12:57:35 GMT</pubDate>
     </item>
     <item>
       <title>White papers</title>
       <link>https://haxtheweb.org/documentation/white-papers</link>
-      <description>HAX is built on thought work spanning 2008 to present. Occasionally we will release white papers associated with the project but typically these are produced for specific events or conferenence submissions. HAX HAX, Web components and the distributed NGDLE future  (02-27-2018) NGDLE / ELMS:LN ELMSLN: A Disruptive Learning Technology (08-24-2014) ELMS Learning Network: An EdTech Platform for Sustaining Innovation (05-08-2015)</description>
+      <description>HAX is built on thought work spanning 2008 to present. Occasionally we will release white papers associated with the project but typically these are produced for specific events or conferenence submissions. HAX HAX, Web components and the distributed NGDLE future &amp;#160;(02-27-2018) NGDLE / ELMS:LN ELMSLN: A Disruptive Learning Technology (08-24-2014) ELMS Learning Network: An EdTech Platform for Sustaining Innovation (05-08-2015)</description>
       <guid>https://haxtheweb.org/documentation/white-papers</guid>
-      <pubDate>Wed, 28 Jun 2023 13:03:55 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 13:03:55 GMT</pubDate>
     </item>
     <item>
       <title>Stand alone tools</title>
       <link>https://haxtheweb.org/stand-alone-tools</link>
-      <description>Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn't really have a home in the traditional HAX platform.</description>
+      <description>Many tools built to bring about HAX has also brought about stand alone tools. Many of these either exist as a combination of several pieces of HAX infrastructure or ideas that spun off and didn&apos;t really have a home in the traditional HAX platform.</description>
       <guid>https://haxtheweb.org/stand-alone-tools</guid>
-      <pubDate>Wed, 28 Jun 2023 14:00:11 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:00:11 GMT</pubDate>
     </item>
     <item>
       <title>Qualitative Rubric Prototype</title>
@@ -145,7 +145,7 @@
       <description>We are working on a qualitative rubric based on past work in ELMS. The key difference is that this is not tied to any system but instead is a stand alone tool intended to be used in conjunction with LMSs like Canvas to generate qualitative feedback more rapidly. Access the Qualitative Rubric Tool</description>
       <category>experiment, gradebook, lab, rubric</category>
       <guid>https://haxtheweb.org/stand-alone-tools/rubrics</guid>
-      <pubDate>Wed, 28 Jun 2023 14:02:05 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:02:05 GMT</pubDate>
     </item>
     <item>
       <title>Conversion tools</title>
@@ -153,42 +153,42 @@
       <description>These tools can be used to convert documents between different formats DocX to HTML DocX to PDF Markdown to HTML (and HTML to Markdown) Compression / image resizer (tweak settings then right click to download) Screenshot any URL Secure feedback These tools are provided as part of our microservice infrastructure. Have ideas / needs for other types of simple converters? Join our Discord and ask!</description>
       <category>tool, convert, labs</category>
       <guid>https://haxtheweb.org/stand-alone-tools/conversion-tools</guid>
-      <pubDate>Wed, 28 Jun 2023 14:15:29 +0000</pubDate>
+      <pubDate>Wed, 28 Jun 2023 14:15:29 GMT</pubDate>
     </item>
     <item>
       <title>Pledges</title>
       <link>https://haxtheweb.org/pledges</link>
-      <description>These are pledges we make to our community and attempt to strive towards. We won't always hit the mark , but we try our best to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond! Learn more about pledges</description>
+      <description>These are pledges we make to our community and attempt to strive towards. We won&apos;t always hit the mark , but we try our best to do so. These aspirations push us closer to who we want to be as a community and the impacts we hope to make on the world of the web and beyond! Learn more about pledges</description>
       <guid>https://haxtheweb.org/pledges</guid>
-      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 GMT</pubDate>
     </item>
     <item>
       <title>Environmental impact</title>
       <link>https://haxtheweb.org/pledges/environmental-impact</link>
-      <description>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values.. Turning to web standards over large libraries to use less resources Enabling offline capable progressive web app capabilities to reduce energy usage Tuning caching and usage settings to leverage less energy through redundant traffic requests Taking a database-less approach to reduce complexity, portability, and require less "always on" approaches to technology Leveraging micro-services wheneve...</description>
+      <description>HAX seeks to leverage web technologies in an ecologically responsible manner. Our community values.. Turning to web standards over large libraries to use less resources Enabling offline capable progressive web app capabilities to reduce energy usage Tuning caching and usage settings to leverage less energy through redundant traffic requests Taking a database-less approach to reduce complexity, portability, and require less &quot;always on&quot; approaches to technology Leveraging micro-services wheneve...</description>
       <guid>https://haxtheweb.org/pledges/environmental-impact</guid>
-      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 GMT</pubDate>
     </item>
     <item>
       <title>Accessibility and Empowerment</title>
       <link>https://haxtheweb.org/pledges/accessibility-empowerment</link>
-      <description>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y, we mean access to everyone, everywhere, regardless of ability either physical ability, technical ability, or device capability. HAX a11y principles: Use the minimal amount of resources (see Environmental impact ) required to deliver experiences in order to use less resources at a distance ensure that HAX itself meets WCAG 2.0 AA compliance standards Ensure...</description>
+      <description>HAX seeks to empower as many people as possible through a non-traditional worldview with regard to accessibility (a11y). When we say a11y , we mean access to everyone, everywhere, regardless of ability either physical ability, technical ability, or device capability. HAX a11y principles: Use the minimal amount of resources (see Environmental impact ) required to deliver experiences in order to use less resources at a distance ensure that HAX itself meets WCAG 2.0 AA compliance standards Ensur...</description>
       <guid>https://haxtheweb.org/pledges/accessibility-empowerment</guid>
-      <pubDate>Thu, 29 Jun 2023 15:01:12 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 15:01:12 GMT</pubDate>
     </item>
     <item>
       <title>The Core</title>
       <link>https://haxtheweb.org/ontology/page-5</link>
       <description>The core of the ontology is important to get right. We want a manageable number of defining aspects or branches; each branch should be distinct from all others; a branch should be a main branch, significant in its own right and often supporting smaller branches; and the interrelationships between branches should be noted. We define the core of the ontology as consisting of Outcomes, Pedagogy, Structure, Instruction, Content, and Assessment.</description>
       <guid>https://haxtheweb.org/ontology/page-5</guid>
-      <pubDate>Thu, 29 Jun 2023 17:04:13 +0000</pubDate>
+      <pubDate>Thu, 29 Jun 2023 17:04:13 GMT</pubDate>
     </item>
     <item>
       <title>Course Model Player</title>
       <link>https://haxtheweb.org/page</link>
-      <description>Cross section view of the Colt 1911 (.45 Caliber) clip / ammunition. This is a 3D representation of the M1911, also known as the Colt 1911, or the Colt Government, is a single-action, semi-automatic, magazine-fed, recoil-operated pistol chambered for the .45 ACP cartridge. It served as the standard-issue sidearm for the United States Armed Forces from 1911 to 1985. It was widely used in World War I, World War II, the Korean War, and the Vietnam War.Designed by John Browning, the M1911 is the ...</description>
+      <description>Cross section view of the Colt 1911 (.45 Caliber) clip / ammunition. This is a 3D representation of the M1911, also known as the Colt 1911, or the Colt Government, is a single-action, semi-automatic, magazine-fed, recoil-operated pistol chambered for the .45 ACP cartridge. It served as the standard-issue sidearm for the United States Armed Forces from 1911 to 1985. It was widely used in World War I, World War II, the Korean War, and the Vietnam War. Designed by John Browning, the M1911 is the...</description>
       <guid>https://haxtheweb.org/page</guid>
-      <pubDate>Fri, 14 Jul 2023 20:16:39 +0000</pubDate>
+      <pubDate>Fri, 14 Jul 2023 20:16:39 GMT</pubDate>
     </item>
   </channel>
 </rss>

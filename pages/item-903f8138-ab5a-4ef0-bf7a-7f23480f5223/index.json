@@ -1,0 +1,23 @@
+{
+  "id": "item-903f8138-ab5a-4ef0-bf7a-7f23480f5223",
+  "indent": 0,
+  "location": "pages/item-903f8138-ab5a-4ef0-bf7a-7f23480f5223/index.json",
+  "slug": "tutorials/block-usage/multimedia/image-gallery",
+  "order": 5,
+  "parent": "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5",
+  "title": "Image gallery",
+  "description": "A flexible container for displaying images in grid, masonry, or gallery layouts.",
+  "metadata": {
+    "locked": false,
+    "created": "1783623886",
+    "images": [],
+    "videos": [],
+    "updated": 1783624301,
+    "published": true,
+    "readtime": 1,
+    "status": "",
+    "overridePathauto": false,
+    "hideInMenu": false
+  },
+  "content": "\n<p>Image gallery is a flexible container for displaying images in grid, masonry, or gallery layouts with lightbox support.</p>\n<h2 id=\"header-image-gallery-example\">Gallery option</h2>\n<image-gallery mode=\"gallery\" accent-color=\"grey\" active-index=\"0\"><img src=\"https://picsum.photos/400/300\" alt=\"Sample image 1\"><img src=\"https://picsum.photos/400/500\" alt=\"Sample image 2\"><img src=\"https://picsum.photos/400/400\" alt=\"Sample image 3\"></image-gallery>\n<h2 id=\"header-image-gallery-example\">Grid option</h2>\n<image-gallery accent-color=\"grey\" mode=\"grid\" active-index=\"0\" _hax-state=\"\">  <img src=\"https://picsum.photos/400/300\" alt=\"Sample image 1\">\n  <img src=\"https://picsum.photos/400/500\" alt=\"Sample image 2\">\n  <img src=\"https://picsum.photos/400/400\" alt=\"Sample image 3\">\n</image-gallery>\n<h2 id=\"header-image-gallery-example\">Masonry option</h2>\n<image-gallery accent-color=\"grey\" mode=\"masonry\" active-index=\"0\" _hax-state=\"\">    <img src=\"https://picsum.photos/400/300\" alt=\"Sample image 1\">\n\n    <img src=\"https://picsum.photos/400/500\" alt=\"Sample image 2\">\n\n    <img src=\"https://picsum.photos/400/400\" alt=\"Sample image 3\">\n\n</image-gallery>\n"
+}
