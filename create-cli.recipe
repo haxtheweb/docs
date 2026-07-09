@@ -1,0 +1,1 @@
+cli: hax site node:add --title "Media playlist test" --slug "tutorials/block-usage/multimedia/media-playlist-test" --parent "item-2fdd27a1-190a-47c8-8192-910bc1afe0f5"
