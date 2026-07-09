@@ -5012,6 +5012,22 @@
         "readtime": 1,
         "status": ""
       }
+    },
+    {
+      "id": "item-141d9028-394a-4804-a666-7a6d61086926",
+      "indent": 0,
+      "location": "pages/item-141d9028-394a-4804-a666-7a6d61086926/index.html",
+      "slug": "new-page",
+      "order": 0,
+      "parent": null,
+      "title": "New Page",
+      "description": "",
+      "metadata": {
+        "created": 1783625827,
+        "updated": 1783625827,
+        "images": [],
+        "videos": []
+      }
     }
   ]
 }
