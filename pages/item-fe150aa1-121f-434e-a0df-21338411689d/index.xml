@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-fe150aa1-121f-434e-a0df-21338411689d</id>
+<indent>0</indent>
+<location>pages/item-fe150aa1-121f-434e-a0df-21338411689d/index.xml</location>
+<slug>media-playlist-test</slug>
+<order>0</order>
+<parent></parent>
+<title>Media playlist test</title>
+<description></description>
+<metadata>
+<created>1783624790</created>
+<updated>1783624790</updated>
+<images>
+</images>
+<videos>
+</videos>
+</metadata>
+<content><![CDATA[<p></p>]]></content>
+</item>

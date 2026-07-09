@@ -1,0 +1,17 @@
+{
+  "id": "item-fe150aa1-121f-434e-a0df-21338411689d",
+  "indent": 0,
+  "location": "pages/item-fe150aa1-121f-434e-a0df-21338411689d/index.json",
+  "slug": "media-playlist-test",
+  "order": 0,
+  "parent": null,
+  "title": "Media playlist test",
+  "description": "",
+  "metadata": {
+    "created": 1783624790,
+    "updated": 1783624790,
+    "images": [],
+    "videos": []
+  },
+  "content": "<p></p>"
+}
