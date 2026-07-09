@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<item>
+<id>item-35427887-c172-4673-9412-72a2f4c4ac1a</id>
+<indent>0</indent>
+<location>pages/item-35427887-c172-4673-9412-72a2f4c4ac1a/index.xml</location>
+<slug>tutorials/block-usage/multimedia/media-playlist-v2</slug>
+<order>4</order>
+<parent>item-2fdd27a1-190a-47c8-8192-910bc1afe0f5</parent>
+<title>Media playlist v2</title>
+<description></description>
+<metadata>
+<created>1783625526</created>
+<updated>1783625526</updated>
+<images>
+</images>
+<videos>
+</videos>
+</metadata>
+<content><![CDATA[<p></p>]]></content>
+</item>
