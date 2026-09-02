@@ -1,0 +1,19 @@
+<p>HAX works with any AI coding agent — Warp, Oz, Codex, Claude Code, and others. This page covers the two install paths and the golden path to a running site.</p>
+<h2>Install</h2>
+<p><strong>Warp / Oz / any agent</strong> — install the bundled interface skills that teach agents how to drive the <code>hax</code> CLI:</p>
+<pre><code>hax skills install --all</code></pre>
+<p><strong>Claude Code</strong> — add the PRAW marketplace and install the onboarding plugin:</p>
+<pre><code>/plugin marketplace add haxtheweb/praw
+/plugin install hax-onboarding@haxtheweb</code></pre>
+<p>The PRAW marketplace ships three Claude Code plugins:</p>
+<ul>
+<li><strong>hax-onboarding</strong> — golden-path slash commands plus an auto-install hook that ensures the <code>hax</code> CLI is present</li>
+<li><strong>hax-site-ops</strong> — the site-operations skill and reference docs (the renamed ClaudeHAX plugin, which resolves the old name collision)</li>
+<li><strong>openstax2hax</strong> — OpenStax-to-HAX conversion, folded in unchanged</li>
+</ul>
+<h2>Golden path</h2>
+<p>From zero to a running HAX site:</p>
+<pre><code>hax site my-hax-site --y --no-i
+cd my-hax-site &amp;&amp; hax serve</code></pre>
+<p>Open the local URL printed by <code>hax serve</code> (http://localhost) in your browser to view your site.</p>
+<p>For the developer-facing version of this guide, see the <a href="https://github.com/haxtheweb/create#ai-integration">AI integration section in the create repository README</a>.</p>
