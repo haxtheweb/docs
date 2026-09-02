@@ -1820,39 +1820,6 @@
       }
     },
     {
-      "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
-      "indent": "1",
-      "location": "pages/item-f44c0f01-32e2-4e61-b965-3b24778abba0/index.html",
-      "slug": "the-future",
-      "order": 4,
-      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-      "title": "The Future",
-      "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
-      "metadata": {
-        "locked": "",
-        "created": "1697036006",
-        "images": [
-          "files/hax-horizon-report-oct-2023.jpg"
-        ],
-        "videos": [
-          "https://youtu.be/bX04I1Cw9FA"
-        ],
-        "updated": 1741367861,
-        "files": [
-          {
-            "fullUrl": "/bto108/sites/haxcellence/files/hax-horizon-report-oct-2023.jpg",
-            "url": "files/hax-horizon-report-oct-2023.jpg",
-            "type": "image/jpeg",
-            "name": "hax-horizon-report-oct-2023.jpg",
-            "size": "175019"
-          }
-        ],
-        "published": "1",
-        "readtime": "1",
-        "status": ""
-      }
-    },
-    {
       "id": "item-0d30bca9-c852-4b30-ae4e-abc519262d31",
       "indent": "2",
       "location": "pages/item-0d30bca9-c852-4b30-ae4e-abc519262d31/index.html",
@@ -2972,6 +2939,43 @@
       }
     },
     {
+      "id": "item-7a54e617-a1cf-456d-866c-442b200d9e53",
+      "indent": "1",
+      "location": "pages/item-7a54e617-a1cf-456d-866c-442b200d9e53/index.html",
+      "slug": "hax-lab/hax-youtube-channel",
+      "order": 0,
+      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+      "title": "HAX YouTube Channel",
+      "description": "HAX has a primary YouTube channel for official postings as well as a playlist for more in-progress development, tutorials and progress as communicated by project lead Bryan Ollendyke.HAX Official Yo",
+      "metadata": {
+        "created": "1726600996",
+        "updated": 1741367861,
+        "images": [],
+        "videos": [],
+        "published": "1",
+        "hideInMenu": "",
+        "locked": "",
+        "readtime": "1",
+        "status": ""
+      }
+    },
+    {
+      "id": "item-e320a3a9-37dd-4847-914c-49d2e84ec49b",
+      "indent": 0,
+      "location": "pages/item-e320a3a9-37dd-4847-914c-49d2e84ec49b/index.html",
+      "slug": "ai-integration",
+      "order": 0,
+      "parent": null,
+      "title": "AI integration",
+      "description": "",
+      "metadata": {
+        "created": 1788374090,
+        "updated": 1788374090,
+        "images": [],
+        "videos": []
+      }
+    },
+    {
       "id": "item-14b2032a-5465-43dc-b1b3-122e9f09d5e4",
       "indent": 0,
       "location": "pages/item-14b2032a-5465-43dc-b1b3-122e9f09d5e4/index.html",
@@ -3087,27 +3091,6 @@
         "tags": "haxcms,deployment,documentation",
         "locked": "",
         "readtime": "3",
-        "status": ""
-      }
-    },
-    {
-      "id": "item-7a54e617-a1cf-456d-866c-442b200d9e53",
-      "indent": "1",
-      "location": "pages/item-7a54e617-a1cf-456d-866c-442b200d9e53/index.html",
-      "slug": "hax-lab/hax-youtube-channel",
-      "order": 0,
-      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-      "title": "HAX YouTube Channel",
-      "description": "HAX has a primary YouTube channel for official postings as well as a playlist for more in-progress development, tutorials and progress as communicated by project lead Bryan Ollendyke.HAX Official Yo",
-      "metadata": {
-        "created": "1726600996",
-        "updated": 1741367861,
-        "images": [],
-        "videos": [],
-        "published": "1",
-        "hideInMenu": "",
-        "locked": "",
-        "readtime": "1",
         "status": ""
       }
     },
@@ -4108,6 +4091,26 @@
       }
     },
     {
+      "id": "item-fe822500-0630-46b5-98d3-ede409e5b063",
+      "indent": 1,
+      "location": "pages/item-fe822500-0630-46b5-98d3-ede409e5b063/index.html",
+      "slug": "hax-the-whole-web",
+      "order": 1,
+      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+      "title": "HAX The Whole Web",
+      "description": "The real power of HAX comes in the ability to simplify web creation to match specific use-cases people have for documents on the internet. Much like a templated Google/Word doc, HAX skeletons create ",
+      "metadata": {
+        "created": 1771527760,
+        "updated": 1771528114,
+        "images": [],
+        "videos": [],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
       "id": "item-40583b55-32bf-40c7-8e81-99c054b9a764",
       "indent": "2",
       "location": "pages/item-40583b55-32bf-40c7-8e81-99c054b9a764/index.html",
@@ -4763,6 +4766,35 @@
       }
     },
     {
+      "id": "item-e3d2082f-7243-4cc4-83c9-f08fe2857f43",
+      "indent": 0,
+      "location": "pages/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43/index.html",
+      "slug": "hax-lab/student-innovation-pipeline",
+      "order": 2,
+      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
+      "title": "Student Innovation Pipeline",
+      "description": "The Student innovation pipeline is a pipeline of young people that need to gain skills and contribute to something bigger than themselves in order to make their way into the web development landscape",
+      "metadata": {
+        "created": 1743021717,
+        "updated": 1743022206,
+        "images": [],
+        "videos": [],
+        "files": [
+          {
+            "fullUrl": "/bto108/sites/haxcellence/files/haxstudentpipeline (1).jpg",
+            "url": "files/haxstudentpipeline (1).jpg",
+            "type": "image/jpeg",
+            "name": "haxstudentpipeline (1).jpg",
+            "size": 141093
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
+    },
+    {
       "id": "item-b55b41d1-00b6-4add-9942-6d706a4fb14f",
       "indent": "1",
       "location": "pages/item-b55b41d1-00b6-4add-9942-6d706a4fb14f/index.html",
@@ -4870,32 +4902,36 @@
       }
     },
     {
-      "id": "item-e3d2082f-7243-4cc4-83c9-f08fe2857f43",
-      "indent": 0,
-      "location": "pages/item-e3d2082f-7243-4cc4-83c9-f08fe2857f43/index.html",
-      "slug": "hax-lab/student-innovation-pipeline",
-      "order": 2,
+      "id": "item-f44c0f01-32e2-4e61-b965-3b24778abba0",
+      "indent": "1",
+      "location": "pages/item-f44c0f01-32e2-4e61-b965-3b24778abba0/index.html",
+      "slug": "the-future",
+      "order": 4,
       "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-      "title": "Student Innovation Pipeline",
-      "description": "The Student innovation pipeline is a pipeline of young people that need to gain skills and contribute to something bigger than themselves in order to make their way into the web development landscape",
+      "title": "The Future",
+      "description": "About HAX Horizon ReportsPeriodically, to get a sense both of where we can go and where we will go, we will produce \"Horizon Reports\". These horizon reports will come in the form of a video, discuss",
       "metadata": {
-        "created": 1743021717,
-        "updated": 1743022206,
-        "images": [],
-        "videos": [],
+        "locked": "",
+        "created": "1697036006",
+        "images": [
+          "files/hax-horizon-report-oct-2023.jpg"
+        ],
+        "videos": [
+          "https://youtu.be/bX04I1Cw9FA"
+        ],
+        "updated": 1741367861,
         "files": [
           {
-            "fullUrl": "/bto108/sites/haxcellence/files/haxstudentpipeline (1).jpg",
-            "url": "files/haxstudentpipeline (1).jpg",
+            "fullUrl": "/bto108/sites/haxcellence/files/hax-horizon-report-oct-2023.jpg",
+            "url": "files/hax-horizon-report-oct-2023.jpg",
             "type": "image/jpeg",
-            "name": "haxstudentpipeline (1).jpg",
-            "size": 141093
+            "name": "hax-horizon-report-oct-2023.jpg",
+            "size": "175019"
           }
         ],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1
+        "published": "1",
+        "readtime": "1",
+        "status": ""
       }
     },
     {
@@ -4970,26 +5006,6 @@
         "status": "",
         "hideInMenu": false,
         "readtime": 3
-      }
-    },
-    {
-      "id": "item-fe822500-0630-46b5-98d3-ede409e5b063",
-      "indent": 1,
-      "location": "pages/item-fe822500-0630-46b5-98d3-ede409e5b063/index.html",
-      "slug": "hax-the-whole-web",
-      "order": 1,
-      "parent": "item-cd65aa07-4bab-4f8f-8ffc-c2184f49ce9a",
-      "title": "HAX The Whole Web",
-      "description": "The real power of HAX comes in the ability to simplify web creation to match specific use-cases people have for documents on the internet. Much like a templated Google/Word doc, HAX skeletons create ",
-      "metadata": {
-        "created": 1771527760,
-        "updated": 1771528114,
-        "images": [],
-        "videos": [],
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1
       }
     },
     {
